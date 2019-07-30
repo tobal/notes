@@ -126,13 +126,15 @@
 
 ** Személyes névmások
   
-| Én         | Watashi | わたし |
-| Én (férfi) | Boku    | ぼく   |
-| Te         |         |        |
-| Ő          |         |        |
-| Mi         |         |        |
-| Ti         |         |        |
-| Ők         |         |        |
+| Én         | Watashi      | わたし     |
+| Én (férfi) | Boku         | ぼく       |
+| Te         | Anata        | あなた     |
+| Ő (férfi)  | Kare         | かれ       |
+| Ő (nő)     | Kanojo       | かのじょ   |
+| Mi         | Watashitachi | わたしたち |
+| Ti         | Anatatachi   | あなたたち |
+| Ők (férfi) | Karetachi    | かれたち   |
+| Ők (nő)    | Anohitachi   | あのひたち |
 
 ** Számok
 
