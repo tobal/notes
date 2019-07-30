@@ -3,6 +3,20 @@
 # To switch between kanji, hit SPACE after typing
 # To write with katakana, hit K after typing
 
+* Tanulás
+** Házi feladatok
+*** 10 kérdés
+| Kérdés                                 | Laci | Lajbi | Tomi | Bálint |
+| あなたのなまえはなんですか。           |      |       |      |        |
+| どこからきましたか。                   |      |       |      |        |
+| すしがすきですか。                     |      |       |      |        |
+| 日本ごがはなっせますか。               |      |       |      |        |
+| かれはなんさいですか。                 |      |       |      |        |
+| おげんきですか。                       |      |       |      |        |
+| あなたのうちにソファはどこですか。     |      |       |      |        |
+| 日本ごクラスがどうでしたか。           |      |       |      |        |
+| これらのしつもん、あなたのどうですか。 |      |       |      |        |
+| あなたのうちにぼっけんはありますか。   |      |       |      |        |
 * Szavak
 ** Szókincs tanulni
 *** 1. hét
