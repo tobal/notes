@@ -60,6 +60,7 @@
     - Vocal warmup
     - Sing reggae
     - Sing jazz
+    - Sing blues
 ** Kenjutsu
 *** Kata
     TBD
@@ -80,9 +81,9 @@
     *Ideas*: see "katas" card on trello
 ** Artificial Intelligence
 *** Learing
+    - Read OpenAI blog
 *** Projects
     - OpenAI contribution
 ** Role Playing Games
 *** Projects
     - Four simulations
- 
