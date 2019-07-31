@@ -1,5 +1,55 @@
 
-* Belt exams
+* Katák
+** Uchikomi
+** Inazuma
+** Juppon
+** Urafune
+*** Mae
+**** 1-es
+     - Kardrántás felfelé, kilép előre jobb lábbal, seigan 1 kézzel ellenfelet megállít
+     - Másik kézzel megfog
+     - Okuri ashi előre, tsuki kard éllel jobbra
+     - Okuri ashi előre, tsuki kard éllel balra
+     - Okuri ashi hátra
+     - Ayumi ashi előre, men
+     - Ayumi ashi hátra, jodan no kamae
+     - Saya megfog, ayumi ashi hátra, saya zanshin
+     - Vért leráz, kard eltesz, átfogással
+     - Visszamegy
+**** 2-es
+     - Kardrántás felfelé, kilép előre jobb lábbal, ellefelet megállít, kard 11 óra irányában áll
+     - Ellenfelet eltol, ayumi ashi előre, közben másik kézzel kardot megfog
+     - Kicsit jobbra kilép, és bal irányba fordulva kesa gake
+     - Ayumi ashi hátra, még mindig oldalra fordulva, hasso no kamae
+     - Saya megfog, ayumi ashi hátra, saya zanshin
+     - Vért leráz, kard eltesz, átfogással
+     - Vissza előrefordul, visszamegy
+**** 3-as
+     - Kardrántás oldalra, kilép előre bal lábbal, ellefelet megállít, kard 9 óra irányában áll
+     - 3 ayumi ashi előre, majd másik kézzel megfog és men fejre
+     - Kard háta bal vállhoz simul, hátranéz balról, majd ayumi ashi men mellkasig
+     - Kard hegye elől marad, közben balra fordít a csípő és hátranéz, majd ayumi ashi men hasig
+     - Ayumi ashi hátra, jodan no kamae
+     - Saya megfog, ayumi ashi hátra, saya zanshin
+     - Vért leráz, kard eltesz, átfogással
+     - Visszamegy
+**** 4-es
+     - Kardrántás oldalra, kilép előre bal lábbal, egy vágás jobbra
+     - Kard megfordul, vágás balra, megállít test vonalában
+     - Másik kézzel megfog, kiriage jobbra
+     - Ayumi ashi hátra, gyaku hasso no kamae
+     - Saya megfog, ayumi ashi hátra, saya zanshin
+     - Vért leráz, kard eltesz, átfogással
+     - Visszamegy
+**** 5-ös
+     - Saya megfordít, kardrántás felfelé, széles rogyasztott állás, felfelé vág
+     - Hátralép jobb lábbal, bal kézzel kard alá fog, szúrás fejre
+     - ??? két kesa előre, közben egy zanshin, végig rogyasztva
+     - Ayumi ashi hátra, jodan no kamae
+     - Saya megfog, ayumi ashi hátra, saya zanshin
+     - Vért leráz, közben saya visszafordít, kard eltesz, átfogással
+     - Visszamegy
+* Övvizsga anyagok
 ** 5 kyu
    - kihon :: men, yokomen, do, ashi, kiriage, tsuki
    - kamae :: seigan, jodan, gedan, hasso, waki
