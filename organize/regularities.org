@@ -8,6 +8,6 @@
    - Hairdresser :: <2019-07-16>
    - Shave :: <2019-07-18> <2019-07-27>
 ** Computer maintenance
-   - Update ono-sendai :: <2019-07-26>
+   - Update ono-sendai :: <2019-07-26> <2019-07-31>
 ** Workout
    - Short balance B2P2 :: <2019-07-30>
