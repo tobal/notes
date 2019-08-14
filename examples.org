@@ -72,7 +72,7 @@ After the drawer.
      CUSTOM_ID property ‘my-custom-id’.
      *example*: [[#internal-links][Internal links]]
      Links such as ‘[[My Target]]’ or ‘[[My Target][Find my target]]’ lead to a text search in the current file for
-     the corresponding target which looks like ‘<<My Target>>’. 
+     the corresponding target which looks like ‘<<My Target>>’.
 **** External links
      Links can be external, we can link to websites, files, etc, you can find all the examples here:
      [[https://orgmode.org/guide/External-links.html#External-links][External link examples]]
@@ -167,3 +167,21 @@ After the drawer.
       - [X] 2/1 ::
       - [ ] 2/2 ::
       - [ ] 2/3 :: 
+** Tags
+   Every headline can contain a list of tags; they occur at the end of the headline. Tags are normal
+   words containing letters, numbers, ‘_’, and ‘@’. Tags must be preceded and followed by a single colon,
+   e.g., ‘:work:’. Several tags can be specified, as in ‘:work:urgent:’. Tags will by default be in bold
+   face with the same color as the headline.
+*** Tag inheritance
+    Tags are inherited through subheadings
+
+    * Meeting with the French group      :work:
+    ** Summary by Frank                  :boss:notes:
+    *** TODO Prepare slides for him      :action:
+
+    For a file level tag:
+    #+FILETAGS: :Peter:Boss:Secret:
+*** Setting tags
+    - Enter new tags :: C-c C-q
+*** Tag groups
+*** Tag searches
