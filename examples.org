@@ -182,6 +182,13 @@ After the drawer.
     For a file level tag:
     #+FILETAGS: :Peter:Boss:Secret:
 *** Setting tags
-    - Enter new tags :: C-c C-q
+    - Enter new tags for headline :: C-c C-q (or C-c C-c standing on headline)
 *** Tag groups
+    In a set of mutually exclusive tags, the first tag can be defined as a group tag. When you search for
+    a group tag, it will return matches for all members in the group. In an agenda view, filtering by a
+    group tag will display headlines tagged with at least one of the members of the group. This makes tag
+    searches and filters even more flexible.
+    You can set group tags by inserting a colon between the group tag and other tags, like this: 
+    #+TAGS: { @read : @read_book  @read_ebook }
 *** Tag searches
+    [[https://orgmode.org/guide/Tag-searches.html#Tag-searches][Tag searches]]
