@@ -214,3 +214,31 @@ After the drawer.
     - Set property :: C-c C-x p
     - Remove property :: C-c C-c d
     Properties can be searched like tags, see above
+** Timestamps
+*** Formats
+**** Plain timestamp
+    <2006-11-01 Wed 19:15>
+    <2006-11-02 Thu 20:00-22:00>
+**** Repeater interval
+    <2007-05-16 Wed 12:30 +1w>
+**** Diary style sexp entries
+***** The nerd meeting on every 2nd Thursday of the month
+     <%%(diary-float t 4 2)>
+**** Date range
+    <2004-08-23 Mon>--<2004-08-26 Thu>
+**** Inactive timestamp
+    [2006-11-01 Wed]
+*** Key bindings
+    - Prompt and insert timestamp :: C-c .
+    - Insert inactive timestamp :: C-c !
+    - Change date by one day :: S-left/right
+    - Change item under cursor :: S-up/down
+    - Insert timestamp as deadline :: C-c C-d
+    - Insert timestamp as scheduled :: C-c C-s
+*** Keywords
+**** TODO task with a deadline
+     DEADLINE: <2019-08-20 Tue>
+     Will give warning org-deadline-warning-days before in agenda
+**** TODO Scheduled task
+     Planning to start working on that task on the given date
+     SCHEDULED: <2019-08-22 Thu>
