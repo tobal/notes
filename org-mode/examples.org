@@ -87,7 +87,7 @@ After the drawer.
      - [[file:~/xx.org::#my-custom-id]]            Find entry with custom id
 ** ToDo Items
 *** ToDo items
-**** TODO this is an example todo it
+**** TODO this is an example todo
     To rotate todo state, press C-c C-t, or Shift-Left/Right
     C-c / t to open only the todos in a sparse tree
     C-c a t to show global todo list
@@ -192,3 +192,25 @@ After the drawer.
     #+TAGS: { @read : @read_book  @read_ebook }
 *** Tag searches
     [[https://orgmode.org/guide/Tag-searches.html#Tag-searches][Tag searches]]
+** Properties
+   * CD collection
+   ** Classic
+   *** Goldberg Variations
+      :PROPERTIES:
+      :Title:     Goldberg Variations
+      :Composer:  J.S. Bach
+      :Publisher: Deutsche Grammophon
+      :NDisks:    1
+      :END:
+    You may define the allowed values for a particular property ‘:Xyz:’ by setting a property
+    ‘:Xyz_ALL:’. This special property is inherited, so if you set it in a level 1 entry, it
+    will apply to the entire tree.
+      :PROPERTIES:
+      :NDisks_ALL:  1 2 3 4
+      :Publisher_ALL: "Deutsche Grammophon" Philips EMI
+      :END:
+    Or file wide:
+      #+PROPERTY: NDisks_ALL 1 2 3 4
+    - Set property :: C-c C-x p
+    - Remove property :: C-c C-c d
+    Properties can be searched like tags, see above
