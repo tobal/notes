@@ -242,3 +242,10 @@ After the drawer.
 **** TODO Scheduled task
      Planning to start working on that task on the given date
      SCHEDULED: <2019-08-22 Thu>
+*** Clocking work time
+    - Start the clock :: C-c C-x C-i
+    - Stop the clock :: C-c C-x C-o (will also stop if you mark task DONE)
+    - Update effort estimate for current task :: C-c C-x C-e
+    - Cancel current clock :: C-c C-x C-j
+    - Insert clock report :: C-c C-x C-r
+    - Update clock report :: C-c C-c
