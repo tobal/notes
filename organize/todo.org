@@ -1,29 +1,50 @@
-* <2019-08-21>
-** Morning [1/1]
-*** DONE Warmup
-** Work [2/3]
-*** DONE Safeguard config optimize
-**** DONE Commits
-**** DONE Test
-*** DONE Hashicorp config optimize
-**** DONE Commits
-**** DONE Test
-*** TODO Starling 2FA config optimize
-**** DONE Commits
-**** TODO Test
-** Social [3/3]
-*** DONE Write Lili
-*** DONE Write Misi
-*** DONE Call Istvan
-** Evening [0/2]
-*** TODO Learn Japanese [0/3]
-**** TODO Writing
-**** TODO Reading
-**** TODO Learn words
-*** TODO Routine [0/6]
-**** TODO Stretch
-**** TODO Wash teeth
-**** TODO Face wash
-**** TODO Meditate
-**** TODO Prepare Add This Song
-**** TODO Lucid dreaming guided meditation
+* 2019 August
+** <2019-08-21>
+*** Morning [1/1]
+**** DONE Warmup
+*** Work [2/3]
+**** DONE Safeguard config optimize
+***** DONE Commits
+***** DONE Test
+**** DONE Hashicorp config optimize
+***** DONE Commits
+***** DONE Test
+**** TODO Starling 2FA config optimize
+***** TODO Commits
+***** TODO Test
+*** Social [3/3]
+**** DONE Write Lili
+**** DONE Write Misi
+**** DONE Call Istvan
+*** Evening [0/2]
+**** TODO Learn Japanese [0/3]
+***** TODO Writing
+***** TODO Reading
+***** TODO Learn words
+**** TODO Routine [0/6]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
+** <2019-08-21>
+*** Morning [0/1]
+**** TODO Warmup
+*** Work [2/3]
+**** DONE Starling 2FA config optimize
+**** DONE Check Plugins
+**** TODO Cyberark st art
+*** Social [/]
+*** Evening [0/2]
+**** TODO Learn Japanese [0/3]
+***** TODO Writing
+***** TODO Reading
+***** TODO Learn words
+**** TODO Routine [0/6]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
