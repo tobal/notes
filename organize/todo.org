@@ -28,13 +28,13 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
-** <2019-08-21>
+** <2019-08-22>
 *** Morning [0/1]
 **** TODO Warmup
 *** Work [2/3]
 **** DONE Starling 2FA config optimize
 **** DONE Check Plugins
-**** TODO Cyberark st art
+**** TODO Cyberark start
 *** Social [/]
 *** Evening [0/2]
 **** TODO Learn Japanese [0/3]
