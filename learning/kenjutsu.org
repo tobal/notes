@@ -1,5 +1,25 @@
 
+* Alaptechnikák
+** Kihon (vágások)
+** Ashi (lépések)
+** Kamae (állások)
 * Katák
+** Happoido
+   8 vágás mindig 45 fokkal fordulva, előre majd hátra, így négy 45 fokos-, és négy 180 fokos fordulás van.
+   45 fokos fordulásnál ayumi ashi (lábcsere), 180 fokosnál okuri ashi (lábcsere nélkül)
+** Bonten
+   108 vágás
+   - 10 x men állva
+   - 10 x men jobbra-balra lépve, jobbra kezd
+   - 10 x men előre-hátra lépve, előre jobb lábbal, hátra bal lábbal, előre kezd
+   - 10 x men felhúzott lábbal, jobb lábbal kezd
+   - 10 x men leguggolva
+   - 10 x men előrelépve, hátul zár, jobb lábbal kezd
+   - 10 x men hátralépve, elől zár, bal lábbal kezd
+   - 10 x kesa előrelépve, hátul zár, jobb lábbal kezd
+   - 10 x kesa hátralépve, elől zár, bal lábbal kezd
+   - 10 x kesa kiraki ashi (?), jobb lábbal kezd bal oldalra
+   - happoido
 ** Uchikomi
 ** Inazuma
 ** Juppon
