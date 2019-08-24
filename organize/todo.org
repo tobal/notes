@@ -48,3 +48,31 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
+** <2019-08-24>
+*** Morning [0/1]
+**** TODO Warmup
+*** Day [0/7]
+**** TODO Artifical intelligence
+***** TODO Reinforcement learning 1-2 videos code to Github
+**** TODO Japanese
+***** TODO Writing
+***** TODO Reading
+***** TODO Learn words
+**** TODO Dancing
+***** TODO Learn kick shoot with rope dart
+**** TODO Martial art
+***** TODO Do short bonten kata
+***** TODO Write bonten to notes
+**** TODO Go
+***** TODO Write org note about 5 space extension
+**** TODO Order C64 cable
+**** TODO Read about Ingress
+*** Evening [0/1]
+**** TODO Routine [0/7]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Eye training
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
