@@ -51,18 +51,18 @@
 ** <2019-08-24>
 *** Morning [0/1]
 **** TODO Warmup
-*** Day [0/7]
-**** TODO Artifical intelligence
-***** TODO Reinforcement learning 1-2 videos code to Github
+*** Day [3/7]
+**** DONE Artifical intelligence
+***** DONE Reinforcement learning 1-2 videos code to Github
 **** TODO Japanese
 ***** TODO Writing
 ***** TODO Reading
 ***** TODO Learn words
-**** TODO Dancing
-***** TODO Learn kick shoot with rope dart
-**** TODO Martial art
-***** TODO Do short bonten kata
-***** TODO Write bonten to notes
+**** DONE Dancing
+***** DONE Learn kick shoot with rope dart
+**** DONE Martial art
+***** DONE Do short bonten kata
+***** DONE Write bonten to notes
 **** TODO Go
 ***** TODO Write org note about 5 space extension
 **** TODO Order C64 cable
