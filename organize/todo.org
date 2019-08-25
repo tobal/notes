@@ -76,3 +76,25 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
+** <2019-08-25>
+*** Morning [0/1]
+**** TODO Warmup
+*** Day [0/5]
+**** TODO Japanese
+***** TODO Writing
+***** TODO Reading
+***** TODO Learn words
+**** TODO Go
+***** TODO Write org note about 5 space extension
+**** TODO Order C64 cable
+**** TODO Read about Ingress
+**** TODO Read about Sword Art Online
+*** Evening [0/1]
+**** TODO Routine [0/7]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Eye training
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
