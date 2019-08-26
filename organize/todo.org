@@ -98,4 +98,28 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
+** <2019-08-26>
+*** Morning [0/1]
+**** TODO Warmup
+*** Work [3/4]
+**** DONE Install Win10
+**** DONE Install Visual Studio
+**** DONE Jira ticket write findings
+**** TODO Test plugin stuff
+*** TODO Day [0/3]
+**** TODO Japanese
+***** TODO Learn grammar
+***** TODO Reading
+***** DONE Learn words
+**** TODO Order C64 cable
+**** TODO Read about Ingress
+*** Evening [0/1]
+**** TODO Routine [0/7]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Eye training
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
  
