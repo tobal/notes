@@ -101,16 +101,18 @@
 ** <2019-08-26>
 *** Morning [0/1]
 **** TODO Warmup
-*** Work [3/4]
+*** Work [4/4]
 **** DONE Install Win10
 **** DONE Install Visual Studio
 **** DONE Jira ticket write findings
-**** TODO Test plugin stuff
-*** TODO Day [0/3]
+**** DONE Test plugin stuff
+**** TODO Jenkins scripts
+*** Day [1/4]
 **** TODO Japanese
 ***** TODO Learn grammar
 ***** TODO Reading
 ***** DONE Learn words
+**** DONE Read Wait but why chapter 1
 **** TODO Order C64 cable
 **** TODO Read about Ingress
 *** Evening [0/1]
