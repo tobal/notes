@@ -124,4 +124,26 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
- 
+** <2019-08-27>
+*** Morning [0/1]
+**** TODO Warmup
+*** Work [4/4]
+**** TODO Jenkins scripts
+*** Day [0/5]
+**** TODO Japanese
+***** TODO Learn grammar
+***** TODO Reading
+***** TODO Learn words
+**** TODO Order C64 cable
+**** TODO Read about Ingress
+**** TODO Fix rope dart
+**** TODO Order kunai and kama
+*** Evening [0/1]
+**** TODO Routine [0/7]
+***** TODO Stretch
+***** TODO Wash teeth
+***** TODO Face wash
+***** TODO Eye training
+***** TODO Meditate
+***** TODO Prepare Add This Song
+***** TODO Lucid dreaming guided meditation
