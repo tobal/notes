@@ -127,17 +127,17 @@
 ** <2019-08-27>
 *** Morning [0/1]
 **** TODO Warmup
-*** Work [4/4]
+*** Work [0/1]
 **** TODO Jenkins scripts
-*** Day [0/5]
+*** Day [1/5]
 **** TODO Japanese
 ***** TODO Learn grammar
 ***** TODO Reading
-***** TODO Learn words
+***** DONE Learn words
 **** TODO Order C64 cable
 **** TODO Read about Ingress
 **** TODO Fix rope dart
-**** TODO Order kunai and kama
+**** DONE Order kunai and kama
 *** Evening [0/1]
 **** TODO Routine [0/7]
 ***** TODO Stretch
