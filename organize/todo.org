@@ -152,7 +152,7 @@
 **** TODO Warmup
 *** Work [0/1]
 **** TODO Jenkins scripts
-*** Day [0/6]
+*** Day [0/7]
 **** TODO Singing class
 **** TODO Visit Orsi
 **** TODO Japanese
@@ -161,7 +161,20 @@
 ***** TODO Learn words
 **** TODO Order C64 cable
 **** TODO Read about Ingress
-**** TODO Fix rope dart
+**** TODO Rope dart
+***** TODO Fix rope dart
+***** TODO Process rope dart videos
+      Break them down, write all the tricks, make todos out of them
+      [[https://www.youtube.com/watch?v=JwNWTSOULw4][Basics]]
+      [[https://www.youtube.com/watch?v=EGZ7cFjslIM][Empty knots]]
+      [[https://www.youtube.com/watch?v=aggOfsBuaSQ][Shaolin]]
+***** TODO Learn kick shots
+**** TODO Start todo system
+***** TODO Learn about agenda views
+***** TODO Write down regular todos
+***** TODO Start writing irregular todos
+***** TODO Import todos from Trello
+***** TODO Automate import todos from calendar
 *** Evening [0/1]
 **** TODO Routine [0/7]
 ***** TODO Stretch
