@@ -150,25 +150,28 @@
 ** <2019-08-28>
 *** Morning [0/1]
 **** TODO Warmup
-*** Work [0/1]
+*** Work [1/3]
 **** TODO Jenkins scripts
-*** Day [0/7]
-**** TODO Singing class
-**** TODO Visit Orsi
+**** TODO Mihi
+**** DONE PyPI research
+**** TODO Test LDAP
+*** Day [2/7]
+**** DONE Singing class
+**** DONE Visit Orsi
 **** TODO Japanese
 ***** TODO Learn grammar
 ***** TODO Write words and grammar to dictionary
-***** TODO Learn words
+***** DONE Learn words
 **** TODO Order C64 cable
 **** TODO Read about Ingress
 **** TODO Rope dart
-***** TODO Fix rope dart
+***** DONE Fix rope dart
 ***** TODO Process rope dart videos
       Break them down, write all the tricks, make todos out of them
       [[https://www.youtube.com/watch?v=JwNWTSOULw4][Basics]]
       [[https://www.youtube.com/watch?v=EGZ7cFjslIM][Empty knots]]
       [[https://www.youtube.com/watch?v=aggOfsBuaSQ][Shaolin]]
-***** TODO Learn kick shots
+***** DONE Practice kick shots
 **** TODO Start todo system
 ***** TODO Learn about agenda views
 ***** TODO Write down regular todos
@@ -184,3 +187,7 @@
 ***** TODO Meditate
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
+
+* ToDos
+** TODO Fill out PAS
+   DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-08-30 Fri>
