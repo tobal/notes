@@ -1,3 +1,5 @@
 * Emacs keybindings
   - Open file :: C-x C-f
   - Change window :: C-x o
+  - Close window :: C-x 0
+  - Close all windows but current :: C-x 1
