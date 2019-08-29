@@ -5,8 +5,10 @@
 ** Kamae (állások)
 * Katák
 ** Happoido
-   8 vágás mindig 45 fokkal fordulva, előre majd hátra, így négy 45 fokos-, és négy 180 fokos fordulás van.
-   45 fokos fordulásnál ayumi ashi (lábcsere), 180 fokosnál okuri ashi (lábcsere nélkül)
+   8 vágás mindig 45 fokkal fordulva balra, előre majd hátra, így négy 45 fokos-, és négy 180 fokos fordulás van.
+   Seigan no kamae-ből indul, balra kilép, majd fordul és vág, aztán megint fordul és vág. Ezután fordul 45 fokot,
+   bal lábbal lépve, és vág, stb.
+   45 fokos fordulásnál mindig bal láb lép, 180 fokosnál csak fordulás és csúszás.
 ** Bonten
    108 vágás
    - 10 x men állva
@@ -64,8 +66,10 @@
 **** 5-ös
      - Saya megfordít, kardrántás felfelé, széles rogyasztott állás, felfelé vág
      - Hátralép jobb lábbal, bal kézzel kard alá fog, szúrás fejre
-     - ??? két kesa előre, közben egy zanshin, végig rogyasztva
-     - Ayumi ashi hátra, jodan no kamae
+     - Előrelép jobb lábbal, ashi vágás jobbról, rogyasztva marad
+     - Védés felfelé álló kardéllel, rogyasztva marad
+     - Lépés bal lábbal, kesa balról, rogyasztva marad
+     - Ayumi ashi hátra, jodan no kamae, felegyenesedik
      - Saya megfog, ayumi ashi hátra, saya zanshin
      - Vért leráz, közben saya visszafordít, kard eltesz, átfogással
      - Visszamegy
