@@ -213,3 +213,30 @@
 | igen          | ee    | ええ     |
 | sok           | ooi   | おおい   |
 | meghajlás     | ojigi | おじぎ   |
+* ToDos
+** Vocabulary
+*** TODO Learn japanese words
+    SCHEDULED: <2019-08-30 Fri +1d>
+    Learn one page at a time, and always review previous ones.
+*** TODO Write japanese words into dictionary
+    SCHEDULED: <2019-08-31 Sat +1w>
+    Write words in hiragana and hungarian and number the pages.
+    Write at least 4 pages at a time, which means 4 pages per week.
+    Each page will be marked as I learn them.
+**** TODO Buy dictionary notebook
+     SCHEDULED: <2019-08-30 Fri>
+** Grammar
+*** TODO Review all of the japanese grammar
+    DEADLINE: <2019-09-01 Sun> SCHEDULED: <2019-08-31 Sat>
+    Review all grammar, and take notes into the end of the dictionary notebook, write todos if necessary.
+    Take notes on:
+    - common sentence structures
+    - place adverbs
+    - particles
+*** TODO Review japanese grammar from notes
+    SCHEDULED: <2019-09-02 Mon +3d>
+** Practice
+*** TODO Write japanese text in hiragana
+    SCHEDULED: <2019-08-31 Sat +2d>
+*** TODO Read japanese text
+    SCHEDULED: <2019-09-01 Sun +2d>
