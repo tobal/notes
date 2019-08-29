@@ -119,3 +119,15 @@
    - kihon
    - inazuma batto
    - marubashi
+* ToDos
+** TODO Daily kenjutsu practice
+   SCHEDULED: <2019-08-30 Fri +1d>
+   Do short bonten (9x4 cuts + happoido).
+   Uchikomi 1 with both hands
+** TODO Practice urafune mae
+   SCHEDULED: <2019-08-31 Sat +1w>
+** TODO Ask about juppon 2 batto
+   SCHEDULED: <2019-09-01 Sun>
+** TODO Ask about unknown names
+*** TODO Write unknowns in a notebook
+    SCHEDULED: <2019-08-31 Sat>
