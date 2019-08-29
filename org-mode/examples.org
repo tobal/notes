@@ -281,3 +281,18 @@ After the drawer.
     [[https://orgmode.org/guide/Refile-and-copy.html#Refile-and-copy][Refile section in Guide]]
 *** Archive
     [[https://orgmode.org/guide/Archiving.html#Archiving][Archive section in Guide]]
+** Agenda
+*** Keybindings
+    - Add current file to the list of agenda files :: C-c [
+    - Remove current file to the list of agenda files :: C-c ]
+    - Cycle through agenda file list :: C-,
+    - Bring up agenda buffer :: C-c a
+*** Commands in agenda buffer
+    - Change todo state :: t
+    - Display original location in other window :: SPC
+    - Display original location in other window and jump there :: TAB
+    - Open original location in current window :: RET
+    - Close other windows :: o
+    - Refresh buffer :: r
+    - Start clock on todo item :: S-i
+    - Stop current clock :: S-o
