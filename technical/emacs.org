@@ -1,0 +1,3 @@
+* Emacs keybindings
+  - Open file :: C-x C-f
+  - Change window :: C-x o
