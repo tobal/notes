@@ -121,7 +121,11 @@
    - marubashi
 * ToDos
 ** TODO Daily kenjutsu practice
-   SCHEDULED: <2019-08-30 Fri +1d>
+   SCHEDULED: <2019-09-03 Tue +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2019-08-30 Fri 13:07]
+   :END:
+   - State "DONE"       from "TODO"       [2019-08-30 Fri 13:07]
    Do short bonten (9x4 cuts + happoido).
    Uchikomi 1 with both hands
 ** TODO Practice urafune mae
