@@ -1,0 +1,23 @@
+
+* Rope dart
+** ToDos
+*** TODO Daily rope dart practice
+    SCHEDULED: <2019-08-30 Fri +1d>
+    - Chained transfers
+    - Loose shots
+    - Empty knots
+** Tricks
+*** Chained transfers
+    - Elbow
+    - Leg
+    - Neck
+*** Loose shots
+    - Elbow
+    - Leg
+    - Neck
+*** Empty knots
+    - Around waist
+    - Around shoulder
+      - From shoulder to waist
+      - From waist to shoulder
+    - Around neck
