@@ -1,0 +1,24 @@
+
+* ToDos
+** Maintenance
+** Cleaning
+*** TODO Tidy up
+    SCHEDULED: <2019-08-30 Fri +2d>
+*** TODO Clean living room, kitchen, bathroom, stairs
+    SCHEDULED: <2019-09-07 Sat +2w>
+*** TODO Clean upstairs, windows, mirrors
+    SCHEDULED: <2019-09-14 Sat +3w>
+*** TODO Clean exterior
+    SCHEDULED: <2019-10-26 Sat +2m>
+** Landlord
+*** TODO Pay rent
+    SCHEDULED: <2019-09-15 Sun +1m>
+** Ordering system
+   Establish order in apartment.
+   Look in every part of the apartment, and see what's in there.
+   If it is not ordered, make it ordered.
+*** Kitchen
+**** TODO Open cabinet
+**** TODO Closed cabinet
+*** Upstairs
+**** TODO Papers cabinet
