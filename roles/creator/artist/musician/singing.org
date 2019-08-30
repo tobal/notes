@@ -1,0 +1,10 @@
+
+* ToDos
+** TODO Daily singing practice
+   SCHEDULED: <2019-08-30 Fri +1d>
+   - Vocal warmup
+   - Sing reggae
+   - Sing jazz
+   - Sing blues
+*** TODO Find vocal warmup video
+*** TODO Find blues scale video
