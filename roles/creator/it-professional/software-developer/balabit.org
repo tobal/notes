@@ -1,0 +1,51 @@
+ 
+* ToDos
+** Implement
+*** Plugins
+**** SDK
+**** Aamcp
+***** Jenkins script to release to AOR [2/4]
+****** DONE Write changes
+       SCHEDULED: <2019-08-29 Thu>
+****** DONE Fix review comments
+       SCHEDULED: <2019-08-30 Fri>
+****** TODO [#B] Try with AASkeleton
+       SCHEDULED: <2019-09-02 Mon>
+******* DONE Ask for help from Folti with AOR
+******* TODO Fix remaining issues
+	SCHEDULED: <2019-09-02 Mon>
+****** TODO [#B] Try with dummy plugin
+       SCHEDULED: <2019-09-02 Mon>
+*** SCB
+**** NNX
+**** XCB
+**** Pipeline
+**** UI
+*** Integration
+**** Azure
+** Review
+*** Dome
+**** TODO [#A] Review plugin integrity rewrite test
+     SCHEDULED: <2019-09-02 Mon>
+** Test
+*** PluginSDK
+**** TODO [#B] Test LDAP get_attributes
+     SCHEDULED: <2019-09-02 Mon>
+** DevOps
+*** Try CyAr VM [1/4]
+**** DONE Download and unzip VM
+     SCHEDULED: <2019-08-29 Thu>
+**** TODO [#C] Install VMWare Workstation
+     SCHEDULED: <2019-08-30 Fri>
+**** TODO [#C] Import CyAr VM
+     SCHEDULED: <2019-09-02 Mon>
+**** TODO Run VM
+     SCHEDULED: <2019-09-02 Mon>
+*** Configure ESX bionic machine [1/2]
+**** DONE Bionic basic setup
+**** TODO Bionic configure stew
+** Administration
+*** TODO [#A] Try new VPN
+    SCHEDULED: <2019-09-02 Mon>
+*** TODO [#C] Fill out PAS
+    DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-09-02 Mon>
