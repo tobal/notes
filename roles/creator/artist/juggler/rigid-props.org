@@ -1,0 +1,17 @@
+
+* Staff
+** ToDos
+*** TODO Regular staff practice
+    SCHEDULED: <2019-08-30 Fri +2d>
+    - Vertical spinning
+    - Horizontal spinning
+    - Vertical contact
+    - Horizontal contact
+* Sword
+** ToDos
+*** TODO Regular sword practice
+    SCHEDULED: <2019-08-31 Sat +2d>
+    - Vertical spinning
+    - Horizontal spinning
+    - Vertical contact
+    - Horizontal contact
