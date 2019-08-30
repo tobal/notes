@@ -1,0 +1,9 @@
+
+* ToDos
+** Food at home
+*** TODO Grocieries
+    SCHEDULED: <2019-08-30 Fri +3d>
+    - [X] Water
+    - [X] Frozen vegetables
+    - [ ] Fruits
+    - [ ] Seeds
