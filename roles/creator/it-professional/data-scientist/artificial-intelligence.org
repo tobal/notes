@@ -1,0 +1,7 @@
+
+Artificial intelligence related notes and projects
+
+* Learning
+** Read OpenAI blog
+* Projects
+** OpenAI contribution
