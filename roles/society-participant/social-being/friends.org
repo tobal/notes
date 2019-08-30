@@ -1,0 +1,6 @@
+
+* Jugglers
+* High school
+* ToDos
+** TODO Write Evi, canceling Burn festival
+   SCHEDULED: <2019-08-31 Sat>
