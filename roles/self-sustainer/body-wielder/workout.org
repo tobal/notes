@@ -1,0 +1,48 @@
+
+* ToDos
+** At home
+*** TODO Morning warmup
+    SCHEDULED: <2019-09-04 Wed +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 09:52]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-03 Tue 09:52]
+    - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 12:27]
+*** TODO Morning kettlebell
+    SCHEDULED: <2019-09-04 Wed +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 09:52]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-03 Tue 09:52]
+    - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
+    - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
+*** TODO Morning stretch
+    SCHEDULED: <2019-09-04 Wed +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 09:52]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-03 Tue 09:52]
+    - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
+    - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
+*** TODO Evening stretch
+    SCHEDULED: <2019-09-03 Tue +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 09:51]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
+    - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
+** Balance
+*** TODO B2P2 freshfit and minus
+    SCHEDULED: <2019-09-09 Mon +1w>
+*** TODO B2P2 lite
+    SCHEDULED: <2019-09-10 Tue +1w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 13:21]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-03 Tue 13:21]
+** Functional workout
+*** TODO Functional workout on thuesday
+    SCHEDULED: <2019-09-03 Tue +1w>
+*** TODO Functional workout on thursday
+    SCHEDULED: <2019-09-05 Thu +1w>
