@@ -216,17 +216,29 @@
 * ToDos
 ** Vocabulary
 *** TODO Learn japanese words
-    SCHEDULED: <2019-08-30 Fri +1d>
+    SCHEDULED: <2019-09-04 Wed +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-04 Wed 08:07]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
+    - State "DONE"       from "TODO"       [2019-09-02 Mon 11:11]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 12:14]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
     Learn one page at a time, and always review previous ones.
 *** TODO Write japanese words into dictionary
-    SCHEDULED: <2019-08-31 Sat +1w>
+    SCHEDULED: <2019-09-07 Sat +1w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-01 Sun 10:47]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
     Write words in hiragana and hungarian and number the pages.
     Write at least 4 pages at a time, which means 4 pages per week.
     Each page will be marked as I learn them.
-**** TODO Buy dictionary notebook
+**** DONE Buy dictionary notebook
      SCHEDULED: <2019-08-30 Fri>
 ** Grammar
-*** TODO Review all of the japanese grammar
+*** DONE Review all of the japanese grammar
     DEADLINE: <2019-09-01 Sun> SCHEDULED: <2019-08-31 Sat>
     Review all grammar, and take notes into the end of the dictionary notebook, write todos if necessary.
     Take notes on:
@@ -234,9 +246,23 @@
     - place adverbs
     - particles
 *** TODO Review japanese grammar from notes
-    SCHEDULED: <2019-09-02 Mon +3d>
+    SCHEDULED: <2019-09-05 Thu +3d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-02 Mon 11:12]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-02 Mon 11:12]
 ** Practice
 *** TODO Write japanese text in hiragana
-    SCHEDULED: <2019-08-31 Sat +2d>
+    SCHEDULED: <2019-09-04 Wed +2d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-03 Tue 09:52]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-03 Tue 09:52]
+    - State "DONE"       from "TODO"       [2019-08-31 Sat 14:38]
 *** TODO Read japanese text
-    SCHEDULED: <2019-09-01 Sun +2d>
+    SCHEDULED: <2019-09-05 Thu +2d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-04 Wed 08:08]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:08]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 12:14]
