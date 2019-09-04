@@ -216,8 +216,6 @@
 ***** TODO Prepare Add This Song
 ***** TODO Lucid dreaming guided meditation
 * ToDos
-** TODO Fill out PAS
-   DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-08-30 Fri>
 ** TODO Process rope dart videos
    Break them down, write all the tricks, make todos out of them
    [[https://www.youtube.com/watch?v=JwNWTSOULw4][Basics]]
