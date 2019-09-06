@@ -16,13 +16,19 @@
 	SCHEDULED: <2019-09-02 Mon>
 ****** DONE [#B] Try with dummy plugin
        SCHEDULED: <2019-09-02 Mon>
-***** PoC [0/2]
-****** BLOCKED REST with Postman
+***** Plugin [3/4]
+****** DONE REST with Postman
        SCHEDULED: <2019-09-04 Wed>
-****** BLOCKED REST with pyaim library
+****** CANCELED REST with pyaim library
        SCHEDULED: <2019-09-04 Wed>
-****** TODO Make dir and plugin skeleton in repo
+****** DONE Make dir and plugin skeleton in repo
        SCHEDULED: <2019-09-04 Wed>
+****** INPROGRESS Get password manually using REST
+       SCHEDULED: <2019-09-05 Thu>
+****** TODO Implement client to get password
+       SCHEDULED: <2019-09-06 Fri>
+****** TODO Implement plugin class
+       SCHEDULED: <2019-09-09 Mon>
 *** SCB
 **** NNX
 **** XCB
@@ -39,7 +45,7 @@
 **** DONE [#B] Test LDAP get_attributes
      SCHEDULED: <2019-09-02 Mon>
 ** DevOps
-*** Try CyAr VM [7/8]
+*** Try CyAr VM [8/8]
 **** DONE Download and unzip VM
      SCHEDULED: <2019-08-29 Thu>
 **** DONE [#C] Install VMWare Workstation
@@ -54,12 +60,14 @@
      SCHEDULED: <2019-09-02 Mon>
 **** DONE [#B] Run and try to use all VMs
      SCHEDULED: <2019-09-03 Tue>
-**** BLOCKED Make CyAr lab work
+**** DONE Make CyAr lab work on ESX
      SCHEDULED: <2019-09-04 Wed>
 ***** DONE Ask for help
       SCHEDULED: <2019-09-04 Wed>
-***** INPROGRESS Receive help
+***** DONE Receive help
       SCHEDULED: <2019-09-04 Wed>
+***** DONE Put Lab in ESX
+      SCHEDULED: <2019-09-05 Thu>
 *** Configure ESX bionic machine [1/2]
 **** DONE Bionic basic setup
 **** TODO Bionic configure stew
