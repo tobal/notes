@@ -16,16 +16,16 @@
 	SCHEDULED: <2019-09-02 Mon>
 ****** DONE [#B] Try with dummy plugin
        SCHEDULED: <2019-09-02 Mon>
-***** Plugin [3/4]
+***** Plugin [4/6]
 ****** DONE REST with Postman
        SCHEDULED: <2019-09-04 Wed>
 ****** CANCELED REST with pyaim library
        SCHEDULED: <2019-09-04 Wed>
 ****** DONE Make dir and plugin skeleton in repo
        SCHEDULED: <2019-09-04 Wed>
-****** INPROGRESS Get password manually using REST
+****** DONE Get password manually using REST
        SCHEDULED: <2019-09-05 Thu>
-****** TODO Implement client to get password
+****** INPROGRESS Implement client to get password
        SCHEDULED: <2019-09-06 Fri>
 ****** TODO Implement plugin class
        SCHEDULED: <2019-09-09 Mon>
@@ -74,6 +74,6 @@
 ** Administration
 *** DONE [#A] Try new VPN
     SCHEDULED: <2019-09-02 Mon>
-*** TODO [#C] Fill out PAS
+*** DONE [#C] Fill out PAS
     DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-09-02 Mon>
 

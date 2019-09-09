@@ -121,10 +121,13 @@
    - marubashi
 * ToDos
 ** TODO Daily kenjutsu practice
-   SCHEDULED: <2019-09-06 Fri +1d>
+   SCHEDULED: <2019-09-09 Mon +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-09-06 Fri 12:09]
+   :LAST_REPEAT: [2019-09-09 Mon 16:13]
    :END:
+   - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
+   - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
+   - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:11]
    - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
    - State "DONE"       from "TODO"       [2019-09-04 Wed 08:08]
    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
