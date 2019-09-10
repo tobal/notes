@@ -2,10 +2,11 @@
 * Staff
 ** ToDos
 *** TODO Regular staff practice
-    SCHEDULED: <2019-09-09 Mon +2d>
+    SCHEDULED: <2019-09-11 Wed +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 16:12]
+    :LAST_REPEAT: [2019-09-09 Mon 21:57]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
     - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
     - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
