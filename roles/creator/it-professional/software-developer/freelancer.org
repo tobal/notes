@@ -1,0 +1,9 @@
+
+* ToDos
+** Organize
+*** Toptal
+**** TODO Register toptal profile
+     SCHEDULED: <2019-09-11 Wed>
+**** TODO Schedule call with toptal guy
+     SCHEDULED: <2019-09-11 Wed>
+** Work
