@@ -76,10 +76,11 @@
     - State "DONE"       from "TODO"       [2019-09-03 Tue 13:21]
 ** Functional workout
 *** TODO Functional workout on thuesday
-    SCHEDULED: <2019-09-10 Tue +1w>
+    SCHEDULED: <2019-09-17 Tue +1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-04 Wed 08:07]
+    :LAST_REPEAT: [2019-09-10 Tue 20:08]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-10 Tue 20:08]
     - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
 *** TODO Functional workout on thursday
     SCHEDULED: <2019-09-12 Thu +1w>
