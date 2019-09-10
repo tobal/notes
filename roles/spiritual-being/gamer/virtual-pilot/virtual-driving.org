@@ -1,0 +1,19 @@
+
+* ToDos
+** Learn
+*** TODO Make ToDos out of the beginner tutorial video for first steps
+    SCHEDULED: <2019-09-13 Fri>
+    [[https://www.youtube.com/watch?v=KyLQ1ijWqN0][Beginner tutorial on youtube]]
+*** TODO Process driving videos on youtube
+    SCHEDULED: <2019-09-28 Sat>
+    [[https://www.youtube.com/playlist?list=PLNzS9uOg1cqTCPT9RL7lFf1gr1-AKbx9v][Driving video list]]
+** Practice
+*** NFS - Shift
+**** NFS Tier 1
+***** DONE Races
+***** TODO Manifacturer
+      SCHEDULED: <2019-09-10 Tue>
+***** TODO Time attacks
+      SCHEDULED: <2019-09-21 Sat>
+**** NFS Tier 2
+**** NFS Tier 3
