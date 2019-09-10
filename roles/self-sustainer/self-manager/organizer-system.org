@@ -1,0 +1,31 @@
+
+An organizer system using org files. The purpose is to have all notes and todos in one place. My writings
+will be in a different repository.
+ 
+* System
+** Tags
+   Two types of tags: location and duration
+*** Location tags
+    - work :: at work (work tasks, or phone, maybe shopping)
+    - home :: at home
+    - outside :: out in the city, or park
+    - specific :: task which has a specific place to do
+*** Duration tags
+    - small :: 15 minutes maximum
+    - medium :: 3 hours maximum (not a whole working day)
+    - large :: 16 hours maximum (4 working days)
+    - epic :: more than 16 hours
+* ToDos
+** Have a basic system in org files
+*** TODO Move notes from ad-hoc org files into roles
+    SCHEDULED: <2019-09-10 Tue>
+*** TODO Put tags onto ToDos
+    SCHEDULED: <2019-09-13 Fri>
+*** TODO Use it for a month, put every todo into notes
+    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-08-31 Sat>
+** Move all notes and ToDos from everywhere into org files
+*** TODO Integrate calendar
+*** TODO Trello
+*** TODO Google Keep
+*** TODO Google Drive
+*** TODO Google Tasks
