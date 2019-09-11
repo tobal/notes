@@ -1,0 +1,11 @@
+
+* ToDos
+** Software systems
+*** Ono-sendai
+**** TODO Update operating system
+     SCHEDULED: <2019-09-13 Fri +1w>
+**** TODO Clean browser tabs
+     SCHEDULED: <2019-09-11 Wed +1w>
+*** Cyberdeck
+**** TODO Clean browser tabs
+     SCHEDULED: <2019-09-11 Wed +1w>
