@@ -2,10 +2,11 @@
 * ToDos
 ** At home
 *** TODO Morning warmup
-    SCHEDULED: <2019-09-11 Wed +1d>
+    SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-10 Tue 08:48]
+    :LAST_REPEAT: [2019-09-11 Wed 07:14]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-11 Wed 07:14]
     - State "DIDNTDO"    from "TODO"       [2019-09-10 Tue 08:48]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
@@ -17,10 +18,11 @@
     - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
     - State "DONE"       from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Morning kettlebell
-    SCHEDULED: <2019-09-11 Wed +1d>
+    SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-10 Tue 08:48]
+    :LAST_REPEAT: [2019-09-11 Wed 07:14]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-11 Wed 07:14]
     - State "DIDNTDO"    from "TODO"       [2019-09-10 Tue 08:48]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
@@ -32,10 +34,11 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
     - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Morning stretch
-    SCHEDULED: <2019-09-11 Wed +1d>
+    SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-10 Tue 08:48]
+    :LAST_REPEAT: [2019-09-11 Wed 10:24]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 10:24]
     - State "DIDNTDO"    from "TODO"       [2019-09-10 Tue 08:48]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
@@ -47,10 +50,11 @@
     - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
     - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Evening stretch
-    SCHEDULED: <2019-09-10 Tue +1d>
+    SCHEDULED: <2019-09-11 Wed +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 21:57]
+    :LAST_REPEAT: [2019-09-11 Wed 06:11]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]

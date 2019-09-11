@@ -3,10 +3,11 @@
 ** Maintenance
 ** Cleaning
 *** TODO Tidy up
-    SCHEDULED: <2019-09-10 Tue +2d>
+    SCHEDULED: <2019-09-12 Thu +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 16:13]
+    :LAST_REPEAT: [2019-09-11 Wed 06:11]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DONE"       from "TODO"       [2019-09-09 Mon 16:13]
     - State "DONE"       from "TODO"       [2019-09-04 Wed 08:08]

@@ -216,10 +216,12 @@
 * ToDos
 ** Vocabulary
 *** TODO Learn japanese words
-    SCHEDULED: <2019-09-10 Tue +1d>
+    SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 21:57]
+    :LAST_REPEAT: [2019-09-11 Wed 10:24]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 10:24]
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
@@ -253,19 +255,21 @@
     - place adverbs
     - particles
 *** TODO Review japanese grammar from notes
-    SCHEDULED: <2019-09-11 Wed +3d>
+    SCHEDULED: <2019-09-14 Sat +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 16:13]
+    :LAST_REPEAT: [2019-09-11 Wed 10:24]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-11 Wed 10:24]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DONE"       from "TODO"       [2019-09-05 Thu 09:09]
     - State "DONE"       from "TODO"       [2019-09-02 Mon 11:12]
 ** Practice
 *** TODO Write japanese text in hiragana
-    SCHEDULED: <2019-09-10 Tue +2d>
+    SCHEDULED: <2019-09-12 Thu +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-09 Mon 16:13]
+    :LAST_REPEAT: [2019-09-11 Wed 06:11]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DONE"       from "TODO"       [2019-09-09 Mon 16:12]
     - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
