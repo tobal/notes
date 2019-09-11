@@ -9,3 +9,9 @@
 *** Cyberdeck
 **** TODO Clean browser tabs
      SCHEDULED: <2019-09-11 Wed +1w>
+** Hardware maintenance
+*** Windows host
+**** TODO see hostname and write it here
+     SCHEDULED: <2019-09-11 Wed>
+**** TODO Clean CPU cooler
+     SCHEDULED: <2019-09-21 Sat>
