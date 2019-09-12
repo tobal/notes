@@ -2,15 +2,31 @@
 * ToDos
 ** Morning routine
 *** TODO Shower
-    SCHEDULED: <2019-09-12 Thu +1d>
+    SCHEDULED: <2019-09-13 Fri +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-12 Thu 10:10]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Morning teeth
-    SCHEDULED: <2019-09-12 Thu +1d>
+    SCHEDULED: <2019-09-13 Fri +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-12 Thu 10:10]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Beard maintenance
-    SCHEDULED: <2019-09-12 Thu +3d>
+    SCHEDULED: <2019-09-15 Sun +3d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-12 Thu 10:10]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Shave
-    SCHEDULED: <2019-09-12 Thu +5d>
+    SCHEDULED: <2019-09-21 Sat +5d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-12 Thu 10:10]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Hairs
-    SCHEDULED: <2019-09-12 Thu +8d>
+    SCHEDULED: <2019-09-14 Sat +8d>
 ** Evening routine
 *** TODO Evening teeth
     SCHEDULED: <2019-09-12 Thu +1d>

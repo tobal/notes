@@ -216,10 +216,11 @@
 * ToDos
 ** Vocabulary
 *** TODO Learn japanese words
-    SCHEDULED: <2019-09-12 Thu +1d>
+    SCHEDULED: <2019-09-13 Fri +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-11 Wed 10:24]
+    :LAST_REPEAT: [2019-09-12 Thu 10:11]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-12 Thu 10:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 10:24]
     - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
