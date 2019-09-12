@@ -1,6 +1,22 @@
 
 * Rope dart
-** ToDos
+** Tricks
+*** Chained transfers
+    - Elbow
+    - Leg
+    - Neck
+*** Loose shots
+    - Elbow
+    - Leg
+    - Neck
+*** Empty knots
+    - Around waist
+    - Around shoulder
+      - From shoulder to waist
+      - From waist to shoulder
+    - Around neck
+* ToDos
+** Rope dart
 *** TODO Daily rope dart practice
     SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
@@ -22,18 +38,9 @@
     - Chained transfers
     - Loose shots
     - Empty knots
-** Tricks
-*** Chained transfers
-    - Elbow
-    - Leg
-    - Neck
-*** Loose shots
-    - Elbow
-    - Leg
-    - Neck
-*** Empty knots
-    - Around waist
-    - Around shoulder
-      - From shoulder to waist
-      - From waist to shoulder
-    - Around neck
+*** TODO Process rope dart videos
+    SCHEDULED: <2019-10-15 Tue>
+    Break them down, write all the tricks, make todos out of them
+    [[https://www.youtube.com/watch?v=JwNWTSOULw4][Basics]]
+    [[https://www.youtube.com/watch?v=EGZ7cFjslIM][Empty knots]]
+    [[https://www.youtube.com/watch?v=aggOfsBuaSQ][Shaolin]]
