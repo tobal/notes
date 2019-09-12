@@ -1,6 +1,21 @@
 
 * Jugglers
+** Evi
+*** DONE Write Evi, canceling Burn festival
+    SCHEDULED: <2019-08-31 Sat>
+** David
+** 
 * High school
-* ToDos
-** DONE Write Evi, canceling Burn festival
-   SCHEDULED: <2019-08-31 Sat>
+** Lili
+*** TODO Write about hairdressing
+    SCHEDULED: <2019-10-04 Fri>
+* University
+* Online
+** Saci
+*** TODO Reply to email
+    SCHEDULED: <2019-09-15 Sun>
+** Eva
+*** TODO Visit
+    DEADLINE: <2019-10-25 Fri> SCHEDULED: <2019-10-25 Fri>
+* Etc
+** Misi
