@@ -16,7 +16,7 @@
 	SCHEDULED: <2019-09-02 Mon>
 ****** DONE [#B] Try with dummy plugin
        SCHEDULED: <2019-09-02 Mon>
-***** Plugin [9/10]
+***** Plugin [10/10]
 ****** DONE REST with Postman
        SCHEDULED: <2019-09-04 Wed>
 ****** CANCELED REST with pyaim library
@@ -35,7 +35,7 @@
        SCHEDULED: <2019-09-10 Tue>
 ****** DONE VCR integration tests for aamcp plugin
        SCHEDULED: <2019-09-10 Tue>
-****** TODO Merge plugin
+****** DONE Merge plugin
        SCHEDULED: <2019-09-11 Wed>
 *** SCB
 **** NNX

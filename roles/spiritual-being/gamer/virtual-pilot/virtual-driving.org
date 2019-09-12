@@ -9,10 +9,11 @@
     [[https://www.youtube.com/playlist?list=PLNzS9uOg1cqTCPT9RL7lFf1gr1-AKbx9v][Driving video list]]
 ** Practice
 *** TODO Daily driving practice
-    SCHEDULED: <2019-09-11 Wed +1d>
+    SCHEDULED: <2019-09-12 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-10 Tue 21:25]
+    :LAST_REPEAT: [2019-09-11 Wed 21:39]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-11 Wed 21:39]
     - State "DONE"       from "TODO"       [2019-09-10 Tue 21:25]
 *** NFS - Shift
 **** NFS Tier 1

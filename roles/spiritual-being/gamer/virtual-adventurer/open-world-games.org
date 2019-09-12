@@ -2,4 +2,4 @@
 * ToDos
 ** Horizon - Zero Dawn
 *** TODO Make kata video for HZD
-    SCHEDULED: <2019-09-10 Tue>
+    SCHEDULED: <2019-09-18 Wed>
