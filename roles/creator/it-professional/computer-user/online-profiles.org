@@ -1,0 +1,17 @@
+
+* Communication
+** Google Mail
+*** TODO Schedule Gmail ToDos
+    SCHEDULED: <2019-10-03 Thu>
+*** TODO Unsubscribe mailing lists
+*** TODO Organize labels
+*** TODO Do zero inbox
+* Organize
+** Google Calendar
+   Organizing time
+** Trello
+   Organizing projects
+* Online presence
+** Facebook
+** Instagram
+** LinkedIn
