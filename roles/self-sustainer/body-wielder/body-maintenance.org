@@ -1,0 +1,25 @@
+
+* ToDos
+** Morning routine
+*** TODO Shower
+    SCHEDULED: <2019-09-12 Thu +1d>
+*** TODO Morning teeth
+    SCHEDULED: <2019-09-12 Thu +1d>
+*** TODO Beard maintenance
+    SCHEDULED: <2019-09-12 Thu +3d>
+*** TODO Shave
+    SCHEDULED: <2019-09-12 Thu +5d>
+*** TODO Hairs
+    SCHEDULED: <2019-09-12 Thu +8d>
+** Evening routine
+*** TODO Evening teeth
+    SCHEDULED: <2019-09-12 Thu +1d>
+*** TODO Face wash
+    SCHEDULED: <2019-09-12 Thu +1d>
+*** TODO Eye training
+    SCHEDULED: <2019-09-12 Thu +1d>
+** Services
+*** TODO Hairdresser
+    SCHEDULED: <2019-10-04 Fri +1m>
+*** TODO Barber
+    SCHEDULED: <2019-09-27 Fri>
