@@ -1,25 +1,32 @@
 
 * ToDos
-** TODO Daily singing practice
-   SCHEDULED: <2019-09-11 Wed +1d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2019-09-10 Tue 21:25]
-   :END:
-   - State "DONE"       from "TODO"       [2019-09-10 Tue 21:25]
-   - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
-   - State "DONE"       from "TODO"       [2019-09-09 Mon 16:13]
-   - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
-   - State "DONE"       from "TODO"       [2019-09-09 Mon 16:11]
-   - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
-   - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
-   - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
-   - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
-   - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
-   - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
-   - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
-   - Vocal warmup
-   - Sing reggae
-   - Sing jazz
-   - Sing blues
+** Regular practice
+*** TODO Daily singing practice
+    SCHEDULED: <2019-09-12 Thu +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-11 Wed 21:39]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-11 Wed 21:39]
+    - State "DONE"       from "TODO"       [2019-09-10 Tue 21:25]
+    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
+    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:13]
+    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
+    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:11]
+    - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
+    - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
+    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
+    - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
+    - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
+    - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
+    - Vocal warmup
+    - Sing reggae
+    - Sing jazz
+    - Sing blues
 *** TODO Find vocal warmup video
+    SCHEDULED: <2019-09-21 Sat>
 *** TODO Find blues scale video
+    SCHEDULED: <2019-09-21 Sat>
+** Singing class
+*** TODO Singing class on friday
+    SCHEDULED: <2019-09-13 Fri>
