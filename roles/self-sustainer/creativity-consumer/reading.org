@@ -1,0 +1,15 @@
+
+* Online reading
+** Blogs
+*** Wait but why
+**** The Story of Us [3/6]
+     [[https://waitbutwhy.com/2019/08/story-of-us.html][Link]]
+     - [X] Chapter 0 - Introduction
+     - [X] Chapter 1 - The Great Battle of Fire and Light
+     - [X] Chapter 2 - A Game of Giants
+     - [ ] Chapter 3 - A Story of Stories
+     - [ ] Chapter 4 - The Enlightenment Kids
+* Books
+** Novels
+*** Sci-fi
+    - [ ] Infinite jest
