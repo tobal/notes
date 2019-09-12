@@ -1,7 +1,23 @@
 
 Artificial intelligence related notes and projects
 
-* Learning
-** Read OpenAI blog
-* Projects
-** OpenAI contribution
+* ToDos
+** Learning
+*** Youtube videos
+**** Sentdex
+***** Reinforcement learning videos
+****** TODO Watch videos
+       SCHEDULED: <2019-09-19 Thu>
+       - [X] Part 1
+       - [X] Part 2
+       - [X] Part 3
+       - [X] Part 4
+       - [X] Part 5
+       - [ ] Part 6
+****** TODO Put code onto Github
+       SCHEDULED: <2019-10-02 Wed>
+       - [X] Q learning table
+       - [ ] Deep reinforcement learning
+*** Read OpenAI blog
+** Projects
+*** OpenAI contribution
