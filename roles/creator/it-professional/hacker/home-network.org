@@ -1,0 +1,13 @@
+
+* Project plan
+  Have a network at home, make it static, reproducable and secure. Make it accessible from the outside, but have an internal,
+  secure subnet. Connect every device which can connect to an ethernet network.
+* ToDos
+** Retro computers
+*** Commodore 64
+**** TODO Order C64 monitor cable
+     SCHEDULED: <2019-09-13 Fri>
+**** TODO Try C64 monitor
+     SCHEDULED: <2019-10-09 Wed>
+**** TODO Try C64 computer
+     SCHEDULED: <2019-10-09 Wed>
