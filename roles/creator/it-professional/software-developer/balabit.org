@@ -109,8 +109,12 @@
 **** DONE Bionic basic setup
 **** TODO Bionic configure stew
 ** Administration
+*** TODO Administer MiHi
+    SCHEDULED: <2019-09-27 Fri +1m>
 *** DONE [#A] Try new VPN
     SCHEDULED: <2019-09-02 Mon>
 *** DONE [#C] Fill out PAS
     DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-09-02 Mon>
+*** TODO Process competency matrix for F2F
+    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-09-25 Wed>
 
