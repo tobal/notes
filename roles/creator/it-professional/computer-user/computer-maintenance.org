@@ -5,10 +5,10 @@
 **** TODO Update operating system
      SCHEDULED: <2019-09-13 Fri +1w>
 **** TODO Clean browser tabs
-     SCHEDULED: <2019-09-11 Wed +1w>
+     SCHEDULED: <2019-09-21 Sat +1w>
 *** Cyberdeck
 **** TODO Clean browser tabs
-     SCHEDULED: <2019-09-11 Wed +1w>
+     SCHEDULED: <2019-09-21 Sat +1w>
 ** Hardware maintenance
 *** Windows host
 **** TODO see hostname and write it here

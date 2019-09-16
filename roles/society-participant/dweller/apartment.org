@@ -3,10 +3,12 @@
 ** Maintenance
 ** Cleaning
 *** TODO Tidy up
-    SCHEDULED: <2019-09-14 Sat +2d>
+    SCHEDULED: <2019-09-18 Wed +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-12 Thu 08:55]
+    :LAST_REPEAT: [2019-09-16 Mon 08:59]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-16 Mon 08:59]
+    - State "DONE"       from "TODO"       [2019-09-14 Sat 15:38]
     - State "DONE"       from "TODO"       [2019-09-12 Thu 08:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
@@ -15,14 +17,22 @@
     - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
     - State "DONE"       from "TODO"       [2019-08-31 Sat 12:47]
 *** TODO Clean living room, kitchen, bathroom, stairs
-    SCHEDULED: <2019-09-13 Fri +2w>
+    SCHEDULED: <2019-09-28 Sat +2w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-14 Sat 15:38]
+    :END:
+    - State "DONE"       from "TODO"       [2019-09-14 Sat 15:38]
 *** TODO Clean upstairs, windows, mirrors
-    SCHEDULED: <2019-09-14 Sat +3w>
+    SCHEDULED: <2019-10-05 Sat +3w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-09-16 Mon 08:57]
+    :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:57]
 *** TODO Clean exterior
     SCHEDULED: <2019-10-26 Sat +2m>
 ** Landlord
 *** TODO Pay rent
-    SCHEDULED: <2019-09-15 Sun +1m>
+    SCHEDULED: <2019-09-17 Tue +1m>
 ** Ordering system
    Establish order in apartment.
    Look in every part of the apartment, and see what's in there.

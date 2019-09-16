@@ -12,7 +12,7 @@
 * University
 * Online
 ** Saci
-*** TODO Reply to email
+*** DONE Reply to email
     SCHEDULED: <2019-09-15 Sun>
 ** Eva
 *** TODO Visit

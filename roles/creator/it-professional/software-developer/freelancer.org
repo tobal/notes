@@ -3,8 +3,8 @@
 ** Organize
 *** Toptal
 **** TODO Register toptal profile
-     SCHEDULED: <2019-09-12 Thu>
-**** TODO Schedule call with toptal guy
+     SCHEDULED: <2019-09-18 Wed>
+**** DONE Schedule call with toptal guy
      SCHEDULED: <2019-09-12 Thu> 
-**** TODO Ask Mom about next week
+**** DONE Ask Mom about next week
      SCHEDULED: <2019-09-12 Thu>

@@ -6,7 +6,7 @@
 ** Retro computers
 *** Commodore 64
 **** TODO Order C64 monitor cable
-     SCHEDULED: <2019-09-13 Fri>
+     SCHEDULED: <2019-09-26 Thu>
 **** TODO Try C64 monitor
      SCHEDULED: <2019-10-09 Wed>
 **** TODO Try C64 computer

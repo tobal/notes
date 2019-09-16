@@ -2,10 +2,14 @@
 * ToDos
 ** Regular practice
 *** TODO Daily singing practice
-    SCHEDULED: <2019-09-12 Thu +1d>
+    SCHEDULED: <2019-09-16 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-11 Wed 21:39]
+    :LAST_REPEAT: [2019-09-16 Mon 09:00]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-16 Mon 09:00]
+    - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:57]
+    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:17]
+    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:15]
     - State "DONE"       from "TODO"       [2019-09-11 Wed 21:39]
     - State "DONE"       from "TODO"       [2019-09-10 Tue 21:25]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
@@ -28,5 +32,5 @@
 *** TODO Find blues scale video
     SCHEDULED: <2019-09-21 Sat>
 ** Singing class
-*** TODO Singing class on friday
+*** DONE Singing class on friday
     SCHEDULED: <2019-09-13 Fri>

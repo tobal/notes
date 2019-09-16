@@ -38,16 +38,16 @@
 ****** DONE Merge plugin
        SCHEDULED: <2019-09-11 Wed>
 **** Starling
-***** Use LDAP service [0/5]
-****** TODO Initial research
+***** Use LDAP service [5/5]
+****** DONE Initial research
        SCHEDULED: <2019-09-12 Thu>
-****** TODO Implement
+****** DONE Implement
        SCHEDULED: <2019-09-12 Thu>
-****** TODO Try out
+****** DONE Try out
        SCHEDULED: <2019-09-13 Fri>
-****** TODO Have it reviewed
+****** DONE Have it reviewed
        SCHEDULED: <2019-09-13 Fri>
-****** TODO Merge
+****** DONE Merge
        SCHEDULED: <2019-09-13 Fri>
 *** SCB
 **** NNX
@@ -65,6 +65,9 @@
 *** Dome
 **** DONE [#A] Review plugin integrity rewrite test
      SCHEDULED: <2019-09-02 Mon>
+*** Krajo
+**** DONE Cache service
+     SCHEDULED: <2019-09-13 Fri>
 ** Test
 *** PluginSDK
 **** DONE [#B] Test LDAP get_attributes
