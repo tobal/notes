@@ -29,3 +29,4 @@ will be in a different repository.
 *** TODO Google Keep
 *** TODO Google Drive
 *** TODO Google Tasks
+** Research org-mode diary syntax
