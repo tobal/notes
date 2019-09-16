@@ -33,6 +33,8 @@
 ** Landlord
 *** TODO Pay rent
     SCHEDULED: <2019-09-17 Tue +1m>
+*** TODO Take out money
+    SCHEDULED: <2019-09-16 Mon +1m>
 ** Ordering system
    Establish order in apartment.
    Look in every part of the apartment, and see what's in there.
