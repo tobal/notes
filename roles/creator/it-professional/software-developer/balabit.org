@@ -52,9 +52,11 @@
 ***** Use caching service [1/4]
 ****** DONE Initial research
        SCHEDULED: <2019-09-16 Mon>
-****** TODO Cache user ID
-       SCHEDULED: <2019-09-16 Mon>
 ****** TODO Cache access token
+       SCHEDULED: <2019-09-16 Mon>
+****** TODO Remove Authy
+       SCHEDULED: <2019-09-17 Tue>
+****** TODO Cache user ID
        SCHEDULED: <2019-09-16 Mon>
 ****** TODO Try starling return auth fail reason
        SCHEDULED: <2019-09-16 Mon>
@@ -77,6 +79,9 @@
 *** Krajo
 **** DONE Cache service
      SCHEDULED: <2019-09-13 Fri>
+*** Gergo
+**** TODO Hashicorp
+     SCHEDULED: <2019-09-17 Tue>
 ** Test
 *** PluginSDK
 **** DONE [#B] Test LDAP get_attributes
