@@ -30,8 +30,9 @@
 ** Favors
 *** Brother
 **** Fetch Hifi
-***** TODO Call
+***** DONE Call
       SCHEDULED: <2019-09-16 Mon>
-***** TODO Fetch
+***** DONE Fetch
+      SCHEDULED: <2019-09-16 Mon>
 ***** TODO Bring home
       SCHEDULED: <2019-09-18 Wed>

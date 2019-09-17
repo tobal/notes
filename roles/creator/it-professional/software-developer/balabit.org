@@ -49,8 +49,8 @@
        SCHEDULED: <2019-09-13 Fri>
 ****** DONE Merge
        SCHEDULED: <2019-09-13 Fri>
-***** Use caching service [0/4]
-****** TODO Initial research
+***** Use caching service [1/4]
+****** DONE Initial research
        SCHEDULED: <2019-09-16 Mon>
 ****** TODO Cache user ID
        SCHEDULED: <2019-09-16 Mon>
