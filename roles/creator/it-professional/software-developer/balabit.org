@@ -53,13 +53,13 @@
 ****** DONE Initial research
        SCHEDULED: <2019-09-16 Mon>
 ****** TODO Cache access token
-       SCHEDULED: <2019-09-16 Mon>
+       SCHEDULED: <2019-09-17 Tue>
 ****** TODO Remove Authy
        SCHEDULED: <2019-09-17 Tue>
 ****** TODO Cache user ID
-       SCHEDULED: <2019-09-16 Mon>
+       SCHEDULED: <2019-09-19 Thu>
 ****** TODO Try starling return auth fail reason
-       SCHEDULED: <2019-09-16 Mon>
+       SCHEDULED: <2019-09-19 Thu>
 *** SCB
 **** NNX
 **** XCB
