@@ -34,5 +34,5 @@
       SCHEDULED: <2019-09-16 Mon>
 ***** DONE Fetch
       SCHEDULED: <2019-09-16 Mon>
-***** TODO Bring home
+***** DONE Bring home
       SCHEDULED: <2019-09-18 Wed>

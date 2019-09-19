@@ -2,10 +2,12 @@
 * ToDos
 ** Daily meditations
 *** TODO Morning meditation
-    SCHEDULED: <2019-09-18 Wed +1d>
+    SCHEDULED: <2019-09-20 Fri +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-17 Tue 13:12]
+    :LAST_REPEAT: [2019-09-19 Thu 09:25]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
+    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
     - State "DIDNTDO"    from "TODO"       [2019-09-17 Tue 13:12]
     - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 09:00]
     - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:59]
@@ -15,15 +17,13 @@
     Listen to the song every morning upon waking up
     [[https://www.youtube.com/watch?v=YFSc7Ck0Ao0][Add this song]]
 *** TODO Evening meditation
-    [[https://www.youtube.com/watch?v=YFSc7Ck0Ao0][Meditation guidance on youtube]]
-    SCHEDULED: <2019-09-11 Wed +1d>
+    SCHEDULED: <2019-09-19 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-11 Wed 06:11]
+    :LAST_REPEAT: [2019-09-19 Thu 09:25]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
+    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
     - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 06:11]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:11]
     - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
     - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
@@ -32,5 +32,6 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
     - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
     - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
+    [[https://www.youtube.com/watch?v=YFSc7Ck0Ao0][Meditation guidance on youtube]]
 ** Guided meditations
 *** TODO Find guided meditation for lucid dreaming

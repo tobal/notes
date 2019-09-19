@@ -49,12 +49,12 @@
        SCHEDULED: <2019-09-13 Fri>
 ****** DONE Merge
        SCHEDULED: <2019-09-13 Fri>
-***** Use caching service [1/4]
+***** Use caching service [3/5]
 ****** DONE Initial research
        SCHEDULED: <2019-09-16 Mon>
-****** TODO Cache access token
+****** DONE Cache access token
        SCHEDULED: <2019-09-17 Tue>
-****** TODO Remove Authy
+****** DONE Remove Authy
        SCHEDULED: <2019-09-17 Tue>
 ****** TODO Cache user ID
        SCHEDULED: <2019-09-19 Thu>
@@ -80,7 +80,7 @@
 **** DONE Cache service
      SCHEDULED: <2019-09-13 Fri>
 *** Gergo
-**** TODO Hashicorp
+**** DONE Hashicorp
      SCHEDULED: <2019-09-17 Tue>
 ** Test
 *** PluginSDK
