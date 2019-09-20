@@ -1,10 +1,17 @@
 
+* Close
+** Orsi
+*** TODO Miss Monique party
+    SCHEDULED: <2019-09-21 Sat>
 * Jugglers
 ** Evi
 *** DONE Write Evi, canceling Burn festival
     SCHEDULED: <2019-08-31 Sat>
+*** TODO Meet, go to them
+    SCHEDULED: <2019-09-20 Fri>
+*** TODO Talamasca party
+    SCHEDULED: <2019-10-22 Tue>
 ** David
-** 
 * High school
 ** Lili
 *** TODO Write about hairdressing
