@@ -2,9 +2,20 @@
 * ToDos
 ** Organize
 *** Toptal
-**** TODO Register toptal profile
-     SCHEDULED: <2019-09-18 Wed>
-**** DONE Schedule call with toptal guy
-     SCHEDULED: <2019-09-12 Thu> 
-**** DONE Ask Mom about next week
-     SCHEDULED: <2019-09-12 Thu>
+**** Apply
+***** DONE Register toptal profile
+      SCHEDULED: <2019-09-18 Wed>
+***** DONE Schedule call with toptal guy
+      SCHEDULED: <2019-09-12 Thu> 
+***** DONE Ask Mom about next week
+      SCHEDULED: <2019-09-12 Thu>
+**** Screening
+***** Communications
+****** TODO Schedule call
+       SCHEDULED: <2019-09-21 Sat>
+****** TODO Take call
+***** Online test
+****** TODO Practice on Hackerrank
+****** TODO Take test
+***** Live coding
+***** Test project
