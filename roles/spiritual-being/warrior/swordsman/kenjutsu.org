@@ -122,10 +122,11 @@
 * ToDos
 ** Regular practice
 *** TODO Daily kenjutsu practice
-    SCHEDULED: <2019-09-19 Thu +1d>
+    SCHEDULED: <2019-09-20 Fri +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-19 Thu 09:25]
+    :LAST_REPEAT: [2019-09-20 Fri 14:55]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-20 Fri 14:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
     - State "DIDNTDO"    from "TODO"       [2019-09-17 Tue 09:41]

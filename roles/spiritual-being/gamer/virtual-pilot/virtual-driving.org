@@ -9,10 +9,12 @@
     [[https://www.youtube.com/playlist?list=PLNzS9uOg1cqTCPT9RL7lFf1gr1-AKbx9v][Driving video list]]
 ** Practice
 *** TODO Daily driving practice
-    SCHEDULED: <2019-09-19 Thu +1d>
+    SCHEDULED: <2019-09-21 Sat +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-19 Thu 09:24]
+    :LAST_REPEAT: [2019-09-20 Fri 14:55]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-20 Fri 14:55]
+    - State "DONE"       from "TODO"       [2019-09-20 Fri 14:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:24]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:22]
     - State "DIDNTDO"    from "TODO"       [2019-09-17 Tue 09:41]
