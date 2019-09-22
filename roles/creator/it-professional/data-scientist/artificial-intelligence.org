@@ -7,7 +7,7 @@ Artificial intelligence related notes and projects
 **** Sentdex
 ***** Reinforcement learning videos
 ****** TODO Watch videos
-       SCHEDULED: <2019-09-21 Sat>
+       SCHEDULED: <2019-10-01 Tue>
        - [X] Part 1
        - [X] Part 2
        - [X] Part 3

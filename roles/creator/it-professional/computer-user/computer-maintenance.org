@@ -14,4 +14,4 @@
 **** TODO see hostname and write it here
      SCHEDULED: <2019-09-11 Wed>
 **** TODO Clean CPU cooler
-     SCHEDULED: <2019-09-21 Sat>
+     SCHEDULED: <2019-10-05 Sat>

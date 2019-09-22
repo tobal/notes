@@ -122,10 +122,13 @@
 * ToDos
 ** Regular practice
 *** TODO Daily kenjutsu practice
-    SCHEDULED: <2019-09-20 Fri +1d>
+    SCHEDULED: <2019-09-23 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-20 Fri 14:55]
+    :LAST_REPEAT: [2019-09-22 Sun 16:54]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:54]
+    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
+    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
     - State "DIDNTDO"    from "TODO"       [2019-09-20 Fri 14:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
@@ -168,10 +171,10 @@
 *** DONE Ask about juppon 2 batto
     SCHEDULED: <2019-09-01 Sun>
 *** Unknown names
-**** TODO Write unknowns in a notebook
+**** DIDNTDO Write unknowns in a notebook
      SCHEDULED: <2019-09-21 Sat>
 **** TODO Ask about unknown names
-     SCHEDULED: <2019-09-22 Sun>
+     SCHEDULED: <2019-09-29 Sun>
 ** Gear
 *** Shinai
 **** TODO Buy shinai
