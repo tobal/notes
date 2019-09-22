@@ -268,6 +268,7 @@
     - place adverbs
     - particles
 *** TODO Review japanese grammar from notes
+*** 
     SCHEDULED: <2019-09-23 Mon +3d>
     :PROPERTIES:
     :LAST_REPEAT: [2019-09-22 Sun 16:51]
@@ -279,6 +280,8 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
     - State "DONE"       from "TODO"       [2019-09-05 Thu 09:09]
     - State "DONE"       from "TODO"       [2019-09-02 Mon 11:12]
+*** TODO Japanese class on sunday
+    SCHEDULED: <2019-09-22 Sun +1w>
 ** Practice
 *** TODO Write japanese text in hiragana
     SCHEDULED: <2019-09-24 Tue +2d>
