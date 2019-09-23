@@ -4,13 +4,17 @@ will be in a different repository.
  
 * System
 ** Tags
-   Two types of tags: location and duration
+   Types of tags: location, time of day, duration
 *** Location tags
     - work :: at work (work tasks, or phone, maybe shopping)
     - home :: at home
     - outside :: out in the city, or park
     - specific :: task which has a specific place to do
-*** Duration tags
+*** Time of day tags
+    - morning :: part of the morning routine, right after waking up
+    - evening :: part of the evening routine, before going to sleep
+    - day :: mid-day, usually work-ish tasks
+*** Duration tags (optional)
     - small :: 15 minutes maximum
     - medium :: 3 hours maximum (not a whole working day)
     - large :: 16 hours maximum (4 working days)
@@ -29,4 +33,8 @@ will be in a different repository.
 *** TODO Google Keep
 *** TODO Google Drive
 *** TODO Google Tasks
-** Research org-mode diary syntax
+** Diary
+*** TODO Write diary encrypter/decrypter script
+    SCHEDULED: <2019-10-03 Thu>
+*** TODO Research org-mode diary syntax
+    SCHEDULED: <2019-10-08 Tue>
