@@ -38,3 +38,10 @@
       SCHEDULED: <2019-09-16 Mon>
 ***** DONE Bring home
       SCHEDULED: <2019-09-18 Wed>
+**** Fetch amplifier
+***** TODO Take out money
+      SCHEDULED: <2019-09-23 Mon>
+***** TODO Fetch amplifier
+      SCHEDULED: <2019-09-23 Mon>
+***** TODO Bring home
+      SCHEDULED: <2019-10-11 Fri>
