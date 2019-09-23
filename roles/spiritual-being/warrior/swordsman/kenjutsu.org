@@ -73,6 +73,36 @@
      - Saya megfog, ayumi ashi hátra, saya zanshin
      - Vért leráz, közben saya visszafordít, kard eltesz, átfogással
      - Visszamegy
+** Koryu
+*** Tavasz
+ | Mester                               | Tanítvány                                                                 |
+ |--------------------------------------+---------------------------------------------------------------------------|
+ | Seigan                               | Seigan                                                                    |
+ | Hátra waki                           | Előre jodan                                                               |
+ | Összevágás                           | Összevágás                                                                |
+ | Ashi vágás, jobb lábat kirakja előre | Ashi védés, bal lábat kirakja hátra                                       |
+ | Előre zár                            | Hátra zár                                                                 |
+ | Tol előre                            | Lép hátra                                                                 |
+ | Jodan                                | Jodan                                                                     |
+ | Összevágás, lép hátra                | Összevágás, lép előre                                                     |
+ | Kézre vág jobb oldalról (do kotéra)  | Hátrazár és jodan                                                         |
+ | Test vonaláig vág                    | Jobb láb felhúz, ellenfél kardját leüti felülről ("az" a furcsa mozdulat) |
+ | Visszaáll, helyre megy               | Visszaáll, helyre megy                                                    |
+*** Nyár
+ | Mester                                       | Tanítvány                                                                |
+ |----------------------------------------------+--------------------------------------------------------------------------|
+ | Jodan                                        | Jodan                                                                    |
+ | Előre csúszik 2-3 lépéssel                   | Előre csúszik 2-3 lépéssel                                               |
+ | Lassan összevág                              | Lassan összevág                                                          |
+ | Picit jelez                                  | Megindul előre                                                           |
+ | 2 lépés hátra, gyaku hasso                   | Egy okury ashi, két ayumi ashi, közben kard hegyével tolja az ellenfelet |
+ |                                              | Kard szemmagasságban tart vízszintesen, visszahúz, kard éle oldalra néz  |
+ |                                              | Megnyitja a védelmet                                                     |
+ | Kesa könyökre                                | "Kanalazó" védés                                                         |
+ | Kardot megkerül hogy felülre kerüljön        | Visszaáll egyenes tartásba                                               |
+ | Megindul előre, 2 lépéssel eltol, kard nyújt | Hátra két lépés, kar nyújtva                                             |
+ | Visszaáll                                    | Visszaáll                                                                |
+** Hojo
 * Övvizsga anyagok
 ** 5 kyu
    - kihon :: men, yokomen, do, ashi, kiriage, tsuki
