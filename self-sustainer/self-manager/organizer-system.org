@@ -21,7 +21,7 @@ will be in a different repository.
     - epic :: more than 16 hours
 * ToDos
 ** Have a basic system in org files
-*** TODO Move notes from ad-hoc org files into roles
+*** DONE Move notes from ad-hoc org files into roles
     SCHEDULED: <2019-09-24 Tue>
 *** TODO Put tags onto ToDos
     SCHEDULED: <2019-09-24 Tue>

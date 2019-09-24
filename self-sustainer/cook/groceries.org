@@ -2,10 +2,11 @@
 * ToDos
 ** Food at home
 *** TODO Grocieries
-    SCHEDULED: <2019-09-23 Mon +3d>
+    SCHEDULED: <2019-09-26 Thu +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-20 Fri 14:56]
+    :LAST_REPEAT: [2019-09-24 Tue 15:20]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:20]
     - State "DONE"       from "TODO"       [2019-09-20 Fri 14:56]
     - State "DONE"       from "TODO"       [2019-09-17 Tue 09:42]
     - State "DONE"       from "TODO"       [2019-09-14 Sat 15:37]

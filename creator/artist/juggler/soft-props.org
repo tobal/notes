@@ -18,10 +18,11 @@
 * ToDos
 ** Rope dart
 *** TODO Daily rope dart practice
-    SCHEDULED: <2019-09-23 Mon +1d>
+    SCHEDULED: <2019-09-24 Tue +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-22 Sun 16:55]
+    :LAST_REPEAT: [2019-09-24 Tue 15:21]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-24 Tue 15:21]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
