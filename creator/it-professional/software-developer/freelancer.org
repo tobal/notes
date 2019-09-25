@@ -11,9 +11,10 @@
       SCHEDULED: <2019-09-12 Thu>
 **** Screening
 ***** Communications
-****** TODO Schedule call
+****** DONE Schedule call
        SCHEDULED: <2019-09-21 Sat>
 ****** TODO Take call
+       SCHEDULED: <2019-10-04 Fri>
 ***** Online test
 ****** TODO Practice on Hackerrank
 ****** TODO Take test

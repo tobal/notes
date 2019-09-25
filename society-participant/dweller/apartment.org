@@ -3,7 +3,7 @@
 ** Maintenance
 ** Cleaning
 *** TODO Tidy up
-    SCHEDULED: <2019-09-24 Tue +2d>
+    SCHEDULED: <2019-09-26 Thu +2d>
     :PROPERTIES:
     :LAST_REPEAT: [2019-09-22 Sun 16:54]
     :END:
@@ -20,7 +20,7 @@
     - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
     - State "DONE"       from "TODO"       [2019-08-31 Sat 12:47]
 *** TODO Wash dishes
-    SCHEDULED: <2019-09-23 Mon +2d>
+    SCHEDULED: <2019-09-26 Thu +2d>
 *** TODO Change bedding
     SCHEDULED: <2019-10-19 Sat +1m>
 *** TODO Clean living room, kitchen, bathroom, stairs

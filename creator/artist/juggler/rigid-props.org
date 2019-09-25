@@ -26,10 +26,11 @@
 * Sword
 ** ToDos
 *** TODO Regular sword practice
-    SCHEDULED: <2019-09-24 Tue +2d>
+    SCHEDULED: <2019-09-26 Thu +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-22 Sun 16:55]
+    :LAST_REPEAT: [2019-09-25 Wed 08:32]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 08:32]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
