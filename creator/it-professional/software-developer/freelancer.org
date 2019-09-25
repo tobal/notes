@@ -13,6 +13,8 @@
 ***** Communications
 ****** DONE Schedule call
        SCHEDULED: <2019-09-21 Sat>
+****** TODO Install Bluejeans, prepare
+       SCHEDULED: <2019-09-29 Sun>
 ****** TODO Take call
        SCHEDULED: <2019-10-04 Fri>
 ***** Online test
