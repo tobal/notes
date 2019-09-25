@@ -12,6 +12,9 @@
 *** TODO Talamasca party
     SCHEDULED: <2019-10-22 Tue>
 ** David
+** Fruzsi, Atis
+*** TODO Zsongibongi summer farewell day
+    SCHEDULED: <2019-09-28 Sat>
 * High school
 ** Lili
 *** TODO Write about hairdressing
