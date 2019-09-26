@@ -2,10 +2,12 @@
 * ToDos
 ** Daily meditations
 *** TODO Morning meditation
-    SCHEDULED: <2019-09-25 Wed +1d>
+    SCHEDULED: <2019-09-27 Fri +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-24 Tue 15:22]
+    :LAST_REPEAT: [2019-09-26 Thu 14:36]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:36]
+    - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 17:50]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:22]
     - State "DIDNTDO"    from "TODO"       [2019-09-23 Mon 14:09]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
@@ -22,10 +24,11 @@
     Listen to the song every morning upon waking up
     [[https://www.youtube.com/watch?v=YFSc7Ck0Ao0][Add this song]]
 *** TODO Evening meditation
-    SCHEDULED: <2019-09-25 Wed +1d>
+    SCHEDULED: <2019-09-26 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-25 Wed 08:31]
+    :LAST_REPEAT: [2019-09-26 Thu 14:34]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:34]
     - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 08:31]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:21]
     - State "DIDNTDO"    from "TODO"       [2019-09-23 Mon 14:09]

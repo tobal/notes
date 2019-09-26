@@ -49,14 +49,14 @@
        SCHEDULED: <2019-09-13 Fri>
 ****** DONE Merge
        SCHEDULED: <2019-09-13 Fri>
-***** Use caching service [4/5]
+***** Use caching service [5/5]
 ****** DONE Initial research
        SCHEDULED: <2019-09-16 Mon>
 ****** DONE Cache access token
        SCHEDULED: <2019-09-17 Tue>
 ****** DONE Remove Authy
        SCHEDULED: <2019-09-17 Tue>
-****** TODO Cache user ID
+****** DONE Cache user ID
        SCHEDULED: <2019-09-24 Tue>
 ****** DONE Try starling return auth fail reason
        SCHEDULED: <2019-09-19 Thu>
@@ -121,5 +121,5 @@
 *** DONE [#C] Fill out PAS
     DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-09-02 Mon>
 *** TODO Process competency matrix for F2F
-    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-09-25 Wed>
+    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-09-27 Fri>
 

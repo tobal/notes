@@ -22,10 +22,11 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
     - State "DONE"       from "TODO"       [2019-09-01 Sun 12:14]
 *** TODO Call Brother
-    SCHEDULED: <2019-09-26 Thu +6d>
+    SCHEDULED: <2019-10-02 Wed +6d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-20 Fri 14:56]
+    :LAST_REPEAT: [2019-09-26 Thu 14:35]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-26 Thu 14:35]
     - State "CANCELED"   from "TODO"       [2019-09-20 Fri 14:56]
     - State "DIDNTDO"    from "TODO"       [2019-09-14 Sat 15:38]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
@@ -44,5 +45,5 @@
       SCHEDULED: <2019-09-23 Mon>
 ***** DONE Fetch amplifier
       SCHEDULED: <2019-09-23 Mon>
-***** TODO Give to bro
+***** DONE Give to bro
       SCHEDULED: <2019-09-26 Thu>
