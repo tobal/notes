@@ -2,10 +2,11 @@
 * ToDos
 ** Call
 *** TODO Call Mom
-    SCHEDULED: <2019-09-24 Tue +4d>
+    SCHEDULED: <2019-09-28 Sat +4d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-20 Fri 14:56]
+    :LAST_REPEAT: [2019-09-30 Mon 10:31]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
     - State "CANCELED"   from "TODO"       [2019-09-20 Fri 14:56]
     - State "DONE"       from "TODO"       [2019-09-16 Mon 08:59]
     - State "DONE"       from "TODO"       [2019-09-12 Thu 19:52]

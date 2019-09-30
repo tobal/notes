@@ -25,7 +25,7 @@ will be in a different repository.
     SCHEDULED: <2019-09-24 Tue>
 *** TODO Put tags onto ToDos
     SCHEDULED: <2019-09-27 Fri>
-*** TODO Use it for a month, put every todo into notes
+*** DONE Use it for a month, put every todo into notes
     DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-08-31 Sat>
 ** Move all notes and ToDos from everywhere into org files
 *** TODO Integrate calendar

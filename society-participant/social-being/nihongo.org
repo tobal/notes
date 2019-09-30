@@ -216,10 +216,14 @@
 * ToDos
 ** Vocabulary
 *** TODO Learn japanese words
-    SCHEDULED: <2019-09-26 Thu +1d>
+    SCHEDULED: <2019-09-30 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-26 Thu 14:35]
+    :LAST_REPEAT: [2019-09-30 Mon 10:37]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:37]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:36]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:34]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
     - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:35]
     - State "DONE"       from "TODO"       [2019-09-25 Wed 08:32]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:21]
@@ -249,10 +253,11 @@
     - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
     Learn one page at a time, and always review previous ones.
 *** TODO Write japanese words into dictionary
-    SCHEDULED: <2019-09-28 Sat +1w>
+    SCHEDULED: <2019-10-05 Sat +1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-22 Sun 16:53]
+    :LAST_REPEAT: [2019-09-30 Mon 10:33]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:33]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
     - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:57]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
@@ -271,10 +276,12 @@
     - place adverbs
     - particles
 *** TODO Review japanese grammar from notes
-    SCHEDULED: <2019-09-26 Thu +3d>
+    SCHEDULED: <2019-10-02 Wed +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-24 Tue 15:22]
+    :LAST_REPEAT: [2019-09-30 Mon 10:35]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:35]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:22]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
@@ -284,17 +291,20 @@
     - State "DONE"       from "TODO"       [2019-09-05 Thu 09:09]
     - State "DONE"       from "TODO"       [2019-09-02 Mon 11:12]
 *** TODO Japanese class on sunday
-    SCHEDULED: <2019-09-29 Sun +1w>
+    SCHEDULED: <2019-10-06 Sun +1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-23 Mon 14:09]
+    :LAST_REPEAT: [2019-09-30 Mon 10:33]
     :END:
+    - State "DONE"       from "TODO"       [2019-09-30 Mon 10:33]
     - State "DONE"       from "TODO"       [2019-09-23 Mon 14:09]
 ** Practice
 *** TODO Write japanese text in hiragana
-    SCHEDULED: <2019-09-26 Thu +2d>
+    SCHEDULED: <2019-09-30 Mon +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-25 Wed 08:32]
+    :LAST_REPEAT: [2019-09-30 Mon 10:35]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:35]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
     - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 08:32]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
@@ -309,10 +319,12 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-03 Tue 09:52]
     - State "DONE"       from "TODO"       [2019-08-31 Sat 14:38]
 *** TODO Read japanese text
-    SCHEDULED: <2019-09-27 Fri +2d>
+    SCHEDULED: <2019-10-01 Tue +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-26 Thu 14:35]
+    :LAST_REPEAT: [2019-09-30 Mon 10:35]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:35]
+    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:32]
     - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:35]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:22]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
