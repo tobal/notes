@@ -25,7 +25,10 @@
 *** DONE Reply to email
     SCHEDULED: <2019-09-15 Sun>
 ** Eva
-*** TODO Visit
-    DEADLINE: <2019-10-25 Fri> SCHEDULED: <2019-10-25 Fri>
+*** Visit November
+**** TODO Book room
+     SCHEDULED: <2019-10-05 Sat>
+**** TODO Visit
+     SCHEDULED: <2019-11-01 Fri>
 * Etc
 ** Misi

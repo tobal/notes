@@ -7,7 +7,7 @@ Artificial intelligence related notes and projects
 **** Sentdex
 ***** Reinforcement learning videos
 ****** TODO Watch videos
-       SCHEDULED: <2019-10-01 Tue>
+       SCHEDULED: <2019-10-05 Sat>
        - [X] Part 1
        - [X] Part 2
        - [X] Part 3
@@ -15,7 +15,7 @@ Artificial intelligence related notes and projects
        - [X] Part 5
        - [ ] Part 6
 ****** TODO Put code onto Github
-       SCHEDULED: <2019-10-02 Wed>
+       SCHEDULED: <2019-10-05 Sat>
        - [X] Q learning table
        - [ ] Deep reinforcement learning
 *** Read OpenAI blog

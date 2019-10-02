@@ -152,10 +152,13 @@
 * ToDos
 ** Regular practice
 *** TODO Daily kenjutsu practice
-    SCHEDULED: <2019-09-30 Mon +1d>
+    SCHEDULED: <2019-10-03 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-30 Mon 10:36]
+    :LAST_REPEAT: [2019-10-02 Wed 18:53]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
+    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:52]
+    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:36]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:36]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:34]
@@ -190,10 +193,11 @@
     Do short bonten (9x4 cuts + happoido).
     Uchikomi 1 with both hands
 *** TODO Practice urafune mae
-    SCHEDULED: <2019-10-02 Wed +1w>
+    SCHEDULED: <2019-10-09 Wed +1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-26 Thu 14:34]
+    :LAST_REPEAT: [2019-10-02 Wed 18:53]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:34]
     - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
     - State "DIDNTDO"    from "TODO"       [2019-09-11 Wed 19:04]
