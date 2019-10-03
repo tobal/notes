@@ -35,6 +35,6 @@ will be in a different repository.
 *** TODO Google Tasks
 ** Diary
 *** TODO Write diary encrypter/decrypter script
-    SCHEDULED: <2019-10-03 Thu>
+    SCHEDULED: <2019-10-12 Sat>
 *** TODO Research org-mode diary syntax
     SCHEDULED: <2019-10-08 Tue>

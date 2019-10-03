@@ -2,7 +2,7 @@
 * Communication
 ** Google Mail
 *** TODO Schedule Gmail ToDos
-    SCHEDULED: <2019-10-03 Thu>
+    SCHEDULED: <2019-10-16 Wed>
 *** TODO Unsubscribe mailing lists
 *** TODO Organize labels
 *** TODO Do zero inbox
