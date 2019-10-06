@@ -9,10 +9,11 @@
     - State "DONE"       from "TODO"       [2019-10-02 Wed 18:51]
 ** ToDos
 *** TODO Regular staff practice
-    SCHEDULED: <2019-10-06 Sun +3d>
+    SCHEDULED: <2019-10-09 Wed +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:13]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
     - State "COULDNTDO"  from "TODO"       [2019-10-03 Thu 16:13]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:32]
@@ -36,10 +37,11 @@
 * Sword
 ** ToDos
 *** TODO Regular sword practice
-    SCHEDULED: <2019-10-05 Sat +3d>
+    SCHEDULED: <2019-10-08 Tue +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-02 Wed 18:53]
+    :LAST_REPEAT: [2019-10-06 Sun 14:40]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:35]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]

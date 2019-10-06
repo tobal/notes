@@ -2,11 +2,14 @@
 * ToDos
 ** Regular practice
 *** TODO Daily singing practice
-    SCHEDULED: <2019-10-04 Fri +1d>
+    SCHEDULED: <2019-10-07 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 20:13]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
 
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
     - State "DONE"       from "TODO"       [2019-10-03 Thu 20:13]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:52]
@@ -46,9 +49,9 @@
     - Sing jazz
     - Sing blues
 *** TODO Find vocal warmup video
-    SCHEDULED: <2019-10-05 Sat>
+    SCHEDULED: <2019-10-12 Sat>
 *** TODO Find blues scale video
-    SCHEDULED: <2019-10-05 Sat>
+    SCHEDULED: <2019-10-12 Sat>
 ** Singing class
 *** DONE Singing class on friday
     SCHEDULED: <2019-09-13 Fri>

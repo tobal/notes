@@ -14,8 +14,8 @@
 ****** DONE Schedule call
        SCHEDULED: <2019-09-21 Sat>
 ****** TODO [#A] Install Bluejeans, prepare
-       SCHEDULED: <2019-10-03 Thu>
-****** TODO Take call
+       SCHEDULED: <2019-10-07 Mon>
+****** DONE Take call
        SCHEDULED: <2019-10-04 Fri>
 ***** Online test
 ****** TODO Practice on Hackerrank

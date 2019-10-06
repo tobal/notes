@@ -3,6 +3,6 @@
 ** Mobile games
 *** Ingress
 **** TODO Read about Ingress
-     SCHEDULED: <2019-10-05 Sat>
+     SCHEDULED: <2019-10-12 Sat>
 ** MMORPGs
 ** MUDs

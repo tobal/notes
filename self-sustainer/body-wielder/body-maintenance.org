@@ -2,10 +2,13 @@
 * ToDos
 ** Morning routine
 *** TODO Shower
-    SCHEDULED: <2019-10-04 Fri +1d>
+    SCHEDULED: <2019-10-07 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:12]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:41]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DONE"       from "TODO"       [2019-10-03 Thu 16:12]
     - State "DONE"       from "TODO"       [2019-10-02 Wed 18:52]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
@@ -29,10 +32,14 @@
     - State "DONE"       from "TODO"       [2019-09-13 Fri 13:15]
     - State "DONE"       from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Morning teeth
-    SCHEDULED: <2019-10-04 Fri +1d>
+    SCHEDULED: <2019-10-08 Tue +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:12]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:41]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DONE"       from "TODO"       [2019-10-03 Thu 16:12]
     - State "DONE"       from "TODO"       [2019-10-02 Wed 18:52]
     - State "DONE"       from "TODO"       [2019-10-02 Wed 18:50]
@@ -56,10 +63,11 @@
     - State "DONE"       from "TODO"       [2019-09-13 Fri 13:15]
     - State "DONE"       from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Beard maintenance
-    SCHEDULED: <2019-10-04 Fri +3d>
+    SCHEDULED: <2019-10-07 Mon +3d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-02 Wed 18:50]
+    :LAST_REPEAT: [2019-10-06 Sun 14:37]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:32]
     - State "DONE"       from "TODO"       [2019-09-30 Mon 10:31]
@@ -68,10 +76,11 @@
     - State "DONE"       from "TODO"       [2019-09-16 Mon 08:57]
     - State "DIDNTDO"    from "TODO"       [2019-09-12 Thu 10:10]
 *** TODO Shave
-    SCHEDULED: <2019-10-06 Sun +5d>
+    SCHEDULED: <2019-10-11 Fri +5d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-02 Wed 18:50]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:41]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DONE"       from "TODO"       [2019-09-30 Mon 10:31]
     - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
@@ -86,10 +95,13 @@
     - State "DONE"       from "TODO"       [2019-09-16 Mon 08:57]
 ** Evening routine
 *** TODO Evening teeth
-    SCHEDULED: <2019-10-03 Thu +1d>
+    SCHEDULED: <2019-10-06 Sun +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:11]
+    :LAST_REPEAT: [2019-10-06 Sun 14:38]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DIDNTDO"    from "TODO"       [2019-10-03 Thu 16:11]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:49]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:49]
@@ -112,10 +124,13 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-14 Sat 15:36]
     - State "DIDNTDO"    from "TODO"       [2019-09-13 Fri 13:15]
 *** TODO Face wash
-    SCHEDULED: <2019-10-03 Thu +1d>
+    SCHEDULED: <2019-10-06 Sun +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:11]
+    :LAST_REPEAT: [2019-10-06 Sun 14:38]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DIDNTDO"    from "TODO"       [2019-10-03 Thu 16:11]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:49]
@@ -138,10 +153,13 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-14 Sat 15:37]
     - State "DIDNTDO"    from "TODO"       [2019-09-13 Fri 13:15]
 *** TODO Eye training
-    SCHEDULED: <2019-10-03 Thu +1d>
+    SCHEDULED: <2019-10-06 Sun +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 16:11]
+    :LAST_REPEAT: [2019-10-06 Sun 14:38]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
+    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
     - State "DIDNTDO"    from "TODO"       [2019-10-03 Thu 16:11]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
@@ -165,6 +183,6 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-13 Fri 13:15]
 ** Services
 *** TODO Hairdresser
-    SCHEDULED: <2019-10-04 Fri +1m>
+    SCHEDULED: <2019-10-10 Thu +1m>
 *** TODO Barber
-    SCHEDULED: <2019-10-05 Sat>
+    SCHEDULED: <2019-10-12 Sat>

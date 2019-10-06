@@ -128,5 +128,5 @@
 *** DONE [#C] Fill out PAS
     DEADLINE: <2019-09-10 Tue> SCHEDULED: <2019-09-02 Mon>
 *** TODO Process competency matrix for F2F
-    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-10-04 Fri>
+    DEADLINE: <2019-10-01 Tue> SCHEDULED: <2019-10-07 Mon>
 

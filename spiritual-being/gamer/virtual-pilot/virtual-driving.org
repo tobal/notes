@@ -5,14 +5,17 @@
     SCHEDULED: <2019-12-23 Mon>
     [[https://www.youtube.com/watch?v=KyLQ1ijWqN0][Beginner tutorial on youtube]]
 *** TODO Process driving videos on youtube
-    SCHEDULED: <2019-10-05 Sat>
+    SCHEDULED: <2019-10-12 Sat>
     [[https://www.youtube.com/playlist?list=PLNzS9uOg1cqTCPT9RL7lFf1gr1-AKbx9v][Driving video list]]
 ** Practice
 *** TODO Daily driving practice
-    SCHEDULED: <2019-10-04 Fri +1d>
+    SCHEDULED: <2019-10-07 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-03 Thu 21:11]
+    :LAST_REPEAT: [2019-10-06 Sun 14:41]
     :END:
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:41]
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:40]
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:37]
     - State "DONE"       from "TODO"       [2019-10-03 Thu 21:11]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
