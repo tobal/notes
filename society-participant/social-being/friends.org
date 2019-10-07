@@ -27,7 +27,7 @@
 ** Eva
 *** Visit November
 **** TODO Book room
-     SCHEDULED: <2019-10-06 Sun>
+     SCHEDULED: <2019-10-07 Mon>
 **** TODO Visit
      SCHEDULED: <2019-11-01 Fri>
 * Etc

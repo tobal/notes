@@ -34,10 +34,11 @@
     Listen to the song every morning upon waking up
     [[https://www.youtube.com/watch?v=YFSc7Ck0Ao0][Add this song]]
 *** TODO Evening meditation
-    SCHEDULED: <2019-10-06 Sun +1d>
+    SCHEDULED: <2019-10-07 Mon +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:40]
+    :LAST_REPEAT: [2019-10-07 Mon 10:18]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-07 Mon 10:18]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
