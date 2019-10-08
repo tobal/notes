@@ -1,0 +1,12 @@
+
+* Python
+** Events
+*** Meetups
+**** Budapest.py
+***** TODO Schedule and go to a py workshop
+*** Conferences
+* Scala
+** Events
+*** Meetups
+**** Budapest.scala
+*** Conferences
