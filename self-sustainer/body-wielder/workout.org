@@ -18,10 +18,12 @@
 * ToDos
 ** At home
 *** TODO Morning warmup
-    SCHEDULED: <2019-10-07 Mon +1d>
+    SCHEDULED: <2019-10-09 Wed +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:41]
+    :LAST_REPEAT: [2019-10-08 Tue 14:54]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:54]
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
@@ -59,10 +61,12 @@
     - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
     - State "DONE"       from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Morning kettlebell
-    SCHEDULED: <2019-10-07 Mon +1d>
+    SCHEDULED: <2019-10-09 Wed +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:41]
+    :LAST_REPEAT: [2019-10-08 Tue 14:54]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:54]
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
@@ -100,10 +104,12 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
     - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Morning stretch
-    SCHEDULED: <2019-10-07 Mon +1d>
+    SCHEDULED: <2019-10-09 Wed +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:41]
+    :LAST_REPEAT: [2019-10-08 Tue 14:54]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:54]
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:37]
@@ -141,10 +147,11 @@
     - State "DONE"       from "TODO"       [2019-09-02 Mon 08:05]
     - State "CANCELED"   from "TODO"       [2019-09-01 Sun 12:27]
 *** TODO Evening stretch
-    SCHEDULED: <2019-10-07 Mon +1d>
+    SCHEDULED: <2019-10-08 Tue +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-07 Mon 10:17]
+    :LAST_REPEAT: [2019-10-08 Tue 14:53]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-07 Mon 10:17]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
@@ -193,10 +200,11 @@
     - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 09:00]
     - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
 *** TODO B2P2 lite
-    SCHEDULED: <2019-10-08 Tue +1w>
+    SCHEDULED: <2019-10-15 Tue +1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-09-24 Tue 15:22]
+    :LAST_REPEAT: [2019-10-08 Tue 14:54]
     :END:
+    - State "DONE"       from "TODO"       [2019-10-08 Tue 14:54]
     - State "DONE"       from "TODO"       [2019-09-24 Tue 15:22]
     - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:22]
     - State "DONE"       from "TODO"       [2019-09-17 Tue 13:12]

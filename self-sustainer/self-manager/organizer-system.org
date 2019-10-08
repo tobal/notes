@@ -37,4 +37,4 @@ will be in a different repository.
 *** TODO Write diary encrypter/decrypter script
     SCHEDULED: <2019-10-12 Sat>
 *** TODO Research org-mode diary syntax
-    SCHEDULED: <2019-10-08 Tue>
+    SCHEDULED: <2019-10-18 Fri>

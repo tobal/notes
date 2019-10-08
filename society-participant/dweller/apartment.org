@@ -3,10 +3,11 @@
 ** Maintenance
 ** Cleaning
 *** TODO Tidy up
-    SCHEDULED: <2019-10-07 Mon +2d>
+    SCHEDULED: <2019-10-09 Wed +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:38]
+    :LAST_REPEAT: [2019-10-08 Tue 14:53]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
@@ -25,10 +26,11 @@
     - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
     - State "DONE"       from "TODO"       [2019-08-31 Sat 12:47]
 *** TODO Wash dishes
-    SCHEDULED: <2019-10-07 Mon +2d>
+    SCHEDULED: <2019-10-09 Wed +2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-06 Sun 14:38]
+    :LAST_REPEAT: [2019-10-08 Tue 14:53]
     :END:
+    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
