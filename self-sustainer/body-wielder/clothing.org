@@ -2,7 +2,7 @@
 * ToDos
 ** Maintenance
 *** TODO Wash clothes
-    SCHEDULED: <2019-10-09 Wed +1w>
+    SCHEDULED: <2019-10-11 Fri +1w>
     :PROPERTIES:
     :LAST_REPEAT: [2019-10-02 Wed 18:53]
     :END:

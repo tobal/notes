@@ -8,6 +8,6 @@
 **** TODO Order C64 monitor cable
      SCHEDULED: <2019-10-12 Sat>
 **** TODO Try C64 monitor
-     SCHEDULED: <2019-10-09 Wed>
+     SCHEDULED: <2019-11-11 Mon>
 **** TODO Try C64 computer
-     SCHEDULED: <2019-10-09 Wed>
+     SCHEDULED: <2019-11-11 Mon>

@@ -2,11 +2,12 @@
 * ToDos
 ** Regular practice
 *** TODO Daily singing practice
-    SCHEDULED: <2019-10-08 Tue +1d>
+    SCHEDULED: <2019-10-09 Wed +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2019-10-08 Tue 14:53]
+    :LAST_REPEAT: [2019-10-09 Wed 16:32]
     :END:
 
+    - State "DIDNTDO"    from "TODO"       [2019-10-09 Wed 16:32]
     - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
