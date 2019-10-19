@@ -1,0 +1,19 @@
+
+* Skills
+** Reading sheet music
+*** Tonality
+**** TODO Read up on tonalities in english
+     SCHEDULED: <2019-10-23 Wed>
+     [[https://en.wikipedia.org/wiki/Tonality][Wikipedia - Tonality]]
+**** TODO Write digital notes on tonalities (from notes on paper)
+     SCHEDULED: <2019-10-23 Wed>
+*** Rhythm
+**** TODO Read up on rhythms in english
+     SCHEDULED: <2019-10-23 Wed>
+     [[https://en.wikipedia.org/wiki/Rhythm][Wikipedia - Rhythm]]
+**** TODO Write digital notes on rhythms (from notes on paper)
+     SCHEDULED: <2019-10-23 Wed>
+*** Practice
+**** Sol-fa
+**** Write sheet music
+**** Sing sheet music
