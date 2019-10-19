@@ -1,59 +1,25 @@
 
-* ToDos
-** Regular practice
-*** TODO Daily singing practice
-    SCHEDULED: <2019-10-09 Wed +1d>
-    :PROPERTIES:
-    :LAST_REPEAT: [2019-10-09 Wed 16:32]
-    :END:
-
-    - State "DIDNTDO"    from "TODO"       [2019-10-09 Wed 16:32]
-    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
-    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:41]
-    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:40]
-    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
-    - State "DONE"       from "TODO"       [2019-10-03 Thu 20:13]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:52]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
-    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:37]
-    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:36]
-    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
-    - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:35]
-    - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 08:32]
-    - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:21]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
-    - State "DIDNTDO"    from "TODO"       [2019-09-20 Fri 14:55]
-    - State "DONE"       from "TODO"       [2019-09-19 Thu 09:25]
-    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
-    - State "DIDNTDO"    from "TODO"       [2019-09-17 Tue 09:41]
-    - State "DONE"       from "TODO"       [2019-09-16 Mon 09:00]
-    - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:57]
-    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:17]
-    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:15]
-    - State "DONE"       from "TODO"       [2019-09-11 Wed 21:39]
-    - State "DONE"       from "TODO"       [2019-09-10 Tue 21:25]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
-    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:13]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
-    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:11]
-    - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
-    - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
-    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
-    - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
-    - State "DIDNTDO"    from "TODO"       [2019-09-02 Mon 08:05]
-    - State "DONE"       from "TODO"       [2019-09-01 Sun 10:47]
-    - State "DONE"       from "TODO"       [2019-09-01 Sun 07:10]
+* Regular practice
+** TODO Singing practice
+   SCHEDULED: <2019-10-21 Mon +5d>
+*** Ideas on what to do
     - Vocal warmup
     - Sing reggae
     - Sing jazz
     - Sing blues
-*** TODO Find vocal warmup video
-    SCHEDULED: <2019-10-12 Sat>
-*** TODO Find blues scale video
-    SCHEDULED: <2019-10-12 Sat>
-** Singing class
-*** DONE Singing class on friday
-    SCHEDULED: <2019-09-13 Fri>
+    - Sing alter
+** TODO Find vocal warmup video
+   SCHEDULED: <2019-10-23 Wed>
+** TODO Find blues scale video
+   SCHEDULED: <2019-10-23 Wed>
+* Singing class
+** TODO Singing class on friday
+   SCHEDULED: <2019-10-25 Fri +1w>
+* Skills
+** Sound intervals
+*** Recognize sound intervals
+*** Sing sound intervals
+*** TODO Write digital notes on sound intervals (from notes on paper)
+    SCHEDULED: <2019-10-23 Wed>
+** Improvization
+*** Improvize with blues scale
