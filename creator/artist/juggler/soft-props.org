@@ -1,5 +1,5 @@
 
-* Rope dart
+* Rope dart / Meteor hammer / Kusarigama
 ** Tricks
 *** Chained transfers
     - Elbow
@@ -15,50 +15,29 @@
       - From shoulder to waist
       - From waist to shoulder
     - Around neck
-* ToDos
-** Rope dart
-*** TODO Daily rope dart practice
-    SCHEDULED: <2019-10-10 Thu +3d>
-    :PROPERTIES:
-    :LAST_REPEAT: [2019-10-07 Mon 10:19]
-    :END:
-    - State "COULDNTDO"  from "TODO"       [2019-10-07 Mon 10:19]
-    - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:38]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:51]
-    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:33]
-    - State "DIDNTDO"    from "TODO"       [2019-09-26 Thu 14:35]
-    - State "DIDNTDO"    from "TODO"       [2019-09-25 Wed 08:31]
-    - State "DONE"       from "TODO"       [2019-09-24 Tue 15:21]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:55]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:53]
-    - State "DIDNTDO"    from "TODO"       [2019-09-22 Sun 16:51]
-    - State "DIDNTDO"    from "TODO"       [2019-09-20 Fri 14:55]
-    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:25]
-    - State "DIDNTDO"    from "TODO"       [2019-09-19 Thu 09:23]
-    - State "DONE"       from "TODO"       [2019-09-16 Mon 08:59]
-    - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:59]
-    - State "DONE"       from "TODO"       [2019-09-14 Sat 15:38]
-    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:16]
-    - State "DONE"       from "TODO"       [2019-09-13 Fri 13:15]
-    - State "DONE"       from "TODO"       [2019-09-11 Wed 07:14]
-    - State "DONE"       from "TODO"       [2019-09-10 Tue 20:08]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 21:57]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:13]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:11]
-    - State "DIDNTDO"    from "TODO"       [2019-09-06 Fri 12:09]
-    - State "DIDNTDO"    from "TODO"       [2019-09-05 Thu 08:23]
-    - State "DIDNTDO"    from "TODO"       [2019-09-04 Wed 08:07]
-    - State "DONE"       from "TODO"       [2019-09-03 Tue 09:51]
-    - State "DONE"       from "TODO"       [2019-09-01 Sun 07:11]
-    - State "DONE"       from "TODO"       [2019-08-31 Sat 12:47]
-    - State "DONE"       from "TODO"       [2019-08-30 Fri 21:44]
+** Tools
+*** Craft
+**** Fire rope dart
+**** Rope dart with a kunai
+**** Kusarigama
+**** Parts which can be assembled
+***** Meteor hammer head
+***** Kunai head
+***** Kama head
+***** Rope with loop
+***** Rope with two ends (for meteor)
+** Practice
+*** TODO Systematic rope dart juggling practice
+**** TODO Reminder to schedule
+     SCHEDULED: <2020-03-01 Sun>
+**** Things to practice
     - Chained transfers
     - Loose shots
     - Empty knots
 *** TODO Process rope dart videos
-    SCHEDULED: <2019-10-15 Tue>
     Break them down, write all the tricks, make todos out of them
     [[https://www.youtube.com/watch?v=JwNWTSOULw4][Basics]]
     [[https://www.youtube.com/watch?v=EGZ7cFjslIM][Empty knots]]
     [[https://www.youtube.com/watch?v=aggOfsBuaSQ][Shaolin]]
+**** TODO Reminder to schedule
+     SCHEDULED: <2020-03-01 Sun>
