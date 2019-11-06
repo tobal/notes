@@ -13,12 +13,15 @@
 ***** Communications
 ****** DONE Schedule call
        SCHEDULED: <2019-09-21 Sat>
-****** TODO [#A] Install Bluejeans, prepare
+****** DONE [#A] Install Bluejeans, prepare
        SCHEDULED: <2019-10-07 Mon>
 ****** DONE Take call
        SCHEDULED: <2019-10-04 Fri>
 ***** Online test
-****** TODO Practice on Hackerrank
-****** TODO Take test
+****** DONE Take test
 ***** Live coding
+****** DONE Make seed project repo
+****** DONE Prepare environment
+****** TODO Test call
+****** TODO Take call
 ***** Test project
