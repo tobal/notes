@@ -1,13 +1,10 @@
 
-Artificial intelligence related notes and projects
-
 * ToDos
 ** Learning
 *** Youtube videos
 **** Sentdex
 ***** Reinforcement learning videos
 ****** TODO Watch videos
-       SCHEDULED: <2019-10-12 Sat>
        - [X] Part 1
        - [X] Part 2
        - [X] Part 3
@@ -15,9 +12,13 @@ Artificial intelligence related notes and projects
        - [X] Part 5
        - [ ] Part 6
 ****** TODO Put code onto Github
-       SCHEDULED: <2019-10-12 Sat>
        - [X] Q learning table
        - [ ] Deep reinforcement learning
 *** Read OpenAI blog
+*** Synthesizing notes of learning
+    Have an example learning project for all three categories
+**** Supervised ML
+**** Unsupervised ML
+**** Reinforcement ML
 ** Projects
 *** OpenAI contribution
