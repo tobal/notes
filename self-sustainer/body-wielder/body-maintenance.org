@@ -1,34 +1,32 @@
 
 * Diet
 ** Implement slow carb diet
-   [[http://confidenceandpower.hu/2018/02/03/slow-carb-oldschool-dieta/][Slow carb dieta]]
+   [[http://confidenceandpower.hu/2018/02/03/slow-carb-oldschool-dieta/][Slow carb diet]]
 *** Make plan
     Goal: Lose weight until May
     Requisites:
-    - [ ] measure weight
-    - [ ] forecast weight loss progression
-    - [ ] plan groceries
-* Routines
+    - [X] plan groceries
+* Workout
+** Morning routine
+*** TODO Warmup
+*** TODO Kettle bell routine
+*** TODO Stretch
+** Evening routine
+*** TODO Stretch
+    Notes here: [[workout.org][Workout notes]]
+*** TODO Eye training
+* Hygiene
 ** Morning routine
 *** TODO Shower
-    SCHEDULED: <2019-10-10 Thu +1d>
 *** TODO Morning teeth
-    SCHEDULED: <2019-10-10 Thu +1d>
 *** TODO Beard maintenance
-    SCHEDULED: <2019-10-12 Sat +3d>
 *** TODO Shave
-    SCHEDULED: <2019-10-11 Fri +5d>
 *** TODO Hairs
-    SCHEDULED: <2019-10-16 Wed +8d>
 ** Evening routine
 *** TODO Evening teeth
-    SCHEDULED: <2019-10-09 Wed +1d>
 *** TODO Face wash
-    SCHEDULED: <2019-10-09 Wed +1d>
-*** TODO Eye training
-    SCHEDULED: <2019-10-09 Wed +1d>
+* Looks
 ** Services
 *** TODO Hairdresser
-    SCHEDULED: <2019-10-10 Thu +1m>
 *** TODO Barber
-    SCHEDULED: <2019-10-12 Sat>
+ 
