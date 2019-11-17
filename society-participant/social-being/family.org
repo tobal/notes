@@ -2,42 +2,8 @@
 * ToDos
 ** Call
 *** TODO Call Mom
-    SCHEDULED: <2019-10-11 Fri +4d>
-    :PROPERTIES:
-    :LAST_REPEAT: [2019-10-08 Tue 14:53]
-    :END:
-    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
-    - State "DONE"       from "TODO"       [2019-10-02 Wed 20:09]
-    - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:31]
-    - State "CANCELED"   from "TODO"       [2019-09-20 Fri 14:56]
-    - State "DONE"       from "TODO"       [2019-09-16 Mon 08:59]
-    - State "DONE"       from "TODO"       [2019-09-12 Thu 19:52]
-    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:12]
-    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:11]
-    - State "DONE"       from "TODO"       [2019-08-31 Sat 23:09]
 *** TODO Call Sister
-    SCHEDULED: <2019-10-14 Mon +1w>
-    :PROPERTIES:
-    :LAST_REPEAT: [2019-10-08 Tue 14:53]
-    :END:
-    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:53]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:50]
-    - State "DIDNTDO"    from "TODO"       [2019-09-24 Tue 15:20]
-    - State "DIDNTDO"    from "TODO"       [2019-09-16 Mon 08:58]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
-    - State "DONE"       from "TODO"       [2019-09-01 Sun 12:14]
 *** TODO Call Brother
-    SCHEDULED: <2019-10-14 Mon +6d>
-    :PROPERTIES:
-    :LAST_REPEAT: [2019-10-08 Tue 14:54]
-    :END:
-    - State "DIDNTDO"    from "TODO"       [2019-10-08 Tue 14:54]
-    - State "DIDNTDO"    from "TODO"       [2019-10-02 Wed 18:53]
-    - State "DONE"       from "TODO"       [2019-09-26 Thu 14:35]
-    - State "CANCELED"   from "TODO"       [2019-09-20 Fri 14:56]
-    - State "DIDNTDO"    from "TODO"       [2019-09-14 Sat 15:38]
-    - State "DIDNTDO"    from "TODO"       [2019-09-09 Mon 16:12]
-    - State "DONE"       from "TODO"       [2019-09-09 Mon 16:11]
 ** Favors
 *** Brother
 **** Fetch Hifi
