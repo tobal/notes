@@ -3,29 +3,23 @@
 ** Software systems
 *** Ono-sendai
 **** TODO Update operating system
-     SCHEDULED: <2019-10-12 Sat +1w>
-     :PROPERTIES:
-     :LAST_REPEAT: [2019-10-06 Sun 14:39]
-     :END:
-     - State "DONE"       from "TODO"       [2019-10-06 Sun 14:39]
-     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:30]
-     - State "DIDNTDO"    from "TODO"       [2019-09-30 Mon 10:30]
 **** TODO Clean browser tabs
-     SCHEDULED: <2019-10-13 Sun +1w>
-     :PROPERTIES:
-     :LAST_REPEAT: [2019-10-06 Sun 14:39]
-     :END:
-     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:39]
 *** Cyberdeck
 **** TODO Clean browser tabs
-     SCHEDULED: <2019-10-13 Sun +1w>
-     :PROPERTIES:
-     :LAST_REPEAT: [2019-10-06 Sun 14:39]
-     :END:
-     - State "DIDNTDO"    from "TODO"       [2019-10-06 Sun 14:39]
+*** Euclid
+**** TODO Reinstall system
 ** Hardware maintenance
-*** Windows host
+*** Windows host on Dell
 **** TODO see hostname and write it here
-     SCHEDULED: <2019-10-12 Sat>
 **** TODO Clean CPU cooler
-     SCHEDULED: <2019-10-12 Sat>
+*** Desktop windows host
+**** TODO Start machine
+     See what's installed, does it need reinstall
+**** TODO Look inside machine
+     See what's inside, write down configuration and make pictures
+*** Euclid
+**** TODO Disassemble machine
+     See what's inside, write down configuration and make pictures
+     Remove broken coolers
+**** TODO Buy new coolers
+**** TODO Put inside new coolers
