@@ -3,5 +3,3 @@
 ** Conferences
 ** Meetups
 *** Hackersuli
-**** TODO Participate on Gyerekjatek occasion
-     SCHEDULED: <2019-10-10 Thu>
