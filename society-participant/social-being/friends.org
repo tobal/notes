@@ -9,9 +9,14 @@
     SCHEDULED: <2019-08-31 Sat>
 *** DONE Meet, go to them
     SCHEDULED: <2019-09-20 Fri>
-*** TODO Talamasca party
+*** DONE Talamasca party
     SCHEDULED: <2019-10-22 Tue>
+** Árpi
+*** DONE Meet
+    SCHEDULED: <2019-11-13 Wed>
 ** David
+*** TODO Play Warframe
+    SCHEDULED: <2019-11-17 Sun>
 ** Fruzsi, Atis
 *** DONE Zsongibongi summer farewell day
     SCHEDULED: <2019-09-28 Sat>
@@ -22,13 +27,17 @@
 * University
 * Online
 ** Saci
-*** DONE Reply to email
-    SCHEDULED: <2019-09-15 Sun>
+*** TODO Reply to email
 ** Eva
 *** Visit November
 **** DONE Book room
      SCHEDULED: <2019-10-07 Mon>
-**** TODO Visit
+**** DONE Visit
      SCHEDULED: <2019-11-01 Fri>
+*** Meet December
+**** TODO Gather ideas on what to do
+     - Bath
+     - Cinema
+**** TODO Meet
 * Etc
 ** Misi
