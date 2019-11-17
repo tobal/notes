@@ -5,7 +5,7 @@
 **** Budapest.py
 ***** DONE Prepare for pythonr workshop 4
       SCHEDULED: <2019-10-09 Wed>
-***** TODO Participate on python workshop 4
+***** DONE Participate on python workshop 4
       SCHEDULED: <2019-10-09 Wed>
 *** Conferences
 * Scala

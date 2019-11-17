@@ -22,6 +22,6 @@
 ***** Live coding
 ****** DONE Make seed project repo
 ****** DONE Prepare environment
-****** TODO Test call
-****** TODO Take call
+****** DONE Test call
+****** DONE Take call
 ***** Test project
