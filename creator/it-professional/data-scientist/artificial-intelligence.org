@@ -1,24 +1,29 @@
-
-* ToDos
-** Learning
-*** Youtube videos
-**** Sentdex
-***** Reinforcement learning videos
-****** TODO Watch videos
-       - [X] Part 1
-       - [X] Part 2
-       - [X] Part 3
-       - [X] Part 4
-       - [X] Part 5
-       - [ ] Part 6
-****** TODO Put code onto Github
-       - [X] Q learning table
-       - [ ] Deep reinforcement learning
-*** Read OpenAI blog
-*** Synthesizing notes of learning
-    Have an example learning project for all three categories
-**** Supervised ML
-**** Unsupervised ML
-**** Reinforcement ML
-** Projects
-*** OpenAI contribution
+* Learning
+** Youtube videos
+*** Sentdex
+**** Reinforcement learning videos
+***** TODO Watch videos
+      - [X] Part 1
+      - [X] Part 2
+      - [X] Part 3
+      - [X] Part 4
+      - [X] Part 5
+      - [ ] Part 6
+***** TODO Put code onto Github
+      - [X] Q learning table
+      - [ ] Deep reinforcement learning
+** Read OpenAI blog
+** Synthesizing notes of learning
+   Have an example learning project for all three categories
+*** Supervised ML
+*** Unsupervised ML
+*** Reinforcement ML
+** A learning path
+*** [[https://www.coursera.org/learn/ai-for-everyone][AI for everyone @ Coursera]]
+*** [[http://math.ecnu.edu.cn/~lfzhou/seminar/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf][Data Science from Scratch]]
+*** [[https://machinelearningmastery.com/][Machine Learning Mastery]]
+*** [[https://www.youtube.com/watch?v=OGxgnH8y2NM][Practical machine learning tutorial]]
+*** [[http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf][Hands-on Machine Learning with Scikit-learn & TensorFlow]]
+*** [[https://www.coursera.org/specializations/deep-learning][Deep Learning Specialization]]
+* Projects
+** OpenAI contribution
