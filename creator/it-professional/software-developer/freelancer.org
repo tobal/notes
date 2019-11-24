@@ -4,7 +4,7 @@
 *** Research
 **** TODO Decide on technology
      Flask and SQLAlchemy
-     Example codes: [[https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-8a25122ab1f3][skeleton]] [[https://gist.github.com/leon-sleepinglion/97bfd34132394e23ca5905ec730f776a][methods]] [[https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699][routes]] [[https://www.freecodecamp.org/news/build-a-simple-json-api-in-python/][JSON API]] [[https://blog.miguelgrinberg.com/post/restful-authentication-with-flask][authentication]] [[https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/][testing]]
+     Example codes: [[https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-8a25122ab1f3][skeleton]] [[https://gist.github.com/leon-sleepinglion/97bfd34132394e23ca5905ec730f776a][methods]] [[https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699][routes]] [[https://www.freecodecamp.org/news/build-a-simple-json-api-in-python/][JSON API]] [[https://blog.miguelgrinberg.com/post/restful-authentication-with-flask][authentication]] [[https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/][testing]] [[https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions][sessions]]
 *** Implement
 **** TODO Write basic skeleton
 *** Test
