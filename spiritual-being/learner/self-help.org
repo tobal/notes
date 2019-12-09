@@ -1,0 +1,7 @@
+
+* Neuroscience course
+** [[https://www.udemy.com/course/my-brain-and-i/learn/lecture/5743110#overview][Course overview]]
+** Schedule
+*** TODO Review completed material
+    SCHEDULED: <2019-12-09 Mon>
+*** TODO Make plan for remaining material
