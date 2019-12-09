@@ -6,6 +6,7 @@
    SCHEDULED: <2019-12-09 Mon>
 * Groceries
 ** TODO Buy groceries
+   SCHEDULED: <2019-12-09 Mon>
    - [ ] Water
    - [X] Beans
    - [X] Vegetables
@@ -15,3 +16,5 @@
    - [X] Eggs
    - [ ] Coconut milk
    - [ ] Yoghurt
+   - [ ] Turkey thigh
+   - [ ] Onions
