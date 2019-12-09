@@ -14,9 +14,10 @@
 ** Árpi
 *** DONE Meet
     SCHEDULED: <2019-11-13 Wed>
+*** TODO Meet
+    SCHEDULED: <2019-12-11 Wed>
 ** David
-*** TODO Play Warframe
-    SCHEDULED: <2019-11-17 Sun>
+*** DONE Play Warframe
 ** Fruzsi, Atis
 *** DONE Zsongibongi summer farewell day
     SCHEDULED: <2019-09-28 Sat>

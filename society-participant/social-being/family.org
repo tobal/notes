@@ -2,6 +2,7 @@
 * ToDos
 ** Call
 *** TODO Call Mom
+    SCHEDULED: <2019-12-09 Mon>
 *** TODO Call Sister
 *** TODO Call Brother
 ** Favors

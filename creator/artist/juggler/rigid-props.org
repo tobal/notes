@@ -1,8 +1,8 @@
 
 * Staff
 ** Events
-*** TODO Contact staff training on tuesday
-    SCHEDULED: <2019-10-22 Tue +1w>
+*** DONE Contact staff training on tuesday
+    SCHEDULED: <2019-10-22 Tue>
 ** Practice
 *** TODO Systematic staff juggling practice
 **** TODO Reminder to schedule

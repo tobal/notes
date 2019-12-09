@@ -2,7 +2,6 @@
 * Juggling events
 ** Inspiral
 *** TODO Juggler's wednesday
-    SCHEDULED: <2019-10-30 Wed +1w>
 ** Kontaktábor @ Lajosmizse
 *** DONE 2018
 *** DONE 2019

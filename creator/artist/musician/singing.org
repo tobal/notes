@@ -1,7 +1,7 @@
 
 * Regular practice
 ** TODO Singing practice
-   SCHEDULED: <2019-10-21 Mon +5d>
+   SCHEDULED: <2019-12-12 Thu>
 *** Ideas on what to do
     - Vocal warmup
     - Sing reggae
@@ -9,17 +9,14 @@
     - Sing blues
     - Sing alter
 ** TODO Find vocal warmup video
-   SCHEDULED: <2019-10-23 Wed>
 ** TODO Find blues scale video
-   SCHEDULED: <2019-10-23 Wed>
 * Singing class
 ** TODO Singing class on friday
-   SCHEDULED: <2019-10-25 Fri +1w>
+   SCHEDULED: <2019-12-13 Fri +1w>
 * Skills
 ** Sound intervals
 *** Recognize sound intervals
 *** Sing sound intervals
 *** TODO Write digital notes on sound intervals (from notes on paper)
-    SCHEDULED: <2019-10-23 Wed>
 ** Improvization
 *** Improvize with blues scale

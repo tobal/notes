@@ -2,15 +2,3 @@
 * Learning
 ** Japanese cooking
 ** Cook in wok
-* ToDos
-** Food at home
-*** TODO Grocieries
-    - [X] Water
-    - [X] Beans
-    - [X] Vegetables
-    - [X] Pickles
-    - [X] Meat
-    - [X] Tuna
-    - [X] Eggs
-    - [X] Coconut milk
-    - [X] Yoghurt
