@@ -1,0 +1,17 @@
+
+* Read and learn
+** [[http://confidenceandpower.hu/2018/02/03/slow-carb-oldschool-dieta/][Slow carb diet]]
+* Cook
+** TODO Cook meat
+   SCHEDULED: <2019-12-09 Mon>
+* Groceries
+** TODO Buy groceries
+   - [ ] Water
+   - [X] Beans
+   - [X] Vegetables
+   - [ ] Vecsési
+   - [X] Meat
+   - [X] Tuna
+   - [X] Eggs
+   - [ ] Coconut milk
+   - [ ] Yoghurt
