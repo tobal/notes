@@ -3,5 +3,5 @@
 ** [[https://www.udemy.com/course/my-brain-and-i/learn/lecture/5743110#overview][Course overview]]
 ** Schedule
 *** TODO Review completed material
-    SCHEDULED: <2019-12-09 Mon>
+    SCHEDULED: <2019-12-11 Wed>
 *** TODO Make plan for remaining material

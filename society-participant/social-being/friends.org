@@ -14,7 +14,9 @@
 ** Árpi
 *** DONE Meet
     SCHEDULED: <2019-11-13 Wed>
-*** TODO Meet
+*** TODO Reschedule meeting
+    SCHEDULED: <2019-12-16 Mon>
+*** CANCELED Meet
     SCHEDULED: <2019-12-11 Wed>
 ** David
 *** DONE Play Warframe
