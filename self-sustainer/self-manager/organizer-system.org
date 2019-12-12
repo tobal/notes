@@ -37,3 +37,13 @@ will be in a different repository.
 ** Diary
 *** TODO Write diary encrypter/decrypter script
 *** TODO Research org-mode diary syntax
+** ToDo dump for 2019 end of year
+*** TODO Put these ToDos to proper place
+*** TODO Read articles
+*** TODO Clean all tabs
+*** TODO Reinstall computers 
+*** TODO Sort out LinkedIn profile
+*** TODO Make an own slack
+*** TODO Sort out Trello profile, make an externally trackable ToDo list for bigger projects
+*** TODO Do slackbot in Scala
+*** TODO Make REST API for something with time and location (test project)
