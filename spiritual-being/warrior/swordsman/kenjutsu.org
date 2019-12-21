@@ -168,3 +168,9 @@
 *** Shinai
 **** DONE Buy shinai
 **** TODO Shorten shinai
+     - [X] Disassemble
+     - [ ] Saw off bamboo
+     - [ ] Shorten grip leather
+     - [ ] Reassemble
+*** Hojo bokken
+**** TODO Buy or make
