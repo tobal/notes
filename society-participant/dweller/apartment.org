@@ -3,7 +3,7 @@
 ** Maintenance
 ** Cleaning
 *** TODO Tidy up
-*** TODO Wash dishes
+*** DONE Wash dishes
     SCHEDULED: <2019-12-11 Wed>
 *** TODO Change bedding
 *** TODO Clean living room, kitchen, stairs

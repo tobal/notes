@@ -38,5 +38,5 @@
 ****** DONE Take call
 ***** Test project
 ****** DONE Write to toptal about questions and call
-****** TODO Call about test project
+****** DONE Call about test project
        SCHEDULED: <2019-12-11 Wed>

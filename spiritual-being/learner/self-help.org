@@ -2,6 +2,5 @@
 * Neuroscience course
 ** [[https://www.udemy.com/course/my-brain-and-i/learn/lecture/5743110#overview][Course overview]]
 ** Schedule
-*** TODO Review completed material
-    SCHEDULED: <2019-12-11 Wed>
+*** TODO Review completed material, copy notes here
 *** TODO Make plan for remaining material
