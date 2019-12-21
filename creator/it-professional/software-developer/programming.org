@@ -199,3 +199,7 @@ Json.toJson(Option("A string"))(optionWriter(stringWriter))
 *** Meetups
 **** Budapest.scala
 *** Conferences
+* Exercises
+** Seasonal challenges
+*** Advent of code
+**** [[https://adventofcode.com/2019/day/1][2019]]
