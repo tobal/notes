@@ -40,6 +40,9 @@ will be in a different repository.
 ** ToDo dump for 2019 end of year
 *** TODO Put these ToDos to proper place
 *** TODO Read articles
+**** DONE Blood Bowl research
+**** TODO Benjamin Hardy posts
+**** TODO Science daily and python
 *** TODO Clean all tabs
 *** TODO Reinstall computers 
 *** TODO Sort out LinkedIn profile
@@ -47,3 +50,14 @@ will be in a different repository.
 *** TODO Sort out Trello profile, make an externally trackable ToDo list for bigger projects
 *** TODO Do slackbot in Scala
 *** TODO Make REST API for something with time and location (test project)
+*** TODO Prepare for doing stoic journaling (gratitude)
+*** TODO Start sorting out emails in gmail account (delete unneeded, label the rest, zero inbox)
+*** TODO Sort out Drive
+*** TODO Plan new year (wellbeing booklet)
+*** TODO Sort out youtube
+**** TODO My videos into lists
+**** TODO Saved lists to private
+**** TODO Rename saved lists
+**** TODO Sort out saved videos into correct list
+ 
+ 
