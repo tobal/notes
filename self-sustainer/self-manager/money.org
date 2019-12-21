@@ -16,3 +16,18 @@
 **** Yearly
      - Kenjutsu club membership 10.000
      - Weight tax 14.000
+* Financial management
+** Savings
+*** Insurances
+**** Uniqua
+** Planning
+   1. Learn to save money
+      - Stop spending on unnecessary food
+   2. Ramp up earnings
+      - Become senior
+      - Start freelancing
+   3. Restart insurance savings
+** Payment services
+*** DONE Paypal
+*** TODO Revolut
+    [[https://www.revolut.com/en-HU][Revolut web]]
