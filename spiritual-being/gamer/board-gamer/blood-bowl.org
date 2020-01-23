@@ -2,13 +2,14 @@
 * Strategies
 ** Resources
 *** [[http://www.riemxey.com/MdB/BloodBowl2016.pdf][Rulebook]]
-*** [[https://bbtactics.com/cage-basics/][Cage basics]]
 *** [[https://boardgamegeek.com/thread/1677502/blood-bowl-basics][Blood Bowl basics (forum)]]
+*** Articles
+**** [[https://bbtactics.com/cage-basics/][Cage basics]]
 ** Learn
 *** Basics
 **** DONE Read rules
 **** DONE Research basics
-**** TODO Practice with video game
+**** DONE Practice with video game
 *** Dark Elf tactics
 **** DONE Members
      [[https://bbtactics.com/strategy/players/dark-elf-players/][Dark elf players]]
@@ -22,20 +23,30 @@
 * My teams
 ** Dark elves
 *** ToDos
-**** TODO Miniatures
-***** TODO Buy
-****** DONE Buy the basic box
-****** TODO Buy 2 blitzers
-****** TODO Buy 1 assassin
-***** TODO Painting
-****** TODO Paint Linemen
-****** TODO Paint Blitzers
-****** TODO Paint Runners
-****** TODO Paint Which elves
-****** TODO Paint Assassins
-**** TODO Naming and story
-***** TODO Name the team
-***** TODO Name the players
-***** TODO Backstories for the players
+**** Miniatures
+***** Buy
+      - [ ] Basic box
+      - [ ] 2 extra blitzers
+      - [ ] 1 assassin
+      - [ ] 3 Cheerleaders
+      - [ ] Apothecary
+      - [ ] Coach
+***** Painting
+      - [ ] Linemen
+      - [ ] Blitzers
+      - [ ] Runners
+      - [ ] Witch elves
+      - [ ] Assassins
+      - [ ] Cheerleaders
+      - [ ] Apothecary
+      - [ ] Coach
+**** Naming and story
+***** Team
+****** TODO Give name
+****** TODO Write team backstory
+****** TODO Home stadium
+***** Players
+****** TODO Give names
+****** TODO Write backstories
 * Misc projects
 ** Electronic points and timer board
