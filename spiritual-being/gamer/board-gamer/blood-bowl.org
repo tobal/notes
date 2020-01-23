@@ -5,6 +5,30 @@
 *** [[https://boardgamegeek.com/thread/1677502/blood-bowl-basics][Blood Bowl basics (forum)]]
 *** Articles
 **** [[https://bbtactics.com/cage-basics/][Cage basics]]
+     At a basic level a Blood Bowl cage is *protective formation used by the offensive team* to protect their
+     player who is carrying the ball.
+     #+CAPTION: Cage in a tight config
+     #+NAME:   img:BB-01-cage
+     [[https://bbtactics.com/images/cagebreakingpg2.jpg]]
+     *A basic cage looks very much like the "5" on a standard six sided die*, the ball carrier sat in the middle
+     and four team mates one at each diagonal corner from him. The reason you are using a cage is to protect
+     your ball carrier, you can probably see by looking at the diagram that there is no way for the opposing
+     team to just run up and hit the player with the ball. If they can’t easily hit the ball carrier then they
+     can’t easily get the ball off him. *The key reason the opposition can’t just run up and hit the ball carrier
+     is because they will have to do a dodge to get at him*. It doesn’t matter which side the blitzing player
+     comes from, they are going to have to try and do a dodge into three tacklezones.
+     If your cage is more spread out than this, then that may make it easier for an opposing player to dodge
+     through the tacklezones and get at the player with the ball. A looser cage with the corner players further
+     away requires more of your team mates to create a larger field of tackle zones to dodge through.
+     The last and *very important factor of a basic cage is that none of your five players end the turn in the
+     tacklezone of an opposing player*.
+***** When to Use a Cage:
+      It may appear to be quite obvious when you should use a cage, *you are playing a slow bashing team and need to protect the ball while you slowly grind down the pitch before scoring*. You would be quite right in that assumption and is the most used method of such teams during games of Blood Bowl. For some one new to the game it can appear that is the only time that you would be using a cage. However a cage is merely a formation that is used to protect the ball carrier, agility teams it would seem just keep the ball in the hands of a Thrower deep out of range of the opposing players. After all if they can’t get to him, they can’t hit him and that is even safer than having the ball secure in a cage.
+      One of the important aspects of the game though is *clock management* as explained in the article on doing a 2-1 Grind. *Using up turns before scoring* is just as important for an agility based team as it is to a hitting based team and a basic cage comes in useful for both types of play style. A drive from an agility team will usually involve getting the ball safe in the hands of their Thrower and also breaking through some team mates to receive the ball in a following turn. A lot of coaches after getting the ball to their receiver in their second turn will then just run it in for the touchdown, giving plenty of turns to the other team to score themselves. Instead of doing that *it may be wise for an agility team to try and use up a few turns (or as many as they can get away with)  by forming a cage with their players by the opposing team's end zone*.
+      With the ball secure in this position the opposing team will have trouble getting the ball out and if the cage gets broken (which it usually will), then you can just run a couple of squares into the end zone to score. If the worst happens and you do manage to lose the ball the other team still has to get it down the entire length of the pitch. This shouldn’t usually happen though if you are careful, barring miraculous dice from the opposition, so take advantage of opportunities to cage up yourself and give the bashing team their own medicine. Against another agile side though you may opt to still score early, as if they do the same you should still have enough turns left to score again in the same half.
+***** Skills to improve cages
+****** Cage ball carrier: Sure hands, Block, Dodge, Fend, Sure feet
+****** Cage corner players: Block, Guard, Stand firm, Tackle, Break tackle (for low AG), Grab
 ** Learn
 *** Basics
 **** DONE Read rules
