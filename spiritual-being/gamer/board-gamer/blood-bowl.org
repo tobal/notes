@@ -3,6 +3,7 @@
 ** Resources
 *** [[http://www.riemxey.com/MdB/BloodBowl2016.pdf][Rulebook]]
 *** [[https://boardgamegeek.com/thread/1677502/blood-bowl-basics][Blood Bowl basics (forum)]]
+*** [[https://fumbbl.com/help:LRB6RaceStrategy][Strategies]]
 *** Articles
 **** [[https://bbtactics.com/cage-basics/][Cage basics]]
      At a basic level a Blood Bowl cage is *protective formation used by the offensive team* to protect their
@@ -35,9 +36,50 @@
 **** DONE Research basics
 **** DONE Practice with video game
 *** Dark Elf tactics
-**** DONE Members
+**** Members
      [[https://bbtactics.com/strategy/players/dark-elf-players/][Dark elf players]]
-**** DONE Rosters
+***** Preferred skills
+****** Blitzer
+       - 1st normal skill: Dodge or Tackle
+       - 2nd normal skill: Side Step (after Dodge) or Jump Up
+       - 3rd normal skill: Side Step or Tackle or Jump Up
+       - 4th normal skill: Diving Tackle
+       - Utility skills: Strip Ball, Leap
+       - 1st doubles skill: Guard or Mighty Blow
+       - 2nd doubles skill: Mighty Blow or Guard
+      If Guard: Dodge and Side Step preferred as normal skills
+      If Mighty Blow: Tackle preferred as normal skill
+      If +MA: Shadowing on normal, after Dodge and Side Step
+      If +AG: Leap on normal; sometimes - Pass Block; Strip Ball (sometimes, after Leap and/or Dodge)
+      If +ST: Tackle on a normal roll, and Mighty Blow on a double is preferred
+****** Runner
+       - 1st normal skill: Nerves of Steel
+       - Later normal skills: Sure Hands, Pass, Accurate, Safe Throw, Dodge, Block, Catch, Sure Feet
+       - Doubles skill: Strong Arm, Guard
+      If +AG: Not both Accurate and Strong Arm; Dodge preferred (for survivability)
+      If +ST: Block preferred; Lineman/Blitzer path (ie, Tackle, Mighty Blow) preferred over Passing skills
+****** Witch Elf
+       - 1st normal skill: Block or Wrestle
+       - 2nd normal skill: Side Step
+       - 3rd normal skill: Tackle/Strip ball
+       - 4th normal skill: Leap
+       - Doubles: Mighty Blow, Juggernaut
+****** Lineman
+       - 1st normal skill: Block or Wrestle
+       - 2nd normal skill: Dodge
+       - 3rd normal skill: Tackle/Strip ball/Jump Up
+       - 4th normal skill: Side Step
+       - Doubles: Guard
+       - Utility Skills: Kick, Dirty Player, Leap, Diving Tackle
+      If +AG: Leap on normal (after Block and Dodge); Pass Block (sometimes)
+      If +ST: Tackle preferred as normal skill
+****** Assassin
+       - 1st normal skill: Dodge
+       - 2nd normal skill: Block
+       - 3rd normal skill: Jump Up
+       - Doubles: Multiblock, Guard
+       - Other Skills: Diving Tackle, Pass Block
+**** TODO Rosters
 ** Notes
 *** Basics
     - Each turn assess the board state and decide what you want to achieve this turn. This could be picking up
