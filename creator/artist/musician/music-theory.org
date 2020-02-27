@@ -13,3 +13,6 @@
 **** Sol-fa
 **** Write sheet music
 **** Sing sheet music
+** Listening
+*** Identify musical intervals
+**** [[https://www.youtube.com/watch?v=dXg8eCHNaTE][Youtube - How to Identify Musical Intervals]]
