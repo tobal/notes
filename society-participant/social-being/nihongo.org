@@ -17,6 +17,25 @@
 | 日本ごクラスがどうでしたか。           |      |       |      |        |
 | これらのしつもん、あなたのどうですか。 |      |       |      |        |
 | あなたのうちにぼっけんはありますか。   |      |       |      |        |
+*** 9 nyelvtan
+    - Úgy ennék valamit.
+    - 食べたいなあ...
+    - Edd meg a hamburgert kérlek.
+    - ハンバーガーを食べてください。
+    - A sakét választom
+    - おさけにします。
+    - Ez az épület magasnak tűnik.
+    - このたてもの高そうです。
+    - Tegnap már tanultam...
+    - きのうべんきょうしたから...
+    - Holnap nem megyünk el könyvtárba?
+    - 今日はとしょかんに行きませんか。
+    - Igen, menjünk könyvtárba!
+    - はい、としょかんに行きましょう。
+    - Nem teát, hanem sört kérek.
+    - おちゃじゃなくて、ビールをください。
+    - A süti nagyon finom volt.
+    - ケーキはとてもおいしかったです。
 * Szavak
 ** Szókincs tanulni
 *** 1. hét
