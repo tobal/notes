@@ -36,6 +36,83 @@
     - おちゃじゃなくて、ビールをください。
     - A süti nagyon finom volt.
     - ケーキはとてもおいしかったです。
+*** Megy valamit csinálni
+    - Ráment eszem
+      - ラメンを食べます。
+    - Megyek ráment enni
+      - ラメンを食べに行きます。
+    - Filmet nézek
+      - 映画を見ます。
+    - Megyek filmet nézni
+      - 映画を見に行きます。
+    - Főzök
+      - りょりをします。
+    - Megyek főzni
+      - りょりをしに行きます。
+    - Utazok
+      - 旅行します。
+    - Elutazok (Utazni megyek)
+      - 旅行に行きます。
+    - Fürdök
+      - お風呂を入れます。
+    - Megyek fürdeni
+      - お風呂に行きます。
+    - Japánt tanulok
+      - 日本語を習います。
+    - Megyek japánozni
+      - 日本語を習いに行きます。
+    - Barátaimmal kikapcsolódunk
+      - 友達と遊ぶします。
+    - Megyek szórakozni a barátaimmal
+      - 友達と遊ぶに行きます。
+    - Vasárnap elmentem az ikrekkel a Libribe angol könyvet venni.
+      - にちようびに双子とLibriへえいごの本を買うに行きました。（ふたご）
+    - Tegnap elmentünk sushit enni a Kolosy téren lévő Okuyama sushizóba.
+      - 昨日KolosyTérにあるおくやまのおすしやへおすしを食べに行きました。（きのう）
+    - Jövő szombaton megyünk az unokatesómékhoz filmet nézni.
+      - 今度の土曜日にいとこのうちへ映画をみにいきます。叔父さんで映画を見に行きます。 （こんど、どようび、おじ）
+    - A barátnőm beteg. Ezért anyuval ma is megyünk hozzá főzni.
+      - おんなともだちのびょきです。ですからおかあさんといっしょにともだちのうちへりょりをしにいってあげます。
+    - Minden nyáron a családommal elutazunk valami különleges helyre.
+      - まいとしのなつにかぞくとどこかへのめずらしところへりょこにいきます。
+    - Minden este 8 és 9 között megyek fürdeni.
+      - 毎ばん８時と９時の間にお風呂に行きます。
+    - Minden szerdán 9:30-ra megyek japánozni Kata sensejjel.
+      - 毎しゅうの水曜日に９時半でKata先生と日本語を習いに行きます。
+    - Hetente egyszer megyek a barátaimmal egy híres klubba bulizni.
+      - いっしゅかんにいっかいともだちといっしょにゆうめいなクラブへあそびに行きます。
+*** 57. óra
+**** 問題４ ひていけいを　しなさい。
+     - Már éjfél van, mégsem tudok aludni - すでに まよなかが、まだ ねらない。
+     - Nem aludtam jól az éjjel - よるに よくない ねりました。
+     - Ma nem megyek haza - 今日は帰らない。
+     - Miért nem mentél haza? - どうして 帰らなかったか。
+     - A teremben nincs senki - きょうしつに だれもない います。
+     - A boltban nem volt senki - 店に だれもない いました。
+     - Miért nincs hűtőbe rakva a tej? - ぎゅうにゅうは れいぞうこへ どうして 入れらないか。
+     - Nem raktam be a kosárba a szennyest - せんたくものを かごへ 入れらなかった。
+     - Nincs itthon gyümölcs - くだものは うちに ありません。
+     - Nem volt sehol a kulcsom - かぎは どこも ありませんでした。
+     - Nem fizeti ki a tartozást - しゃっきんを はらわない。
+     - Nem én fizettem ki a jegyeket - きっぷを はらわなかった。
+     - Kérlek, ne gyalog gyere - 歩いて こないで ください。
+     - Légyszi ne hozz ide annyi könyvet - そんなに たくさん 本を もたらさないで ください。
+     - Kérlek, ezt ne dobd ki - このを すてらないで ください。
+     - Ne vedd fel azt a blúzt kérlek! Borzalmas! - その ブラウスを きらないで ください。たいねん です。
+     - Légyszi ne böfögj! Undorító! - げっぱないで ください。 げひん です。
+     - Kérlek ne beszélj evés közben - 食べながら 話さないで ください。
+     - Ne hazudj kérlek - うそう つかないで ください。
+     - Ne pletykálj senkiről légyszi - だれもに うわさを 言あないで ください。
+     - Kérlek ne vidd a macskát a gyerek közelébe - ねこを そばに子へ つれらないで ください。
+*** 10 mondat ruha fogalmazás
+    Ő itt Michael. Ő egy idény munkás. Mindig év végén dolgozik. Nyáron általában inget, nadrágot és szandált visel.
+    Télen farmert, nagykabátot és kalapot. Most a munkahelyén piros nadrágot, piros kabátot és piros sapkát visel.
+    Michael munkatársai munkában zöld nadrágot, zöld pólót és zöld sapkát viselnek. Michael mindig hord karórát.
+    その人はマイクルです。マイクルはきかんじゅうぎょういん（期間従業員）です。ねんまつにのみはたらく。なつにふつう、シャツをきて、
+    ズボンとサンダルをはきます。ふゆにふつう、ジーンズをはいて、トレンチコートをきて、ハットをかぶります。いま、しょくば（職場）にあかズボンをはいて、
+    あかコートをきて、あかぼうしをかぶっています。マイクルのどうりょうたちはみどりズボンをはいて、みどりTーシャツをきて、みどりぼうしをかぶっています。
+    マイクルはいつもうでどけいをします。
+    
 * Szavak
 ** Szókincs tanulni
 *** 1. hét
