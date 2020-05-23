@@ -123,6 +123,54 @@
     - Néha kitakarítom a lakást. アパートを ときどき とりかたずけります。
     - Nem nagyon (ritkán) beszélek japánul. 日本語が あまり はなします。
     - Sohasem küldöm el időben a házifeladatot. しゅくだいを せんせん じかんどおりに おくります （送る）。
+*** No 30 mondat
+**** Birtokviszony
+     - Az a szép számítógép az enyém.
+     - その きれい コンピュータは ぼくの です。
+     - Az én szakállam rövid.
+     - ぼくの あごひげは くろ です。
+**** Hely
+     - A Nagymező utcai színház nagyon díszes.
+     - Nagymező utcaの げきじょうは たいへん ファンシー です。
+     - A Budapesti lakások kicsit túl drágák.
+     - ブダペストの アパートは ちょっと たかすぎ です。
+**** Idő
+     - A tegnapi Rick & Morty epizód nagyon vicces volt.
+     - きのうの リックとモルタィーの エピソードは とても こっけい でした。
+     - Az idei nyár unalmas lesz.
+     - ことしの なつは つまらない です。
+**** Tartalom
+     - Gyakran olvasok filozófia könyveket.
+     - しばしば てつがくの 本は よみます。
+     - A COVID-19 hírek nagyon gyakoriak.
+     - コロナウイルスの ニュースは とても しきり です。
+**** Szakma
+     - Ez az IT szakember nagyon okos.
+     - この コンピュータの せんもんかは とても かしこい です。
+     - A japán tanárom nagyon jól tanít.
+     - ぼくの 日本の 先生が とても よく しこみます。
+**** Fajta
+     - A ribizli bokor illatos.
+     - あかすぐりの かんぼくは こうばしい です。
+     - A cseresznyefákat nagyon szeretem.
+     - さくらの 木が 大好き です。
+**** Alkotás és alkotója
+     - Timothy Leary könyvei nem ismertek.
+     - チモシー リアリーの 本は ゆうめない です。
+     - Hideo Kojima videojátékai ötletesek.
+     - ひでお こじまの ビデオケームは そういくふう です。
+**** Alapanyag
+     - Fából készült karddal gyakorlok.
+     - 木の けんで けいこをします。
+     - A téglából épült házak nyáron hűvösek, télen pedig melegek.
+     - れんがの いえは なつに つめたいが、 ふゆに あたたかい です。
+**** Minőség
+**** Magyarázó, értelmező
+**** Mennyiség
+**** Sorrendiség
+**** Névutós jelleg
+**** Főnév helyettesítés
+**** Névszói jelleg
 * Szavak
 ** Szókincs tanulni
 *** 1. hét
