@@ -166,11 +166,23 @@
      - れんがの いえは なつに つめたいが、 ふゆに あたたかい です。
 **** Minőség
 **** Magyarázó, értelmező
+     - A főnökömmel, Dáviddal elmentünk sörözni tegnap.
+     - きょうは ぶちょうの、Dávidと ビールを のむの いきました。
+     - Szombaton a barátommal, Árpival zsonglőrködni fogunk.
+     - どようびで 友だちの、Árpiと ジャッグルを します。
 **** Mennyiség
+     - Sok vizet ittam edzés után.
+     - けいこの 後 たくさんの おみずを のみました。
+     - Kevés a benzin az autómban.
+     - 少しの ガソリンは ぼくの 車に あります。
 **** Sorrendiség
+     - Állj meg az első benzinkúton légyszi.
+     - ひとつめの  ガソリンスタンドに とまって ください。
+     - A harmadik saroknál fordulj balra.
+     - みっつめの かどを 左に まがって。
 **** Névutós jelleg
 **** Főnév helyettesítés
-**** Névszói jelleg
+**** Névszói szerkezet
 * Szavak
 ** Szókincs tanulni
 *** 1. hét
