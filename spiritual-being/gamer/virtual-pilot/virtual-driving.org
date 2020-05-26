@@ -15,3 +15,10 @@
 ***** TODO Manifacturer
 **** NFS Tier 2
 **** NFS Tier 3
+* Rally
+** Car setup
+*** Resources
+    - [[https://www.youtube.com/watch?v=c6UJYUa1tTg][Beginner setup tips]]
+    - [[https://www.youtube.com/watch?v=YHizGYzJA-0][Intro to advanced tuning]]
+      Explanation of each option
+* Circuit racing
