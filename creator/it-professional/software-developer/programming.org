@@ -203,3 +203,8 @@ Json.toJson(Option("A string"))(optionWriter(stringWriter))
 ** Seasonal challenges
 *** Advent of code
 **** [[https://adventofcode.com/2019/day/1][2019]]
+* Software architecture
+** Architectural patterns
+*** Command Query Responsibility Segregation (CQRS)
+    - [[https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs/][Blogpost]]
+      With further links
