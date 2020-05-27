@@ -24,6 +24,63 @@
    - happoido
 ** Uchikomi
 ** Inazuma
+*** Alap
+**** 1-es
+     | Támadó                                      | Védő                                                        |
+     |---------------------------------------------+-------------------------------------------------------------|
+     | Seiga no kamae (kardok összeérnek)          | Seiga no kamae                                              |
+     | Előrelép, jodan                             | Hátralép, waki                                              |
+     | Előrelép, kesa nyakra jobbról               | Védi balról, kard hegye alul jön el, kezek középen maradnak |
+     | Véd balról                                  | Előrelép, kesa nyakra jobbról                               |
+     | Előrelép, kesa nyakra jobbról               | Véd balról                                                  |
+     | Do vágás balról                             |                                                             |
+     | Helyremegy, közben kard hegye térd irányába |                                                             |
+     | Seiga no kamae                              | Seiga no kamae                                              |
+**** 2-es
+     | Támadó                                             | Védő                                                        |
+     |----------------------------------------------------+-------------------------------------------------------------|
+     | Seiga no kamae (kardok összeérnek)                 | Seiga no kamae                                              |
+     | Előrelép, jodan                                    | Hátralép, waki                                              |
+     | Előrelép, kesa nyakra jobbról                      | Védi balról, kard hegye alul jön el, kezek középen maradnak |
+     | Véd balról                                         | Előrelép, kesa nyakra jobbról                               |
+     | Előrelép, kiriage hónalj alá, mélyen belépve előre | Véd balról                                                  |
+     | Helyremegy, közben kard hegye térd irányába        |                                                             |
+     | Seiga no kamae                                     | Seiga no kamae                                              |
+**** 3-as
+     | Támadó                                                | Védő                                                        |
+     |-------------------------------------------------------+-------------------------------------------------------------|
+     | Seiga no kamae (kardok összeérnek)                    | Seiga no kamae                                              |
+     | Előrelép, jodan                                       | Hátralép, waki                                              |
+     | Előrelép, kesa nyakra jobbról                         | Védi balról, kard hegye alul jön el, kezek középen maradnak |
+     | Véd balról                                            | Előrelép, kesa nyakra jobbról                               |
+     | Előrelép, alkarra vág balról                          | Véd balról                                                  |
+     | Hátracsúszik, közben kardot lehúzza köldök magasságba |                                                             |
+     | Előrecsúszik, tsuki (szúrás)                          |                                                             |
+     | Helyremegy, közben kard hegye térd irányába           |                                                             |
+     | Seiga no kamae                                        | Seiga no kamae                                              |
+**** 4-es
+     | Támadó                                                | Védő                                                        |
+     |-------------------------------------------------------+-------------------------------------------------------------|
+     | Seiga no kamae (kardok összeérnek)                    | Seiga no kamae                                              |
+     | Előrelép, jodan                                       | Hátralép, waki                                              |
+     | Előrelép, kesa nyakra jobbról                         | Védi balról, kard hegye alul jön el, kezek középen maradnak |
+     | Véd balról                                            | Előrelép, kesa nyakra jobbról                               |
+     | Előrezár, rogyasztott térd,  kesa jobbról             | Véd balról                                                  |
+     | Tovább lép jobb lábbal, kiriage balról                |                                                             |
+     | Helyremegy, közben kard hegye térd irányába           |                                                             |
+     | Seiga no kamae                                        | Seiga no kamae                                              |
+**** 5-ös
+     | Támadó                             | Védő                                                              |
+     |------------------------------------+-------------------------------------------------------------------|
+     | Seiga no kamae (kardok összeérnek) | Seiga no kamae                                                    |
+     | Előrelép, jodan                    | Hátralép, waki                                                    |
+     | Előrelép, kesa nyakra jobbról      | Védi balról, kard hegye alul jön el, kezek középen maradnak       |
+     | Véd balról                         | Előrelép, kesa nyakra jobbról                                     |
+     | Előrelép, ashi vágás jobbról       | Hátralép, alacsonyan véd balról, kardhegy lefelé                  |
+     |                                    | jobb láb felhúz, comb vízszintes                                  |
+     |                                    | Leguggol, jobb láb elől (általában), felülről vág csuklóra (kote) |
+     |                                    | Bal láb felzár, jobb láb hátra, kard hegye torok felé             |
+     | Seiga no kamae                     | Seiga no kamae                                                    |
 ** Juppon
 ** Urafune
 *** Mae
