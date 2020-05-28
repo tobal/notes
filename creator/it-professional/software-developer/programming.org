@@ -199,6 +199,13 @@ Json.toJson(Option("A string"))(optionWriter(stringWriter))
 *** Meetups
 **** Budapest.scala
 *** Conferences
+* Paradigms
+** Functional programming
+   - *Functional programming*: Programming using only pure functions.
+   - *Pure function*: A function without side effects. An expression ~f(x)~ is referencially transparent if the
+     function ~f~ is pure and the expression ~x~ is RT.
+   - *Referencial transparency*: An expression is RT, if we can substitute it with it's result without changing
+     the meaning (behaviour) of the program.
 * Exercises
 ** Seasonal challenges
 *** Advent of code
