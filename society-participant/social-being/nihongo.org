@@ -183,6 +183,28 @@
 **** Névutós jelleg
 **** Főnév helyettesítés
 **** Névszói szerkezet
+*** Alap nyelvtanok
+**** 1-5
+***** vmi előtt csinál vmit
+      - Lefekvés előtt fogat mostam.
+      - Edzés előtt mindig igyál vizet.
+      - Mielőtt elmegyek otthonról, becsukom az ablakot.
+      - Munka előtt ittam egy kávét.
+      - Utazás előtt lemosom az autót.
+***** vmit fog csinálni (erős elhatározás)
+      - Augusztusban bulizni fogok.
+      - Holnap elmegyek inni a barátaimmal.
+      - Jövő héten elmegyek a piacra.
+      - Jövőre leteszem az N5 vizsgát.
+      - Hétvégén nem fogok dolgozni.
+***** talán, lehet (50-50%)
+      - Jövő áprilisban lehet, hogy havazni fog.
+      - Jövőre lehet, hogy sikerül az N5 vizsga.
+      - Holnap lehet, hogy almát eszek.
+      - Szombaton lehet, hogy nem fog esni az eső.
+      - Délután lehet, hogy játszani fogok.
+***** igen vagy sem
+***** tud, képes (lehetőség)
 ** Jegyzetek
 * Szavak
 ** Szókincs tanulni
