@@ -187,22 +187,37 @@
 **** 1-5
 ***** vmi előtt csinál vmit
       - Lefekvés előtt fogat mostam.
+      - ねる まえに 歯を あらいました。
       - Edzés előtt mindig igyál vizet.
+      - けいこを する まえに いつも 水を 飲んでください。
       - Mielőtt elmegyek otthonról, becsukom az ablakot.
+      - いえを 出る まえに まどを とじます。
       - Munka előtt ittam egy kávét.
+      - しごとする まえに コーヒーを 飲みました。
       - Utazás előtt lemosom az autót.
+      - たびする まえに 車を あらいます。
 ***** vmit fog csinálni (erős elhatározás)
       - Augusztusban bulizni fogok.
-      - Holnap elmegyek inni a barátaimmal.
+      - ８月に パーチイーする つもりです。
+      - Holnap elmegyek enni a barátaimmal.
+      - あした ともだちと たべるで 行く つもりです。
       - Jövő héten elmegyek a piacra.
+      - らいしゅう いちばに 行く つもりです。
       - Jövőre leteszem az N5 vizsgát.
+      - らいねん JLPT５を うける つもりです。
       - Hétvégén nem fogok dolgozni.
+      - しゅうまつ しごとする つもりは ありません。
 ***** talán, lehet (50-50%)
       - Jövő áprilisban lehet, hogy havazni fog.
+      - つぎの ４月 ゆきが ふる かもしれない。
       - Jövőre lehet, hogy sikerül az N5 vizsga.
+      - らいねん JLPT５を ごうかく かもしれない。
       - Holnap lehet, hogy almát eszek.
+      - あした りんごを 食べる かもしれない。
       - Szombaton lehet, hogy nem fog esni az eső.
+      - 土曜日に 雨を ふらない かもしれない。
       - Délután lehet, hogy játszani fogok.
+      - 午後 あそび かもしれない。
 ***** igen vagy sem
 ***** tud, képes (lehetőség)
 ** Jegyzetek
