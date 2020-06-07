@@ -7,3 +7,21 @@
   - [[https://www.youtube.com/watch?v=GVYRu3bq7QM][Start up, Engine, In Depth Tour]]
   - [[https://www.youtube.com/watch?v=3pwLpIksRPU][D Advance Plus Review]]
   - [[https://www.youtube.com/watch?v=BH1hHPkNNZI][Nordschleife Nürburgring]]
+* Modifications
+** Research
+   [[https://corksport.com/blog/corksport-guide-to-mazda3/][Mod guide]]
+   [[https://corksport.com/mazda-3/2010-2013-mazda-3-performance-parts/][Performance parts]]
+** Visual
+*** Change lights to LED
+**** Maplights
+     [[https://www.youtube.com/watch?v=20jHgZ9VSwE][Howto on youtube]]
+**** Headlights
+     [[https://www.youtube.com/watch?v=0JdU5FDPC4A][Howto on youtube]]
+*** Tint windows
+    [[http://autofolia.net/][autofolia.net]]
+** Performance
+*** Engine
+**** Upgrade engine
+     [[https://www.torquecars.com/mazda/3-tuning.php][Tuning]]
+**** Air intake
+     [[https://www.youtube.com/watch?v=0a5STy1Zf4U][Air intake installation video]]
