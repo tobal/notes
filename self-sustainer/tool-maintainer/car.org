@@ -19,6 +19,8 @@
      [[https://www.youtube.com/watch?v=0JdU5FDPC4A][Howto on youtube]]
 *** Tint windows
     [[http://autofolia.net/][autofolia.net]]
+*** Fix wheel
+    [[http://profikormanyborozes.hu/][profikormanyborozes.hu]]
 ** Performance
 *** Engine
 **** Upgrade engine
