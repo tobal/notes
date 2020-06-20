@@ -231,6 +231,27 @@
     - Lajbiは けんじゅつをするのが じょうずです。
     - Lajbi biztos megírja a házit.
     - Lajbiは しゅくだいを かく はずです。
+*** Időhatározók
+    - Ma megírom a japán házit.
+    - あした 煮本語の しゅくだいを 書きます。
+    - Ma reggel elmentem gyalog a boltba.
+    - けさあるいて 店へ 行きました。
+    - Délután lehet, hogy nem fog esni az eső.
+    - 午後 雨が ふる かもしれません。
+    - Ma este lehet, hogy sokat fogok játszani.
+    - こんばん たくさん あそぶ かもしれない。
+    - Tegnap este csirkés salátát ettem vacsorára.
+    - ゆうべ ばんごはんが チキンの サラダを 食べました。
+    - Nyáron szeretnék fesztiválra menni.
+    - なつに おんがくさいに 行きたい。
+    - Áprilisban sokat voltam itthon.
+    - ４月に いえへ たくさん いました。
+    - 9 órakor kezdődik egy nagyon jó film.
+    - ９じに とても いいの えいがは はじめます。
+    - A születésnapomon nem fogok dolgozni.
+    - たんじょびに しごとを する つもりは ありません。
+    - 1995-ben 10 éves voltam.
+    - １９９５ねんに １０さい でした。
 ** Jegyzetek
 *** 06.14
     - valamivel megy 〇〇で　行く
