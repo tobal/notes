@@ -1,4 +1,11 @@
 
+* Guides
+** Ghost of Tsushima
+*** Polygon
+    [[https://www.polygon.com/ghost-of-tsushima-guide/2020/7/16/21324288/beginner-tips-tricks-collectibles-map-location-mythic-tale-legend-stealth-build][Guides listing]]
+    [[https://www.polygon.com/ghost-of-tsushima-guide/21311545/beginners-tips-samurai-stealth-side-quest-tales-mythic-explore-map-locations-armor][Beginner's guide]]
+    [[https://www.polygon.com/ghost-of-tsushima-guide/21311851/ghost-skills-stealth-build-gameplay-tips-techniques-attire-gear-charms][Stealth build]]
+    [[https://www.polygon.com/ghost-of-tsushima-guide/21311855/how-to-use-the-guiding-wind-technique-points][Guiding wind]]
 * ToDos
 ** Horizon - Zero Dawn
 *** DONE Make kata video for HZD
