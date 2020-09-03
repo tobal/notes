@@ -22,3 +22,10 @@
     - [[https://www.youtube.com/watch?v=YHizGYzJA-0][Intro to advanced tuning]]
       Explanation of each option
 * Circuit racing
+** Project Cars 2
+*** Learn and record
+**** DONE Fuji GP - GT4
+**** TODO Cadwell Park GP - GT3
+**** TODO Nürburgring - GT1
+**** TODO Monaco - Formula A
+**** TODO Silverstone GP - Formula X
