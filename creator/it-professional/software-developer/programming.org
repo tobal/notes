@@ -17,6 +17,22 @@
 **** Books
 ***** DONE Scala language
 ***** TODO Red book
+****** Intro to functional programming
+******* What is functional programming
+        - *Functional programming*: Programming using only pure functions.
+        - *Pure function*: A function without side effects.
+        - *Referencial transparency*: An expression is referencially transparent, if we can substitute it with it's
+          result without changing the meaning (behaviour) of the program. An expression ~f(x)~ is referencially
+          transparent if the function ~f~ is pure and the expression ~x~ is RT.
+        - *Substitution model*: A mode of reasoning about program evaluation, which is enabled by the constraint that
+          RT forces the invariant that everything a function does is represented by the value that it returns,
+          according to the result type of the function.
+******* Getting started
+******* Functional data structures
+******* Handling errors without exceptions
+******* Strictness and laziness
+******* Purely functional state
+****** Functional design and combinator libraries
 ***** TODO Essential Scala
 ***** TODO Scala with cats
 ****** Introduction
@@ -200,16 +216,6 @@
 **** Meetups
 ***** Budapest.scala
 **** Conferences
-* Paradigms
-** Functional programming
-   - *Functional programming*: Programming using only pure functions.
-   - *Pure function*: A function without side effects. An expression ~f(x)~ is referencially transparent if the
-     function ~f~ is pure and the expression ~x~ is RT.
-   - *Referencial transparency*: An expression is RT, if we can substitute it with it's result without changing
-     the meaning (behaviour) of the program.
-   - *Substitution model*: A mode of reasoning about program evaluation, which is enabled by the constraint that
-     RT forces the invarinat that everything a function does is represented by the value that it returns,
-     according to the result type of the function.
 * Exercises
 ** Seasonal challenges
 *** Advent of code
