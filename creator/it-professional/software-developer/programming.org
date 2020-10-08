@@ -28,6 +28,22 @@
           RT forces the invariant that everything a function does is represented by the value that it returns,
           according to the result type of the function.
 ******* Getting started
+	- *Higher order functions*: Functions that take other functions as arguments, and may themselves return functions
+	  as their output.
+	- *Procedure*: Or impure function, which has side effects.
+	- *Tail call elimination*: This is an optimization in the scala compiler of self recursive codes. It is possible
+	  if there's no additional work left to do after the recursive call returns. It translates to similar bytecode
+	  as while loops, and ensures that tail recursive functions have constant stack size/usage.
+******** Exercise 2.1
+	 #+BEGIN_SRC scala
+	 def fib(n: Int): Int = {
+	   @annotation.tailrec
+	   def loop(n: Int, prev: Int, cur: Int): Int =
+	     if (n <= 0) prev
+	     else loop(n - 1, cur, prev + cur)
+	   loop(n, 0, 1)
+	 }
+	 #+END_SRC
 ******* Functional data structures
 ******* Handling errors without exceptions
 ******* Strictness and laziness
