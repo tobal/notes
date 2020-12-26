@@ -1,7 +1,0 @@
-
-* ToDos
-** Mobile games
-*** Ingress
-**** TODO Read about Ingress
-** MMORPGs
-** MUDs

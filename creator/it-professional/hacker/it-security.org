@@ -1,5 +1,0 @@
-
-* Events
-** Conferences
-** Meetups
-*** Hackersuli

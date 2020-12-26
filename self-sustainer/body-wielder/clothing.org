@@ -1,9 +1,0 @@
-
-* ToDos
-** Maintenance
-*** TODO Wash clothes
-** Buy
-*** DONE Buy underwear
-*** TODO Buy black t-shirts
-*** TODO Buy shirts
-*** TODO Buy trousers

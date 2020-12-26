@@ -1,7 +1,0 @@
-* Android
-** Authenticator phone
-   A docker for the phone, which can authenticate me based on evidence that I hace my phone. It's a convenience feature, that
-   I don't have to type my password. When I dock the phone, all the computers will start which I turned on in the Android app.
-*** Security risks
-*** Autostart feature
-**** Can I start with different boot parameters?

@@ -1,6 +1,0 @@
-
-* Projects
-** Machine from Horizon
-   Draw with colored pencils
-*** TODO Choose source picture
-*** TODO Draw machine

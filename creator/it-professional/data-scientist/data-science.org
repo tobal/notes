@@ -1,5 +1,0 @@
-
-* Tools
-** Prototyping
-*** [[https://polynote.org/][Polynote]]
-    Python+Scala hybrid notebook
