@@ -1,0 +1,116 @@
+# To export to html
+# :org-html-export-to-html
+
+* Control mapping
+** Saitek X52 H.O.T.A.S.
+    Used for flight control, 
+    #+CAPTION: Saitek X52 scheme
+    #+attr_html: :alt Saitek X52 scheme
+    #+attr_html: :width 1200px
+    #+attr_latex: :width 1200px
+    #+NAME:   fig:SAITEK-001
+    [[./img/saitek-x52-name-mapping.png]]
+*** Mapping
+    | Flight controls | Key          |
+    |-----------------+--------------|
+    | Pitch up        | Y-AXIS DOWN  |
+    | Pitch down      | Y-AXIS UP    |
+    | Yaw right       | Z-ROTATE +   |
+    | Yaw left        | Z-ROTATE -   |
+    | Roll right      | X-AXIS RIGHT |
+    | Roll left       | X-AXIS LEFT  |
+
+    
+    | Engines                | Key          |
+    |------------------------+--------------|
+    | Throttle increase      | Z-AXIS FWD   |
+    | Throttle decrease      | Z-AXIS BWD   |
+    | Boost                  | 30           |
+    | Drift (while boosting) | Hold 30      |
+
+    
+    | Weapons systems           |          Key |
+    |---------------------------+--------------|
+    | Fire                      |            1 |
+    | Fire left auxiliary       |            2 |
+    | Dumb-fire left auxiliary  | Double tap 2 |
+    | Fire right auxiliary      |            3 |
+    | Dumb-fire right auxiliary | Double tap 3 |
+    | Deploy countermeasures    |            6 |
+    
+    
+    | Power management | Key |
+    |------------------+-----|
+    | Power to engines | 27  |
+    | Power to weapons | 28  |
+    | Power to shields | 29  |
+    
+    
+    | Shield management  | Key |
+    |--------------------+-----|
+    | Focus shield front |   9 |
+    | Focus shield rear  |  10 |
+
+    
+    | Power conversion      | Key |
+    |-----------------------+-----|
+    | Convert power engines |  12 |
+    | Convert power weapons |  11 |
+    
+    
+    | Targeting           | Key |
+    |---------------------+-----|
+    | Select target ahead |   5 |
+    | Target my attacker  |   4 |
+    
+    
+    | Misc                   | Key                    |
+    |------------------------+------------------------|
+    | Contextual interaction | 8                      |
+    | Free look + camera     | 7 + X-Y-AXIS           |
+    | Quick look             | Hat switch 16-17-18-19 |
+
+
+** Razer Tartarus Keypad
+    Used for targeting systems, communication systems, and misc.
+    #+CAPTION: Razer Tartarus overview
+    #+attr_html: :alt Razer Tartarus overview
+    #+attr_html: :width 1200px
+    #+attr_latex: :width 1200px
+    #+NAME:   fig:RAZER-001
+    [[./img/razer-tartarus-overview.png]]
+    #+CAPTION: Razer Tartarus details
+    #+attr_html: :alt Razer Tartarus details
+    #+attr_html: :width 1200px
+    #+attr_latex: :width 1200px
+    #+NAME:   fig:RAZER-002
+    [[./img/razer-tartarus-details.png]]
+*** Mapping
+    | Targeting                           | Key                      |
+    |-------------------------------------+--------------------------|
+    | Cycle targets                       | W (03)                   |
+    | Targeting wheel + select + navigate | S (08) + Space + POV hat |
+    | All enemies                         | R (05)                   |
+    | Enemy squadron                      | E (04)                   |
+    | Flagship systems                    | D (09)                   |
+    | Missile                             | F (10)                   |
+    | My squadron                         | Q (02)                   |
+    | Target's attackers                  | A (07)                   |
+
+    
+    | Communication                   | Key                      |
+    |---------------------------------+--------------------------|
+    | Ping target                     | Y/Z (12)                 |
+    | Acknowledge ping                | C (14)                   |
+    | Comms wheel + select + navigate | X (13) + Space + POV hat |
+    | Regroup                         | V (15)                   |
+
+
+    | Misc               | Key                 |
+    |--------------------+---------------------|
+    | Menu               | Esc (01)            |
+    | Show loadout       | Shift (06)          |
+    | Free look + camera | Ctrl (11) + POV hat |
+
+* Practice control with scenarios
+* Add new mechanics one by one
