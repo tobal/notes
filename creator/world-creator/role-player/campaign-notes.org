@@ -22,7 +22,11 @@
      Találnak egy hajót, ami az Ilanor-i fővárosba tart, Dorian-ba. A hajó két nap múlva indul, addig van idejük
      bevásárolni.
 *** Hajóút Erenbe
-    Megállók:
+**** Utazás
+     Végighajóznak a nyugati óceánon, Észak Ynev nyugati partvonalát követve. Több megálló is van, a Himano sivatagot
+     és a Fenyvesföldet viszont megálló nélkül kerülik meg. Végül kikötnek Sorneck-ben, Erigow területén. Innen egy
+     másik hajóra szállnak, amivel a folyón utaznak tovább a szárazföld belseje felé. Soreka-ban szállnak ki, ahonnan
+     immár az úton közlekednek tovább, míg végül megérkeznek az utolsó városba Daroveen előtt.
 **** Bemesélés, megbízás (Murák)
      A hajóúton (Murák) odamegy hozzájuk, érdeklődik merre tartanak, és miután kiderül, hogy ugyanoda, megkéri
      őket, hogy tartsanak vele. Akár a levelet is megmutathatja, amiben Daroveen grófja kéri a segítségét.
@@ -38,8 +42,47 @@
       Őszinte tisztelője: Merghon cwa Tissar, Daroveen grófja
       (négy hónappal ezelőtti dátum)
 *** Érkezés, szállás az utolsó fogadóban
+    Ide napnyugta előtt érkeznek, ezért megszállnak. A fogadós: "Ááá, tán csak nem maguk is a Révület Kútját jöttek
+    felkeresni? Sokan zarándokolnak oda manapság". Reggel egy üzenet várja őket Kro-tól, aki már hajnalban elindult,
+    hogy felkeresse barátját.
+***** Üzenet
+      Nem tudtam tovább várni, hajnalban elindultam, hogy megkeressem a barátom. Sajnálom, hogy nem tarthatok veletek
+      a grófhoz, de miután kitanultam az álomjárás művészetét, csatlakozom hozzátok Daroveen-ben.
 ** Átkelés a komppal
+   A Kövecses folyó két partja között vastag kötél feszül, melyen kettős csigasor fut. A tutajszerű kompot egy
+   kötélrendszer rögzíti, így a révésznek evezés helyett elég csak a köteleket csévélnie. A túloldalon nagyobb csónakok
+   vannak kikötve, ezen a parton nincs egy sem. Átkelési díj 2 réz.
 *** NJK-k az úton
+**** Tibossan, révész
+     Munkájában lomha, gyakorlatlan, sokat kérdezősködik.
+**** Perennel Domarro, kereskedőnek álcázott Noir pap
+     Vékonydongájú, sápadt, cifra ruhás ficsúr. Feltűnően érdeklődve figyeli a lány minden szavát.
+     Hosszú barna haj, lányos arc, fiatalabbnak tűnik a koránál (36).
+**** Mirolla, fejvadászkém
+     Csinos, ruganyos testű, fiatal barna lány. Noir-hívőnek álcázza magát.
+**** Merchien on-Massor, morgena hívő, az angyalkard megszerzője
+     Koromfekete zarándokruhás fiatalember, elcsigázott külsejű, fáradt tekintetű.
+**** Dochyon és Daveghar, toron tűzmágusai
+     Karót nyelt tartású, vörös köpenyes alakok, időnként megvető pillantást vetnek a várakozókra.
+*** Átkelés
+**** Párbeszéd
+     Miután beszálltak, az NJK-k beszélgetnek a romtemplomról:
+     *Tibossan*: Aztán mit attul a bűzhödt kúttul... persze, mindenki csak megy, mintha az örök életet szagónák benne...
+     aztán meg jönnek vissza, ostobaságokat motyognak, mintha értenék... (kiköp)
+     *Mirolla*: Azt mondják, Noir papjai még a leghomályosabb, kyr nyelvű jóslatokat is értelmezni tudják... számomra
+     mégis hihetetlen, hogy Noir egy elfeledett nép nyelvén közli velünk a jövendő titkait...
+     (Nerchien szórakozottan bólogat, helyesel)
+     *Domarro*: Igen, de azt mondják a múlt tél óta a papok mintha megváltoztak volna, nem? Kelletlenül fogadják a
+     zarándokokat, és nem szívesen magyarázzák már a jóslatokat. Mintha legszívesebben megtagadnák az álomfejtést...
+     *Dorchyon*: Nem lehetne gyorsabban, öreg!
+**** Orvtámadás
+     7-7 támadó két oldalról, körönként 2-2 nyíl a játékosokra, 20 lábról (CÉ: 30). Ha üldözik őket, megfordulnak, és harc
+     lesz. Ha követik a nyomaikat, eljuthatnak a Csonthalomba.
+     A zarándok meghal, a fejvadászlány haldoklik. A zarándok ruhája alól kiesik az Angyalkard, ezt a JK-k felvehetik.
+     Rajta a felirat: "Scha daqhoirn ta tuomo derrum", ókyr-ül "És eljövend ismét, ha betelik az ő ideje". A kard karcsú
+     pengéjű, kékes derengésű, díszes markolattal (mithrill).
+     Miután kikötöttek, a tűzmágusok a sziget felé veszik az irányt, a JK-k dönthetnek, hogy a város, a sziget, vagy a
+     banditák nyomai felé indulnak tovább.
 ** A városban
 *** Találkozás a gróffal
 *** Nyomozás
