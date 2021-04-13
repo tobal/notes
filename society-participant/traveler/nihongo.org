@@ -2,3 +2,25 @@
 # C-\ in INSERT mode to toggle
 # To switch between kanji, hit SPACE after typing
 # To write with katakana, hit K after typing
+
+* Phrases to learn
+** 04-18
+*** 月曜日
+    | えんりょしないで。         | Ne zavartassa magát!                               |
+    | どんどん　食べてください。 | Egyen kérem!                                       |
+    | そろそろ　行きましょう。   | Lassacskán menni kéne! Itt az idő, hogy induljunk! |
+*** 火曜日
+    | ここで　タバコを　すっても　いいですか。 | Szabad itt dohányozni?         |
+    | いや、すっては　いけません。             | Nem, nem szabad.               |
+    | ええ、いいですよ。　                     | Igen, szabad.                  |
+    | 図書館で　食べてもいいですか。           | Szabad a könyvtárban enni?     |
+    | いや、食べてはいけません。               | Nem, nem szabad.               |
+    | いや、だめですよ。                       | Nem, tilos. (nem túl udvarias) |
+*** 木曜日
+    | ちょっと、入ってもいいですか。       | Elnézést, bemehetek?      |
+    | ちょっと、すわっても　いい？         | Elnézést, leülhetek?      |
+    | ちょっと、食べてみても　いいですか。 | Elnézést, megkóstolhatom? |
+*** 金曜日
+    | しあいは　８時に　はじまります。   | A meccs 8-kor kezdődik.   |
+    | おきてから、シャワーを　あびます。 | Ébredés után lezuhanyzom. |
+    | けんこうが　たいせつです。         | Az egészség fontos.       |
