@@ -4,7 +4,28 @@
 # To write with katakana, hit K after typing
 
 * Phrases to learn
-** 04-18
+** 2021-04-11
+*** 月曜日
+    | パスポートを　見せてください。                               | Mutassa az útlevelét!                    |
+    | しばふに　入るな。                                           | Fűre lépni TILOS.                        |
+    | ここから　コンサートが　よく　聞こえます。                   | Innen jól hallható a koncert.            |
+    | こえが　よく　きこえますか。                                 | Jól hallható a hangom?                   |
+    | テレビの音が　よく　聞こえません。                       | A tévé hangja nem jól hallható.          |
+    | きつつきが　くちばしで　木のみきを　どんどん　なっています。 | A harkály a csőrével kopog a fa törzsén. |
+*** 火曜日
+    | きつねは　死　ふり　を　します。 | A róka halottnak tetteti magát. |
+    | プラスチックで　作った　バケツ   | műanyagból készített vödör      |
+    | おつりは　４３０円です。         | A visszajáró 430 yen.           |
+    | ころんで、けがを　しました。     | Elestem, megsérültem.           |
+*** 木曜日
+    | 蚊に　さされました。 | Megcsípett a szúnyog. |
+    | じしんが　起こった。 | Földrengés volt.      |
+    | 時計が　動きません。 | Nem jár az óra.       |
+*** 金曜日
+    | 一番下の　棚に　あります。 | A legalsó polcon van.  |
+    | 運動して、汗を　かいた。   | Mozogtam, megizzadtam. |
+    | 間もなく　電車が　来ます。 | Mindjárt jön a vonat.  |
+** 2021-04-18
 *** 月曜日
     | えんりょしないで。         | Ne zavartassa magát!                               |
     | どんどん　食べてください。 | Egyen kérem!                                       |
