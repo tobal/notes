@@ -4,6 +4,24 @@
 # To write with katakana, hit K after typing
 
 * Phrases to learn
+** 2021-04-04
+*** 月曜日
+    | いすに すわる。                      | Székre leül.       |
+    | さいふを おとす。                    | Pénztárcát elhagy. |
+    | インターネットで ちゅうもんを する。 | Interneten rendel. |
+*** 火曜日
+    | わざと うそを ついた。 | Szándékosan hazudott.    |
+    | よやくを する。        | Lefoglal (pl repjegyet). |
+    | コートを かける。      | Kabátot felakaszt.       |
+    | かべに えを かける。   | Képet felakaszt a falra. |
+*** 木曜日
+    | ひきだしの中に いれる。 | Fiókba belerak.        |
+    | たまねぎを いためる。   | Hagymát pirít.         |
+    | しゃっきんを しはらう。 | Kifizeti a tartozását. |
+*** 金曜日
+    | かばん から だす。         | Táskából kivesz.      |
+    | びょうにんの せわを する。 | Betegről gondoskodik. |
+    | おくれてすみません。       | Bocsánat hogy késtem. |
 ** 2021-04-11
 *** 月曜日
     | パスポートを　見せてください。                               | Mutassa az útlevelét!                    |
