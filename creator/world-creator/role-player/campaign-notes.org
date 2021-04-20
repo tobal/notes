@@ -108,8 +108,48 @@
       *Csonthalom*: Kopár, meredek dombocska, ami koponyaként emelkedik a lombtakaró fölé. A szikladombon van néhány három
       ember magas bitófa, itt szoktak bűnözőket akasztani. A búvóhely egy, a domb oldalába vájt, elhagyatott borospincében
       van.
+** A szigeten
+   Tibossan nem hajlandó partra lépni, kirakja a sebesülteket és a hullát, és rögtön vissza indul. Vannak csónakok a mólónál,
+   lophatnak a visszaútra, vagy megkérhetnek egy zarándokot a táborban.
+*** 1. nap (eweil)
+    Domarro rögtön elvegyül a kb félszázas zarándoktömegben, nem foglalkozik a támadással. A JK-k a zarándokok sátortáborban
+    találja meg a főpapot, Mesdan Sedechan-t. Nem hajlandó gyógyítani, akár nyíltan meg is tagadja a leendő Noir-paptól
+    (Mirolla), ami fura lehet (nincs rá hatalma, mert valójában Morgena pap). Az ismeretlen zarándok halála viszont jobban
+    megrázza, Int próbával erre felfigyelnek a JK-k. Ha ezt szóvá teszik, annyit mond: "a fiú az Úrnő igaz híve volt".
+
+    A templom őrein szokatlanul viseltes, Noir szimbólumokkal díszített ruha van, amit 2 éve szereztek a legyilkolt Noir
+    papoktól. Dai-nak feltűnhet (erv anyanyelv), hogy furcsa (toroni) akcentussal beszélik a nyelvet. Mindenkin csuklya van,
+    különben feltűnne, hogy nem erv (sötét bőr, fekete haj), hanem kevert kyr (fakó szem, hamuszín haj) származásúak.
+
+    A főpap udvariasan kéri a JK-któl az Angyalkardot. Akárhogyis, ezt megzavarják a tűzmágusok. Pökhendien, harciasan adják
+    át "Ordan ultimátumát".
+    *Daverhar*: "A Tűz Örökkön Izzó Kelyhét, a legnagyobb hatalmú Sogron templomát a mai napon, az építők jogán az Ordani
+    Tűzvarázsló Rend tulajdonává nyilvánítjuk! Felszólítjuk a szigeten tartózkodó máshitűeket a tulajdon azonnali átadására!
+    A távozásra egyetlen nap áll rendelkezésükre, mialatt a Tűzkobra mágusainak minden a szigeten talált és található tárggyal
+    elszámolással tartoznak! A mai naptól számított első reggelen átvesszük az uralmat a szigeten! Attól fogva az itt tartózkodó
+    máshitűek fogságba vettetnek, felettük a tűzkobra ítél!"
+
+    Az álpapok persze nem akarják átadni, és mindkét fél kitart a saját igaza mellett. A tűzmágusok ekkor a JK-kat kérdezik,
+    hogy velük, vagy ellenük vannak. Ha a tűzmágusokkal, akkor Daroveen-be küldik őket a grófhoz, hogy csapatot toborozzanak.
+    Ha a "Noir papok" oldalára állnak, akkor fejenként 10 arannyal, és egy-egy jóslattal fizetnek. Az aranyat három nap múlva
+    fizetik
+
+    "Örömmel látjuk, hogy vannak még hősök, akik nem futamodnak meg a kardcsörtető, fennhéjázó erőszak elől. A sziget biztonsága
+    most, a Kitekintés Ünnepe előtt különös fontossággal bír számunkra. Mint tudjátok, az Igaz Álmok Éjszakáján, melynek eredetét
+    a kyr időkből származtatják a bölcsek, különös dolgokra nyílhat az egyszerű álmodók szeme. Ezen az éjjelen a legvékonyabb a
+    határ az Antiss álomvilága, és a halandó hús valósága között. Egy ilyen éjszaka előtt nem engedhetjük át az álomszentélyt
+    semmiféle idegennek. Két nap és két éjszaka biztonságát kérjük tőletek. A megfelelő jutalom pedig nem marad el."
+
+    Nem várják el, hogy végig ott őrködjenek, megegyeznek, hogy a főpap telepátiával üzen, ha baj van, viszont kérik őket,
+    hogy az éjszakát töltsék a templom rendbehozott szárnyában, ha éjszaka akarnának támadni. Különbenis, "éjszakánként különös
+    dolgok történnek a szigeten".
+**** A jóslat
+**** Egyéb infók
+***** NJK: Mesdan Sedechan, a főpap
+***** A Kitekintés Ünnepe
 ** A városban
-*** Találkozás a gróffal
-*** Nyomozás
-*** Szállás a fogadóban
-**** A tolvajok támadása
+*** 1. nap
+**** Találkozás a gróffal
+**** Nyomozás
+**** Szállás a fogadóban
+***** A tolvajok támadása
