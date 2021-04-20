@@ -87,11 +87,27 @@
 **** Orvtámadás
      7-7 támadó két oldalról, körönként 2-2 nyíl a játékosokra, 20 lábról (CÉ: 30). Ha üldözik őket, megfordulnak, és harc
      lesz. Ha követik a nyomaikat, eljuthatnak a Csonthalomba.
+
      A zarándok meghal, a fejvadászlány haldoklik. A zarándok ruhája alól kiesik az Angyalkard, ezt a JK-k felvehetik.
      Rajta a felirat: "Scha daqhoirn ta tuomo derrum", ókyr-ül "És eljövend ismét, ha betelik az ő ideje". A kard karcsú
-     pengéjű, kékes derengésű, díszes markolattal (mithrill).
-     Miután kikötöttek, a tűzmágusok a sziget felé veszik az irányt, a JK-k dönthetnek, hogy a város, a sziget, vagy a
-     banditák nyomai felé indulnak tovább.
+     pengéjű, kékes derengésű, díszes markolattal (mithrill). Ha megvizsgálják a nyílvesszőt, ami megölte a zarándokot,
+     rá van tekerve egy pergamen: "tudod, hogy miért, te gazember", de ez csak elterelés.
+
+     A támadás után a tűzmágusok a sziget felé akarnak menni, megemlítik, hogy ott talán akad gyógyító is. A JK-k dönthetnek,
+     hogy tartják az eredeti tervet, vagy mennének a szigetre. Ha kikötnek az eredeti terv szerint, mehetnek a városba, vagy
+     követhetik a banditák nyomait. A tűzmágusok mindenképp csónakra szállnak, és elindulnak a sziget felé.
+
+     Tibossan, a révész nem szívesen kormányoz a sziget felé, de ha fizetnek neki 2 rezet, hajlandó elevezni odáig a tutajhoz
+     kötött csónakon.
+***** Nyomkövetés
+      Ha követik a nyomokat, elvezetik őket a Csonthalomba, a Sárgamakkos erdő mélyén. Itt tanyázik 14 bandita. Nem akarnak
+      harcolni, ha kihallgatják őket, annyit mondanak csak, hogy egy feketeruhás zarándok megölésére lettek felbérelve,
+      egy csuklyás idegen által, akinek sosem látták az arcát, de nem ez az első megbízásuk tőle. Ha megölik a banditákat a
+      JK-k, akkor a tűzvarázslók az első támadáshoz tolvajokat bérelnek fel. (?)
+
+      *Csonthalom*: Kopár, meredek dombocska, ami koponyaként emelkedik a lombtakaró fölé. A szikladombon van néhány három
+      ember magas bitófa, itt szoktak bűnözőket akasztani. A búvóhely egy, a domb oldalába vájt, elhagyatott borospincében
+      van.
 ** A városban
 *** Találkozás a gróffal
 *** Nyomozás
