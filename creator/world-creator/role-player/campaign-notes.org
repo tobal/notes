@@ -41,13 +41,22 @@
 
       Őszinte tisztelője: Merghon cwa Tissar, Daroveen grófja
       (négy hónappal ezelőtti dátum)
-*** Érkezés, szállás az utolsó fogadóban
-    Ide napnyugta előtt érkeznek, ezért megszállnak. A fogadós: "Ááá, tán csak nem maguk is a Révület Kútját jöttek
-    felkeresni? Sokan zarándokolnak oda manapság". Reggel egy üzenet várja őket Kro-tól, aki már hajnalban elindult,
-    hogy felkeresse barátját.
+*** Érkezés, szállás a fogadóban, Prosztóban
+    Prosztó egy kis falu Daroveen-hez közel, ide napnyugta előtt érkeznek, ezért megszállnak. A fogadós: "Ááá, tán
+    csak nem maguk is a Révület Kútját jöttek felkeresni? Sokan zarándokolnak oda manapság". A fogadóstól vehetnek egy
+    térképet, ha akarnak (4 réz), és kikérdezhetik a környékről.
+
+    #+CAPTION: Daroveen környékének térképe
+    #+attr_html: :alt Daroveen környékének térképe
+    #+attr_html: :width 1200px
+    #+attr_latex: :width 1200px
+    #+NAME:   fig:DAROVEEN-001
+    [[./img/daroveen-area-map.jpg]]
+
+    Reggel egy üzenet várja őket Kro-tól, aki már hajnalban elindult, hogy felkeresse barátját.
 ***** Üzenet
-      Nem tudtam tovább várni, hajnalban elindultam, hogy megkeressem a barátom. Sajnálom, hogy nem tarthatok veletek
-      a grófhoz, de miután kitanultam az álomjárás művészetét, csatlakozom hozzátok Daroveen-ben.
+      Nem tudtam tovább várni, hajnalban elindultam, hogy megkeressem a Noir pap barátom. Sajnálom, hogy nem tarthatok
+      veletek a grófhoz, de miután kitanultam az álomjárás művészetét, csatlakozom hozzátok Daroveen-ben.
 ** Átkelés a komppal
    A Kövecses folyó két partja között vastag kötél feszül, melyen kettős csigasor fut. A tutajszerű kompot egy
    kötélrendszer rögzíti, így a révésznek evezés helyett elég csak a köteleket csévélnie. A túloldalon nagyobb csónakok
