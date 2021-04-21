@@ -76,13 +76,17 @@
 *** Átkelés
 **** Párbeszéd
      Miután beszálltak, az NJK-k beszélgetnek a romtemplomról:
+
      *Tibossan*: Aztán mit attul a bűzhödt kúttul... persze, mindenki csak megy, mintha az örök életet szagónák benne...
      aztán meg jönnek vissza, ostobaságokat motyognak, mintha értenék... (kiköp)
      *Mirolla*: Azt mondják, Noir papjai még a leghomályosabb, kyr nyelvű jóslatokat is értelmezni tudják... számomra
+
      mégis hihetetlen, hogy Noir egy elfeledett nép nyelvén közli velünk a jövendő titkait...
      (Nerchien szórakozottan bólogat, helyesel)
+
      *Domarro*: Igen, de azt mondják a múlt tél óta a papok mintha megváltoztak volna, nem? Kelletlenül fogadják a
      zarándokokat, és nem szívesen magyarázzák már a jóslatokat. Mintha legszívesebben megtagadnák az álomfejtést...
+
      *Dorchyon*: Nem lehetne gyorsabban, öreg!
 **** Orvtámadás
      7-7 támadó két oldalról, körönként 2-2 nyíl a játékosokra, 20 lábról (CÉ: 30). Ha üldözik őket, megfordulnak, és harc
