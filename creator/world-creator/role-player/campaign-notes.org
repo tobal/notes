@@ -249,4 +249,24 @@
        Ha megtagadják, a gróf dühösen faképnél hagyja őket.
 
        Mesterfokú nyelvismeret, lélektan vagy emberismeret képzettséggel feltűnhet a gróf idegenszerűsége.
+**** Éjszaka
 ***** A tolvajok támadása
+      Ha éjszakára megszállnak, emeleti szobát kapnak, utcára nyíló ablakkal.
+      - 2k6 + 2 tolvaj támad, kötélen belendülve betörik a zsírozott disznóhólyag ablakot
+      - nyílpuskával lőnek párat az ocsúdó kalandozókra (legalább 2 körig)
+      - ha van idejük, pár dobótőrt is dobnak
+      - ha a JK-k kilépnek az ajtón, lesből lövik őket nyílpuskákkal (2k6 tolvaj)
+      - ha a JK-k felül kerekednek, az ablakon keresztül menekülnek a háztetőkön
+      - minden fegyverük mérgezett, álomméreggel
+****** Harcértékek
+      |--------------------+----+----+----+----+---------+----+----+---------+-------|
+      | Név                | KÉ | TÉ | VÉ | CÉ | Sebzés  | Ép | Fp | Tám/kör | Megj. |
+      |--------------------+----+----+----+----+---------+----+----+---------+-------|
+      | Tolvaj (nyílpuska) | 18 | -  | 90 | 34 | 1k6     |  8 | 20 |       1 |       |
+      | Tolvaj (dobótőr)   | 25 | 48 | 92 | -  | 1k6 + 1 |  8 | 20 |       2 |       |
+****** Daroveeni álomméreg
+       - 4. szintű idegméreg
+       - a városban kapható, 5 adag 1 ezüst
+       - hatására az áldozat halucinálni kezd - a sziget közelében Shar'all álmai jelennek meg
+***** Találkozás a tolvajklánnal
+      Ha találkozót kérnek a tolvajklántól, éjközépkor várja őket egy csuklyás közvetítő a Próféta szobránál.
