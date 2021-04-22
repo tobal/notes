@@ -209,6 +209,11 @@
 
    A város nevezetessége Horozin, a próféta emlékműve: kétszáz éve élt, Dreina-hitű puritán aszkéta, akinek a tanításai azóta is
    elevenen élnek a városban (pl. az itteni nők szemérmességében).
+
+   Amikor elérik a város határát, meglátják, hogy kb 100 méterre egy kúpos kalapos, maszkos alak harcol egy feketébe öltözött, könnyű
+   léptű harcossal. A maszkos alak láncos sarlót forgat, eldobja a sarlót, a harcos mellkasába fúródik, majd a láncnál fogva megrántja,
+   és elkapja a sarlót. Egy futó pillantást vet a karakterek felé, de amikor meglátja, hogy a városőrök felé szaladnak, berohan a
+   városba, és eltűnik az utcák között.
 *** Helyszínek
 **** Bordélyházak
 ***** Éjszaka Virágai
