@@ -196,6 +196,13 @@
       | Morgena hívek   | 22 | 20 |  78 | -  | 1k6      |  7 | 10 |       2 | tőr              |
       | Mesdan Sedechan | 17 | 69 | 118 | -  | 1k10     | 12 | 45 |       1 | hosszúkard       |
 ** A városban
+   Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
+   A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
+   a közelben, ami nem túl jó, de helyi sör (amit gomba és gabonafélék keverékéből erjesztenek) elég híres. Ivás után 50% eséllyel
+   hány tőle az illető, vagy nagyon ízlik neki.
+
+   A város nevezetessége Horozin, a próféta emlékműve: kétszáz éve élt, Dreina-hitű puritán aszkéta, akinek a tanításai azóta is
+   elevenen élnek a városban (pl. az itteni nők szemérmességében).
 *** 1. nap
 **** Találkozás a gróffal
 **** Nyomozás
