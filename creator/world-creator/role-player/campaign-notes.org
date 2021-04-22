@@ -116,62 +116,85 @@
    Tibossan nem hajlandó partra lépni, kirakja a sebesülteket és a hullát, és rögtön vissza indul. Vannak csónakok a mólónál,
    lophatnak a visszaútra, vagy megkérhetnek egy zarándokot a táborban.
 *** 1. nap (eweil)
-    Domarro rögtön elvegyül a kb félszázas zarándoktömegben, nem foglalkozik a támadással. A JK-k a zarándokok sátortáborban
-    találja meg a főpapot, Mesdan Sedechan-t. Nem hajlandó gyógyítani, akár nyíltan meg is tagadja a leendő Noir-paptól
-    (Mirolla), ami fura lehet (nincs rá hatalma, mert valójában Morgena pap). Az ismeretlen zarándok halála viszont jobban
-    megrázza, Int próbával erre felfigyelnek a JK-k. Ha ezt szóvá teszik, annyit mond: "a fiú az Úrnő igaz híve volt".
+**** Nappal
+***** Érkezés a sátortáborba
+      Domarro rögtön elvegyül a kb félszázas zarándoktömegben, nem foglalkozik a támadással. A JK-k a zarándokok sátortáborban
+      találja meg a főpapot, *Mesdan Sedechan*-t. Nem hajlandó gyógyítani, akár nyíltan meg is tagadja a leendő Noir-paptól
+      (Mirolla), ami fura lehet (nincs rá hatalma, mert valójában Morgena pap). Az ismeretlen zarándok halála viszont jobban
+      megrázza, Int próbával erre felfigyelnek a JK-k. Ha ezt szóvá teszik, annyit mond: "a fiú az Úrnő igaz híve volt".
 
-    A templom őrein szokatlanul viseltes, Noir szimbólumokkal díszített ruha van, amit 2 éve szereztek a legyilkolt Noir
-    papoktól. Dai-nak feltűnhet (erv anyanyelv), hogy furcsa (toroni) akcentussal beszélik a nyelvet. Mindenkin csuklya van,
-    különben feltűnne, hogy nem erv (sötét bőr, fekete haj), hanem kevert kyr (fakó szem, hamuszín haj) származásúak.
+      A templom őrein szokatlanul viseltes, Noir szimbólumokkal díszített ruha van, amit 2 éve szereztek a legyilkolt Noir
+      papoktól. Dai-nak feltűnhet (erv anyanyelv), hogy furcsa (toroni) akcentussal beszélik a nyelvet. Mindenkin csuklya van,
+      különben feltűnne, hogy nem erv (sötét bőr, fekete haj), hanem kevert kyr (fakó szem, hamuszín haj) származásúak.
 
-    A főpap udvariasan kéri a JK-któl az Angyalkardot. Akárhogyis, ezt megzavarják a tűzmágusok. Pökhendien, harciasan adják
-    át "Ordan ultimátumát".
-    *Daverhar*: "A Tűz Örökkön Izzó Kelyhét, a legnagyobb hatalmú Sogron templomát a mai napon, az építők jogán az Ordani
-    Tűzvarázsló Rend tulajdonává nyilvánítjuk! Felszólítjuk a szigeten tartózkodó máshitűeket a tulajdon azonnali átadására!
-    A távozásra egyetlen nap áll rendelkezésükre, mialatt a Tűzkobra mágusainak minden a szigeten talált és található tárggyal
-    elszámolással tartoznak! A mai naptól számított első reggelen átvesszük az uralmat a szigeten! Attól fogva az itt tartózkodó
-    máshitűek fogságba vettetnek, felettük a tűzkobra ítél!"
+      A főpap udvariasan kéri a JK-któl az Angyalkardot.
+***** Ordan ultimátuma
+      Akár oda akarják adni, akár nem, ezt megzavarják a tűzmágusok. Pökhendien, harciasan adják át "Ordan ultimátumát".
 
-    Az álpapok persze nem akarják átadni, és mindkét fél kitart a saját igaza mellett. A tűzmágusok ekkor a JK-kat kérdezik,
-    hogy velük, vagy ellenük vannak. Ha a tűzmágusokkal, akkor Daroveen-be küldik őket a grófhoz, hogy csapatot toborozzanak.
-    Ha a "Noir papok" oldalára állnak, akkor fejenként 10 arannyal, és egy-egy jóslattal fizetnek. Az aranyat három nap múlva
-    fizetik
+      *Daverhar*: "A Tűz Örökkön Izzó Kelyhét, a legnagyobb hatalmú Sogron templomát a mai napon, az építők jogán az Ordani
+      Tűzvarázsló Rend tulajdonává nyilvánítjuk! Felszólítjuk a szigeten tartózkodó máshitűeket a tulajdon azonnali átadására!
+      A távozásra egyetlen nap áll rendelkezésükre, mialatt a Tűzkobra mágusainak minden a szigeten talált és található tárggyal
+      elszámolással tartoznak! A mai naptól számított első reggelen átvesszük az uralmat a szigeten! Attól fogva az itt tartózkodó
+      máshitűek fogságba vettetnek, felettük a tűzkobra ítél!"
 
-    "Örömmel látjuk, hogy vannak még hősök, akik nem futamodnak meg a kardcsörtető, fennhéjázó erőszak elől. A sziget biztonsága
-    most, a Kitekintés Ünnepe előtt különös fontossággal bír számunkra. Mint tudjátok, az Igaz Álmok Éjszakáján, melynek eredetét
-    a kyr időkből származtatják a bölcsek, különös dolgokra nyílhat az egyszerű álmodók szeme. Ezen az éjjelen a legvékonyabb a
-    határ az Antiss álomvilága, és a halandó hús valósága között. Egy ilyen éjszaka előtt nem engedhetjük át az álomszentélyt
-    semmiféle idegennek. Két nap és két éjszaka biztonságát kérjük tőletek. A megfelelő jutalom pedig nem marad el."
+      Az álpapok persze nem akarják átadni, és mindkét fél kitart a saját igaza mellett. A tűzmágusok ekkor a JK-kat kérdezik,
+      hogy velük, vagy ellenük vannak. Ha a tűzmágusokkal, akkor Daroveen-be küldik őket a grófhoz, hogy csapatot toborozzanak.
+      Ha a "Noir papok" oldalára állnak, akkor fejenként 10 arannyal, és egy-egy jóslattal fizetnek. Az aranyat három nap múlva
+      fizetik
 
-    Nem várják el, hogy végig ott őrködjenek, megegyeznek, hogy a főpap telepátiával üzen, ha baj van, viszont kérik őket,
-    hogy az éjszakát töltsék a templom rendbehozott szárnyában, ha éjszaka akarnának támadni. Különbenis, "éjszakánként különös
-    dolgok történnek a szigeten".
-**** A jóslat
-     A templomrom előhajójában egy derékmagasságú, durva sziklatömbökből rótt kőgyűrűt látsz. A papok karon fognak időnként egy-egy
-     zarándokot (előtte gondosan beszedik az adományokat) és tartják, amíg az egy aranyat hajít a kútba, rémülten meredve maga elé.
-     Tíz-tizenöt szívdobbanásnyi idő múltán a kútba bámuló zarándokok arca átszellemül, szemük fennakad és tompán hörögni kezdenek...
-     el is zuhannának, ha Noir szolgája nem támogatná őket. Tántorogva vezetik el őket és a fal tövébe ültetik... Te következel!
+      "Örömmel látjuk, hogy vannak még hősök, akik nem futamodnak meg a kardcsörtető, fennhéjázó erőszak elől. A sziget biztonsága
+      most, a Kitekintés Ünnepe előtt különös fontossággal bír számunkra. Mint tudjátok, az Igaz Álmok Éjszakáján, melynek eredetét
+      a kyr időkből származtatják a bölcsek, különös dolgokra nyílhat az egyszerű álmodók szeme. Ezen az éjjelen a legvékonyabb a
+      határ az Antiss álomvilága, és a halandó hús valósága között. Egy ilyen éjszaka előtt nem engedhetjük át az álomszentélyt
+      semmiféle idegennek. Két nap és két éjszaka biztonságát kérjük tőletek. A megfelelő jutalom pedig nem marad el."
 
-     A kút sötét, hideg és meglepően büdös. Ahogy nézed a mélyén kavargó homályt, hirtelen úgy érzed, egész látómeződet az örvénylő
-     feketeség tölti ki, szinte zuhansz a mélybe, a behajított aranypénz után... s akkor az éjszín kavargásból egy kortalan férfiarc
-     rajzolódik ki. Haja ezüstfehéren omlik a vállára, pengeéles vonásai - túlságosan tökéletes, nem emberi vonások - valami időtlen,
-     nyugodt felsőbbrendűséget tükröznek. Beszél hozzád, de te nem érted. (A pap a füledbe suttog: Most felteheted a kérdést, amiért
-     jöttél!)
+      Nem várják el, hogy végig ott őrködjenek, megegyeznek, hogy a főpap telepátiával üzen, ha baj van, viszont kérik őket,
+      hogy az éjszakát töltsék a templom rendbehozott szárnyában, ha éjszaka akarnának támadni. Különbenis, "éjszakánként különös
+      dolgok történnek a szigeten".
+***** A jóslat
+      A templomrom előhajójában egy derékmagasságú, durva sziklatömbökből rótt, rúnákkal ékes kőgyűrűt látsz. A papok karon fognak
+      időnként egy-egy zarándokot (előtte gondosan beszedik az adományokat) és tartják, amíg az egy aranyat hajít a kútba, rémülten
+      meredve maga elé. Tíz-tizenöt szívdobbanásnyi idő múltán a kútba bámuló zarándokok arca átszellemül, szemük fennakad és tompán
+      hörögni kezdenek... el is zuhannának, ha Noir szolgája nem támogatná őket. Tántorogva vezetik el őket és a fal tövébe ültetik...
+      Te következel!
 
-     A válasz pedig...
+      A kút sötét, hideg és meglepően büdös. Ahogy nézed a mélyén kavargó homályt, hirtelen úgy érzed, egész látómeződet az örvénylő
+      feketeség tölti ki, szinte zuhansz a mélybe, a behajított aranypénz után... s akkor az éjszín kavargásból egy kortalan férfiarc
+      rajzolódik ki. Haja ezüstfehéren omlik a vállára, pengeéles vonásai - túlságosan tökéletes, nem emberi vonások - valami időtlen,
+      nyugodt felsőbbrendűséget tükröznek. Beszél hozzád, de te nem érted. (A pap a füledbe suttog: Most felteheted a kérdést, amiért
+      jöttél!)
 
-     Az idegen arca eltűnik, képekben válaszol, de a képek villámgyorsan jönnek, alig bírod felfogni őket... (két-három személyre
-     szabott kép) és már vége is. Arra eszmélsz, hogy az ismeretlen szavakat mormolod, miközben a Noir-pap a fal mellé ültet, hogy
-     egy újabb zarándokot segítsen a kúthoz...
-**** Egyéb infók
-***** NJK: Mesdan Sedechan, a főpap
-***** A Kitekintés Ünnepe
-      Adron Kvartjának negyedik ("Feloldozás") havában ülik meg; azon ünnepek közé tartozik, melyek felett két halhatatlan -
-      esetünkben Adron és Noir - közösen gyakorol védnökséget. A hívek összegyűlnek e két isten templomaiban, s amennyiben úgy
-      látják jónak, megosztják egymással álmaikat, melyekből a papok igyekeznek kiolvasni a város (az állam) szempontjából
-      lényeges ómeneket. Morgena hasonló funkciójú ünnepével esik egybe, melyet a kyr/toroni liturgia az Intések Éjjelének
-      nevez.
+      A válasz pedig...
+
+      Az idegen arca eltűnik, képekben válaszol, de a képek villámgyorsan jönnek, alig bírod felfogni őket... (két-három személyre
+      szabott kép) és már vége is. Arra eszmélsz, hogy az ismeretlen szavakat mormolod, miközben a Noir-pap a fal mellé ültet, hogy
+      egy újabb zarándokot segítsen a kúthoz...
+***** Egyéb infók
+****** NJK-k a táborban
+******* Mesdan Sedechan, a főpap
+	Erősen őszülő, körszakállas, ötvenes évei ellenére is izmos férfi. Mélyen ülő, fakószürke szemében mintha titkolt szomorúság
+	lappangana, hangja mindig visszafogott - az a fajta, akinek nem kell kiereszteni a hangját, ha parancsolni akar. Gyűlöli Tharr
+	híveit.
+******** Háttér
+******* Ralia sha Dierdel, toroni Morgena-hívő
+	Szívarcú, mandulaszemű fiatal lány, korához képest meglepően higgadt. Magas, sudár termetű, mozdulatai feszültek, akár a
+	felajzott íj. Fakószürke haja néha ezüstösen csillan, szeme halványkék. Az egyetlen, akit nevetni, énekelni hallanak a "Noir-papok"
+	komoly társaságában. A kalandozókban - társaival ellentétben - a megmentőt és nem a drága pénzen vásárolt zsoldost látja.
+******** Háttér
+****** A Kitekintés Ünnepe
+       Adron Kvartjának negyedik ("Feloldozás") havában ülik meg; azon ünnepek közé tartozik, melyek felett két halhatatlan -
+       esetünkben Adron és Noir - közösen gyakorol védnökséget. A hívek összegyűlnek e két isten templomaiban, s amennyiben úgy
+       látják jónak, megosztják egymással álmaikat, melyekből a papok igyekeznek kiolvasni a város (az állam) szempontjából
+       lényeges ómeneket. Morgena hasonló funkciójú ünnepével esik egybe, melyet a kyr/toroni liturgia az Intések Éjjelének
+       nevez.
+**** Éjszaka
+***** Harcértékek
+      |-----------------+----+----+-----+----+----------+----+----+---------+------------------|
+      | Név             | KÉ | TÉ |  VÉ | CÉ | Sebzés   | Ép | Fp | Tám/kör | Megj.            |
+      |-----------------+----+----+-----+----+----------+----+----+---------+------------------|
+      | Mocsárféreg     | 10 | 40 |  80 | 26 | 1k3/1k10 | 18 | 44 |       1 | sav: 2m, 1x/perc |
+      | Morgena hívek   | 22 | 20 |  78 | -  | 1k6      |  7 | 10 |       2 | tőr              |
+      | Mesdan Sedechan | 17 | 69 | 118 | -  | 1k10     | 12 | 45 |       1 | hosszúkard       |
 ** A városban
 *** 1. nap
 **** Találkozás a gróffal
