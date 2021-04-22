@@ -203,6 +203,30 @@
 
    A város nevezetessége Horozin, a próféta emlékműve: kétszáz éve élt, Dreina-hitű puritán aszkéta, akinek a tanításai azóta is
    elevenen élnek a városban (pl. az itteni nők szemérmességében).
+*** Helyszínek
+**** Bordélyházak
+***** Éjszaka Virágai
+      Idősebb, tapasztaltabb hölgyeket foglalkoztató, patinás intézmény, ahol a kuncsaft szava szentírás.
+***** Mosolgyó Macskák Háza
+      Csupa lelkes, ifjú amatőrből álló társulat.
+**** Fogadók
+***** A Próféta Barlangja
+      Erényes, kissé gyomorbajos külsejű fogadós, hűvös hangulat, elképesztő tisztaság, kényelmetlen lócák. Békésen iszogató
+      polgárok, állásukat vesztett városőrök mint kidobóemberek - csak semmi hangoskodás!
+***** Állj meg Vándor
+      A legnagyobb fogadó. Átutazó vándorok, katonák, városőrök törzshelye, tucatnyi könnyűvérű - mérsékelten bájos - markotányosnővel.
+      A fogadós hajdan kalandozó volt (3. TSZ-ű harcos), utóbb önnön gyávasága miatt választotta a kényelmesebb életet. Nagyotmondó
+      és szószátyár. Őt évig tartó kalandozómúltjának eseményeit tizenkét éve meséli nap mint nap és nem ismétli önmagát.
+***** Gazduram
+      A legolcsóbb fogadó. Parasztokból, lókupecekből, részeg danászástól hangos az év minden szakában. A fogadós - sörtehajú,
+      veres arcú, húsos képű, harcsabajszú behemót - maga is szívesen néz a pohár fenekére. Családia - bár kissé bocskoros, csujogatós -
+      hangulat. A koszt itt a legjobb. Kidobóember nincs, a vendégek maguk taszítják ki az okoskodókat.
+***** Birkapásztor
+      Az Abbit Kosok dühkitörése miatt épp átépítés alatt.
+**** Templom
+     Masszív Dreina-templom, benne a város egyetlen papjával. Toberlan fura kis öregember. Évek óta nem mer kimozdulni, itt fogadja
+     és jogi tanáccsal látja el a hozzá fordulókat. Betegesen fél a tömegtől, nyílt terektől. Gyanakszik, hogy  a varázstudók és papok
+     eltűnése összefügg a gróf hirtelen megváltozásával. Ő azért élhette túl, mert 12 éve nem mozdult ki.
 *** 1. nap
 **** Találkozás a gróffal
 **** Nyomozás
