@@ -241,9 +241,65 @@
 *** 1. nap
 **** Nappal
 ***** Nyomozás
-****** Hírek a kocsmákban
-****** Hírek a piacon, utcán
-****** Hírek a bordélyházakban
+****** Noir papokról
+       - A papok igazában nem is a jóslatok kedvéért lakják a szigetet: valami elásott kincs után kutatnak esténként. Sokan látni vélték
+	 őket, amint fáklyafénynél barangolnak a romvárosban. (Részben igaz, de a papok nem kincset, hanem az Álmodó Angyalt és az
+	 elveszett kardot keresték.)
+
+	 *kocsmában, félrészeg italozók*
+       - Noir papjai nagyon megváltoztak az utóbbi évben. Mintha már nem érdekelné őket az álmok megfejtése, az utóbbi hónapokban csak
+	 kelletlenül válaszolnak a kíváncsiskodóknak, mintha terhükre lenne a busásan jövedelmező zarándoksereg is. (Igaz, mióta nem Noir,
+	 hanem Morgena hívei uralják a szigetet, nehezen viselik a jövevényeket, noha belőlük élnek.)
+
+	 *piacon, panaszkodó kofák*
+****** Városról:
+       - A városi tolvajok kezdenek elszemtelenedni. Ráadásul az utóbbi hónapokban többször előfordult, hogy az elfogott gazemberek a
+	 lezárt városi tömlöcből tűntek el - megszöktek, vagy meggyilkolták őket? Ki tudja... (Igaz, a zauder-gróf minden gazembert
+	 igyekszik felhasználni céljai érdekében.)
+
+	 *kocsmában, egy panaszkodó városőr*
+       - A múlt héten kalandozócsapat érkezett a városba: erőszakosak és magabiztosak voltak. Egy verekedésben az utolsó székig
+	 felaprították a Birkapásztor nevű fogadót. A gróf, ahelyett hogy elűzte volna őket, magához rendelte az agresszív társaságot.
+	 Azóta senki nem látta őket. Tömlöcbe vetette őket, vagy megúszták száműzetéssel? (Féligazság, az Abbit Kosok valóban szétverték
+	 az ivót, a gróf azonban a szolgálatába fogadta őket - azóta a háttérben tevékenykednek.)
+
+	 *kocsmában, egy törzshelyét elvesztett vendég, aki méltatlankodik a rossz sör miatt (pedig mindenhol ugyanazt kapja)*
+       - (Gúnyosan:) Tibossan, a révész nagyon megváltozott. Mióta nem jár inni és nem hajkurássza a város örömlányait, jóformán alig
+	 győzi az evezést. Nagyobb áradások idején pedig egyszerűen kifordul a kezéből a lapát! (Igaz, mióta leváltotta a zauder, a
+	 szokásai és a rutinja sem a régi)
+
+	 *bordélyházban, egy kuncsaftját vesztő örömlány*
+       - A gróf különösen viselkedik az utóbbi négy hónapban: elbocsátotta udvari mágusát, aki utóbb nyomtalanul eltűnt. Talán
+	 összefüggésben van ezzel, hogy Daroveen összes ismert varázstudója és vajákosa elhagyta a várost - a legtöbben el sem búcsúztak.
+	 (Igaz, a zauder-gróf a tolvajklán segítségével megszabadult a leleplezésére képes kalandozóktól és varázshasználóktól.)
+
+	 *bordélyházban, akinek visszajáró vendége volt egy varázsló, és azt ígérgette neki, hogy egyszer elviszi erről a helyről*
+****** Romvárosról
+       - A zarándokok egyike a jóslatot követően bevette magát a szigeten komorló romvárosba, és mesés kinccsel tért vissza. (Nem igaz)
+
+	 *piacon, beszélgető járókelők*
+       - A város el van átkozva: minden pap és mágiatudó elhagyta Daroveent az utóbbi három hónapban. Mind a féltucatnyi varázstudó
+	 az egy Toberlan kivételével, de hát ő túl öreg ahhoz, hogy bármi félnivalója legyen. (suttogva:) Meg aztán talán nincs is ki
+	 mind a négy kereke... (Igaz, a zauder-gróf az öreg templomába zárkózó Dreina-papot nem tartotta veszedelmesnek.)
+
+	 *kocsmában, a csapos, ha kérdezik a templomról vagy a városról*
+       - A város "erős embere", Gobuzer, egy csapat forróvérű ifjonc kíséretében felkereste a sziget romjait. Egyedül tért vissza,
+	 galambőszen, bevérzett szemmel, sikoltozva-nyáladzva. A városiak nem merték megérinteni sem, mert bőrén gennyes fekélyek
+	 nyíltak. Reggelre felakasztotta magát. (Igaz)
+
+	 *piacon*
+       - A pyarroni Szent Szék inkvizítorai azt tervezik, hogy a jövőben egy kisebb csapat démonűző keresi fel a sziget gyanús romait.
+	 Már régen meg kellett volna tenni... (Igaz. De vajon honnan szereztek róla tudomást?)
+
+	 *piacon*
+****** Jóslatokról
+       - Az egyik zarándok a jóslat hallgatása közben belezuhant a Révület Kútjába. Hatalmas morgás tört fel a mélyből, vérfagyasztó
+	 sikoly... a zarándokot sosem látták viszont. (Egyszerű rémhír)
+
+	 *bordélyban, egy hencegő örömlány*
+       - A jóslatok kyr nyelven hangzanak el - végül is mit várna az ember egy régi kyr templomban? (Igaz)
+
+	 *a Dreina paptól*
 ***** Találkozás a gróffal
 ****** A gróf
        Díszes erv kelmékbe öltözött, magas, határozott kiállású férfi. Rövid, ápolt szakáll, félhosszúra hagyott fekete haj, sötét
