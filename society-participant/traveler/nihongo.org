@@ -63,6 +63,24 @@
     | しあいは　８時に　はじまります。   | A meccs 8-kor kezdődik.   |
     | おきてから、シャワーを　あびます。 | Ébredés után lezuhanyzom. |
     | けんこうが　たいせつです。         | Az egészség fontos.       |
+** 2021-04-25
+*** 月曜日
+    | 結婚をする | けっこんをする | összeházasodik |
+    | 結婚式     | けっこんしき   | esküvő         |
+    | 披露宴     | ひろうえん     | lakodalom      |
+*** 火曜日
+    | 喧嘩をする | けんかをする | veszekedik, veszekszik |
+    | 離婚をする | りこんをする | elválik                |
+    | 弁護士     | べんごし     | ügyvéd                 |
+*** 木曜日
+    | 葬式                       | そうしき      | temetés              |
+    | なくなる・いなくなる・死ぬ |               | meghal               |
+    | お墓                       | おはか        | sír                  |
+    | お墓 まいり                | おはか まいり | temető/ sírlátogatás |
+*** 金曜日
+    | 病気が治る     | びょうきがなおる | meggyógyul             |
+    | ひどい　かぜ　 |                  | brutál megfázás        |
+    | かぜぐすり     |                  | megfázás elleni gyógyi |
 * Homework
 ** 2021-04-18
    - Éppen japán házit írok.
