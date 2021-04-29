@@ -79,9 +79,10 @@
 
      *Tibossan*: Aztán mit attul a bűzhödt kúttul... persze, mindenki csak megy, mintha az örök életet szagónák benne...
      aztán meg jönnek vissza, ostobaságokat motyognak, mintha értenék... (kiköp)
-     *Mirolla*: Azt mondják, Noir papjai még a leghomályosabb, kyr nyelvű jóslatokat is értelmezni tudják... számomra
 
+     *Mirolla*: Azt mondják, Noir papjai még a leghomályosabb, kyr nyelvű jóslatokat is értelmezni tudják... számomra
      mégis hihetetlen, hogy Noir egy elfeledett nép nyelvén közli velünk a jövendő titkait...
+
      (Nerchien szórakozottan bólogat, helyesel)
 
      *Domarro*: Igen, de azt mondják a múlt tél óta a papok mintha megváltoztak volna, nem? Kelletlenül fogadják a
@@ -163,15 +164,11 @@
       rajzolódik ki. Haja ezüstfehéren omlik a vállára, pengeéles vonásai - túlságosan tökéletes, nem emberi vonások - valami időtlen,
       nyugodt felsőbbrendűséget tükröznek. Beszél hozzád, de te nem érted. Az idegen arca eltűnik, majd
 
-      egy sötét alak a trónra ül, aztán hamuvá ég.
-
-      egy maszkos alak egy sarlót dob áldozata mellébe, majd a sarló újra a kezében terem.
-
-      undorító, hatalmas férgek maró savval terítenek be.
-
-      egy őszes hajú leprás lóg a bitófáról.
-
-      belefulladsz a mocsár kipárolgásába.
+      - egy sötét alak a trónra ül, aztán hamuvá ég.
+      - egy maszkos alak egy sarlót dob áldozata mellébe, majd a sarló újra a kezében terem.
+      - undorító, hatalmas férgek maró savval terítenek be.
+      - egy őszes hajú leprás lóg a bitófáról.
+      - belefulladsz a mocsár kipárolgásába.
 
       Arra eszmélsz, hogy az ismeretlen szavakat mormolod, miközben a Noir-pap a fal mellé ültet, hogy egy újabb zarándokot segítsen a
       kúthoz...
