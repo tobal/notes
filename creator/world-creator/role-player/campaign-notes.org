@@ -172,6 +172,8 @@
 
       Arra eszmélsz, hogy az ismeretlen szavakat mormolod, miközben a Noir-pap a fal mellé ültet, hogy egy újabb zarándokot segítsen a
       kúthoz...
+
+      A jóslat után *Ralia* megy oda a JK-khoz, hoz nekik vizet, és megköszöni, hogy megvédik a templomot.
 ***** Egyéb infók
 ****** NJK-k a táborban
 ******* Mesdan Sedechan, a főpap
@@ -191,6 +193,10 @@
        lényeges ómeneket. Morgena hasonló funkciójú ünnepével esik egybe, melyet a kyr/toroni liturgia az Intések Éjjelének
        nevez.
 **** Éjszaka
+     Az első éjszaka az Abbit Kosok ranagol papja idéz meg 1k10 mocsárférget a mocsárból. Savval támadnak először.
+
+     A harc után, hajnalban kiderül, hogy egy Noir-hívőt a mocsárba hurcolt az egyik féreg. Gondolják, hogy mágia idézhette meg
+     őket, mert ezek nappali lények.
 ***** Harcértékek
       |-----------------+----+----+-----+----+----------+----+----+---------+------------------|
       | Név             | KÉ | TÉ |  VÉ | CÉ | Sebzés   | Ép | Fp | Tám/kör | Megj.            |
