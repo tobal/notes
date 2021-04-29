@@ -204,6 +204,44 @@
       | Mocsárféreg     | 10 | 40 |  80 | 26 | 1k3/1k10 | 18 | 44 |       1 | sav: 2m, 1x/perc |
       | Morgena hívek   | 22 | 20 |  78 | -  | 1k6      |  7 | 10 |       2 | tőr              |
       | Mesdan Sedechan | 17 | 69 | 118 | -  | 1k10     | 12 | 45 |       1 | hosszúkard       |
+***** Álmok
+****** Az álomangyal üzenete
+       Büszke, alabástromfalú, kilencszögletű, templomféle épületet látsz a magasból. Ezüstfehér hajú, kék szemű férfiak állnak
+       előtte kinyújtott karokkal. Az égre üvöltenek, köpönyegük lángvörösen lobog és összerándulsz, amint idegeiden végigperzsel
+       a parázsforró kín... Lezuhansz, de már alig érzed a sziklák hidegét.
+
+       Aztán sötétség. Távolról, felülről hallod a vörösköpenyesek távolodó moraját. Csend, és semmi más. Béklyók szorítása
+       tagjaidon, és egy kard, mely bilincseidre sújt. Még látod a lesújtó pengén felizzó rúnákat, amikor... felébredsz.
+****** Noir hívása
+       Egy mocsaras, szúnyogjárta szigetet látsz. Csónakok tucatjai kötnek ki rajta, áhitatos arcú férfiak és nők özönlenek a
+       sziget északi csúcsában omladozó, kilencszögletű rom felé. Valamennyien belépnek és látod, amint egy nagy, sötéten bűzlő
+       kútkáva fölé hajolnak. Szemeik kifordulnak, tántorogva, érthetetlen szavakat mormogva térnek vissza a várakozó csónakokhoz.
+       Egyedül te hallod a kút mélyéből felhangzó száraz, elégedett kacagást.
+****** Az összecsapás
+       Először jóformán nem látsz semmit, majd úgy érzed, rázkódik alattad a föld. Forró, száraz szél vág az arcodba, és amint
+       levegőért kapsz, kíméletlenül a torkodig furakodik és eleven tűzként perzseli a légcsövedet. Az ég feletted, mint valami
+       óriási száj, üvöltésre tárul, és az agyarforma felhők között megjelenik egy arc.
+
+       Egyetlen ép szeme van csak, félig lehunyva, mégis óriási hatalom sugárzik belőle. Törékeny nőnek látszik csupán, a vékony
+       csontjait borító lepleket egy másik, iszonyatos világ jeges szelei tépik. Magányosnak látszik, de a felhőtakarón túl
+       felragyogó ezerfényű világ elevenen lélegzik körülötte... Ő a végzeted. Az álmosan lehunyt szem megrebben, és az egész
+       mindenség beleremeg a törékeny nő néhány szavába: "Visszaveszem, ami az enyém"
+
+       A karcsú, lobogó ruhás nő dalolni kezd és ismét rázkódni kezd alattad a föld. Védekezőn emelnéd magad elé karodat - és
+       ekkor látod, hogy kezeiden-lábaidon acélbilincsek feszülnek. Ordítasz, hogy elhallgattasd az éneket, mely egyre jobban fáj,
+       elemészti erődet... A dal fénylő repedéseket hasít a bőrödbe és csak üvöltesz... amikor kezedbe akad egy kard.
+
+       Pengéje keskeny, finom kidolgozású - Kyria legjobb kovácsainak remeke. Megmarkolod a díszes markolatot, és lesúlytasz vele
+       a béklyókra. Láncaid szempillantás alatt lehullanak. Magasra emeled az ősi pengét, és a dal elhallgat odafenn. A félszemű
+       nő bólint, arcán tűnődő mosoly dereng, ahogy búcsúzik: "Legyen hát"
+
+       ...és a felhőagyarak összezárulnak. Visszazuhansz a sötétségbe, de azzal a reménnyel: valami elkezdődött.
+****** A rémálom
+       Egy szűk folyosón rohansz, fejed gyakran az alacsony mennyezetbe ütközik. Mögötted lihegés, de nem mersz hátrafordulni.
+       Ha hátrafordulsz, utolér... és akkor meghalsz. Egyre gyengülsz, ólomnehéz lábaid alig engedelmeskednek, zihálni kezdesz
+       te is, amikor tűz csap ki a falból és hajad lángra lobban. Lépcsőn rohansz lefelé, mikor kőlap zuhan le előtted. A falakon
+       hatalmas üregek nyílnak, és harsogva ontani kezdik a jeges, szennyes vízáradatot, mely eloltja a hajadat, ruháidat habzsoló
+       lángokat, megszabadít az elevenen égés kínjától - örökre. A tüdődet elárasztó víz az utolsó emléked, mikor hörögve felébredsz.
 ** A városban
    Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
    A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
