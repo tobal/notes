@@ -9,6 +9,30 @@
     - A jóslatokat többen is megfejtik, a Morgena hívők rájönnek, hogy egy Morgena angyal rejtőzik a kútban.
       Elfoglalják a templomot, megölik a Noir papokat, és átveszik a helyüket.
 *** Hatalmi felek és motivációik
+**** Morgena hívei
+     Fel akarják ébreszteni az álomangyalt, az Intések Éjjelén.
+**** Noir papok
+     Miután az antyss-on nem sikerült visszavenni az irányítást a romok fölött, elküldtek egy Noir papot, hogy
+     kikémlelje a helyzetet.
+**** Toroniak
+     Cyrgaan Vellaquor, a Háromfejű Kígyószektájának magas rangú papja a Szárazszeműek fejvadászklánt bérelte fel,
+     hogy megfejtsék a Kút titkát. Megbízták Mirollát a felderítéssel, ha ez nem sikerül, akkor megtámadják a
+     templomot.
+**** Toroni tűzvarázslók
+     Nyugtalanítja őket, hogy az ősi Sogron templomban rejlő tudás északföldi bitorlók kezére kerül. Nyíltan nem
+     léphetnek fel erv földön, ezért az ordani rend képviselőinek álcázva érkezik két renegát tűzvarázsló, Dochyon
+     és Daveghar, hogy ultimátumot adjanak a Noir papoknak.
+**** Alakváltók
+     Az alakváltókra nézve veszélyesek a jóslatok, hisz ez az ősi faj az emberek tudatlanságának köszönheti a
+     fennmaradását. Ezért két alakváltó érkezik, hogy elpusztítsa a templomot. Felveszik a daroveeni gróf, és a
+     révész alakját. Nyíltan fellépni így sem tudnak a Noir papok ellen, ezért kapcsolatba lépnek a városban
+     működő tolvajklánnal, később pedig egy egész kalandozócsapatot, az Abbit Kosokat is felbérlik.
+**** Ordani Tűzvarázsló Rend
+     A Rend 5 főnixet, 5 tűzvarázslót és 5 Sogron-papot küld, hogy megbüntesse a Rend nevével való visszaélést,
+     és hogy átvegye az irányítást az ősi Sogron templom fölött.
+**** Álomangyal
+     A kútból érkező jóslatok elhozták az angyalnak Morgena híveit, és egy hívőnek az Angyalkardot is sikerült
+     megszereznie. Az angyal célja a szabadulás.
 ** Bemesélés, utazás a helyszínre
 *** Erion felé
     Kétvárosból elindulnak Erion felé. Út közben Kro egy ötlettel fordul hozzájuk.
