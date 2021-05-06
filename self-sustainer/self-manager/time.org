@@ -1,11 +1,18 @@
+#+TODO: TODO(t) | DONE(d)
+
 * <2021-05-06 Thu>
 ** DONE Create initial timetable <2023-05-09 Tue 21:00>
-** <2023-05-09 Tue 21:30>
-** <2023-05-09 Tue 22:00>
-** <2023-05-09 Tue 22:30>
-** <2023-05-09 Tue 23:00>
-** <2023-05-09 Tue 23:30>
-** <2023-05-09 Tue 00:00>
+** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
+** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
+** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
+** TODO Evening routine, hygene of body <2023-05-09 Tue 23:00>
+   - Shower
+   - Wash face
+   - Eye training
+   - Dental
+** TODO Evening routine, hygene of mind <2023-05-09 Tue 23:30>
+   - 30 min meditation
+** TODO Sleep <2023-05-09 Tue 00:00>
 ** <2023-05-09 Tue 00:30>
 ** <2023-05-09 Tue 01:00>
 ** <2023-05-09 Tue 01:30>
