@@ -24,37 +24,37 @@
     | おくれてすみません。       | Bocsánat hogy késtem. |
 ** 2021-04-11
 *** 月曜日
-    | パスポートを　見せてください。                               | Mutassa az útlevelét!                    |
-    | しばふに　入るな。                                           | Fűre lépni TILOS.                        |
-    | ここから　コンサートが　よく　聞こえます。                   | Innen jól hallható a koncert.            |
-    | こえが　よく　きこえますか。                                 | Jól hallható a hangom?                   |
-    | テレビの音が　よく　聞こえません。                       | A tévé hangja nem jól hallható.          |
-    | きつつきが　くちばしで　木のみきを　どんどん　なっています。 | A harkály a csőrével kopog a fa törzsén. |
+    | パスポートを　見せてください。                               | パスポートを　みせてください。                               | Mutassa az útlevelét!                    |
+    | しばふに　入るな。                                           | しばふに　はいるな。                                         | Fűre lépni TILOS.                        |
+    | ここから　コンサートが　よく　聞こえます。                   | ここから　コンサートが　よく　きこえます。                   | Innen jól hallható a koncert.            |
+    | こえが　よく　聞こえますか。                                 | こえが　よく　きこえますか。                                 | Jól hallható a hangom?                   |
+    | テレビの音が　よく　聞こえません。                           | テレビのおとが　よく　きこえません。                         | A tévé hangja nem jól hallható.          |
+    | きつつきが　くちばしで　木のみきを　どんどん　なっています。 | きつつきが　くちばしで　きのみきを　どんどん　なっています。 | A harkály a csőrével kopog a fa törzsén. |
 *** 火曜日
-    | きつねは　死　ふり　を　します。 | A róka halottnak tetteti magát. |
-    | プラスチックで　作った　バケツ   | műanyagból készített vödör      |
-    | おつりは　４３０円です。         | A visszajáró 430 yen.           |
-    | ころんで、けがを　しました。     | Elestem, megsérültem.           |
+    | きつねは　死　ふり　を　します。 | きつねは　し　ふり　を　します。   | A róka halottnak tetteti magát. |
+    | プラスチックで　作った　バケツ。 | プラスチックで　つくった　バケツ。 | műanyagból készített vödör      |
+    | おつりは　４３０円です。         | おつりは　４３０えんです。         | A visszajáró 430 yen.           |
+    |                                  | ころんで、けがを　しました。       | Elestem, megsérültem.           |
 *** 木曜日
-    | 蚊に　さされました。 | Megcsípett a szúnyog. |
-    | じしんが　起こった。 | Földrengés volt.      |
-    | 時計が　動きません。 | Nem jár az óra.       |
+    | 蚊に　さされました。 | かに　さされました。     | Megcsípett a szúnyog. |
+    | じしんが　起こった。 | じしんが　おこった。     | Földrengés volt.      |
+    | 時計が　動きません。 | とけいが　うごきません。 | Nem jár az óra.       |
 *** 金曜日
-    | 一番下の　棚に　あります。 | A legalsó polcon van.  |
-    | 運動して、汗を　かいた。   | Mozogtam, megizzadtam. |
-    | 間もなく　電車が　来ます。 | Mindjárt jön a vonat.  |
+    | 一番下の　棚に　あります。 | いちばんしたの　たなに　あります。 | A legalsó polcon van.  |
+    | 運動して、汗を　かいた。   | うんどうして、あせを　かいた。     | Mozogtam, megizzadtam. |
+    | 間もなく　電車が　来ます。 | まもなく　でんしゃが　きます。     | Mindjárt jön a vonat.  |
 ** 2021-04-18
 *** 月曜日
     | えんりょしないで。         | Ne zavartassa magát!                               |
     | どんどん　食べてください。 | Egyen kérem!                                       |
     | そろそろ　行きましょう。   | Lassacskán menni kéne! Itt az idő, hogy induljunk! |
 *** 火曜日
-    | ここで　タバコを　すっても　いいですか。 | Szabad itt dohányozni?         |
-    | いや、すっては　いけません。             | Nem, nem szabad.               |
-    | ええ、いいですよ。　                     | Igen, szabad.                  |
-    | 図書館で　食べてもいいですか。           | Szabad a könyvtárban enni?     |
-    | いや、食べてはいけません。               | Nem, nem szabad.               |
-    | いや、だめですよ。                       | Nem, tilos. (nem túl udvarias) |
+    |                                | ここで　タバコを　すっても　いいですか。 | Szabad itt dohányozni?         |
+    |                                | いや、すっては　いけません。             | Nem, nem szabad.               |
+    |                                | ええ、いいですよ。　                     | Igen, szabad.                  |
+    | 図書館で　食べてもいいですか。 | としょかんで　たべてもいいですか。       | Szabad a könyvtárban enni?     |
+    |                                | いや、食べてはいけません。               | Nem, nem szabad.               |
+    |                                | いや、だめですよ。                       | Nem, tilos. (nem túl udvarias) |
 *** 木曜日
     | ちょっと、入ってもいいですか。       | Elnézést, bemehetek?      |
     | ちょっと、すわっても　いい？         | Elnézést, leülhetek?      |
@@ -74,13 +74,13 @@
     | 弁護士     | べんごし     | ügyvéd                 |
 *** 木曜日
     | 葬式                       | そうしき      | temetés              |
-    | なくなる・いなくなる・死ぬ |               | meghal               |
+    | なくなる・いなくなる・死ぬ | しぬ          | meghal               |
     | お墓                       | おはか        | sír                  |
     | お墓 まいり                | おはか まいり | temető/ sírlátogatás |
 *** 金曜日
-    | 病気が治る     | びょうきがなおる | meggyógyul             |
-    | ひどい　かぜ　 |                  | brutál megfázás        |
-    | かぜぐすり     |                  | megfázás elleni gyógyi |
+    | 病気が治る | びょうきがなおる | meggyógyul             |
+    | 　         | ひどい　かぜ     | brutál megfázás        |
+    |            | かぜぐすり       | megfázás elleni gyógyi |
 * Homework
 ** 2021-04-18
    - Éppen japán házit írok.
