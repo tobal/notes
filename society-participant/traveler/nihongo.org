@@ -4,6 +4,25 @@
 # To write with katakana, hit K after typing
 
 * Phrases to learn
+** 2021-03-28
+*** 月曜日
+    | 時間が　かかる　       | じかんが　かかる　       | időbe telik     |
+    |                        | おしっこをする           | pisil           |
+    | 料理のじゅんびをする　 | りょうりのじゅんびをする | kaját előkészít |
+*** 火曜日
+    | 石鹸で　手を洗う | せっけんで　てを　あらう | szappannal kezet mos       |
+    |                  | りんごのかわをむく       | meghámozza az almát        |
+    | 鞄を　隅に　置く | かばんを　すみに　おく   | a táskát leteszi a sarokba |
+*** 木曜日
+    | 電球を　替える | でんきゅうをかえる         | égőt kicserél   |
+    |                | ～だいを　はらう・しはらう | számlát befizet |
+    | 電気代         | でんきだい　               | áramszámla      |
+    |                | ガスだい                   | gázszámla       |
+*** 金曜日
+    | バスが　道を　走る                     | バスが　みちをはしる                     | megy a busz az úton                          |
+    | 燃えるゴミ                             | もえるゴミ                               | éghető szemét                                |
+    | 燃えないゴミ                           | もえないゴミ                             | nem éghető szemét                            |
+    | 今日は　もえるゴミを　捨てる　日です。 | きょうは　もえるゴミを　すてる　ひです。 | Ma az éghető szemét kidobásának a napja van. |
 ** 2021-04-04
 *** 月曜日
     | いすに すわる。                      | Székre leül.       |
