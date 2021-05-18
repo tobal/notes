@@ -222,8 +222,6 @@
 **** Éjszaka
      Az első éjszaka az Abbit Kosok ranagol papja idéz meg 1k10 mocsárférget a mocsárból. Savval támadnak először.
 
-     A harc után, hajnalban kiderül, hogy egy Noir-hívőt a mocsárba hurcolt az egyik féreg. Gondolják, hogy mágia idézhette meg
-     őket, mert ezek nappali lények.
 ***** Harcértékek
       |-----------------+----+----+-----+----+----------+----+----+---------+------------------|
       | Név             | KÉ | TÉ |  VÉ | CÉ | Sebzés   | Ép | Fp | Tám/kör | Megj.            |
@@ -269,6 +267,34 @@
        te is, amikor tűz csap ki a falból és hajad lángra lobban. Lépcsőn rohansz lefelé, mikor kőlap zuhan le előtted. A falakon
        hatalmas üregek nyílnak, és harsogva ontani kezdik a jeges, szennyes vízáradatot, mely eloltja a hajadat, ruháidat habzsoló
        lángokat, megszabadít az elevenen égés kínjától - örökre. A tüdődet elárasztó víz az utolsó emléked, mikor hörögve felébredsz.
+*** 2. nap (higr)
+    A harc után, hajnalban kiderül, hogy egy Noir-hívőt a mocsárba hurcolt az egyik féreg. Gondolják, hogy mágia idézhette meg
+    őket, mert ezek nappali lények.
+**** Találkozás Kro-val
+     A reggeli ocsúdás után, ha elindulnak a JK-k a sátortáboron keresztül, szembe találják magukat a maszkos, keleti kalapos
+     idegennel. Az némán int nekik, és egy sátorba vezeti őket. Bent ott találják az első nap látott "kereskedőt", Perennelt.
+***** Kro története
+      Kro felfedi magát előttük, elmondja, hogy a valódi neve Shion Ralak, és hogy toroni kém volt, aki Eren-ben kémkedett. Egy
+      parancsnak aztán egyszer ellenszegült, ami miatt a birodalom ellene fordult, és azóta szökésben van. Ám a toroni fejvadászok
+      most rá bukkantak, bár úgy gondolja, hogy nem ez a fő küldetésük, de mivel a birodalom összes fejvadászklánja pályázik a
+      vérdíjra, ezért őt is meg akarják ölni.
+***** Nyomozás a Noir pap után
+      Eredetileg a Noir pap ismerősét jött megkeresni. Úgy tudta, hogy a romtemplomban van, ez volt az utolsó infója kb másfél évvel
+      ezelőttről, de amikor ideért, nem találta sehol, ami nagyon furcsa volt. Az itteni papokat kérdezgetve állítólag nem is ismerte
+      senki. Ez Kro-nak nagyon gyanús volt, ezért nyomozni kezdett. Először a városban, ahol rá találtak a fejvadászok, így elmenekült.
+      Aztán a zarándokok között, akik között végül talált egy Noir-papot... és ekkor Perennel-re mutat.
+***** Perennel felfedi magát
+      Perennel is bemutatkozik (Perennel Domarro), majd elmondja, hogy a Befogadottak Rendje tagja. A romtemplomot eredetileg egy
+      ezzel rivális rend, a Bálványtagadók Rendje tartotta a kezében. Elmondja, hogy hónapokkal ezelőtt figyeltek fel rá a Noir rendek,
+      hogy a romtemplom eredeti gazdái eltűntek. Először az Antisson próbálkoztak kutakodni, de minden próbálkozó vagy meghalt, vagy
+      megőrült. Végül ő volt az egyedüli, aki vállalta, hogy eljön a szigetre, és kikémleli a történéseket. Annyit sikerült kiderítenie,
+      hogy az itteni papok nem igazi Noir papok. Ha a JK-k elmondják, hogy szerintük ezek Morgena hívek és egy Morgena angyalt akarnak
+      kiszabadítani, azt mondja hogy akkor talán eleve nem kellett volna a Noir-papoknak ide jönniük. Morgena vallása nagyon pici, nem
+      jelent veszélyt Pyarron kiterjedt vallására, és ha a híveiknek egy ilyen pici esély megadatott, hogy segítsék az istenüket, akkor
+      ő nem akar az útjukba állni. Bosszúra nem éhezik, hisz a halott Noir papok amúgyis egy rivális rend tagjai voltak.
+***** Kro kérése
+      Végül Kro megkéri a JK-kat, hogy segítsenek neki leszerelni a fejvadászokat. Megtudta, hogy a romvárosban állítottak főhadiszállást.
+      Vagyis épp csak elmondaná a kérését, de a beszélgetést kiabálás és csatazaj töri meg.
 ** A városban
    Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
    A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
