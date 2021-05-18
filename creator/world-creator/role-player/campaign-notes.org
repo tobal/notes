@@ -464,3 +464,8 @@
        - hatására az áldozat halucinálni kezd - a sziget közelében Shar'all álmai jelennek meg
 ***** Találkozás a tolvajklánnal
       Ha találkozót kérnek a tolvajklántól, éjközépkor várja őket egy csuklyás közvetítő a Próféta szobránál.
+** A romvárosban
+*** A Szárazszeműek főhadiszállása
+    A JK-k megtalálják a fészküket, de már nincsenek ott a fejvadászok, az első éjszaka után rájöttek, hogy hiába a sok élőholtaktól
+    védelmező mágia, éjszakára ez nem megfelelő hely. Viszont gondolhatták, hogy Kro itt fogja keresni őket, ezért hátrahagytak 3
+    fejvadászt lesben (köztük Mirollát is), hogy ha felbukkan, megöljék. Arra persze nem számítanak, hogy társai is lesznek.
