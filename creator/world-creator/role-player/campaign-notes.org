@@ -295,6 +295,19 @@
 ***** Kro kérése
       Végül Kro megkéri a JK-kat, hogy segítsenek neki leszerelni a fejvadászokat. Megtudta, hogy a romvárosban állítottak főhadiszállást.
       Vagyis épp csak elmondaná a kérését, de a beszélgetést kiabálás és csatazaj töri meg.
+**** A tűzvarázslók és banditák ostroma
+     A diskurzust a tűzvarázslók támadása szakítja félbe. A támadók a kompkikötő felől érkeznek, és támadnak a sátortáborra, egy tűzvarázsló
+     és 4 bandita. Ha őket legyőzik, fent a romtemplomnál is folyik a küzdelem, a Morgena hívők harcolnak a banditákkal, a főpap meglepően
+     jó harcos. A másik tűzvarázsló még életben van, és mellette még 5 harcos (összesen 14 bandita és 2 tűzvarázsló támadt).
+***** Harcértékek
+      |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
+      | Név                | KÉ | TÉ |  VÉ | CÉ | Sebzés | Tám/kör | Ép | Fp | SFÉ | Mp | MME | AME |
+      |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
+      | Bandita (íj)       | 20 |    |     | 30 | 1k6    |       2 | 12 | 24 |   1 |    |     |     |
+      | Bandita (szekerce) | 20 | 47 |  98 |    | 1k10   |       1 | 12 | 24 |   1 |    |     |     |
+      | Tűzvarázsló        | 19 | 69 | 123 |  0 | 1k10   |       1 |  7 | 45 |     | 36 |  35 |  33 |
+***** Taktika
+      Az első tűzvarázsló tűzkitörésekkel támad (12Mp, 3E, 3k6), háromszor. A második fémizzítást varázsol a paplovagra (12Mp, 1k6/kör).
 ** A városban
    Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
    A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
