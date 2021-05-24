@@ -465,7 +465,87 @@
 ***** Találkozás a tolvajklánnal
       Ha találkozót kérnek a tolvajklántól, éjközépkor várja őket egy csuklyás közvetítő a Próféta szobránál.
 ** A romvárosban
+   A falakon a hírhedt bíborfolyondár tenyészik, ami minden nedvességet felszív a levegőből, a folyondárral szimbiózisban élő
+   kéksavgomba pedig minden mikroorganizmust és apróbb élőlényt elpusztít. A csaknem háromezer éves Quiphann ennek - és az
+   Álomangyal jelenlétének - köszönhetően megdöbbentően jó állapotban maradt meg. (IQ próba herbalistáknak)
+
+   A városban még erősebb az egész szigeten érezhető édes-savanykás szag, a bíborfolyondár éjjel nyíló virágainak illata. A
+   virágok lehelete itt meglehetősen tömény: 1k6 órán belül viszonylag gyenge (4. szintű), de zavaró idegméregként hat. Ennek
+   hatására vizionálni és hallucinálni kezdenek; a baj csak az, hogy a látomások egyre valószerűbbek lesznek, egyre közelebb sodorják
+   bódult elméjüket az Antisshoz, ahol az Álomangyal és Noir vívja küzdelmét a lelkekért.
+
+   A hely hátborzongató. Furcsa szögben megtörő fények, élettelen színek, és minden teljesen csendes. Hallják a tulajdon
+   szívdobbanásaikat.
+*** Felfedezés
+**** A legrégibb kyr városromok
+     A "külváros" lehetett, itt volt a kis falu, ami aztán várossá nőtte ki magát.
+***** Alkimistaműhely
+      Karcsú, kereknek tűnő (11 szögletű) torony.
+***** Templom
+      Pentagramma alapú, ötszintű (12 láb magas) épület. (IQ próba papoknak: Morgena temploma
+***** Csillagda
+      Karcsú, amfora alakú, 9 szögletű.
+***** Gyertyaöntő
+      Kétszintes, éles sarkokkal, kívülről fáklyatartókkal.
+***** Kerámiaműves
+      Kétszintes, hétszög alapú.
+***** Üvegfúvó
+      Egyszintes, téglaforma épület.
+***** Ékszerész
+      Kétszintes, hasábalakú épület, kicsi rácsos ablakokkal.
+***** Villa
+      Mint egy villa, falfaragásokkal, vízköpőkkel
+***** Színház
+      Szögletes alapú, háromszintes, impozáns
+***** Rúnakovács
+      Egyszintes, ládaforma épület
+**** Újabb betelepülők kerülete
+***** Kovácsműhely
+      Egyszintes, kerek alapú
+***** Borbélyműhely
+      Egyszintes, kerek alapú
+***** Íjkészítő
+      Háromszintes, kupolás
+***** Bordélyház
+      Ötszintes, kerek, színes kupola
+***** Hentes
+      Földszintes, igluforma
+***** Bútorkészítő
+      Hatalmas alapterületű, háromszintes kupola
+***** Fűszeres
+      Egyetlen, több cikkelyre osztott kupola
+***** Kórház
+      Ötszintes, kerek alapú, nagy
+***** Szeszfőző
+      Egyszintes, kicsi, lekerekített élekkel
+***** Pórul járt kalandozó
+      Jellegtelen egyszintes, kupolaszerű épület
+**** Újváros (legfiatalabb épületek)
+***** Herbalista
+      Kétszintes, bástyaforma
+***** Fogadó
+      Nyolcemeletes, erődszerűen vastag falú
+***** Cserzőműhely
+      Alacsony, masszív, földszintes
+***** Istálló
+      Hatalmas
+***** Szerszámkovács
+      Lőrésekkel díszített egyszintes
+***** Taverna
+      Háromszintes, erődforma
+***** Könyvtár
+      Impozáns, háromszintes, vaskos ajtókkal
+***** Börtön
+      Földszintes, bevehetetlennek tűnő, vastag falú
+***** Kereskedőház
+      Igen impozáns, nyolcemeletes, erődszerűen masszív
+***** Piactér
+      Rossz állapotú, alacsony piaci épületek egy téren
+**** Ellefelek
+     Fantom, Hekator, Ragályhalál
 *** A Szárazszeműek főhadiszállása
     A JK-k megtalálják a fészküket, de már nincsenek ott a fejvadászok, az első éjszaka után rájöttek, hogy hiába a sok élőholtaktól
     védelmező mágia, éjszakára ez nem megfelelő hely. Viszont gondolhatták, hogy Kro itt fogja keresni őket, ezért hátrahagytak 3
     fejvadászt lesben (köztük Mirollát is), hogy ha felbukkan, megöljék. Arra persze nem számítanak, hogy társai is lesznek.
+**** Harcértékek
+     TBD
