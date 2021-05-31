@@ -145,13 +145,13 @@
    - Pilisへ えんそくに 行きませんか。
 
    - Kirándulás után nézd meg, hogy van-e kullancs a bőrödön.
-   - えんそくするの後に
+   - えんそくの後に
 
    - Hátizsákjuk van. Biztos kirándulni mennek.
    - かれらは バックパックが あります。えんそくに 行く はずです。
 
    - Kirándulás előtt rajzoljunk egy térképet.
-   - えんそくするの前に ちずを えがきましょう。
+   - えんそくの前に ちずを えがきましょう。
 
    - Lehet, hogy hétvégén el tudunk menni kirándulni.
    - しゅうまつ えんそくに 行く ことが できる かもしれない。
