@@ -480,67 +480,98 @@
 **** A legrégibb kyr városromok
      A "külváros" lehetett, itt volt a kis falu, ami aztán várossá nőtte ki magát.
 ***** Alkimistaműhely
-      Karcsú, kereknek tűnő (11 szögletű) torony.
+      - Karcsú, kereknek tűnő (11 szögletű) torony.
+      - 10 perc átkutatni
 ***** Templom
-      Pentagramma alapú, ötszintű (12 láb magas) épület. (IQ próba papoknak: Morgena temploma
+      - Pentagramma alapú, ötszintű (12 láb magas) épület. (IQ próba papoknak: Morgena temploma)
+      - 1 óra átkutatni
 ***** Csillagda
-      Karcsú, amfora alakú, 9 szögletű.
+      - Karcsú, amfora alakú, 9 szögletű.
+      - 30 perc átkutatni
 ***** Gyertyaöntő
-      Kétszintes, éles sarkokkal, kívülről fáklyatartókkal.
+      - Kétszintes, éles sarkokkal, kívülről fáklyatartókkal.
+      - 20 perc átkutatni
 ***** Kerámiaműves
-      Kétszintes, hétszög alapú.
+      - Kétszintes, hétszög alapú.
+      - 20 perc átkutatni
 ***** Üvegfúvó
-      Egyszintes, téglaforma épület.
+      - Egyszintes, téglaforma épület.
+      - 10 perc átkutatni
 ***** Ékszerész
-      Kétszintes, hasábalakú épület, kicsi rácsos ablakokkal.
+      - Kétszintes, hasábalakú épület, kicsi rácsos ablakokkal.
+      - 20 perc átkutatni
 ***** Villa
-      Mint egy villa, falfaragásokkal, vízköpőkkel
+      - Mint egy villa, falfaragásokkal, vízköpőkkel
+      - 20 perc átkutatni
 ***** Színház
-      Szögletes alapú, háromszintes, impozáns
+      - Szögletes alapú, háromszintes, impozáns
+      - 30 perc átkutatni
 ***** Rúnakovács
-      Egyszintes, ládaforma épület
+      - Egyszintes, ládaforma épület
+      - 10 perc átkutatni
 **** Újabb betelepülők kerülete
 ***** Kovácsműhely
-      Egyszintes, kerek alapú
+      - Egyszintes, kerek alapú
+      - 10 perc átkutatni
 ***** Borbélyműhely
-      Egyszintes, kerek alapú
+      - Egyszintes, kerek alapú
+      - 10 perc átkutatni
 ***** Íjkészítő
-      Háromszintes, kupolás
+      - Háromszintes, kupolás
+      - 20 perc átkutatni
 ***** Bordélyház
-      Ötszintes, kerek, színes kupola
+      - Ötszintes, kerek, színes kupola
+      - 1 óra átkutatni
 ***** Hentes
-      Földszintes, igluforma
+      - Földszintes, igluforma
+      - 10 perc átkutatni
 ***** Bútorkészítő
-      Hatalmas alapterületű, háromszintes kupola
+      - Hatalmas alapterületű, háromszintes kupola
+      - 40 perc átkutatni
 ***** Fűszeres
-      Egyetlen, több cikkelyre osztott kupola
+      - Egyetlen, több cikkelyre osztott kupola
+      - 20 perc átkutatni
 ***** Kórház
-      Ötszintes, kerek alapú, nagy
+      - Ötszintes, kerek alapú, nagy
+      - 1 óra átkutatni
 ***** Szeszfőző
-      Egyszintes, kicsi, lekerekített élekkel
+      - Egyszintes, kicsi, lekerekített élekkel
+      - 10 perc átkutatni
 ***** Pórul járt kalandozó
-      Jellegtelen egyszintes, kupolaszerű épület
+      - Jellegtelen egyszintes, kupolaszerű épület
+      - 10 perc átkutatni
 **** Újváros (legfiatalabb épületek)
 ***** Herbalista
-      Kétszintes, bástyaforma
+      - Kétszintes, bástyaforma
+      - 20 perc átkutatni
 ***** Fogadó
-      Nyolcemeletes, erődszerűen vastag falú
+      - Nyolcemeletes, erődszerűen vastag falú
+      - 1 óra átkutatni
 ***** Cserzőműhely
-      Alacsony, masszív, földszintes
+      - Alacsony, masszív, földszintes
+      - 10 perc átkutatni
 ***** Istálló
-      Hatalmas
+      - Hatalmas
+      - 30 perc átkutatni
 ***** Szerszámkovács
-      Lőrésekkel díszített egyszintes
+      - Lőrésekkel díszített egyszintes
+      - 10 perc átkutatni
 ***** Taverna
-      Háromszintes, erődforma
+      - Háromszintes, erődforma
+      - 30 perc átkutatni
 ***** Könyvtár
-      Impozáns, háromszintes, vaskos ajtókkal
+      - Impozáns, háromszintes, vaskos ajtókkal
+      - 40 perc átkutatni
 ***** Börtön
-      Földszintes, bevehetetlennek tűnő, vastag falú
+      - Földszintes, bevehetetlennek tűnő, vastag falú
+      - 20 perc átkutatni
+      - Itt van a fejvadászok fészke
 ***** Kereskedőház
-      Igen impozáns, nyolcemeletes, erődszerűen masszív
+      - Igen impozáns, nyolcemeletes, erődszerűen masszív
+      - 1 óra átkutatni
 ***** Piactér
-      Rossz állapotú, alacsony piaci épületek egy téren
+      - Rossz állapotú, alacsony piaci épületek egy téren
+      - 40 perc átkutatni
 **** Ellefelek
 ***** Fantom
       - Testük légies, mintha fekete, sűrű masszából épülne fel.
