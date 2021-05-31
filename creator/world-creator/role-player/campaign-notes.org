@@ -542,10 +542,34 @@
 ***** Piactér
       Rossz állapotú, alacsony piaci épületek egy téren
 **** Ellefelek
-     Fantom, Hekator, Ragályhalál
+***** Fantom
+      - Testük légies, mintha fekete, sűrű masszából épülne fel.
+      - Képesek asztrálmozaikokat használni 10E erősítéssel. Pl: Félelem, Ingerültség, Elvakultság, Közömbösség
+      |----+----+----+--------+----|
+      | KÉ | TÉ | VÉ | Sebzés | Ép |
+      |----+----+----+--------+----|
+      | 15 | 45 | 70 | 1k6    | 32 |
+***** Ragályhalál
+      - Légies teste kissé áttetsző, alakját hosszú lepel fedi, arcát csukja takarja
+      - Támadása Fp sebzést okoz, és sikertelen Egészségpróbánál Vörös Halál betegséget terjeszt
+      |----+----+----+--------+----|
+      | KÉ | TÉ | VÉ | Sebzés | Ép |
+      |----+----+----+--------+----|
+      | 15 | 50 | 70 | 1k6    | 18 |
+***** Hekator
+      - Képes JK-t irányítani, ezt csak akkor vetem be, ha már túl sokat lootoltak.
+      - Akaratereje 14 + 1k6, olyat irányíthat, akinek ennél kisebb
+      |----+----+----+-----------------+------------------|
+      | KÉ | TÉ | VÉ | Sebzés          | Ép               |
+      |----+----+----+-----------------+------------------|
+      | 10 | 20 | 50 | Fegyver szerint | Megszállt testté |
 *** A Szárazszeműek főhadiszállása
     A JK-k megtalálják a fészküket, de már nincsenek ott a fejvadászok, az első éjszaka után rájöttek, hogy hiába a sok élőholtaktól
     védelmező mágia, éjszakára ez nem megfelelő hely. Viszont gondolhatták, hogy Kro itt fogja keresni őket, ezért hátrahagytak 3
     fejvadászt lesben (köztük Mirollát is), hogy ha felbukkan, megöljék. Arra persze nem számítanak, hogy társai is lesznek.
 **** Harcértékek
-     TBD
+     |-------------+----+----+-----+--------+----+----+---------+----+-------------------------------------|
+     | Fegyver     | KÉ | TÉ |  VÉ | Sebzés | Ép | Fp | Tám/kör | Ψp | Megj.                               |
+     |-------------+----+----+-----+--------+----+----+---------+----+-------------------------------------|
+     | Tőr         | 29 | 56 | 101 | 1k6+1  | 11 | 26 |       2 | 10 | Hátbaszúrás Af, Vakharc Af, Pszi Af |
+     | Folytóhurok | 19 | 53 |  79 | 1k10+1 |    |    |       1 |    |                                     |
