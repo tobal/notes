@@ -160,27 +160,76 @@
    - しゅうじつ えんそく しましたで、足が いたい。
 ** 2021-06-06
    - あした はやく 起きなければなりません。
+   - Holnap muszáj korán felkelnem.
+
    - はやく 起きなくてもいいです。
+   - Nem szabad korán felkelni.
+
    - けさ、はやく 起きました。
+   - Ma reggel korán keltem.
+
    - ふつう、はやく 起きません。
+   - Általában nem kelek korán.
+
    - あしたから、はやく 起きてみます。
+   - Holnaptól korán fogok kelni.
+
    - はやく 起きられません。
+   - Nem tudok korán kelni.
+
    - ゆうべ、おそく 寝ました。
+   - Tegnap este későn feküdtem le.
+
    - ふうつ、おそく 寝ません。
+   - Általában nem fekszem későn.
+
    - おそく 寝ないでください。
+   - Kérlek ne feküdj későn.
+
    - あしたから おそく 寝ません。
+   - Holnaptól nem fekszem későn.
+
    - 土曜日だから、おそく 寝てもいいです。
+   - Szombattól szabad későn feküdnöd.
+
    - 日本人は きびしく 働きます。
+   - A japánok keményen dolgoznak.
+
    - きびしく 働いて、病気に なりました。
+   - Keményen dolgoztam, lebetegedtem.
+
    - そんなに きびしく 働かないでください。
+   - Kérlek ne dolgozz ennyire keményen.
+
    - これから、もっと きびしく 働いてみます。
+   - Mostantól sokkal keményebben fogok dolgozni.
+
    - そんなに きびしく 働かないほうがいいです。
+   - Jobb lenne ha nem dolgoznál ennyire keményen.
+
    - きれいに 書いてください。
+   - Kérlek írj szépen.
+
    - もっと きれいに 書いてください。
+   - Kérlek írj sokkal szebben.
+
    - きれいに 書けない。
+   - Nem írok szépen.
+
    - きれいに 書いてみます。
+   - Szépen írok.
+
    - きれいに 書きましたね。
+   - Szépen írtam ugye?
+
    - 静かに してください。
+   - Kérlek légy csendben.
+
    - 静かに しなさい。
+   - Kuss.
+
    - 静かに したほうがいいです。
+   - Jobb lenne ha csendben lennél.
+
    - 図書館に 静かに しなければなりません。
+   - A könyvtárban csendben kell lenni.
