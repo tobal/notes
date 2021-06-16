@@ -519,6 +519,7 @@
 ***** Íjkészítő
       - Háromszintes, kupolás
       - 20 perc átkutatni
+      - Találnak 1k6 kyr íjat (rövid íj), 1 mágikus íjat (hosszú), 20 páncéltörő nyílfejet (SFÉ -3)
 ***** Bordélyház
       - Ötszintes, kerek, színes kupola
       - 1 óra átkutatni
@@ -598,9 +599,13 @@
     A JK-k megtalálják a fészküket, de már nincsenek ott a fejvadászok, az első éjszaka után rájöttek, hogy hiába a sok élőholtaktól
     védelmező mágia, éjszakára ez nem megfelelő hely. Viszont gondolhatták, hogy Kro itt fogja keresni őket, ezért hátrahagytak 3
     fejvadászt lesben (köztük Mirollát is), hogy ha felbukkan, megöljék. Arra persze nem számítanak, hogy társai is lesznek.
+
+    Először egy fejvadász próbál garottal hátbatámadni egy JK-t, ha észreveszik, vagy sikerül, a többi kettő nyílpuskával támad.
+    Utána rohamoznak, pszi rohammal.
 **** Harcértékek
-     |-------------+----+----+-----+--------+----+----+---------+----+-------------------------------------|
-     | Fegyver     | KÉ | TÉ |  VÉ | Sebzés | Ép | Fp | Tám/kör | Ψp | Megj.                               |
-     |-------------+----+----+-----+--------+----+----+---------+----+-------------------------------------|
-     | Tőr         | 29 | 56 | 101 | 1k6+1  | 11 | 26 |       2 | 10 | Hátbaszúrás Af, Vakharc Af, Pszi Af |
-     | Folytóhurok | 19 | 53 |  79 | 1k10+1 |    |    |       1 |    |                                     |
+     |------------------+----+----+-----+----+--------+----+----+---------+----+-------------------------------------|
+     | Fegyver          | KÉ | TÉ |  VÉ | CÉ | Sebzés | Ép | Fp | Tám/kör | Ψp | Megj.                               |
+     |------------------+----+----+-----+----+--------+----+----+---------+----+-------------------------------------|
+     | Tőr              | 29 | 56 | 101 |    | 1k6+1  | 11 | 26 |       2 | 10 | Hátbaszúrás Af, Vakharc Af, Pszi Af |
+     | Folytóhurok      | 19 | 53 |  79 |    | 1k10+1 |    |    |       1 |    | Lopózás 50%                         |
+     | Könnyű nyílpuska | 28 |    |     | 35 | 1k6+1  |    |    |       1 |    | Mérgezett (bódulat, EG próba -1)    |
