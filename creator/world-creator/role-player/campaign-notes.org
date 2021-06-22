@@ -270,44 +270,61 @@
 *** 2. nap (higr)
     A harc után, hajnalban kiderül, hogy egy Noir-hívőt a mocsárba hurcolt az egyik féreg. Gondolják, hogy mágia idézhette meg
     őket, mert ezek nappali lények.
-**** Találkozás Kro-val
-     A reggeli ocsúdás után, ha elindulnak a JK-k a sátortáboron keresztül, szembe találják magukat a maszkos, keleti kalapos
-     idegennel. Az némán int nekik, és egy sátorba vezeti őket. Bent ott találják az első nap látott "kereskedőt", Perennelt.
-***** Kro története
-      Kro felfedi magát előttük, elmondja, hogy a valódi neve Shion Ralak, és hogy toroni kém volt, aki Eren-ben kémkedett. Egy
-      parancsnak aztán egyszer ellenszegült, ami miatt a birodalom ellene fordult, és azóta szökésben van. Ám a toroni fejvadászok
-      most rá bukkantak, bár úgy gondolja, hogy nem ez a fő küldetésük, de mivel a birodalom összes fejvadászklánja pályázik a
-      vérdíjra, ezért őt is meg akarják ölni.
-***** Nyomozás a Noir pap után
-      Eredetileg a Noir pap ismerősét jött megkeresni. Úgy tudta, hogy a romtemplomban van, ez volt az utolsó infója kb másfél évvel
-      ezelőttről, de amikor ideért, nem találta sehol, ami nagyon furcsa volt. Az itteni papokat kérdezgetve állítólag nem is ismerte
-      senki. Ez Kro-nak nagyon gyanús volt, ezért nyomozni kezdett. Először a városban, ahol rá találtak a fejvadászok, így elmenekült.
-      Aztán a zarándokok között, akik között végül talált egy Noir-papot... és ekkor Perennel-re mutat.
-***** Perennel felfedi magát
-      Perennel is bemutatkozik (Perennel Domarro), majd elmondja, hogy a Befogadottak Rendje tagja. A romtemplomot eredetileg egy
-      ezzel rivális rend, a Bálványtagadók Rendje tartotta a kezében. Elmondja, hogy hónapokkal ezelőtt figyeltek fel rá a Noir rendek,
-      hogy a romtemplom eredeti gazdái eltűntek. Először az Antisson próbálkoztak kutakodni, de minden próbálkozó vagy meghalt, vagy
-      megőrült. Végül ő volt az egyedüli, aki vállalta, hogy eljön a szigetre, és kikémleli a történéseket. Annyit sikerült kiderítenie,
-      hogy az itteni papok nem igazi Noir papok. Ha a JK-k elmondják, hogy szerintük ezek Morgena hívek és egy Morgena angyalt akarnak
-      kiszabadítani, azt mondja hogy akkor talán eleve nem kellett volna a Noir-papoknak ide jönniük. Morgena vallása nagyon pici, nem
-      jelent veszélyt Pyarron kiterjedt vallására, és ha a híveiknek egy ilyen pici esély megadatott, hogy segítsék az istenüket, akkor
-      ő nem akar az útjukba állni. Bosszúra nem éhezik, hisz a halott Noir papok amúgyis egy rivális rend tagjai voltak.
-***** Kro kérése
-      Végül Kro megkéri a JK-kat, hogy segítsenek neki leszerelni a fejvadászokat. Megtudta, hogy a romvárosban állítottak főhadiszállást.
-      Vagyis épp csak elmondaná a kérését, de a beszélgetést kiabálás és csatazaj töri meg.
-**** A tűzvarázslók és banditák ostroma
-     A diskurzust a tűzvarázslók támadása szakítja félbe. A támadók a kompkikötő felől érkeznek, és támadnak a sátortáborra, egy tűzvarázsló
-     és 4 bandita. Ha őket legyőzik, fent a romtemplomnál is folyik a küzdelem, a Morgena hívők harcolnak a banditákkal, a főpap meglepően
-     jó harcos. A másik tűzvarázsló még életben van, és mellette még 5 harcos (összesen 14 bandita és 2 tűzvarázsló támadt).
-***** Harcértékek
-      |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
-      | Név                | KÉ | TÉ |  VÉ | CÉ | Sebzés | Tám/kör | Ép | Fp | SFÉ | Mp | MME | AME |
-      |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
-      | Bandita (íj)       | 20 |    |     | 30 | 1k6    |       2 | 12 | 24 |   1 |    |     |     |
-      | Bandita (szekerce) | 20 | 47 |  98 |    | 1k10   |       1 | 12 | 24 |   1 |    |     |     |
-      | Tűzvarázsló        | 19 | 69 | 123 |  0 | 1k10   |       1 |  7 | 45 |     | 36 |  35 |  33 |
-***** Taktika
-      Az első tűzvarázsló tűzkitörésekkel támad (12Mp, 3E, 3k6), háromszor. A második fémizzítást varázsol a paplovagra (12Mp, 1k6/kör).
+**** Nappal
+***** Találkozás Kro-val
+      A reggeli ocsúdás után, ha elindulnak a JK-k a sátortáboron keresztül, szembe találják magukat a maszkos, keleti kalapos
+      idegennel. Az némán int nekik, és egy sátorba vezeti őket. Bent ott találják az első nap látott "kereskedőt", Perennelt.
+****** Kro története
+       Kro felfedi magát előttük, elmondja, hogy a valódi neve Shion Ralak, és hogy toroni kém volt, aki Eren-ben kémkedett. Egy
+       parancsnak aztán egyszer ellenszegült, ami miatt a birodalom ellene fordult, és azóta szökésben van. Ám a toroni fejvadászok
+       most rá bukkantak, bár úgy gondolja, hogy nem ez a fő küldetésük, de mivel a birodalom összes fejvadászklánja pályázik a
+       vérdíjra, ezért őt is meg akarják ölni.
+****** Nyomozás a Noir pap után
+       Eredetileg a Noir pap ismerősét jött megkeresni. Úgy tudta, hogy a romtemplomban van, ez volt az utolsó infója kb másfél évvel
+       ezelőttről, de amikor ideért, nem találta sehol, ami nagyon furcsa volt. Az itteni papokat kérdezgetve állítólag nem is ismerte
+       senki. Ez Kro-nak nagyon gyanús volt, ezért nyomozni kezdett. Először a városban, ahol rá találtak a fejvadászok, így elmenekült.
+       Aztán a zarándokok között, akik között végül talált egy Noir-papot... és ekkor Perennel-re mutat.
+****** Perennel felfedi magát
+       Perennel is bemutatkozik (Perennel Domarro), majd elmondja, hogy a Befogadottak Rendje tagja. A romtemplomot eredetileg egy
+       ezzel rivális rend, a Bálványtagadók Rendje tartotta a kezében. Elmondja, hogy hónapokkal ezelőtt figyeltek fel rá a Noir rendek,
+       hogy a romtemplom eredeti gazdái eltűntek. Először az Antisson próbálkoztak kutakodni, de minden próbálkozó vagy meghalt, vagy
+       megőrült. Végül ő volt az egyedüli, aki vállalta, hogy eljön a szigetre, és kikémleli a történéseket. Annyit sikerült kiderítenie,
+       hogy az itteni papok nem igazi Noir papok. Ha a JK-k elmondják, hogy szerintük ezek Morgena hívek és egy Morgena angyalt akarnak
+       kiszabadítani, azt mondja hogy akkor talán eleve nem kellett volna a Noir-papoknak ide jönniük. Morgena vallása nagyon pici, nem
+       jelent veszélyt Pyarron kiterjedt vallására, és ha a híveiknek egy ilyen pici esély megadatott, hogy segítsék az istenüket, akkor
+       ő nem akar az útjukba állni. Bosszúra nem éhezik, hisz a halott Noir papok amúgyis egy rivális rend tagjai voltak.
+****** Kro kérése
+       Végül Kro megkéri a JK-kat, hogy segítsenek neki leszerelni a fejvadászokat. Megtudta, hogy a romvárosban állítottak főhadiszállást.
+       Vagyis épp csak elmondaná a kérését, de a beszélgetést kiabálás és csatazaj töri meg.
+***** A tűzvarázslók és banditák ostroma
+      A diskurzust a tűzvarázslók támadása szakítja félbe. A támadók a kompkikötő felől érkeznek, és támadnak a sátortáborra, egy tűzvarázsló
+      és 4 bandita. Ha őket legyőzik, fent a romtemplomnál is folyik a küzdelem, a Morgena hívők harcolnak a banditákkal, a főpap meglepően
+      jó harcos. A másik tűzvarázsló még életben van, és mellette még 5 harcos (összesen 14 bandita és 2 tűzvarázsló támadt).
+****** Harcértékek
+       |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
+       | Név                | KÉ | TÉ |  VÉ | CÉ | Sebzés | Tám/kör | Ép | Fp | SFÉ | Mp | MME | AME |
+       |--------------------+----+----+-----+----+--------+---------+----+----+-----+----+-----+-----+
+       | Bandita (íj)       | 20 |    |     | 30 | 1k6    |       2 | 12 | 24 |   1 |    |     |     |
+       | Bandita (szekerce) | 20 | 47 |  98 |    | 1k10   |       1 | 12 | 24 |   1 |    |     |     |
+       | Tűzvarázsló        | 19 | 69 | 123 |  0 | 1k10   |       1 |  7 | 45 |     | 36 |  35 |  33 |
+****** Taktika
+       Az első tűzvarázsló tűzkitörésekkel támad (12Mp, 3E, 3k6), háromszor. A második fémizzítást varázsol a paplovagra (12Mp, 1k6/kör).
+**** Éjszaka
+***** Abbit Kosok
+      Éjszaka a Abbit Kosok Ranagol papja mocsárködöt idéz meg, ami két Noir papot el is ragad. Amíg a JK-k a köddel harcolnak, a Ranagol
+      pap a templomhoz oson, és átkot idéz rá: Enyészet posványát. Ám a templom mágikusan ellenálló, ezért csak a bejárati oszlopcsarnok
+      előtti terület lesz érintett.
+****** Mocsárköd
+       |-----------+----+-----+----+----------------------------------------------+----+----+---------+---------------------------------------------------|
+       | Név       | KÉ | TÉ  | VÉ | Sebzés                                       | Ép | Fp | Tám/kör | Megj.                                             |
+       |-----------+----+-----+----+----------------------------------------------+----+----+---------+---------------------------------------------------|
+       | Mocsárköd |  0 | 80* | 20 | 2k10 (életerő rablás), ha "belemászik", 3k10 | 40 | 80 | max 10  | légies, csak mágikus vagy áldott fegyverek sebzik |
+****** Enyészet posványa
+       35 láb sugarú körben minden enyészetnek indul, aki áthalad, +3-as EG próba elvétése esetén 1-es szintű Rútság átok áldozata lesz.
+***** Szárazszeműek
+      Az éjszaka folyamán a toroni fejvadászklán is vadászatba kezd. A szigeten járőröznek 2-3-as csoportokban, és minden egyedül bóklászót
+      megölnek. Fejüket levágják, és magukkal viszik, hogy a klán halottidézői kifaggathassák. Reggel a templom körül 1k6 lefejezett holttest
+      árulkodik a ténykedésükről
 ** A városban
    Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
    A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
