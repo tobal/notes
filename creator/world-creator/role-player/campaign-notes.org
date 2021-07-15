@@ -325,6 +325,106 @@
       Az éjszaka folyamán a toroni fejvadászklán is vadászatba kezd. A szigeten járőröznek 2-3-as csoportokban, és minden egyedül bóklászót
       megölnek. Fejüket levágják, és magukkal viszik, hogy a klán halottidézői kifaggathassák. Reggel a templom körül 1k6 lefejezett holttest
       árulkodik a ténykedésükről
+*** Leereszkedés a kútba, A Próbák Csarnoka
+    3m átmérőjű, 17-18m mély kút, alja száraz, kb 15m magasságban egy illúzió kőfal fedi a bejáratot a Próbák Csarnokába.
+    Velük megy Sedechan és Ralia. Ha átjutnak a kilenc próbán, és megtörik az Angyalkarddal a Rúnasziklára rótt bármelyik
+    jelet, akkor kiszabadítják az Angyalt, aki elsöpri a támadókat.
+
+    Az átjutáson segít Sogron Kilencedik Tűzzsoltára, amit Ralia ismer.
+
+    #+BEGIN_VERSE
+    Egyszerű vagyok - és ajtók nyílnak előttem,
+    Engedelmes vagyok - így találok saját utamra,
+    Őrzöm a csendet - és nincs ellenségem,
+    Lemondok, ha kell - így nem lelek akadályra,
+    Éber vagyok - és felemelem tekintetem,
+    Találékony vagyok - és életemet bízom a Lángra,
+    Fegyelmezett vagyok - ha nem kell, nem cselekszem,
+    Életemmel tükrözöm a Tűzkobra Lángját,
+    Szerényen fogadok tőle minden adományt.
+    #+END_VERSE
+**** Az Egyszerűség próbája
+     A fél ember magas bejárat egy alacsony folyosóban folytatódik, amit végül egy dupla acélajtó zár el. Rajta bonyolult
+     zár, felette ókyr vers.
+     #+BEGIN_VERSE
+     Sogron várja hű szolgáját,
+     Mondd fennhangon a nyitás szavát!
+     #+END_VERSE
+     Ki kell mondani a "nyitás" szót kyr-ül, és az ajtó kinyílik.
+**** Az Engedelmesség próbája
+     Alacsony csarnokba nyílik az ajtó, ami két ember széles, sötét vágat. A falon vésett, ezüsttel kirakott kyr sorok.
+     #+BEGIN_VERSE
+     Vegyétek le a ti lábbeliteket mind, akik ide beléptek.
+     #+END_VERSE
+     Le kell venniük a lábbeliket, különben 1k6Ép sebzés az iszonyú forróságtól a padlóból. Mezítláb semmi nem történik.
+**** A Csend próbája
+     Csőszerű, fél ember magasságú járat. Az acélfalakon dugóhúzószerű, párhuzamos spirális bemélyedések.
+
+     Csend varázslat, vagy lopózás képzettség kell. Ha zajt keltenek, a cső blende-szerűen összezár, mindenkit szétzúzva odabent.
+     3 szegmens alatt zár össze, 10k10Ép sebzés ha nem sikerül kijutni.
+**** A Lemondás próbája
+     Még mindig alacsony folyosó, ami hirtelen lefelé vezető lépcsősorba torkollik. A mennyezet is 45 fokban lefelé lépcsőzetes,
+     hogy összezárjon az alatta lévővel. A mennyezeten kyr rúnák.
+     #+BEGIN_VERSE
+     A bölcs nem áhítozik holt tárgyak varázslata után! Megelégszik a hatalommal, amit a Láng urától kap. A mágiát béklyóba
+     verő kizsákmányolókat a Föld Erői pusztítják el!
+     #+END_VERSE
+     Itt kell hagyni minden varázstárgyat az Angyalkard kivételével.
+**** Az Éberség próbája
+     A lépcső után megnő a belmagasság, két embernyi magas. 50m után T alakú elágazás. Balra felfelé vezet az út, hatalmas
+     acélajtó zárja el. Jobbfelé egy lejtő, ami később derékszögben elkanyarodik jobbra. Balról jobbra egy teknőszerű vágat
+     van a padlóban. A derékszögű kanyarban a kanyart teljesen kitöltő csapdát álcáz egy padlóillúzió. 4m mély, alján obszidián
+     tüskék, ha valaki belezuhan, 1k6/3 tüske szúrja meg, ami egyenként 1k10 Sp-t sebez. A folyosó a kanyar után zsákutcában
+     végződik, csak egy alma-méretű nyílást találnak a falban.
+
+     A bal oldali ajtót egy vastag retesz zárja, ha megmozdítják, az ajtót kivágja egy hatalmas ólomacél golyó, és legurul a folyosón.
+     Aki kinyitotta, két gyorsaságpróbával (második -1-el) kikerülheti a golyót. Ha megfordul és futni kezd, az akkor lehagyhatja a golyót,
+     de így csapdába zuhanhat a másik oldalon.
+
+     A továbbvezető út az elágazás felett van, egy kör alakú csapóajtó. Két ember egymásra állva elérheti, és felnyomhatja. Egy
+     tölcsérszerű kürtő nyílik felfelé, mászás -40%-al megmászható, utána az már felhúzhatja a többieket.
+**** A Találékonyság próbája
+     A mennyezet elérhető magasságba kerül. Tucatnyi lépés után újabb ezüstberakásos falvéset.
+     #+BEGIN_VERSE
+     Mert mindazok, akiknek gondolkodása földhözragadt,
+     vagy lassú, mint a víz,
+     Sohasem érthetik meg, mi is a perzselő láng,
+     az örökkön változó, táncoló tűz...
+     #+END_VERSE
+     Ez egy Ardae Magnus idézet, aki a tűzmágia atyja. A padlón sötét, kristályt ábrázoló, Föld zsimbólumú és világosabb, hullámos,
+     Víz szimbólumú, négyzetes lapok váltogatják egymást jó húszlépésnyi szakaszon. A mennyezetet réz-acél örvözetű, csavart lángnyelveket
+     ábrázoló fogódzók "díszítik". Ezeken kell továbbmenni, ha valaki a szimbólumokra lép, az oldalfalak leesnek, és a szobát elönti a
+     Kövecses folyó vize.
+**** Az Önfegyelem próbája
+     Csigalépcső vezet tovább lefelé, utána egy hosszabb, nyugodt folyosószakasz, majd a falon egy véset:
+     #+BEGIN_VERSE
+     Lehetsz könnyebb a Földnél,
+     szeszélyesebb a Víznél,
+     de ha csak annyira vagy könnyed,
+     mint a levegő, ha ragaszkodsz az anyaghoz és cselekvéshez,
+     a fellobbanó láng bármikor elemészthet!
+     #+END_VERSE
+     A folyosó további részén mély lyukak vannak a padlón és a mennyezeten. A falakon fáklyatartókban csonkok, enyhe füstszag érződik
+     (szaglási hallucináció). Ha végigsétálnak a folyosón, nem történik bajuk. Ha meggyújtanak egy fáklyát, a folyosó végén és elején
+     lehull egy-egy fal (1k10+1 Ép sebzés, esetleg csonkolás). Aki bent ragad, a lyukakon keresztül távozik a levegő a folyosóról 10 percig.
+     Utána a falak felvonódnak, és mehetnek tovább.
+**** Az Elkötelezettség próbája
+     Utána megint lépcsőzetesen lejteni kezd a folyosó és a mennyezet. A fehérmárvány lépcsőket a mennyezetről spirálforma fehér lángnyelvek
+     nyaldossák. Csak fényt árasztanak, hőt nem, és köztük nem lehet átfurakodni. Ha a padló és a mennyezet közé anyagi tárgy kerül, vörösen
+     felizzanak és az alatta álló 1k6-ot sebződik. Fényvarázzsal vagy tükörrel kicselezhető, a fehérmárványról visszaverődő fényt kell
+     megoldaniuk.
+**** A Szerénység próbája
+     A lépcsők egy hatalmas, kupolás mennyezetű terembe vezetnek, az alján bokáig ér a finom hamu - pórul jártak hamvai. A termet bevilágítja
+     az előző lépcsősor fénye, az ezüstöt vésetek szinte világítanak a falakon.
+     #+BEGIN_VERSE
+     Lehetsz erős, lehetsz ravasz, lehetsz hatalmas,
+     Ha túlbecsülöd magad, utóbb kudarcot vallasz.
+     #+END_VERSE
+     Az üres terem közepén egy emelvényen egy üres trón, rajta Sogron hatalomszimbólumai, és egy felirat: "Sogron Trónja". Aki csak átsétál a
+     termen, semmi baja nem esik, aki a trónba ül, tűzhalált hal.
+**** Az Álomangyal kiszabadul
+     A trón mögött egy alacsony folyosó, majd egy terem, benne egy tompa fényű, fekete fémszikla, rajta rajzolatok. Valamelyik rajzolatot
+     kell megtörni az angyalkarddal, és az angyal kiszabadul. Utat tör a csarnokon át, és elkergeti a támadókat.
 ** A városban
    Kicsi, de lassan növekvő város, amit a kedvező éghajlatnak, és a rajta áthaladó, még kyr időkből származó útnak köszönhet.
    A dombok közt lévő falvak gazdáinak termékeit dolgozzák fel: cserzővargák, cipészek, takácsok és gyertyaöntők. Bort is termelnek
