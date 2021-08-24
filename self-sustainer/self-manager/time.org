@@ -8,9 +8,9 @@
 
 * <2021-05-06 Thu>
 ** DONE Create initial timetable <2023-05-09 Tue 21:00>
-** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
-** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
-** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
+** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
+** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
+** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
 ** TODO Evening routine, hygene of body <2023-05-09 Tue 23:00>
    - Shower
    - Wash face
@@ -19,46 +19,3 @@
 ** TODO Evening routine, hygene of mind <2023-05-09 Tue 23:30>
    - 30 min meditation
 ** TODO Sleep <2023-05-09 Tue 00:00>
-** <2023-05-09 Tue 00:30>
-** <2023-05-09 Tue 01:00>
-** <2023-05-09 Tue 01:30>
-** <2023-05-09 Tue 02:00>
-** <2023-05-09 Tue 02:30>
-** <2023-05-09 Tue 03:00>
-** <2023-05-09 Tue 03:30>
-** <2023-05-09 Tue 04:00>
-** <2023-05-09 Tue 04:30>
-** <2023-05-09 Tue 05:00>
-** <2023-05-09 Tue 05:30>
-** <2023-05-09 Tue 06:00>
-** <2023-05-09 Tue 06:30>
-** <2023-05-09 Tue 07:00>
-** <2023-05-09 Tue 07:30>
-** <2023-05-09 Tue 08:00>
-** <2023-05-09 Tue 08:30>
-** <2023-05-09 Tue 09:00>
-** <2023-05-09 Tue 09:30>
-** <2023-05-09 Tue 10:00>
-** <2023-05-09 Tue 10:30>
-** <2023-05-09 Tue 11:00>
-** <2023-05-09 Tue 11:30>
-** <2023-05-09 Tue 12:00>
-** <2023-05-09 Tue 12:30>
-** <2023-05-09 Tue 13:00>
-** <2023-05-09 Tue 13:30>
-** <2023-05-09 Tue 14:00>
-** <2023-05-09 Tue 14:30>
-** <2023-05-09 Tue 15:00>
-** <2023-05-09 Tue 15:30>
-** <2023-05-09 Tue 16:00>
-** <2023-05-09 Tue 16:30>
-** <2023-05-09 Tue 17:00>
-** <2023-05-09 Tue 17:30>
-** <2023-05-09 Tue 18:00>
-** <2023-05-09 Tue 18:30>
-** <2023-05-09 Tue 19:00>
-** <2023-05-09 Tue 19:30>
-** <2023-05-09 Tue 20:00>
-** <2023-05-09 Tue 20:30>
-
-‘12:45’
