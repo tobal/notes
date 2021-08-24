@@ -1,5 +1,11 @@
 #+TODO: TODO(t) | DONE(d)
 
+# Change TODO state: Shift-Left/Right
+# [[https://orgmode.org/manual/TODO-Basics.html][TODO Basics]]
+# Change time: Shift-Up/Down on time stamp
+# Add tag: Ctrl-c, Ctrl-q
+# [[https://orgmode.org/manual/Setting-Tags.html#Setting-Tags][Setting Tags]]
+
 * <2021-05-06 Thu>
 ** DONE Create initial timetable <2023-05-09 Tue 21:00>
 ** TODO Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
