@@ -11,14 +11,14 @@
 ** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
 ** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
 ** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
-** TODO Evening routine, hygene of body <2023-05-09 Tue 23:00>
+** FAILED Evening routine, hygene of body <2023-05-09 Tue 23:00>
    - Shower
    - Wash face
    - Eye training
    - Dental
-** TODO Evening routine, hygene of mind <2023-05-09 Tue 23:30>
+** FAILED Evening routine, hygene of mind <2023-05-09 Tue 23:30>
    - 30 min meditation
-** TODO Sleep <2023-05-09 Tue 00:00>
+** FAILED Sleep <2023-05-09 Tue 00:00>
 * <2021-08-24 Tue>
 ** Morning routine
 *** FAILED <2021-08-24 Tue 09:00> Get up                            :routine:
