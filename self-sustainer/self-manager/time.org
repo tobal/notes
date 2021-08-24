@@ -40,14 +40,16 @@
 *** DONE <2021-08-24 Tue 13:30> Order office environment :work:environment:maintenance:
 *** DONE <2021-08-24 Tue 14:00> Install SPP                :work:task:devops:
 *** DONE <2021-08-24 Tue 15:00> Security Champions meeting     :work:meeting:
-*** TODO <2021-08-24 Tue 16:00> Quest All Hands                :work:meeting:
-*** TODO <2021-08-24 Tue 17:00> Netrunner /w Imi          :play:cards:social:
-*** TODO <2021-08-24 Tue 19:00> Drive home                            :drive:
+*** DONE <2021-08-24 Tue 16:00> Quest All Hands                :work:meeting:
+*** DONE <2021-08-24 Tue 17:00> Netrunner /w Imi          :play:cards:social:
+*** DONE <2021-08-24 Tue 18:00> Drive home                            :drive:
 ** Learning at home
-*** TODO <2021-08-24 Tue 19:30> Japanese notes            :learning:japanese:
+*** DONE <2021-08-24 Tue 20:30> Japanese notes            :learning:japanese:
     - Write sentences about day for translating
-    - Review notes on paper
-*** TODO <2021-08-24 Tue 20:30> Piano practice               :practice:piano:
+    - Organize notes
+*** DONE <2021-08-24 Tue 21:30> Piano practice               :practice:piano:
+    * LastNinja, Mineshaft: 120BPM
+    * RisingSun: 100BPM
 ** Evening routine
 *** TODO <2023-08-24 Thu 23:00> Hygene of body     :routine:body:maintenance:
     - Wash face
