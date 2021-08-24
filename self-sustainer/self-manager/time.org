@@ -1,4 +1,4 @@
-#+TODO: TODO(t) | DONE(d)
+#+TODO: TODO(t) | DONE(d) | FAILED(f)
 
 # Change TODO state: Shift-Left/Right
 # [[https://orgmode.org/manual/TODO-Basics.html][TODO Basics]]
