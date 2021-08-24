@@ -19,3 +19,40 @@
 ** TODO Evening routine, hygene of mind <2023-05-09 Tue 23:30>
    - 30 min meditation
 ** TODO Sleep <2023-05-09 Tue 00:00>
+* <2021-08-24 Tue>
+** Morning routine
+*** FAILED <2021-08-24 Tue 09:00> Get up                            :routine:
+    - Wash face
+    - Drink water
+    - Measure weight
+    - Warm up
+** Workday
+*** DONE <2021-08-24 Tue 09:30> Install SPP                :work:task:devops:
+*** DONE <2021-08-24 Tue 10:20> Maintenance daily meeting      :work:meeting:
+*** DONE <2021-08-24 Tue 11:00> Team daily meeting             :work:meeting:
+*** DONE <2021-08-24 Tue 12:00> Body hygiene               :body:maintenance:
+    - Shower
+    - Wash hair
+*** DONE <2021-08-24 Tue 12:15> Prepare for work           :work:preparation:
+    - Bag work tools (keyboard, trackball, headphone, laptop)
+    - Bag access card
+*** DONE <2021-08-24 Tue 12:30> Drive to office                       :drive:
+*** DONE <2021-08-24 Tue 13:30> Order office environment :work:environment:maintenance:
+*** DONE <2021-08-24 Tue 14:00> Install SPP                :work:task:devops:
+*** DONE <2021-08-24 Tue 15:00> Security Champions meeting     :work:meeting:
+*** TODO <2021-08-24 Tue 16:00> Quest All Hands                :work:meeting:
+*** TODO <2021-08-24 Tue 17:00> Netrunner /w Imi          :play:cards:social:
+*** TODO <2021-08-24 Tue 19:00> Drive home                            :drive:
+** Learning at home
+*** TODO <2021-08-24 Tue 19:30> Japanese notes            :learning:japanese:
+    - Write sentences about day for translating
+    - Review notes on paper
+*** TODO <2021-08-24 Tue 20:30> Piano practice               :practice:piano:
+** Evening routine
+*** TODO <2023-08-24 Thu 23:00> Hygene of body     :routine:body:maintenance:
+    - Wash face
+    - Eye training
+    - Dental
+*** TODO <2023-08-24 Thu 23:30> Hygene of mind   :routine:mental:maintenance:
+    - 30 min meditation
+*** TODO <2023-05-09 Tue 00:00> Sleep               :body:mental:maintenance:
