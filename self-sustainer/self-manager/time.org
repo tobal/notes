@@ -51,10 +51,41 @@
     * LastNinja, Mineshaft: 120BPM
     * RisingSun: 100BPM
 ** Evening routine
-*** TODO <2023-08-24 Thu 23:00> Hygene of body     :routine:body:maintenance:
+*** FAILED <2023-08-24 Thu 23:00> Hygene of body   :routine:body:maintenance:
     - Wash face
     - Eye training
     - Dental
-*** TODO <2023-08-24 Thu 23:30> Hygene of mind   :routine:mental:maintenance:
+*** FAILED <2023-08-24 Thu 23:30> Hygene of mind :routine:mental:maintenance:
     - 30 min meditation
-*** TODO <2023-05-09 Tue 00:00> Sleep               :body:mental:maintenance:
+*** FAILED <2023-05-09 Tue 00:00> Sleep             :body:mental:maintenance:
+* <2021-08-26 Thu>
+** Morning routine
+*** FAILED <2021-08-26 Thu 07:30> Get up                            :routine:
+    - Wash face
+    - Drink water
+    - Measure weight
+    - Warm up
+** Japanese class
+*** DONE <2021-08-26 Thu 09:00> Go and do           :learning:japanese:drive:
+** Workday
+*** FAILED <2021-08-26 Thu 13:00> SPP data import          :work:task:devops:
+*** DONE <2021-08-26 Thu 14:15> Architecture forum             :work:meeting:
+*** DONE <2021-08-26 Thu 15:00> Send DDCL                :work:task:document:
+*** FAILED <2021-08-26 Thu 15:20> SPP data import          :work:task:devops:
+** Learn and practice at home
+*** DONE <2021-08-26 Thu 17:00> Sonic speedrun practice :practice:play:videogame:
+*** DONE <2021-08-26 Thu 18:00> Japanese daily challenge :learning:japanese:practice:
+*** TODO <2021-08-26 Thu 21:30> Piano practice               :practice:piano:
+    * LastNinja, Mineshaft: 120BPM
+    * RisingSun: 100BPM
+** Evening socialize
+*** TODO <2021-08-26 Thu 20:30> Online RPG                  :social:play:rpg:
+** Evening routine
+*** TODO <2023-08-26 Sat 23:00> Hygene of body     :routine:body:maintenance:
+    - Stretch
+    - Wash face
+    - Eye training
+    - Dental
+*** TODO <2023-08-26 Sat 23:30> Hygene of mind   :routine:mental:maintenance:
+    - 30 min meditation or reading
+*** TODO <2023-08-26 Sat 00:00> Sleep               :body:mental:maintenance:
