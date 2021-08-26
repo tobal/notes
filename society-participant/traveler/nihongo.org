@@ -294,3 +294,44 @@
      - 着物 kimono
      - 兄弟 testvérek
      - 家族 család
+
+* Daily practices
+*** Morning
+    - Reggel 5:30-kor kelek.
+    - Lemegyek a lépcsőn.
+    - Bemegyek a fürdőszobába.
+    - Arcot mosok, wc-zek.
+    - Iszok egy teli pohár vizet.
+    - Felteszek főni egy kávét.
+    - Megcsinálom a reggeli tornát, átmozgatom magam.
+    - Megiszom a kávét.
+    - Lezuhanyzok, fogat mosok.
+*** Work
+    - Délelőtt 9-kor szoktam elkezdeni a munkát.
+    - 10:20-kor a support-tal, 11:00-kor a saját csapatommal van meetingem.
+    - A napi meeting után elmegyünk ebédelni.
+    - A munkám során forráskódot olvasok és értelmezek, meglévő kódokat módosítok és újakat írok.
+    - Sok kisebb üzemeltetői feladat is van, amikor a fejlesztőkörnyezet gépeit kell karban tartanunk.
+    - A munka tervezés része közös meetingek keretében zajlik, ilyenből néha több is van egy héten.
+    - Az eszköz, amin dolgozunk, egy megfigyelő (monitorozó) eszköz, a cég profilja az IT security.
+    - A csapat amiben dolgozom a machine learning-et használó "analitika" modulért felelős.
+    - Kb. délután 5 körül hagyom abba a munkát.
+*** Free time
+    - Videójátékkal játszok.
+    - Zongorán gyakorlok.
+    - Kimegyek a parkba, és zsonglőrködök.
+    - Elmegyek kenjutsu edzésre.
+    - Itthon kenjutsu-t gyakorlok.
+    - Youtube-ot nézek.
+    - Főzök.
+    - Áthívom a barátaimat, és társasozunk.
+    - Online szerepjátszunk.
+    - Olvasok.
+    - Japánt tanulok.
+    - Go-t játszok online.
+    - Hobbiprojekten dolgozok.
+*** Evening
+    - Este 11-kor nyújtó gyakorlatokat végzek.
+    - Utána megmosom az arcom, fogat mosok.
+    - Aztán lefekszem, és olvasok addig, amíg el nem álmosodok.
+
