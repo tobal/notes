@@ -75,11 +75,11 @@
 ** Learn and practice at home
 *** DONE <2021-08-26 Thu 17:00> Sonic speedrun practice :practice:play:videogame:
 *** DONE <2021-08-26 Thu 18:00> Japanese daily challenge :learning:japanese:practice:
-*** TODO <2021-08-26 Thu 21:30> Piano practice               :practice:piano:
+*** DONE <2021-08-26 Thu 21:30> Piano practice               :practice:piano:
     * LastNinja, Mineshaft: 120BPM
     * RisingSun: 100BPM
 ** Evening socialize
-*** TODO <2021-08-26 Thu 20:30> Online RPG                  :social:play:rpg:
+*** DONE <2021-08-26 Thu 20:30> Online RPG                  :social:play:rpg:
 ** Evening routine
 *** TODO <2023-08-26 Sat 23:00> Hygene of body     :routine:body:maintenance:
     - Stretch
