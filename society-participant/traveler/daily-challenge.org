@@ -1,0 +1,90 @@
+# M-x set-language-environment Japanese
+# C-\ in INSERT mode to toggle
+# To switch between kanji, hit SPACE after typing
+# To write with katakana, hit K after typing
+# Insert timestamp: C-u C-c .
+
+* Day 1 <2021-08-26>
+  start:<2021-08-26 Thu 18:00>
+  end:<2021-08-26 Thu 18:28>
+** 文を 作って
+*** 1
+    - あいだ、ある、が、小さい、たんす、と、に、の、ベッド、まど
+    - まどと ベッド のあいだに 小さいたんすが ある。
+*** 2
+    - 560,円、ノート、で、です、は、よんさつ
+    - ノートでよんさつは ５６０円です。
+    - ノートは ５６０円です。
+*** 3
+    - いためて、いれて、から、ぎゅうにく、ください、たまねぎ、よく、を、を
+    - たまねぎをよくいためてから、ぎゅうにきをいれてください。
+*** 4
+    - あたためて、あつくない、が、から、ください、スープ、じゃない、すき
+    - スープがあつくないから、あたためてください。
+** 活用
+   | finom            | おいしい(です)            |
+   | nem nagy         | 大きくない                |
+   | drága volt       | 高かった                  |
+   | nem volt olcsó   | 安くなかった              |
+   | keserű és pocsék | にがくわるい              |
+   | kicsire vágd     | 小さくきってください      |
+   | új teló          | あたらしい けいたい       |
+   | csendes környék  | しずかな へん             |
+   | nem szép         | きれい でわありません     |
+   | kényelmes volt   | べんり でした             |
+   | nem volt híres   | ゆうめくなかった          |
+   | kiváló orvos     | よく いし                 |
+   | csendes és szép  | しずかできれい            |
+   | szépen írj       | きれいに 畫いてください   |
+   | tanár            | 先生 です                 |
+   | nem kutya        | 犬 でわありません         |
+   | tenger volt      | うみ でした               |
+   | nem pók volt     | くも でわありませんでした |
+** Day 2 <2021-08-27>
+   start:<2021-08-27 Fri 21:50>
+   end:<2021-08-27 Fri 22:34>
+*** 文を　作って、ほんやくしなさい
+**** 1
+     - あさくさ、います、すんで、東京、友だち、に、日本人、の、の、は
+     - A japán barátom Tokyo város Asakusa városrészében lakik.
+     - 日本人の友だちは 東京のあさくさに すんでいます。
+**** 2
+     - かぞえる、ことば、ちいさい、です、どうぶつ、の、は、「ひき」
+     - A "hiki" a kis méretű állatok számláló szava.
+     - 「ひき」は かぞえることばの小さい動物 です。
+**** 3
+     - ２００、いく、ぎんこう、くらい、です、と、は、まっすぐ、メートル
+     - Az egyenesen 200 méterre lévő bank... sötét... igazából nem tudtam a くらい-al mit kezdeni :D
+     - まっすぐ２００メートルいくと ぎんこうは くらいです
+*** ことばをグループに　しなさい
+    |----------+--------------+----------+----------|
+    | どうぶつ | やさい       | くだもの | かぐ     |
+    |----------+--------------+----------+----------|
+    | くじら   | きゅうり     | あんず   | いす     |
+    | さる     | じゃがいも   | いちご   | おしいれ |
+    | つばめ   | とうもろこし | うめ     | たんす   |
+    | りす     | にんじん     | なし     | とだな   |
+    |          | まめ         | ぶどう   | ほんだな |
+*** じしょ
+    | ほんやくしなさい |          | fordítsd le              |
+    | かぞえる         |          | megszámol                |
+    | ことば           |          | szó, nyelv, nyelvjárás   |
+    | ひき             |          | kisállatok számlálószava |
+    | ぎんこう         |          | bank                     |
+    | まっすぐ         | 真っ直ぐ | egyenes, egyenesen       |
+    | グループ         |          | csoport                  |
+    | かぐ             | 家具     | bútor                    |
+    | あんず           | 杏       | sárgabarack              |
+    | うめ             | 梅       | japán szilva             |
+    | おしいれ         | 押し入れ | beépített szekrény       |
+    | きゅうり         | 胡瓜     | uborka                   |
+    | さる             | 猿       | majom                    |
+    | じゃがいも       | じゃが芋 | krumpli                  |
+    | つばめ           | 燕       | fecske                   |
+    | とうもろこし     | 玉蜀黍   | kukorica                 |
+    | とだな           | 戸棚     | szekrény                 |
+    | にんじん         | 人参     | sárgarépa                |
+    | ぶどう           | 葡萄     | szőlő                    |
+    | ほんだな         | 本棚     | könyvespolc              |
+    | まめ             | 豆       | bab(féle)                |
+    | りす             | 栗鼠     | mókus                    |
