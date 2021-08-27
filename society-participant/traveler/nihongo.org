@@ -4,42 +4,6 @@
 # To write with katakana, hit K after typing
 # Insert timestamp: C-u C-c .
 
-* Daily challenge
-** <2021-08-26>
-   start:<2021-08-26 Thu 18:00>
-   end:<2021-08-26 Thu 18:28>
-*** 文を 作って
-    - あいだ、ある、が、小さい、たんす、と、に、の、ベッド、まど
-    - まどと ベッド のあいだに 小さいたんすが ある。
-
-    - 560,円、ノート、で、です、は、よんさつ
-    - ノートでよんさつは ５６０円です。
-    - ノートは ５６０円です。
-
-    - いためて、いれて、から、ぎゅうにく、ください、たまねぎ、よく、を、を
-    - たまねぎをよくいためてから、ぎゅうにきをいれてください。
-
-    - あたためて、あつくない、が、から、ください、スープ、じゃない、すき
-    - スープがあつくないから、あたためてください。
-*** 活用
-    | finom            | おいしい(です)            |
-    | nem nagy         | 大きくない                |
-    | drága volt       | 高かった                  |
-    | nem volt olcsó   | 安くなかった              |
-    | keserű és pocsék | にがくわるい              |
-    | kicsire vágd     | 小さくきってください      |
-    | új teló          | あたらしい けいたい       |
-    | csendes környék  | しずかな へん             |
-    | nem szép         | きれい でわありません     |
-    | kényelmes volt   | べんり でした             |
-    | nem volt híres   | ゆうめくなかった          |
-    | kiváló orvos     | よく いし                 |
-    | csendes és szép  | しずかできれい            |
-    | szépen írj       | きれいに 畫いてください   |
-    | tanár            | 先生 です                 |
-    | nem kutya        | 犬 でわありません         |
-    | tenger volt      | うみ でした               |
-    | nem pók volt     | くも でわありませんでした |
 * Phrases to learn
 ** 2021-03-28
 *** 月曜日
