@@ -66,11 +66,11 @@
     | りす     | にんじん     | なし     | とだな   |
     |          | まめ         | ぶどう   | ほんだな |
 *** じしょ
-    | ほんやくしなさい |          | fordítsd le              |
-    | かぞえる         |          | megszámol                |
-    | ことば           |          | szó, nyelv, nyelvjárás   |
-    | ひき             |          | kisállatok számlálószava |
-    | ぎんこう         |          | bank                     |
+    | ほんやくしなさい | 翻訳しなさい             | fordítsd le              |
+    | かぞえる         | 数える           | megszámol                |
+    | ことば           | 言葉         | szó, nyelv, nyelvjárás   |
+    | ひき             | 匹         | kisállatok számlálószava |
+    | ぎんこう         | 銀行         | bank                     |
     | まっすぐ         | 真っ直ぐ | egyenes, egyenesen       |
     | グループ         |          | csoport                  |
     | かぐ             | 家具     | bútor                    |
