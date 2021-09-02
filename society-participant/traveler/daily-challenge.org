@@ -297,3 +297,82 @@
     | ひきだし   |   | fiók       |
     | ソファ     |   | kanapé     |
     | とうめいな |   | átlátszó   |
+
+** Day 8 <2021-09-02 Thu>
+   start:<2021-09-02 Thu 23:23>
+   end:<2021-09-03 Fri 00:08>
+*** てきとうな じょしを 書きなさい。
+    まっすぐ 行くと、ぎんこうは 右に あります。
+
+    Menjen egyenesen, a bank a jobb oldalon lesz.
+
+    いったい、どれも Lajbi の オートバイでしょうか。
+
+    むすこの ひろうえん、めっちゃ たのしかったですね。
+
+    A lányom lagzija nagyon szórakoztató volt, nem igaz?
+
+    日本のだいとうりょうは だれですか。
+
+    Ki a japán miniszterelnök?
+
+    おんがくじゃなくて、うんどうが きょうみがあります。
+
+    A zene nem, de a mozgás érdekel.
+
+    このりょうり、なにで 作られていますか。
+
+    Ezt az ételt miből készíted?
+
+    ぼくのへやは4かいに あります。
+
+    A lakásom a 3. emeleten van.
+
+*** 次の物を おもさ・ながさ・たかさなどをもとにして じゅんばんに しなさい。
+**** 1, 大きさのじゅん> nagyság
+     のみ、あり、くわがたむし、きつつき、わし、いのしし、うま、ぞう
+**** 2, 高さのじゅん > magasság
+     アンズたけ、ひまわり、竹(たけ)、松(まつ)、東京タワー、スカイツリー、富士山(ふじさん)
+**** 3, 広さのじゅん > kiterjedés
+     むら、まち、し、とかい、だいとかい、けん、くに、たいりく、ちきゅう、せかい
+**** 4, 重さのじゅん > tömeg
+     ナノグラム、マイクログラム、ミリグラム、グラム、キロ、トン、メガトン
+
+*** じしょ
+    | いったい           |        | vajon               |
+    | ひろうえん         |        | lagzi               |
+    | だいとうりょう     |        | miniszterelnök      |
+    | めっちゃ           |        | nagyon              |
+    | きょうみがあります |        | érdekel             |
+    | あり               |        | hangya              |
+    | たけ               | 竹     | bambusz             |
+    | のみ               |        | bolha               |
+    | ぞう               |        | elefánt             |
+    | きつつき           |        | fakopáncs = harkály |
+    | むら               |        | falu                |
+    | まつ               | 松     | fenyőfa             |
+    | ちきゅう           | 地球   | Föld                |
+    | ふじさん           | 富士山 | Fuji                |
+    |                    |        | gramm               |
+    |                    |        | kg                  |
+    | まち               |        | kisváros            |
+    | たいりく           | 大陸   | kontinens           |
+    | うま               |        | ló                  |
+    |                    |        | megatonna           |
+    | とかい             |        | nagyváros           |
+    |                    |        | mikrogramm          |
+    |                    |        | milligramm          |
+    | だいとかい         | 大都会 | metropolisz         |
+    |                    |        | nanogramm           |
+    | ひまわり           |        | napraforgó          |
+    | くに               |        | ország              |
+    | けん               |        | prefektúra          |
+    | アンズたけ         |        | rókagomba           |
+    | わし               |        | sas                 |
+    | くわがたむし       |        | szarvasbogár        |
+    |                    |        | Sky-tree            |
+    |                    |        | Tókyó-torony        |
+    |                    |        | tonna               |
+    | いのしし           |        | vaddisznó           |
+    | し                 | 市     | város               |
+    | せかい             |        | világegyetem        |
