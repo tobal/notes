@@ -413,3 +413,44 @@
     | あかちゃん | 赤ちゃん | baba    |
     | おとな     | 大人     | felnőtt |
     | せいねん   | 青年     | fiatal  |
+
+** Day 10 <2021-09-04 Sat>
+   start:<2021-09-04 Sat 18:21>
+   end:<2021-09-04 Sat 18:44>
+*** ほんやくしなさい
+    | シャワーをあびました。                          | Zuhanyoztam.                                                      |
+    | それで、けいさつに 行きました。                 | Ezért elmentem a rendőrségre.                                     |
+    | 今日、いい天気でしたから、せんたくを しました。 | Ma, mivel szép idő van, ruhát mostam.                             |
+    | それとも、おちゃ?                               | Vagy teát?                                                        |
+    | さいふを おとしました。                         | Elhagytam a pénztárcám.                                           |
+    | それでも わたしは やります。                    | Mégis megcsinálom. (erre az igére rengeteg jelentést találtam :\) |
+    | このざっしはよみやすいです。                    | Ez a magazin egy könnyű olvasmány.                                |
+    | それに、しゃしんもきれいです。                  | Ezen kívül, a fotó is szép.                                       |
+    | ミルクが ほしいんですか。                       | Kérsz tejet?                                                      |
+    | それから、ふくをきがえました。                  | Azután felöltöztem.                                               |
+    | みんなに はんたいされた。                       | Mindenkinek ellenálltam.                                          |
+    | そして、にわのそうじも しました。               | És az udvart is kitakarítottam.                                   |
+
+*** いい気持ち? (いい) わるい気持ち? (わるい)
+    | 今日は 晴れ(はれ)です。                            | Ma szép idő van.                                              | いい   |
+    | バスの中で あしに ふまれて、足が いたい。          | A buszon ráléptek a lábamra, fáááááj.                         | わるい |
+    | うたが へたなので、はずかしい。                    | Éneklésben béna vagyok, szégyellem.                           | わるい |
+    | 母に 好きなケーキを やいてもらって、おいしかった。 | Anyuval megcsináltattam a kedvenc sütimet, nagyon finom volt. | いい   |
+    | テレビは こしょうしてしまった。                    | A TV el van romolva.                                          | わるい |
+    | せんたくものは いいにおいが します。               | A mosott ruha jó illatú.                                      | いい   |
+    | みんなに にやにやわらわれました。                  | erre a "わらわれました"-ra nem találtam semmit a szótárban... |        |
+    | コンサートを うっとりと 聞きました。               | Elbűvölten hallgattam a koncertet.                            | いい   |
+
+*** じしょ
+    | それで       |   | ezért (tudatos döntés)               |
+    | それとも     |   | vagy                                 |
+    | それでも     |   | habár, mégis                         |
+    | それに       |   | ezen kívül, ezen felül               |
+    | それから     |   | azután                               |
+    | そして       |   | és (nincs ok- okozat, nincs sorrend) |
+    | あしにふむ   |   | rálép a lábára                       |
+    | へたな       |   | béna, nem megy neki                  |
+    | はずかしい   |   | szégyenlős, szégyelli                |
+    | こしょうする |   | elromlik                             |
+    | せんたくもの |   | mosott ruha                          |
+    | うっとりと   |   | elvarázsolva, elbűvölten             |
