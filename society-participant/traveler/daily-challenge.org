@@ -454,3 +454,77 @@
     | こしょうする |   | elromlik                             |
     | せんたくもの |   | mosott ruha                          |
     | うっとりと   |   | elvarázsolva, elbűvölten             |
+
+** Day 11 <2021-09-05 Sun>
+   start:<2021-09-05 Sun 15:34>
+   end:<2021-09-05 Sun 15:52>
+*** 動詞
+    | jelen állító casual | eszik        | たべる               |
+    | jelen állító teinei | iszik        | のみます             |
+    | jelen állító casual | ír           | かく                 |
+    | jelen állító teinei | csinál       | します               |
+    | jelen állító casual | jön          | くる                 |
+    | jelen állító teinei | felkel       | おきます             |
+    | jelen állító casual | beszél       | はなす               |
+    | jelen állító teinei | fut          | はし                 |
+    | jelen tagadó casual | hallgat      | きく                 |
+    | jelen tagadó teinei | hoz          | もたらします         |
+    | jelen tagadó casual | meghal       | しぬ                 |
+    | jelen tagadó teinei | lefekszik    | ねます               |
+    | jelen tagadó casual | főz          | にる                 |
+    | jelen tagadó casual | tanít        | おしえる             |
+    | múlt állító casual  | bemegy       | はいた               |
+    | múlt állító teinei  | kijön        | いれました           |
+    | múlt állító casual  | megy         | いた                 |
+    | múlt állító teinei  | néz          | みました             |
+    | múlt állító casual  | van, létezik | あた                 |
+    | múlt állító teinei  | gondolkodik  | かんがえました       |
+    | múlt tagadó casual  | hazamegy     | かえない             |
+    | múlt tagadó teinei  | repül        | とびませんでした     |
+    | múlt tagadó casual  | megjegyez    |                      |
+    | múlt tagadó teinei  | utazik       | りょこいませんでした |
+    | múlt tagadó casual  | aggódik      |                      |
+    | múlt tagadó teinei  | ad           | あげなかった         |
+
+*** しつもんにこたえて、ただしい へんじを えらびなさい。
+**** レストランで てんいんが よびたいです。 なんと言いますか。
+     しつれいします。
+**** おみやげを買いました。せんぱいにあげます。なんと言いますか。
+     これ、おみやげです。どうぞ。
+**** あした、二人で えいがに行きたいです。なんと言いますか。
+     あした、えいがに行きたいそうですよ。
+**** こくばんの字が小さくて読めません。先生になんと言いますか。
+     すみません、よく見えません。
+**** 先生に今、そうだんしたいです。なんと言いますか。
+     そうだんしてくださいませんか。
+**** 友だちのペンをかりたいです。なんと言いますか。
+     ぺん、つかってくれる?
+**** ジュース買いに行きますけど、なにか買ってきましょうか。
+     ええ、いいですよ。
+**** どこに行くんですか。
+     ちょっとしょくじに行ってきます。
+**** ねえ、きょうと、行ったことある?
+     うん。いっかいあるよ。
+**** どうして、きのう、じゅぎょうを休んだんでか。
+     かぜをひいてしまいました。
+**** なつやすみに くにへかえったら、なにをしますか。
+     ともだちにあうつもりです。
+**** がっこうを休むときは 電話してください。
+     はい、れんらくします。
+**** あのう、その本をとってくれませんか。
+     もらいましたよ。
+**** ジョンさん、日本語が はなせますか。
+     すこしならできます。
+**** あ、田中さん、こくばんをけしておいてくれませんか。
+     はい、すぐにやります。
+*** じしょ
+    | てんいん     |   | eladó                  |
+    | よぶ         |   | hív                    |
+    | おみやげ     |   | szuvenír               |
+    | こくばん     |   | tábla                  |
+    | じ           |   | írás                   |
+    | そうだんする |   | megbeszél              |
+    | かりる       |   | kölcsönkér             |
+    | じゅぎょう   |   | tanóra                 |
+    | とる         |   | idead                  |
+    | けす         |   | letöröl                |
