@@ -571,3 +571,39 @@
     | あしたも 行かなくてもいいです。 | ⇔ | あしたも 行かくては いけない。 |
     | これ、よみやすい 本です。       | ⇔ | これ、よみにくい 本です。      |
     | 10分後、しごとをしはじめる。    | ⇔ | 10分後、しごとをしおわる。     |
+
+** Day 13 <2021-09-07 Tue>
+   start:<2021-09-07 Tue 22:37>
+   end:<2021-09-07 Tue 23:02>
+*** Egészítsd ki a mondatot a megfelelő partikulával, majd fordítsd le a megadott mondatot!
+    | 友だちを 待つ       | Egy órán át vártam a barátomat az állomáson.            |
+    | várja a barátját    | えきに 友だちを 一時かん 待ちました。                   |
+
+    | しごとを 休む       | Betegség miatt hiányoztam a munkából.                   |
+    | hiányzik a munkából | 病気から、しごとを 休みました。                         |
+
+    | みちを 走る     | Mekkora hatalmas kamion megy azon a kicsi úton! ...Andi |
+    | megy az úton    | そんなに 大きく トラックは その 小さく みちを 走る！    |
+
+    | お金を 出す     | Megyek a bankba pénzt kivenni.      |
+    | pénzt vesz ki   | ぎんこうへ お金を 出すに 行きます。 |
+
+    | バスを おりる   | A Mázsa-téren szállj le a buszról.  |
+    | buszról leszáll | Mázsa-térに バスを おりてください。 |
+
+*** Egészíts ki a mondatot a megfelelő partikulával! A szöveg NEM összefüggő, csak helytakarékosság... Ha egy mondat többször is szerepel, az nem az elmeállapotom tükre... szépen gondolkodj el még egy lehetséges megoldáson!!
+    テレビを 見ます。
+    テレビが 見ました。
+    じてんしゃにのって 行きましょう。
+    やさいのつくった ケーキもあります。
+    ゆきひとに 会いたくない。
+    あさ はやく 起きた。
+    いい天気ですね。
+    そんなに たくさん、ひつようじゃない。
+    これ、よくないが 思う。
+    イギリスに 住んでいますか。
+    なにを 食べたい?
+    なにが 食べたい?
+    どこへ 行かなかった。
+    日本語とおなじ ように、ハンガリー語は むずかしいです。
+    きょうのもんだいは たいへん やくに たちました。Ámen です。
