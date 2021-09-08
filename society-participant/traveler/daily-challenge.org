@@ -607,3 +607,41 @@
     どこへ 行かなかった。
     日本語とおなじ ように、ハンガリー語は むずかしいです。
     きょうのもんだいは たいへん やくに たちました。Ámen です。
+
+** Day 14 <2021-09-08 Wed>
+   start:<2021-09-08 Wed 21:23>
+   end:<2021-09-08 Wed 21:48>
+*** Fordítsd le a mondatokat! Ha teheted, kézzel írj!
+    | Reggelire sajtot eszem.                                               |
+    | 朝御飯に チーズを 食べます。                                          |
+    | Vacsorára nem eszem zsíros (あぶらっこい) ételt.                      |
+    | 晩御飯に あぶらっこく 料理を 食べません。                             |
+    | Tegnap este megittam 3 üveg sört.                                     |
+    | ようべ ビールの３ぽんを 飲みました。                                  |
+    | Múlt héten nem ittam alkoholt.                                        |
+    | 先週 アルコールを 飲みませんでした。                                  |
+    | Gyalog megyek a piacra (és a mákettót nem fogadom el ).              |
+    | 市場に あるいて 行きます（そして、「マーケット」を うけいれません）。 |
+
+*** Párosítsd össze az anyagokat a tárgyakkal, majd pakolgasd bele a mondatba!
+    Elképzelhető, hogy mindig vagy általában vagy sokszor vagy néha, kell a kettő közé a の
+    partikula. :-)
+
+    | ダイヤモンド | きぬ   | かわ(革) | ジンジャー | き     | プラスチック |
+    | ゆびわ       | きもの | くつ     | クッキー   | つくえ | バケツ       |
+
+    
+    | この古い木のつくえが ちょっとでこぼこで べんりじゃない。                     |
+    | イギリスじんは クリスマスのとき よく ジンジャークッキーを 食べます。         |
+    | このきらきらひかっている ダイヤモンドゆびわが たいへん ねだんが たかいです。 |
+    | からのプラスチックのバケツが たおれやすいです。                              |
+    | きぬのきものは とても エレガントです。そして うつくしいです。                |
+    | 新しい革のくつのにおいが 大好きです。                                        |
+
+*** じしょ
+    | でこぼこ        |   | hepehupás        |
+    | きらきら ひかる |   | ragyog, tündököl |
+    | ねだん          |   | ár, ára          |
+    | から            |   | üres             |
+    | たおれる        |   | feldől           |
+    | におい          |   | illat, szag      |
