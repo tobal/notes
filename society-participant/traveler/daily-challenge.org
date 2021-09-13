@@ -691,3 +691,23 @@
 
 *** じしょ
     | おおあめ | 大雨 | nagy eső |
+
+** Day 18 <2021-09-13 Mon>
+   start:<2021-09-13 Mon 23:41>
+   end:
+*** 「へ」 それとも 「に」?
+   | らいねん 日本へ行きます。                                  | Jövőre Japánba megyek.                          |
+   | A:どこ いくの?                                             | A: Hova mész?                                   |
+   | B:コンサートに。                                           | B: Koncertre.                                   |
+   | ゆうびんきょくに 行って、きってを かいました。             | Elmentem a postára, és vettem bélyeget.         |
+   | ぎんこうへ おかねを だし に 行きます。                     | Elmentem a bankba pénzt kivenni.                |
+   | すいえいに 行きたいんです。                                | Szeretnék elmenni úszni.                        |
+   | あした、レストランに 行きませんか?                         | Nem megyünk el holnap étterembe?                |
+   | こんばん、えいがに 行きましょう。                          | Ma este menjünk moziba.                         |
+   | ディスコーへ ダンスに 行きませんか。                       | Nem megyünk el diszkóba táncolni?               |
+   | きのう、ともだちのたんじょうびのパーティーに 行きました。  | Tegnap elmentünk a barátom szülinapi partijára. |
+   | A:さいふを おとしました。                                  | A: Elhagytam a pénztárcám.                      |
+   | B:すぐ けいさつへ 行ってください。                         | B: Rögtön menj el a rendőrségre.                |
+   | いい てんきですね。サイクリングに 行きませんか。           | Szép idő van nem? Nem megyünk biciklivel?       |
+   | まいしゅうの にちようびに 日本語の じゅぎょうに 行きます。 | Minden héten vasárnap japán órára megyek.       |
+   | おみせに 行って、パンをかいました。                        | Elmentem a boltba, vettem kenyeret.             |
