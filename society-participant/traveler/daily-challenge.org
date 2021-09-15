@@ -711,3 +711,15 @@
    | いい てんきですね。サイクリングに 行きませんか。           | Szép idő van nem? Nem megyünk biciklivel?       |
    | まいしゅうの にちようびに 日本語の じゅぎょうに 行きます。 | Minden héten vasárnap japán órára megyek.       |
    | おみせに 行って、パンをかいました。                        | Elmentem a boltba, vettem kenyeret.             |
+
+** Day 20 <2021-09-15 Wed>
+   start:<2021-09-15 Wed 19:40>
+   end:<2021-09-15 Wed 19:50>
+*** Mivel nagyon komáltátok a mellékneveket...
+    Sorold be a mellékneveket a megfelelő csoportba! A 4 csoportot NEKED kell létrehozni! Mindenhová 3 melléknevet kell
+    beírnod a megadott listából!!
+
+    | csoport neve | na-végűek | íz       | idő        | mennyiség | színek   |
+    | melléknév 1  | きれい    | あまい   | あたらしい | おおきい  | ちゃいろ |
+    | melléknév 2  | しずか    | おいしい | きょう     | さびしい  | みどり   |
+    | melléknév 3  | べんり    | いい     |            |           |          |
