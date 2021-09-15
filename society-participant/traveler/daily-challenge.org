@@ -692,6 +692,55 @@
 *** じしょ
     | おおあめ | 大雨 | nagy eső |
 
+** Day 16 <2021-09-10 Fri>
+   Word puzzle
+*** じしょ
+    | いさましい   | bátor         |
+    | いぬ         | kutya         |
+    | いのしし     | vaddisznó     |
+    | いる         | van, létezik  |
+    | うし         | tehén         |
+    | うたう       | énekel        |
+    | うるさい     | zajos, hangos |
+    | えがお       | szmájli       |
+    | えはがき     | képeslap      |
+    | おもう       | gondol, vél   |
+    | がっこう     | iskola        |
+    | きつね       | róka          |
+    | くま         | medve         |
+    | くるま       | kocsi         |
+    | くわがたむし | szarvasbogár  |
+    | こけし       | kokeshi       |
+    | こども       | gyerek        |
+    | ごはん       | főtt étel     |
+    | じゃがいも   | japán krumpli |
+    | すずしい     | hűvös         |
+    | たとえば     | például       |
+    | たまご       | tojás         |
+    | だし         | hal alaplé    |
+    | つくえ       | íróasztal     |
+    | つばめ       | fecske        |
+    | つめたい     | hideg (dolog) |
+    | とうもろこし | kukorica      |
+    | なまえ       | név           |
+    | ぬま         | mocsár        |
+    | はしる       | fut           |
+    | はたらく     | dolgozik      |
+    | はなたば     | virágcsokor   |
+    | ばんごはん   | vacsora       |
+    | ふく         | ruha          |
+    | ふとい       | kövér         |
+    | ほほえむ     | mosolyog      |
+    | ほんだな     | könyvespolc   |
+    | まつ         | fenyő/vár     |
+    | まめ         | bab           |
+    | むすめ       | lánya         |
+    | めがね       | szemüveg      |
+    | もちぬし     | gazda, tulaj  |
+    | ももたろう   | Momotaró      |
+    | もよおし     | rendezvény    |
+    | ゆかた       | nyári kimonó  |
+    | らくだ       | teve          |
 ** Day 18 <2021-09-13 Mon>
    start:<2021-09-13 Mon 23:41>
    end:<2021-09-13 Mon 23:57>
@@ -713,8 +762,8 @@
    | おみせに 行って、パンをかいました。                        | Elmentem a boltba, vettem kenyeret.             |
 
 ** Day 19 <2021-09-14 Tue>
-   start:<2021-09-15 Wed 19:54>
-   end:<2021-09-15 Wed 20:06>
+   start:<2021-09-14 Tue 19:54>
+   end:<2021-09-14 Tue 20:06>
 *** Melléknév + főnév kombót írd be, majd fordítsd le a mondatokat!
     És ne rám akadj ki, tipikus BT kérés...  (bocs Tomi, de muszáj, már így is átütöm az ingerküszöböt az állandó
     feladataimmal, ne mindig az én vudu babámat gyötörjék)
