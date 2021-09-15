@@ -712,6 +712,23 @@
    | まいしゅうの にちようびに 日本語の じゅぎょうに 行きます。 | Minden héten vasárnap japán órára megyek.       |
    | おみせに 行って、パンをかいました。                        | Elmentem a boltba, vettem kenyeret.             |
 
+** Day 19 <2021-09-14 Tue>
+   start:<2021-09-15 Wed 19:54>
+   end:<2021-09-15 Wed 20:06>
+*** Melléknév + főnév kombót írd be, majd fordítsd le a mondatokat!
+    És ne rám akadj ki, tipikus BT kérés...  (bocs Tomi, de muszáj, már így is átütöm az ingerküszöböt az állandó
+    feladataimmal, ne mindig az én vudu babámat gyötörjék)
+    MAGADTÓL !!!!!!!!!! köszönöm
+
+    | forró leves      | スープは あつい ではありませんでした。      | A leves nem volt forró.                                 |
+    | hideg sör        | ビールは とても つめたい でした。           | A sör nagyon hideg volt.                                |
+    | langyos tej      | あたたかい ぎゅうにゅうが 好きじゃない。    | Nem szeretem a langyos tejet.                           |
+    | hűvös levegő     | 空気は さむくない です。                    | A levegő nem hűvös.                                     |
+    | édes süti        | ケーキは おいしく あまい です。             | A süti fincsi édes.                                     |
+    | keserű kávé      | コーヒーが にがい から、さといを 入ります。 | Keserű a kávé, teszek bele cukrot.                      |
+    | magas torony     | この タワが たかくない です。               | Ez a torony nem túl magas.                              |
+    | alacsony kerítés | みじかい さく（柵）は むだ です。           | Az alacsony kerítésnek nincs értelme. (むだ felesleges) |
+
 ** Day 20 <2021-09-15 Wed>
    start:<2021-09-15 Wed 19:40>
    end:<2021-09-15 Wed 19:50>
