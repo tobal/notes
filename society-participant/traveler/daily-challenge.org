@@ -741,7 +741,7 @@
     | もよおし     | rendezvény    |
     | ゆかた       | nyári kimonó  |
     | らくだ       | teve          |
-** Day 18 <2021-09-13 Mon>
+** Day 19 <2021-09-13 Mon>
    start:<2021-09-13 Mon 23:41>
    end:<2021-09-13 Mon 23:57>
 *** 「へ」 それとも 「に」?
@@ -761,7 +761,7 @@
    | まいしゅうの にちようびに 日本語の じゅぎょうに 行きます。 | Minden héten vasárnap japán órára megyek.       |
    | おみせに 行って、パンをかいました。                        | Elmentem a boltba, vettem kenyeret.             |
 
-** Day 19 <2021-09-14 Tue>
+** Day 20 <2021-09-14 Tue>
    start:<2021-09-14 Tue 19:54>
    end:<2021-09-14 Tue 20:06>
 *** Melléknév + főnév kombót írd be, majd fordítsd le a mondatokat!
@@ -778,7 +778,7 @@
     | magas torony     | この タワが たかくない です。               | Ez a torony nem túl magas.                              |
     | alacsony kerítés | みじかい さく（柵）は むだ です。           | Az alacsony kerítésnek nincs értelme. (むだ felesleges) |
 
-** Day 20 <2021-09-15 Wed>
+** Day 21 <2021-09-15 Wed>
    start:<2021-09-15 Wed 19:40>
    end:<2021-09-15 Wed 19:50>
 *** Mivel nagyon komáltátok a mellékneveket...
