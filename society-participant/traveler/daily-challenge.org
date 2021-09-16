@@ -822,3 +822,22 @@
     | melléknév 1  | きれい    | あまい   | あたらしい | おおきい  | ちゃいろ |
     | melléknév 2  | しずか    | おいしい | きょう     | さびしい  | みどり   |
     | melléknév 3  | べんり    | いい     |            |           |          |
+
+** Day 22 <2021-09-16 Thu>
+   start:<2021-09-16 Thu 23:12>
+   end:<2021-09-16 Thu 23:22>
+*** A melléknév csoportosítás nagy bukfenc volt
+    | A süti édes volt.               | ケーキは あまかった です。                 |
+    | A mai házi nehéz volt.          | きょうのしゅくだいは むずかしかった です。 |
+    | A biciklim nem új.              | ぼくのじてんしゃは あたらしくない です。   |
+    | Csendes helyen szeretnék lakni. | しずかないちに すんでいたいです。          |
+    | A gesztenye édes és finom. くり | くりは あまく おいしい です。              |
+    | Ez a csésze új.                 | このカップが あたらしい です。             |
+    | A cipőm nem barna.              | ぼくの くつが ちゃいろ でわありません。    |
+    | Maradj csendben! (Hogyan??)     | しずかに してください。                    |
+*** じしょ
+    | あまい | édes |
+    | あたらしい       | új     |
+    | しずかな       | csendes,nyugodt     |
+    |  きょう(の)      | mai     |
+    | ちゃいろ(の)       |barna      |
