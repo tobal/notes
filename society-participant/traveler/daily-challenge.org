@@ -878,3 +878,21 @@
     | にあう   |        | jól áll, illik hozzá |
     | くらす   | 暮らす | él, megél            |
     | なおす   | 治す   | gyógyít              |
+
+** Day 24 <2021-09-18 Sat>
+   start:<2021-09-18 Sat 19:17>
+   end:<2021-09-18 Sat 19:36>
+*** Párosítsd össze a ren’yókei-es igéket a megfelelő nyelvtannal a szerint, ami alatta magyarul van.
+    | 食べ | かけ     | félig megevett    |
+    | し   | はじめる | elkezd (csinálni) |
+    | 飲み | すぎる   | túl sokat iszik   |
+    | ふり | だす     | elered (eső)      |
+    | 読み | やすい   | könnyen olvasható |
+    | 書き | にくい   | nehezen írható    |
+*** Írd a vonalra a megfelelő nyelvtannal ellátott igét!
+    | ゆうべ 飲み すぎましたから、ふつかよいです。         | Este túl sokat ittam, másnapos vagyok.                 |
+    | いえを出たとたんに、雨が だした。                    | Amint kiléptem a lakásból, eleredt az eső.             |
+    | ふりがなで つけた漢字が 読みやすい です。            | A furiganázott kanjik könnyen olvashatók.              |
+    | 食べ かけ サンドイッチが カウンターに おいてあった。 | Hagytam egy félig megevett szendvicset a konyhapulton. |
+    | いつ しゅくだいを しはじめますか。                   | Mikor kezdesz el házit csinálni?                       |
+    | ふでペンで 漢字が 書きにくいです。                   | Ecsettel nehéz kanjit írni.                            |
