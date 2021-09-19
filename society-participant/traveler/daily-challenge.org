@@ -896,3 +896,27 @@
     | 食べ かけ サンドイッチが カウンターに おいてあった。 | Hagytam egy félig megevett szendvicset a konyhapulton. |
     | いつ しゅくだいを しはじめますか。                   | Mikor kezdesz el házit csinálni?                       |
     | ふでペンで 漢字が 書きにくいです。                   | Ecsettel nehéz kanjit írni.                            |
+
+** Day 25 <2021-09-19 Sun>
+   start:<2021-09-19 Sun 15:33>
+   end:<2021-09-19 Sun 15:51>
+*** Állítsd párba a かんようく-kat a magyar jelentésével.
+    | あたま が いい   | okos                  | かしこい                         |
+    | くち が わるい   | epés, goromba, sértő  | きたないことばを言う             |
+    | はら が たつ     | mérges                | おこる、おこりっぽい             |
+    | むね が くるしい | fájdalmas, nyomasztja | 心のために痛い                   |
+    | みみ が とおい   | nagyothall            | あまり聞こえない方               |
+    | くび に なる     | gőgös                 | じまん                           |
+    | あし が はやい   | elveszíti az állását  | しごとがやしなう                 |
+    | はな が たかい   | romlandó (étel)       | くさりやすい食べ物、料理、ごはん |
+*** Pótold a partikulákat!
+    日本はしまぐにです。ハンガリーは島国ではありません。日本のしゅとは 東京がハンガリーのしゅとは ブダペスト です。
+    日本とハンガリーは どちらのほうが 人口(じんこう、 lakosság)で多いですか。
+    もちろん、日本です。東京の人口は ハンガリーの人口より 3ばいくらい 多いです。
+*** Párosítsd össze kandzsikat az olvasatával, jelentésével!
+    | 泳 | およぐ | úszik  |
+    | 洗 | あらう | mos    |
+    | 問 | とい   | kérdés |
+    | 間 | あいだ | között |
+    | 林 | はやし | liget  |
+    | 森 | もり   | erdő   |
