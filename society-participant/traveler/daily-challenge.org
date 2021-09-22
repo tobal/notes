@@ -982,3 +982,21 @@
     | なんじに | mikor, melyik órában? |
     | なぜ     | miért, hogyan? |
     | なんで   | miért, hogyan? |
+
+** Day 28 <2021-09-22 Wed>
+   start:<2021-09-22 Wed 23:24>
+   end:<2021-09-22 Wed 23:41>
+*** A megadott kérdőszót felhasználva fordítsd le a mondatot!
+    | Melyik a kutya labdája?                  | どれが ボールは 犬の です？                 |
+    | Apu tolla melyik?                        | どれは おとおさんのペン です？              |
+    | Kinek vetted a csokit?                   | チョコレートは だれに 買ったか。            |
+    | Kivel mész moziba?                       | えいがかんで だれと いっしょに 行きますか。 |
+    | Milyen boltban lehet venni ecsettollat?  | ふでぺんを どんな 店に 買うの ですか？      |
+    | Mit csinálsz ma este?                    | こんばんは なにを しますか。                |
+    | Eszel valamit?                           | なにか 食べますか。                         |
+    | Mivel vágod a dinnyét?                   | すいかを なにで きりますか。                |
+    | Hány hal van az akváriumban?             | すいぞくかんの中で なんびき 魚は ですか。   |
+    | Hány ember van a teremben?               | へやの中で なんにん 人は ですか。           |
+    | Mikor házasodtatok össze?                | いつ けっこん しましたか。                  |
+    | Mennyibe került az autód?                | あなたの車が いくらですか。                 |
+    | Miért eszi meg a gólya a békát???? Hm??? | こうのとりは かえるを なぜ 食べますか。     |
