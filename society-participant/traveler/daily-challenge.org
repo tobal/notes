@@ -1021,3 +1021,14 @@
     | こんどのテストは間違いだらけでした。         |
     | そばかすだらけの顔が うつくしいね。          |
     | しわだらけのスカートをはかないでね。         |
+
+** Day 30 <2021-09-24 Fri>
+   start:<2021-09-24 Fri 23:38>
+   end:<2021-09-24 Fri 23:48>
+*** A következő nyelvtanokkal fordítsd át japánra a mondatokat!
+    かもしれない、つもり、ておく、ましょう、ませんか
+    | Vegyünk fagyit!                | アイスクリームを 買いましょう。                |
+    | Nem megyünk taxival?           | タクシで 行きませんか。                        |
+    | Ebéd után kávét fogok inni.    | ひるごはんの後で コーヒーを 飲む つもり です。 |
+    | Lehet, hogy terhes az asszony. | つまは にんぶする かもしれない。               |
+    | Tedd be a hűtőbe a limonádét!  | レモネードを ひやしておきなさい。              |
