@@ -1032,3 +1032,19 @@
     | Ebéd után kávét fogok inni.    | ひるごはんの後で コーヒーを 飲む つもり です。 |
     | Lehet, hogy terhes az asszony. | つまは にんぶする かもしれない。               |
     | Tedd be a hűtőbe a limonádét!  | レモネードを ひやしておきなさい。              |
+
+** Day 31 <2021-09-25 Sat>
+   start:<2021-09-25 Sat 22:12>
+   end:<2021-09-25 Sat 22:22>
+*** Fordítsd le magyarra a következő szöveget!
+    ぼくはブダペストの11く にすんでいます。アパートは あたらしくてきれいです。
+    つまと4さいの むすこといっしょにすんでいます。へやは きれいだけじゃなくて、
+    あかるいです。ぼくはいちばん好きなところはリビングルームです。リビングのまん
+    なかには 大きいソファがあります。そこにすわって よく はなしたり テレビを
+    見たりします。つまのいちばん好きところは バルコニーです。たくさんの うつく
+    しい花を そだてます。
+
+    Budapest 11. kerületében lakom. A lakóház szép új. A feleségemmel és a 4 éves lányommal élek együtt.
+    A lakás nem csak szép, de világos is. A kedvenc helyem a lakásban a nappali. A nappali közepén van egy
+    nagy kanapé. Itt ülve jól lehet beszélgetni és tévézni is. A feleségem kedvenc helye az erkély. Sok
+    szép virág nő ott.
