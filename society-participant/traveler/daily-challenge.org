@@ -1048,3 +1048,14 @@
     A lakás nem csak szép, de világos is. A kedvenc helyem a lakásban a nappali. A nappali közepén van egy
     nagy kanapé. Itt ülve jól lehet beszélgetni és tévézni is. A feleségem kedvenc helye az erkély. Sok
     szép virág nő ott.
+
+** Day 32 <2021-09-26 Sun>
+   start:<2021-09-26 Sun 13:50>
+   end:<2021-09-26 Sun 13:59>
+*** Fordítsd le japánra a szöveget!
+    | Szeretem a szusit.                            | おすしが 好きです。 |
+    | A szusi egy japán étel.                       | おすしは 日本のりょうり です。 |
+    | A rizs tetejére nyers halat tesznek (のせる). | めしの上に 生魚を のせます。 |
+    | A rizs és a hal közé vaszabit tesznek.        | めしと魚の中に わさびを のせます。 |
+    | A hal tetejére egy kevés szójaszószt kennek.  | 魚の上に ちょっと しょうゆを のせます。 |
+    | De ennék egy kis szusit!                      | おすしを 食べたいなあああ。 |
