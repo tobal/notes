@@ -1090,3 +1090,20 @@
     | なつやすみ (főnév)     |
     | みなと (hely)          |
     | とうもろこし (zöldség) |
+
+** Day 35 <2021-09-29 Wed>
+   start:<2021-09-29 Wed 16:49>
+   end:<2021-09-29 Wed 17:02>
+*** Alakítsd át közvetlen alakúvá a mondatokat
+    | 食べましょう         | Együnk!        | たべよう         |
+    | 飲みましょう         | Igyunk         | 飲もう           |
+    | 行きましょう         | Menjünk        | 行こう           |
+    | しゅっぱつしましょう | Induljunk      | しゅっぱつしよう |
+    | かえりましょう       | Menjünk haza   | かえろう         |
+    | 買いましょう         | Vásároljunk    | 買おう           |
+    | 旅行しましょう       | Utazzunk el    | 旅行しよう       |
+    | 料理をつくりましょう | Főzzünk        | 料理をつくろう   |
+    | うたいましょう       | Énekeljünk     | 歌おう           |
+    | あいましょう         | Kövessük       | 追おう           |
+    | かたづけましょう     | Rakjunk rendet | 片付けよう       |
+    | ならいましょう       | Tanuljunk      | 習おう           |
