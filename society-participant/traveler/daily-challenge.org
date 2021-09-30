@@ -1107,3 +1107,20 @@
     | あいましょう         | Kövessük       | 追おう           |
     | かたづけましょう     | Rakjunk rendet | 片付けよう       |
     | ならいましょう       | Tanuljunk      | 習おう           |
+
+** Day 36 <2021-09-30 Thu>
+   start:<2021-09-30 Thu 22:30>
+   end:<2021-09-30 Thu 22:53>
+*** Párosítsd össze a szavakat, majd írj velük egy-egy mondatot, ami legalább 4 tagból áll.
+    | ハット     | かぶる |
+    | ジーンズ   | はく   |
+    | サングラス | かける |
+    | ネクタイ   | しめる |
+    | ジャケット |  きる  |
+
+
+    | あした ハットを かぶる つもりです。                   | Holnap kalapot fogok felvenni.                     |
+    | あたらしい しょくばに ジーンズを はいてもいいですか。 | Az új munkahelyen szabad farmert viselni?          |
+    | 夏に ドライブで サングラスを かけた ほうがいいです。  | Nyáron vezetéshez jobb, ha teszel fel napszemcsit. |
+    | ぶちょうは せびろをきて、ネクタイを しめています。    | A főnök öltönyt és nyakkendőt hord.                |
+    | 外に さむいから、ジャケット きってください。          | Kint hideg van, vegyél fel egy dzsekit kérlek.     |
