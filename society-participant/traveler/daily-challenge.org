@@ -1124,3 +1124,48 @@
     | 夏に ドライブで サングラスを かけた ほうがいいです。  | Nyáron vezetéshez jobb, ha teszel fel napszemcsit. |
     | ぶちょうは せびろをきて、ネクタイを しめています。    | A főnök öltönyt és nyakkendőt hord.                |
     | 外に さむいから、ジャケット きってください。          | Kint hideg van, vegyél fel egy dzsekit kérlek.     |
+
+** Day 37 <2021-10-04 Mon>
+   start:<2021-10-04 Mon 20:45>
+   end:<2021-10-04 Mon 20:52>
+*** Add meg a magyar jelentését!
+    | けんこう       |                |
+    | はれ           | szelet         |
+    | ちゅうしょく   |                |
+    | はをみがく     | fogat mos      |
+    | どうぶつえん   | állatkert      |
+    | てんらんかい   |                |
+    | はくぶつかん   |                |
+    | しけん         |                |
+    | みずたま       |                |
+    | しんせんな     | friss          |
+    | たいせつな     |                |
+    | りょうしん     | utazás         |
+    | ひき           |                |
+    | はく           | felhúz (cipőt) |
+    | てんきよほう   |                |
+    | つかれている   |                |
+    | おうむ         |                |
+    | ほんとうに     | tényleg        |
+    | けっこん       |                |
+    | にゅういんする |                |
+*** Fordítsd le!
+    | 3 autó          | くるま さんだい            |
+    | 2 hattyú        |                            |
+    | 4 szék          | よっつ いす                |
+    | 1 szál virág    |                            |
+    | 2 csésze kávé   | 二ほん コーヒー            |
+    | 3 alma          | 三こ りんぐ                |
+    | 1 báty, 2 húg   | ひとり あに、ふたり いもと |
+    | 2 pár papucs    |                            |
+    | nyolcadika      | はち ようび                |
+    | csütörtök       | もくようび                 |
+    | 3 boríték       | さんまい ふうとう          |
+    | 2 bank          |                            |
+    | 1 ló            |                            |
+    | 3 nyúl          |                            |
+    | 3 macska        |                            |
+    | 4 füzet         |                            |
+    | 3 nap 2 éjszaka |                            |
+    | 3. emelet       | よんかい                   |
+    | 4 éves          | よんさい                   |
