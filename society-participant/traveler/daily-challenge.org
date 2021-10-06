@@ -1169,3 +1169,17 @@
     | 3 nap 2 éjszaka |                            |
     | 3. emelet       | よんかい                   |
     | 4 éves          | よんさい                   |
+
+** Day 38 <2021-10-06 Wed>
+   start:<2021-10-06 Wed 16:55>
+   end:<2021-10-06 Wed 17:17>
+*** Párosítsd össze a szavakat!
+    | olló      | はさみ   | tojás     | たまご       | radír     | けしゴム   |
+    | kés       | ナイフ   | hús       | おにく       | lyukasztó | ホッチキス |
+    | merőkanál | おたま   | tej       | ぎゅうにゅう | tolltartó | ペンいれ   |
+    | kanál     | スプーン | csirkehús | チキン       | ceruza    | えんぴつ   |
+    | villa     | フォーク | marhahús  | ぎゅうにく   | cellux    | セロテープ |
+*** Mindegyik oszlopból válassz ki egy-egy szót és írj vele mondatot, ami legalább 4 tagból áll!
+    | Ollóval rövidre vágtam a hajam.       | ぼくのかみのけを はさみで みじかくに きりました。     |
+    | Ebédre borsos csirkehúst fogok sütni. | ひるごはんに こしょうのチキンを いためる つもりです。 |
+    | Szeretek színes ceruzával rajzolni.   | いろつきのえんぴつで えがくのが すきです。            |
