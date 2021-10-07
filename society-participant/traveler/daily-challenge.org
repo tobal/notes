@@ -1183,3 +1183,14 @@
     | Ollóval rövidre vágtam a hajam.       | ぼくのかみのけを はさみで みじかくに きりました。     |
     | Ebédre borsos csirkehúst fogok sütni. | ひるごはんに こしょうのチキンを いためる つもりです。 |
     | Szeretek színes ceruzával rajzolni.   | いろつきのえんぴつで えがくのが すきです。            |
+
+** Day 39 <2021-10-07 Thu>
+   start:<2021-10-07 Thu 23:55>
+   end:<2021-10-08 Fri 00:07>
+*** Írj mondatokat
+    | こどものとき C６４のコンピュータで プログラミングを まなびはじめました。 | Gyerekkoromban C64-es számítógépen kezdtem programozni tanulni. |
+    | こうこうせいのとき RPGを あそびはじめました。                            | Gimis koromban kezdem szerepjátszani.                           |
+    | だいがくせいのとき プサイトランスのおんがくを 聞きはじめました。         | Egyetemista koromban kezdtem psytrance-t hallgatni.             |
+    | 20だいのとき けっこんして、りこんしました。                              | A húszas éveimben megnősültem, és el is váltam.                 |
+    | 30だいのとき ジャッグルを しはじめました。                               | A harmincas éveimben kezdtem zsonglőrködni.                     |
+    | 40さいに なることを まっています。                                       | Várom, hogy negyven éves legyek                                 |
