@@ -1206,3 +1206,117 @@
      | スペインに 行った ____。                       | ください    |
      | おおかまつくって くさを なぎ____です。     | たい        |
      | 天気がいい。こうえんに あるき____。            | ことがある  |
+
+** Day 41 <2021-10-31 Sun>
+*** 2021年10月18日
+    | おおきい | ながい   | あたらしい | たかい | あかるい | きれい | うるさい | おいしい |
+    | 小さい   | みじかい | ふるい     | ひくい | くらい   | まずい | しずか   | きたな   |
+
+
+    | なにか________ものが 食べたい。                     |
+    | テレビがこわられて、_______のを 買います。          |
+    | ______に してください。べんきょうしているからです。 |
+*** 2021年10月19日
+    | どこ     | に | あいますか。         | Hol volt?/Megtaláltad?/Meglett? |
+    | なに     |    | 先生のくるまですか。 |                                 |
+    | だれ     |    | していますか。       |                                 |
+    | どうして |    | こなかったんですか。       |                                 |
+    | どこ     |    |ありましたか。  |                                 |
+    | どれ     |    | はたらきますか。     |                                 |
+*** 2021年10月20日
+    おおかみ、きつね、キャベツ、ジーンズ、ジャケット、ズキニ、ふく、やさい、やせいのどうぶつ、
+
+    | _____や _____は _______です。よく食べてください。                   |
+    | _____や_____は_______です。あぶないから、近くに行かないでください。 |
+    | _____や______は ________です。わかものがよく着ます。                |
+*** 2021年10月21日
+    | kezet mos      |   | asztalt elpakol   |   |
+    | fogat mos      |   | lakást kitakarít  |   |
+    | ruhát mos      |   | időbe telik       |   |
+    | padlót felmos  |   | pénzbe kerül      |   |
+    | „mossa kezeit” |   | fáradtságba kerül |   |
+*** 2021年10月22日
+    あく、あける、が、を
+    | まど | が | あいています。 | Nyitva az ablak.               |
+    | まど |    |                | Kinyílt az ablak.              |
+    | まど |    |                | Nyisd ki az ablakot!           |
+    | まど |    |                | Nyitva az ablak.               |
+    | まど |    |                | Kinyitottam az ablakot.        |
+    | まど |    |                | Kinyissam az ablakot?          |
+    | まど |    |                | Nem nyílik ki az ablak.        |
+    | まど |    |                | Nem tudom kinyitni az ablakot. |
+    | まど |    |                | Nincs nyitva az ablak.         |
+*** 2021年10月23日
+    Vた、Vた、Vた、Vて、Vない、Vます、Vる
+    | Vる | まえに     | vmi előtt megcsinál vmit | 食べる前に「いただきます」と言います。 |
+    |     | あとで     |                          |                                        |
+    |     | ながら     |                          |                                        |
+    |     | まま       |                          |                                        |
+    |     | ことがある |                          |                                        |
+    |     | ほうがいい |                          |                                        |
+    |     | おく       |                          |                                        |
+*** 2021年10月24日
+    ごろごろ、じっと、そろそろ、ちびちび、どきどき、はっきり、ぴかぴか
+    | なにも しないで、一日中______しました。                  |
+    | あまりわからないから、もっと________言ってください。     |
+    | あの子は、いったい、なにを________見ているんでしょうか。 |
+    | あついおさけを_______飲むのが さいこう!                  |
+    | ゆかが________ですね。きれいになったね。ありがとう。     |
+    | ________帰りましょう。もう、11時です。                   |
+    | デートやテストの前によく________します。                 |
+*** 2021年10月25日
+    Melyik a helyes pár (színezd ki a helyes megoldást(? Mit jelent a
+    másik szó (írd be a cellába magyarul)? Amit nem ismersz, tanuld meg!
+    | tégla  | párna  | lánc   | tojás    | alsógatya | kerék    | illat (jó) | fazék |
+    | れんが | まぐろ | くさい | たまご   | ジンズ    | くるま   | かおり     | なみ  |
+    | レンジ | まくら | くさり | たまねぎ | パンツ    | ハンドル | におい     | なべ  |
+    |        |        |        |          |           |          |            |       |
+*** 2021年10月26日
+    Fordítsd le a mondatokat!
+    | A sütő már régi.               |   |
+    | A tonhal nagyon drága.         |   |
+    | Itt büdös van.                 |   |
+    | Apróra vágd a hagymát!         |   |
+    | A farmer népszerű/ közkedvelt. |   |
+    | A kilincs ezüst színű.         |   |
+    | Büdös a hal.                   |   |
+    | Hatalmasak a hullámok.         |   |
+*** 2021年10月27日
+    Fejezd be a mondatot kedved szerint! Törekedj arra, hogy legalább 2 vagy több taggal bővítsd!
+    | ________________________行くつもりはありません。 |
+    | ________________________食べたいですか。         |
+    | ________________________見たことがあります。     |
+    | ________________________できますか。             |
+*** 2021年10月28日
+    Haladj a színes mezőtől! Az utolsó hiragana mindig a következő szó
+    első hiraganája. A következő szó mindig új irányban halad tovább! A maradék hiraganákat
+    sorban összeolvasva kapsz egy mondatot. Írd le a mondatot és fordítsd le magyarra!
+
+    | *ひ* | ぼ | ぬ | の | せ | い | く |
+    | *ま* | は | し | う | に | す | し |
+    | *わ* | ほ | ん | ら | ご | が | ん |
+    | *り* | す | ほ | わ | に | ん | し |
+    | と   | く | う | に | ぐ | ま | つ |
+    | じ   | な | ょ | う | ま | く | ず |
+    | で   | い | の | し | し | ら | す |
+*** 2021年10月29日
+    Szóhasználat: válaszd ki a leginkább helyes megoldást!
+    | つくる                                            |
+    | きのう、一日中 テニスを つくりました。            |
+    | 朝ごはんに おいしい サンドイッチを つくりました。 |
+    | しゅくだいを つくるのが たいへんですね。          |
+    | おすしを食べるとき はしを つくります。            |
+
+
+    | あらう                                   |
+    | ふくは きたなかったので あらいました。   |
+    | よる、いつも シャワーをあらいます。      |
+    | 食べる前に やさいをよく 洗ってください。 |
+    | こうえんをあらうとき よくりすを見ます。  |
+
+
+    | うんどう                                |
+    | 父の仕事は バスをうんどうすることです。 |
+    | にもつを うんどうしました。             |
+    | よくうんどうしてから起きました。        |
+    | 1週間2回ジムに行ってうんどうします。    |
