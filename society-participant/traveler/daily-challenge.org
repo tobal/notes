@@ -1320,3 +1320,16 @@
     | にもつを うんどうしました。             |
     | よくうんどうしてから起きました。        |
     | 1週間2回ジムに行ってうんどうします。    |
+
+** Day 42 <2021-11-02 Tue>
+*** Fordítsd le
+    | 日本の伝統的住宅の 12の基本的な特徴 とは。                                                                 |
+    | A japán ház 12 alapvető sajátossága.                                                                       |
+    | 日本の家は 都市でもいなかでも小さく、となりの家とのきょりが近いのが いっぱんてき です。                    |
+    | A japán házak mind a városokban, mind vidéken kicsik, és az egymás mellett lévő házak között kicsi a hely. |
+    | とかいでくらす人々にとって、家族でくらせる いっこだての 家を買うのはかんたんではありません。               |
+    | A nagyvárosokban élő családoknak nem egyszerű családi házat venni.                                         |
+    | しかし、しゅうごうじゅうたくでも、玄関やおふろなどの 昔からのとくちょうが 見られます。                     |
+    | Viszont még a tömbházakban is megfigyelhető a régi stílusú fürdő és bejárat.                               |
+    | また、せいようしきの家でも、ひと 部屋は 畳のある和室がある家も多いです。                                   |
+    | Továbbá, sok nyugati stílusú házban vannak tatamival fedett, japán stílusú szobák.                         |
