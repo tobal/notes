@@ -1333,3 +1333,16 @@
     | Viszont még a tömbházakban is megfigyelhető a régi stílusú fürdő és bejárat.                               |
     | また、せいようしきの家でも、ひと 部屋は 畳のある和室がある家も多いです。                                   |
     | Továbbá, sok nyugati stílusú házban vannak tatamival fedett, japán stílusú szobák.                         |
+
+** Day 43 <2021-11-04 Thu>
+*** Fordítsd le
+    | 門をかまえた入口                                                                                                             |
+    | A sarokra felállított bejárat.                                                                                               |
+    | 日本では いっぱんてきに、じゅうたくちの どうろに ほどう はありません。                                                       |
+    | Japánban általános, hogy a lakóövezet utcái mellett nincs járda.                                                             |
+    | そのため、道路 などのこうきょうの スペースとしゆうちとの さかいめ として、門やへいがもうけられています 。                    |
+    | Ezért az utca közterülete, és a magánterület határán kaput alakítanak ki.                                                    |
+    | 写真は京都で見た、昔ながらのやねつきの門で、しきちのおくにある家ととおりを分けています。                                     |
+    | A Kyotóban készült képen látható a régi stílusú cserepes kapu, ami a telek hátsó részén lévő házat és az utcát választja el. |
+    | 古い 桜の木が、かべのむこうに 美しい庭がひろがるのをあらわします。                                                           |
+    | Az öreg cseresznyefa a fal túloldalán egy gyönyörű kert meglétét sejteti.                                                    |
