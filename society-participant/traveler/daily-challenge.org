@@ -1381,3 +1381,51 @@
     |                                                     |
     | バスの中の席は一つもあくていなかった。              |
     | A buszon csak egy üres hely volt.                   |
+** Day 45 <2021-11-20 Sat>
+*** Fordítsd le
+    | 子供はアルコールを飲んではいけません。                          |
+    | A gyerekeknek nem szabad alkoholt inni.                         |
+    | この町の人口は5000人生きるです。                                |
+    | Ennek a városnak a lakossága 5000 fő.                           |
+    | 地震のあと、家族を見れたので____しました。                      |
+    |                                                                 |
+    | テレビのアナウンサーの仕事がしたい。                            |
+    | Tévés bemondó szeretnék lenni.                                  |
+    | 母はあと50年は行きたいそうだ。                                  |
+    |                                                                 |
+    | ウイスキー以外に アルコール、飲まない。                         |
+    | Whiskey-n kívül nem iszok más féle alkoholt.                    |
+    | 私は人の____をよく聞く人です。                                  |
+    |                                                                 |
+    | 北アメリカは 米国にも いいます。                                |
+    | Észak amerikát USA-nak is mondják.                              |
+    | ____をペイントするのが 好きです。                               |
+    |                                                                 |
+    | 新しい学生に学校を案内した。                                    |
+    | Az új diákot körbevezettem a suliban.                           |
+    | 庭のすみにある池の周りにきれいな花が咲く。                      |
+    | A kert sarkában lévő kis tó közelében gyönyörű virágok nyílnak. |
+    | 謝っても ゆるしてくれない。                                     |
+    | Ne kérj bocsánatot.                                             |
+    | 私は医者になるために、医学を勉強した。                          |
+    | Hogy orvos lehessek, orvostudományt tanultam.                   |
+    | 留学生の多くはアルバイトをします。                              |
+    | Sok cserediák részmunkaidős munkát vállal.                      |
+    | 自転車で進むとき安全が一番大切。                                |
+    | Amikor biciklivel közlekedsz, a biztonság a legfontosabb.       |
+*** じしょ
+    | いし             | 石     | kő                  |
+    | いけん           | 意見   | vélemény            |
+    | いけ             | 池     | kis tó              |
+    | いきる           | 生きる | él                  |
+    | いがく           | 医学   | orvostudomány       |
+    | いがい           | 以外   | kivéve              |
+    | いか             | 以下   | lenti, alábbi       |
+    | あんない（する） | 案内   | körbevezet          |
+    | あんぜん（な）   | 安全   | biztonságos         |
+    | あんしん         | 安心   | megnyugvás          |
+    | アルバイト       |        | részmunkaidős munka |
+    | アルコール       |        | alkohol             |
+    | あやまる         | 謝る   | bocsánatot kér      |
+    | アメリカ         |        | amerika             |
+    | アナウンサー     |        | bemondó             |
