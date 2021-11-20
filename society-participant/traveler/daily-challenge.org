@@ -1346,3 +1346,38 @@
     | A Kyotóban készült képen látható a régi stílusú cserepes kapu, ami a telek hátsó részén lévő házat és az utcát választja el. |
     | 古い 桜の木が、かべのむこうに 美しい庭がひろがるのをあらわします。                                                           |
     | Az öreg cseresznyefa a fal túloldalán egy gyönyörű kert meglétét sejteti.                                                    |
+
+** Day 44 <2021-11-20 Sat>
+*** Fordítsd le
+    あつまる、あそび、あげる、あおぞら、あかちゃん
+
+    | 今日は気温があがって暑かった。                      |
+    | Ma a hőmérséklet megemelkedett, és meleg volt.      |
+    | この子供用のプールは あさいです。                   |
+    | Ez a gyerekmedence sekély.                          |
+    | 走っていたとき、ずっと_____だった。                 |
+    |                                                     |
+    | あしたの映画は 楽しみだ。                           |
+    | A tegnapi film nagyon élvezetes volt.               |
+    | 彼女には珍しいアクセサリーをプレゼントした。        |
+    | A barátnőm egy ritka ékszert kapott ajándékba.      |
+    | 試合の前にみんなで_____た。                         |
+    |                                                     |
+    | アジアの諸国は びんぼうです。                       |
+    | Az ázsiai országok szegények.                       |
+    | 彼のテニスのあいてはいつも私です。                  |
+    | Az ő teniszpartnere mindig én vagyok.               |
+    | 切手をあつめるのは 父の趣味です。                   |
+    | A bélyegek gyűjtése apukám hobbija.                 |
+    | 彼らは_____が生まれた。                             |
+    |                                                     |
+    | あのラーメンのあじは忘れられない。                  |
+    | Annak a rámennek az íze felejthetetlen.             |
+    | 彼女はかばんの色が服にあうないと言った。            |
+    | A barátnőm táskájának a színe jól megy a ruhájához. |
+    | 日本は _____で行きましたか。                        |
+    |                                                     |
+    | 僕は クッキーを やいて_____た。                     |
+    |                                                     |
+    | バスの中の席は一つもあくていなかった。              |
+    | A buszon csak egy üres hely volt.                   |
