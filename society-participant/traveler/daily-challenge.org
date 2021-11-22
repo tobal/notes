@@ -1462,3 +1462,29 @@
     | いそぐ             | siet                         |
     | いじょう           | vmi fölött, túl              |
     | いじめる           | piszkál, szekál              |
+
+** Day 47 <2021-11-22 Mon>
+*** Fordítsd le
+    | がくせいのおおくは ころなういるすに うつられた。 |
+    | 字生の多くは コロナウイルスに うつられた。       |
+    | Sok diák koronavírusos lett.                     |
+
+
+    | 時間が あまりないから、会うことができません。   |
+    | じかんが あまりないから、あうことができません。 |
+    | Mivel nincs elég időm, ne találkozzunk.   |
+
+
+    | ____、車で しごとに 行きます。     |
+    | ふつう、車で しごとに 行きます。   |
+    | Általában autóval megyek dolgozni. |
+
+
+    | 木で作られた、足が4っつある かぐです。 |
+    | いす                                   |
+    | Fából készült, négylábú bútor. (szék)  |
+
+
+    | きのう、父と母と 映画を見ました。        |
+    | きのう、りょうしんと 映画を見ました。    |
+    | Tegnap apu és anyu megnéztek egy filmet. |
