@@ -1488,3 +1488,29 @@
     | きのう、父と母と 映画を見ました。        |
     | きのう、りょうしんと 映画を見ました。    |
     | Tegnap apu és anyu megnéztek egy filmet. |
+
+** Day 48 <2021-11-23 Tue>
+*** Fordítsd le
+    | 図書館へ本を借りに行きました。              |
+    | とうしょかんへ 本を かたりりに 行きました。 |
+    | Megyek a könyvtárba könyvet kölcsönözni.    |
+
+
+    | ともだちの いえが えきから ちかいです。 |
+    | 友だちの 家が 沢から 近いです。         |
+    | A barátom háza közel van az állomáshoz. |
+
+
+    | コーヒーが ____いかがですか。      |
+    | コーヒーが いっぱい いかがですか。 |
+    | Kérsz egy csésze kávét?            |
+
+
+    | 耳がまるくて、しっぽがとても長い、ちいさい動物です。 |
+    | ねずみ                                               |
+    | Kerek fülű, nagyon hosszú farkú, kicsi állat. (egér) |
+
+
+    | よく くだものを 食べます。                               |
+    | まいにち くだものを食べます。                            |
+    | Gyarkan eszek gyümölcsöt. (Minden nap eszek gyümölcsöt.) |
