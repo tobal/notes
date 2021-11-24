@@ -1514,3 +1514,29 @@
     | よく くだものを 食べます。                               |
     | まいにち くだものを食べます。                            |
     | Gyarkan eszek gyümölcsöt. (Minden nap eszek gyümölcsöt.) |
+
+** Day 49 <2021-11-24 Wed>
+*** Fordítsd le
+    | じどうしゃのたいやは ぼろぼろになって、あたらしいがひつようです。 |
+    | 自転車のタイヤは ぼろぼろになって、新しいがひつようです。         |
+    | A biciklim kereke kilyukadt, újat szerzek.                        |
+
+
+    | 郵便局の窓口の前のれつが いつも 長いです。               |
+    | ゆうびんきょくのまどぐちの前のれつが いつも ながいです。 |
+    | A posta bejárata előtt gyakran hosszú sor áll.           |
+
+
+    | つりに 行きたいなら、ルアーが ひつようです。            |
+    | Mivel szeretnék horgászni menni, csalit kell szereznem. |
+
+
+    | 鳥は 口のかわりに 使う かたい ものです。                                                       |
+    | くちばし                                                                                       |
+    | (van benne madár meg száj, gondolom akkor a csőr a megoldás... a mondatról fogalmam sincs :) ) |
+
+
+    | 私は ひとりっこです。               |
+    | 私は、きょうだいしまいが いません。 |
+    | Egyke vagyok.                       |
+    | Nincs testvérem.                    |
