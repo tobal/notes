@@ -1540,3 +1540,30 @@
     | 私は、きょうだいしまいが いません。 |
     | Egyke vagyok.                       |
     | Nincs testvérem.                    |
+
+** Day 50 <2021-11-25 Thu>
+*** Fordítsd le
+    | 家の周りに すごく高い 松が 12本 立っています。         |
+    | 家のまわりに すごく高い まつが 12っぽん 立っています。 |
+    | A ház körül 12 nagyon magas valamilyen fa áll.         |
+
+
+    | 引き出しの おくに 古い写真を たくさん 見つかりました。       |
+    | ひきだしの おくに 古いしゃしんを たくさん み見つかりました。 |
+    | A fiókban sok régi しゃしん-t láttam.                        |
+
+
+    | かべ、つくえ、たな などを かざるものです。                     |
+    | え                                                             |
+    | Falra, asztalra, polcra és など-ra helyezhető dísztárgy. (kép) |
+
+
+    | これで、かみ、かみのけ、つめ、などが 切れるどうぐです。 |
+    | はさみ                                                  |
+    | Papír, haj, ésatöbbi, vágásra használt eszköz. (olló)   |
+
+
+    | 日本は 島国です。                     |
+    | 日本は 海の中に ある国です。          |
+    | Japán egy szigetország.               |
+    | Japán egy "tengeren" lévő ország. |
