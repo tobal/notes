@@ -1567,3 +1567,28 @@
     | 日本は 海の中に ある国です。          |
     | Japán egy szigetország.               |
     | Japán egy "tengeren" lévő ország. |
+
+** Day 51 <2021-11-26 Fri>
+*** Fordítsd le
+    | はなは しょくぶつですが、いぬは どうぶつです。 |
+    | 花は しょくぶつですが、犬は 働物です。         |
+    | A virág egy nővény, a kutya egy állat.         |
+
+
+    | 一月一日が 「正月」と言います。               |
+    | いちがつついたちが 「しょうげつ」と言います。 |
+    | Január elsejét újévnek hívják.                |
+
+
+    | 春、夏のあたたかいじきにはく ものです。                             |
+    | ビキニ                                                              |
+    | Tavasszal vagy nyáron, meleg időben használt alsó ruházat. (bikini) |
+
+
+    | すうがくの先生は あまり かしこいが ありません。 |
+    | A matek tanár nem túl okos.                     |
+
+
+    | 学校のしょくどうは おいしいです。 |
+    | 学校のりょうりは おいしいです。   |
+    | Az iskolai kaja finom.            |
