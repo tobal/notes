@@ -1,0 +1,10 @@
+* Build orders
+** Fast feudal
+   - <h,q> make villager
+   - 6 villager to food (sheep)
+   - send scout to find more sheep
+   - 1 villager to food
+   - 1 villager to build house, then to wood
+   - 1 villager to build woodmill, then to wood
+   - 3 villagers to gold (and build mine)
+   - subsequent villagers to food until landmark available
