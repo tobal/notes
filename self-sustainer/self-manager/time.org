@@ -6,6 +6,13 @@
 # Add tag: Ctrl-c, Ctrl-q
 # [[https://orgmode.org/manual/Setting-Tags.html#Setting-Tags][Setting Tags]]
 # Insert timestamp: C-u C-c .
+# Agenda: add to agenda files: C-c [; remove with: C-c ]
+# Open agenda: M-x org-agenda RET a; close other window: C-x 1
+# Open original file in window: TAB
+# Change TODO state: t
+# Clock: start: I, stop: O
+# Open diary: i
+# [[https://orgmode.org/manual/Agenda-Views.html][Agenda Views]]
 
 * Template
 ** Day
