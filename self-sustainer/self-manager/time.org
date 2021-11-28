@@ -7,8 +7,74 @@
 # [[https://orgmode.org/manual/Setting-Tags.html#Setting-Tags][Setting Tags]]
 # Insert timestamp: C-u C-c .
 
+* Template
+** Day
+*** Morning routine
+    - Get up
     - Warm up
+*** Productive time
+    - Workday
+    - Housework
+    - Ordering
+      - Apartment
+      - Virtual (notes, online profiles, etc)
+*** Learning time
+    - Japanese
+    - Professional (programming, security, etc)
+*** Practice time
+    - Piano
+    - Virtual driving
+    - Coding katas
+    - Typing
+*** Necessities
+    - Cook for the day
+    - Do dishes
+*** In betweens
+    - Push up
+    - Kenjutsu steps, cuts
+    - Stretch legs
+*** Leasure time
+    - Passive
+      ToDo during passive leasure: develop grip strength
+      - Youtube
+      - Movies
+    - Active
+      - Video games
+*** Evening routine
     - Stretch
+    - Plan next day
+    - Hygene
+    - Meditation
+    - Sleep
+** Week
+*** Monday
+    - Role playing
+*** Tuesday
+    - Gym
+*** Wednesday
+    - Kenjutsu
+*** Thursday
+    - Gym
+*** Friday
+    - Piano class
+*** Saturday
+    - Groceries for the week
+    - Wash clothes
+*** Sunday
+    - Japanese class
+    - Kenjutsu
+    - End of week planning
+      - Quest of the week
+** Month
+*** Week 1
+    - Groceries for the month
+*** Week 2
+*** Week 3
+*** Week 4
+    - Go to hairdresser
+    - End of month planning
+      - Quest of the month
+** Year
 * 2021
 ** May
 *** <2021-05-06 Thu>
