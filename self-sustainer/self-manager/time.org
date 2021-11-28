@@ -196,3 +196,166 @@
 ****** TODO <2021-11-28 Sun 22:45> Hygene of mind        :mental:maintenance:
        - 15 min meditation
 ****** TODO <2021-11-28 Sun 23:00> Sleep            :body:mental:maintenance:
+**** <2021-11-29 Mon>
+***** Morning routine                                               :routine:
+****** TODO <2021-11-29 Mon 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-11-29 Mon 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-11-29 Mon 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-11-29 Mon 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-11-29 Mon 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-11-29 Mon 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-11-29 Mon 23:00> Sleep            :body:mental:maintenance:
+**** <2021-11-30 Tue>
+***** Morning routine                                               :routine:
+****** TODO <2021-11-30 Tue 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-11-30 Tue 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-11-30 Tue 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-11-30 Tue 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-11-30 Tue 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-11-30 Tue 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-11-30 Tue 23:00> Sleep            :body:mental:maintenance:
+** December
+*** Week 1 <2021-12-01 Wed>-<2021-12-05 Sun> 
+**** <2021-12-01 Wed>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-01 Wed 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-01 Wed 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-12-01 Wed 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-01 Wed 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-01 Wed 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-01 Wed 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-01 Wed 23:00> Sleep            :body:mental:maintenance:
+**** <2021-12-02 Thu>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-02 Thu 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-02 Thu 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-12-02 Thu 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-02 Thu 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-02 Thu 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-02 Thu 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-02 Thu 23:00> Sleep            :body:mental:maintenance:
+**** <2021-12-03 Fri>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-03 Fri 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-03 Fri 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-12-03 Fri 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-03 Fri 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-03 Fri 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-03 Fri 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-03 Fri 23:00> Sleep            :body:mental:maintenance:
+**** <2021-12-04 Sat>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-04 Sat 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-04 Sat 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-12-04 Sat 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-04 Sat 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-04 Sat 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-04 Sat 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-04 Sat 23:00> Sleep            :body:mental:maintenance:
+**** <2021-12-05 Sun>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-05 Sun 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-05 Sun 05:40> Warm up                 :body:maintenance:
+       - Warm up
+***** Evening routine                                               :routine:
+****** TODO <2021-12-05 Sun 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-05 Sun 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-05 Sun 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-05 Sun 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-05 Sun 23:00> Sleep            :body:mental:maintenance:
