@@ -5,6 +5,7 @@
 # Change time: Shift-Up/Down on time stamp
 # Add tag: Ctrl-c, Ctrl-q
 # [[https://orgmode.org/manual/Setting-Tags.html#Setting-Tags][Setting Tags]]
+# Insert timestamp: C-u C-c .
 
     - Warm up
     - Stretch
