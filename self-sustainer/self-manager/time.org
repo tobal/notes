@@ -6,86 +6,91 @@
 # Add tag: Ctrl-c, Ctrl-q
 # [[https://orgmode.org/manual/Setting-Tags.html#Setting-Tags][Setting Tags]]
 
-* <2021-05-06 Thu>
-** DONE Create initial timetable <2023-05-09 Tue 21:00>
-** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
-** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
-** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
-** FAILED Evening routine, hygene of body <2023-05-09 Tue 23:00>
-   - Shower
-   - Wash face
-   - Eye training
-   - Dental
-** FAILED Evening routine, hygene of mind <2023-05-09 Tue 23:30>
-   - 30 min meditation
-** FAILED Sleep <2023-05-09 Tue 00:00>
-* <2021-08-24 Tue>
-** Morning routine
-*** FAILED <2021-08-24 Tue 09:00> Get up                            :routine:
-    - Wash face
-    - Drink water
-    - Measure weight
     - Warm up
-** Workday
-*** DONE <2021-08-24 Tue 09:30> Install SPP                :work:task:devops:
-*** DONE <2021-08-24 Tue 10:20> Maintenance daily meeting      :work:meeting:
-*** DONE <2021-08-24 Tue 11:00> Team daily meeting             :work:meeting:
-*** DONE <2021-08-24 Tue 12:00> Body hygiene               :body:maintenance:
-    - Shower
-    - Wash hair
-*** DONE <2021-08-24 Tue 12:15> Prepare for work           :work:preparation:
-    - Bag work tools (keyboard, trackball, headphone, laptop)
-    - Bag access card
-*** DONE <2021-08-24 Tue 12:30> Drive to office                       :drive:
-*** DONE <2021-08-24 Tue 13:30> Order office environment :work:environment:maintenance:
-*** DONE <2021-08-24 Tue 14:00> Install SPP                :work:task:devops:
-*** DONE <2021-08-24 Tue 15:00> Security Champions meeting     :work:meeting:
-*** DONE <2021-08-24 Tue 16:00> Quest All Hands                :work:meeting:
-*** DONE <2021-08-24 Tue 17:00> Netrunner /w Imi          :play:cards:social:
-*** DONE <2021-08-24 Tue 18:00> Drive home                            :drive:
-** Learning at home
-*** DONE <2021-08-24 Tue 20:30> Japanese notes            :learning:japanese:
-    - Write sentences about day for translating
-    - Organize notes
-*** DONE <2021-08-24 Tue 21:30> Piano practice               :practice:piano:
-    * LastNinja, Mineshaft: 120BPM
-    * RisingSun: 100BPM
-** Evening routine
-*** FAILED <2023-08-24 Thu 23:00> Hygene of body   :routine:body:maintenance:
-    - Wash face
-    - Eye training
-    - Dental
-*** FAILED <2023-08-24 Thu 23:30> Hygene of mind :routine:mental:maintenance:
-    - 30 min meditation
-*** FAILED <2023-05-09 Tue 00:00> Sleep             :body:mental:maintenance:
-* <2021-08-26 Thu>
-** Morning routine
-*** FAILED <2021-08-26 Thu 07:30> Get up                            :routine:
-    - Wash face
-    - Drink water
-    - Measure weight
-    - Warm up
-** Japanese class
-*** DONE <2021-08-26 Thu 09:00> Go and do           :learning:japanese:drive:
-** Workday
-*** FAILED <2021-08-26 Thu 13:00> SPP data import          :work:task:devops:
-*** DONE <2021-08-26 Thu 14:15> Architecture forum             :work:meeting:
-*** DONE <2021-08-26 Thu 15:00> Send DDCL                :work:task:document:
-*** FAILED <2021-08-26 Thu 15:20> SPP data import          :work:task:devops:
-** Learn and practice at home
-*** DONE <2021-08-26 Thu 17:00> Sonic speedrun practice :practice:play:videogame:
-*** DONE <2021-08-26 Thu 18:00> Japanese daily challenge :learning:japanese:practice:
-*** DONE <2021-08-26 Thu 21:30> Piano practice               :practice:piano:
-    * LastNinja, Mineshaft: 120BPM
-    * RisingSun: 100BPM
-** Evening socialize
-*** DONE <2021-08-26 Thu 20:30> Online RPG                  :social:play:rpg:
-** Evening routine
-*** TODO <2023-08-26 Sat 23:00> Hygene of body     :routine:body:maintenance:
     - Stretch
-    - Wash face
-    - Eye training
-    - Dental
-*** TODO <2023-08-26 Sat 23:30> Hygene of mind   :routine:mental:maintenance:
-    - 30 min meditation or reading
-*** TODO <2023-08-26 Sat 00:00> Sleep               :body:mental:maintenance:
+* 2021
+** May
+*** <2021-05-06 Thu>
+**** DONE Create initial timetable <2023-05-09 Tue 21:00>
+**** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 21:30>
+**** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:00>
+**** DONE Chill and brainstorm with Attack on Titans <2023-05-09 Tue 22:30>
+**** FAILED Evening routine, hygene of body <2023-05-09 Tue 23:00>
+     - Shower
+     - Wash face
+     - Eye training
+     - Dental
+**** FAILED Evening routine, hygene of mind <2023-05-09 Tue 23:30>
+     - 30 min meditation
+**** FAILED Sleep <2023-05-09 Tue 00:00>
+** August
+*** <2021-08-24 Tue>
+**** Morning routine
+***** FAILED <2021-08-24 Tue 09:00> Get up                          :routine:
+      - Wash face
+      - Drink water
+      - Measure weight
+      - Warm up
+**** Workday
+***** DONE <2021-08-24 Tue 09:30> Install SPP              :work:task:devops:
+***** DONE <2021-08-24 Tue 10:20> Maintenance daily meeting    :work:meeting:
+***** DONE <2021-08-24 Tue 11:00> Team daily meeting           :work:meeting:
+***** DONE <2021-08-24 Tue 12:00> Body hygiene             :body:maintenance:
+      - Shower
+      - Wash hair
+***** DONE <2021-08-24 Tue 12:15> Prepare for work         :work:preparation:
+      - Bag work tools (keyboard, trackball, headphone, laptop)
+      - Bag access card
+***** DONE <2021-08-24 Tue 12:30> Drive to office                     :drive:
+***** DONE <2021-08-24 Tue 13:30> Order office environment :work:environment:maintenance:
+***** DONE <2021-08-24 Tue 14:00> Install SPP              :work:task:devops:
+***** DONE <2021-08-24 Tue 15:00> Security Champions meeting   :work:meeting:
+***** DONE <2021-08-24 Tue 16:00> Quest All Hands              :work:meeting:
+***** DONE <2021-08-24 Tue 17:00> Netrunner /w Imi        :play:cards:social:
+***** DONE <2021-08-24 Tue 18:00> Drive home                          :drive:
+**** Learning at home
+***** DONE <2021-08-24 Tue 20:30> Japanese notes          :learning:japanese:
+      - Write sentences about day for translating
+      - Organize notes
+***** DONE <2021-08-24 Tue 21:30> Piano practice             :practice:piano:
+      * LastNinja, Mineshaft: 120BPM
+      * RisingSun: 100BPM
+**** Evening routine
+***** FAILED <2023-08-24 Thu 23:00> Hygene of body :routine:body:maintenance:
+      - Wash face
+      - Eye training
+      - Dental
+***** FAILED <2023-08-24 Thu 23:30> Hygene of mind :routine:mental:maintenance:
+      - 30 min meditation
+***** FAILED <2023-05-09 Tue 00:00> Sleep           :body:mental:maintenance:
+*** <2021-08-26 Thu>
+**** Morning routine
+***** FAILED <2021-08-26 Thu 07:30> Get up                          :routine:
+      - Wash face
+      - Drink water
+      - Measure weight
+      - Warm up
+**** Japanese class
+***** DONE <2021-08-26 Thu 09:00> Go and do         :learning:japanese:drive:
+**** Workday
+***** FAILED <2021-08-26 Thu 13:00> SPP data import        :work:task:devops:
+***** DONE <2021-08-26 Thu 14:15> Architecture forum           :work:meeting:
+***** DONE <2021-08-26 Thu 15:00> Send DDCL              :work:task:document:
+***** FAILED <2021-08-26 Thu 15:20> SPP data import        :work:task:devops:
+**** Learn and practice at home
+***** DONE <2021-08-26 Thu 17:00> Sonic speedrun practice :practice:play:videogame:
+***** DONE <2021-08-26 Thu 18:00> Japanese daily challenge :learning:japanese:practice:
+***** DONE <2021-08-26 Thu 21:30> Piano practice             :practice:piano:
+      * LastNinja, Mineshaft: 120BPM
+      * RisingSun: 100BPM
+**** Evening socialize
+***** DONE <2021-08-26 Thu 20:30> Online RPG                :social:play:rpg:
+**** Evening routine
+***** TODO <2023-08-26 Sat 23:00> Hygene of body   :routine:body:maintenance:
+      - Stretch
+      - Wash face
+      - Eye training
+      - Dental
+***** TODO <2023-08-26 Sat 23:30> Hygene of mind :routine:mental:maintenance:
+      - 30 min meditation or reading
+***** TODO <2023-08-26 Sat 00:00> Sleep             :body:mental:maintenance:
