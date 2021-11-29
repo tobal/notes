@@ -1592,3 +1592,29 @@
     | 学校のしょくどうは おいしいです。 |
     | 学校のりょうりは おいしいです。   |
     | Az iskolai kaja finom.            |
+** Day 52 <2021-11-28 Sun>
+*** Fordítsd le
+    | 食事の前に よく お湯とせっけんで 手を洗いなさい。       |
+    | たべことの前に よく おやとせっけんで 手をあらいなさい。 |
+    | Evés előtt moss kezet.                                  |
+    | Étkezés előtt forró vízzel és szappannal moss kezet.    |
+
+
+    | ひこうきの うんてんしゅを ぱいろっとと言います。    |
+    | 飛行機の 運動員を パイロットと言います。            |
+    | A repülőgép pilótafülkéjében beszéltem a pilótával. |
+    | A repülőgép vezetőjét pilótának hívjuk.             |
+
+
+    | 日本の5つの主な島の中で 一番大きいのは、これです。 |
+    | ほんしゅう                                         |
+    | Japán 5 szigete közül ez a legnagyobb (Honsó).     |
+    | Japán 5 fő szigete közül ez a legnagyobb (Honsó).  |
+
+
+    | せまいの道を 走りにくいです。 |
+
+
+    | 春になると うちのにわには いろいろな 花が さきます。 |
+    | 春になると うちのにわには カラーの 花が さきます。   |
+    | Tavasszal az otthoni kertben színes virágok nyílnak. |
