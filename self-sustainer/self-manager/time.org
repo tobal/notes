@@ -172,37 +172,42 @@
 *** Week 5 <2021-11-28 Sun>-<2021-11-30 Tue>
 **** <2021-11-28 Sun>
 ***** Morning routine                                               :routine:
-****** TODO <2021-11-28 Sun 05:30> Get up                  :body:maintenance:
+****** FAILED <2021-11-28 Sun 05:30> Get up                :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-****** TODO <2021-11-28 Sun 05:40> Warm up                 :body:maintenance:
+****** FAILED <2021-11-28 Sun 05:40> Warm up               :body:maintenance:
        - Warm up
 ***** Practice                                                     :practice:
-****** TODO <2021-11-28 Sun> Piano                       :hobby:artist:music:
-****** TODO <2021-11-28 Sun> Driving                          :virtual:pilot:
+****** DONE <2021-11-28 Sun> Piano                       :hobby:artist:music:
+****** DONE <2021-11-28 Sun> Driving                          :virtual:pilot:
 ***** Learning                                                     :learning:
-****** TODO <2021-11-28 Sun> Read about org mode agenda         :operator:it:
+****** DONE <2021-11-28 Sun> Read about org mode agenda         :operator:it:
+       :LOGBOOK:
+       CLOCK: [2021-11-28 Sun 17:24]--[2021-11-28 Sun 17:26] =>  0:02
+       CLOCK: [2021-11-28 Sun 17:05]--[2021-11-28 Sun 17:06] =>  0:01
+       CLOCK: [2021-11-28 Sun 17:05]--[2021-11-28 Sun 17:05] =>  0:00
+       :END:
 ***** External training
-****** TODO <2021-11-28 Sun> Kenjutsu training                :martial:hobby:
+****** DONE <2021-11-28 Sun> Kenjutsu training                :martial:hobby:
 ***** End of week ToDos
-****** TODO <2021-11-28 Sun> Plan next week                        :planning:
+****** FAILED <2021-11-28 Sun> Plan next week                      :planning:
        - Make skeleton for next week days
 ***** Evening routine                                               :routine:
-****** TODO <2021-11-28 Sun 22:00> Range of motion         :body:development:
+****** DONE <2021-11-28 Sun 22:00> Range of motion         :body:development:
        - Stretch legs
        - Stretch chest, arms
-****** TODO <2021-11-28 Sun 22:15> Plan next day                   :planning:
+****** FAILED <2021-11-28 Sun 22:15> Plan next day                 :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-****** TODO <2021-11-28 Sun 22:30> Hygene of body          :body:maintenance:
+****** FAILED <2021-11-28 Sun 22:30> Hygene of body        :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-****** TODO <2021-11-28 Sun 22:45> Hygene of mind        :mental:maintenance:
+****** FAILED <2021-11-28 Sun 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
-****** TODO <2021-11-28 Sun 23:00> Sleep            :body:mental:maintenance:
+****** DONE <2021-11-28 Sun 23:00> Sleep            :body:mental:maintenance:
 **** <2021-11-29 Mon>
 ***** Morning routine                                               :routine:
 ****** TODO <2021-11-29 Mon 05:30> Get up                  :body:maintenance:
