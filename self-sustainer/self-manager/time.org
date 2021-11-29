@@ -216,6 +216,35 @@
        - Measure weight
 ****** TODO <2021-11-29 Mon 05:40> Warm up                 :body:maintenance:
        - Warm up
+***** Morning gym                                           :workout:outside:
+****** TODO <2021-11-29 Mon 06:40> Go to oldschool gym
+***** Workday                                                          :work:
+****** TODO <2021-11-29 Mon 09:00> Test cert validation from python
+****** TODO <2021-11-29 Mon 13:20> Consult with Peti
+       Takeaways:
+       - deploy an ES from cloud.elastic.co with Quest account
+       - configure nginx on the box as a proxy to use the external ES
+       - run indexsetup to create mapping and indices on external ES
+       - do some sessions on the box
+       - update the ES schema, with new version and a new field
+       - run indexsetup again, see if the update happened, and the existing data remained
+****** TODO <2021-11-29 Mon 13:40> Begin ES POC task
+***** Necessities
+****** TODO <2021-11-29 Mon 12:00> Cook lunch
+       - Tortilla with chicken thigh
+****** TODO <2021-11-29 Mon 17:30> Do dishes
+***** Practice
+****** TODO <2021-11-29 Mon 17:45> Piano practice
+       - Rising Sun
+       - Lullaby of Birdland
+       - Short patterns (Last Ninja, Mineshaft, the other one, Sweet Dreams)
+****** TODO <2021-11-29 Mon 18:00> Driving practice
+       - Assetto Corsa
+       - Dirt Rally 2.0
+***** Learning
+****** TODO <2021-11-29 Mon 21:45> Japanese daily challenge
+***** Social evening
+****** TODO <2021-11-29 Mon 18:30> Go to Orsi's                      :social:
 ***** Evening routine                                               :routine:
 ****** TODO <2021-11-29 Mon 22:00> Range of motion         :body:development:
        - Stretch legs
