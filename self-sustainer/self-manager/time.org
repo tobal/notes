@@ -262,27 +262,38 @@
 ****** FAILED <2021-11-29 Mon 23:00> Sleep          :body:mental:maintenance:
 **** <2021-11-30 Tue>
 ***** Morning routine                                               :routine:
-****** TODO <2021-11-30 Tue 05:30> Get up                  :body:maintenance:
+****** FAILED <2021-11-30 Tue 05:30> Get up                :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-****** TODO <2021-11-30 Tue 05:40> Warm up                 :body:maintenance:
+****** FAILED <2021-11-30 Tue 05:40> Warm up               :body:maintenance:
        - Warm up
+***** Workday                                                          :work:
+****** FAILED <2021-11-30 Tue 09:20> Test schema upgrade on elastic cloud
+       Subtasks:
+******* DONE deploy an ES from cloud.elastic.co with Quest account
+******* FAILED configure nginx on the box as a proxy to use the external ES
+******* FAILED run indexsetup to create mapping and indices on external ES
+******* FAILED make some sessions on the box
+******* FAILED update the ES schema, with new version and a new field
+******* FAILED run indexsetup again, see if the update happened, and the existing data remained
+***** Social evening
+****** DONE <2021-11-30 Tue 20:30> Online RPG                        :social:
 ***** Evening routine                                               :routine:
-****** TODO <2021-11-30 Tue 22:00> Range of motion         :body:development:
+****** FAILED <2021-11-30 Tue 22:00> Range of motion       :body:development:
        - Stretch legs
        - Stretch chest, arms
-****** TODO <2021-11-30 Tue 22:15> Plan next day                   :planning:
+****** FAILED <2021-11-30 Tue 22:15> Plan next day                 :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-****** TODO <2021-11-30 Tue 22:30> Hygene of body          :body:maintenance:
+****** FAILED <2021-11-30 Tue 22:30> Hygene of body        :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-****** TODO <2021-11-30 Tue 22:45> Hygene of mind        :mental:maintenance:
+****** FAILED <2021-11-30 Tue 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
-****** TODO <2021-11-30 Tue 23:00> Sleep            :body:mental:maintenance:
+****** FAILED <2021-11-30 Tue 23:00> Sleep          :body:mental:maintenance:
 ** December
 *** Week 1 <2021-12-01 Wed>-<2021-12-05 Sun> 
 **** <2021-12-01 Wed>
