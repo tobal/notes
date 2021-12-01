@@ -1643,3 +1643,29 @@
     | くつを はいたまま 部屋に 入らないでください。 |
     | くつを ぬいでから 部屋に 入ってください。     |
     | Kérlek ne lépj be cipőben.                    |
+** Day 54 <2021-11-30 Tue>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | Amazonを 使って 27冊の本を 注文しました。           |
+    | Amazonを つかって 27さつの本を ちゅうもんしました。 |
+    | Az Amazonról 27 könyvet rendeltem.                  |
+
+
+    | さむいそとの後 あたたかいうちは きもちがいいです。 |
+    | 涼いそとのあと あたたかい内は 気持ちがいいです。   |
+    | A hideg kinti idő után jó érzés bemenni a melegre. |
+
+
+    | どうろ、ほどうと いえ、にわの間 立つ ものです。          |
+    | 木                                                       |
+    | Út, ösvény vagy ház mellett, a kertben álló valami (fa). |
+
+
+    | 花、木 などのしょくぶつの 土の下にある ぶぶんです。                                                                |
+    | はなびら                                                                                                           |
+    | Virág, fa és egyéb növények föld alatti része (gondolom a gyökér lenne, de nekem sikerült a szirmot választani...) |
+
+
+    | きょうは 時間が ありません。                                                      |
+    | きょうは ようじが ありません。                                                    |
+    | Ma nincs időm.                                                                    |
+    | Ma nincs semmi dolgom (igen, elrontottam, a つごうがわるい lett volna a megoldás) |
