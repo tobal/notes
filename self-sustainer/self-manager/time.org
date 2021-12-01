@@ -298,17 +298,27 @@
 *** Week 1 <2021-12-01 Wed>-<2021-12-05 Sun> 
 **** <2021-12-01 Wed>
 ***** Morning routine                                               :routine:
-****** TODO <2021-12-01 Wed 05:30> Get up                  :body:maintenance:
+****** FAILED <2021-12-01 Wed 05:30> Get up                :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-****** TODO <2021-12-01 Wed 05:40> Warm up                 :body:maintenance:
+****** FAILED <2021-12-01 Wed 05:40> Warm up               :body:maintenance:
        - Warm up
+***** Morning gym                                           :workout:outside:
+****** FAILED <2021-12-01 Wed 06:40> Go to oldschool gym
+***** Necessities
+****** DONE <2021-12-01 Wed 12:00> Cook lunch
+       - Tortilla with eggs, fried onion, bacon and cheese
+****** FAILED <2021-12-01 Wed 17:30> Do dishes
+***** Learning
+****** DONE <2021-12-01 Wed 21:45> Japanese daily challenge
+***** Administration
+****** DONE <2021-12-01 Wed 14:00> Pay fines                 :administration:
 ***** Evening routine                                               :routine:
 ****** TODO <2021-12-01 Wed 22:00> Range of motion         :body:development:
        - Stretch legs
        - Stretch chest, arms
-****** TODO <2021-12-01 Wed 22:15> Plan next day                   :planning:
+****** DONE <2021-12-01 Wed 22:15> Plan next day                   :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
