@@ -337,6 +337,20 @@
        - Measure weight
 ****** TODO <2021-12-02 Thu 05:40> Warm up                 :body:maintenance:
        - Warm up
+***** Morning japanese
+****** TODO <2021-12-02 Thu 07:15> Japanese class                  :learning:
+***** Workday                                                          :work:
+****** TODO <2021-12-02 Thu 08:20> Test schema upgrade on elastic cloud
+       Subtasks:
+******* TODO configure nginx on the box as a proxy to use the external ES
+******* TODO run indexsetup to create mapping and indices on external ES
+******* TODO make some sessions on the box
+******* TODO update the ES schema, with new version and a new field
+******* TODO run indexsetup again, see if the update happened, and the existing data remained
+****** TODO <2021-12-02 Thu 09:00> Look at EKU problem
+****** TODO <2021-12-02 Thu 09:00> Administer in dayforce
+***** Learning
+****** TODO <2021-12-02 Thu 17:30> Japanese daily challenge        :learning:
 ***** Evening routine                                               :routine:
 ****** TODO <2021-12-02 Thu 22:00> Range of motion         :body:development:
        - Stretch legs
