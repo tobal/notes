@@ -1618,3 +1618,28 @@
     | 春になると うちのにわには いろいろな 花が さきます。 |
     | 春になると うちのにわには カラーの 花が さきます。   |
     | Tavasszal az otthoni kertben színes virágok nyílnak. |
+
+** Day 53 <2021-11-29 Mon>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | 京都から 東京まで 新幹線で 2時半くらい かかります。               |
+    | きょとうから とうきょまで しんかんぜんで 2時半くらい かかります。 |
+    | Kyoto-ból Tokyo-ig shinkanzennel eljutni két óra.                 |
+
+
+    | だれか せんせいの でんわ番号を おしえてください。 |
+    | だれか 先生の 電言番号を 考えてください。         |
+    | Valakitől kérd el a tanár telószámát légyszi.     |
+
+
+    | 書くとこ使う ぶんぼうぐ。かんたんに けすことが できます。 |
+    | ペン ペイント ペンシル ペンギン                           |
+    | ???                                                       |
+
+
+    | 動物の世界では 「おとこ」と おすと言います。 |
+    | Állatok között így is mondjuk a hímet.       |
+
+
+    | くつを はいたまま 部屋に 入らないでください。 |
+    | くつを ぬいでから 部屋に 入ってください。     |
+    | Kérlek ne lépj be cipőben.                    |
