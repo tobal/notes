@@ -315,20 +315,20 @@
 ***** Administration
 ****** DONE <2021-12-01 Wed 14:00> Pay fines                 :administration:
 ***** Evening routine                                               :routine:
-****** TODO <2021-12-01 Wed 22:00> Range of motion         :body:development:
+****** FAILED <2021-12-01 Wed 22:00> Range of motion       :body:development:
        - Stretch legs
        - Stretch chest, arms
 ****** DONE <2021-12-01 Wed 22:15> Plan next day                   :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-****** TODO <2021-12-01 Wed 22:30> Hygene of body          :body:maintenance:
+****** FAILED <2021-12-01 Wed 22:30> Hygene of body        :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-****** TODO <2021-12-01 Wed 22:45> Hygene of mind        :mental:maintenance:
+****** FAILED <2021-12-01 Wed 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
-****** TODO <2021-12-01 Wed 23:00> Sleep            :body:mental:maintenance:
+****** FAILED <2021-12-01 Wed 23:00> Sleep          :body:mental:maintenance:
 **** <2021-12-02 Thu>
 ***** Morning routine                                               :routine:
 ****** TODO <2021-12-02 Thu 05:30> Get up                  :body:maintenance:
