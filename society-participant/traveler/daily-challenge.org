@@ -1696,3 +1696,28 @@
     | きのうは きょうより さむくなかったです。  |
     | Tegnaphoz képest ma meleg volt.           |
     | Ma a tegnapihoz képest nem volt hidegebb. |
+** Day 56 <2021-12-02 Thu>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | たくしいで行くのはバスやちかてつよりもっとたかいです。     |
+    | タクツーで行くのはバスや地下鉄よりもっと高いです。         |
+    | Taxival menni sokkal drágább a buszhoz és metróhoz képest. |
+
+
+    | フライパンに油をちょっと入れて、ねっしてから野菜も入れましょう。                                                    |
+    | フライパンにバターをちょっとはいれて、ねっしてからやさいも入れましょう。                                            |
+    | A serpenyőbe rakjunk egy kis olajat, és miután felhevült, rakjuk bele a zöldséget (igen, ezt nagyon elrontottam :D) |
+
+
+    | ゆび先のかたいぶぶんです。                                                           |
+    | ひふ                                                                                 |
+    | Az ujjpercek kemény része. (bőr, ezt is elrontottam, amúgy köröm, vagyis つめ lenne) |
+
+
+    | くつをはいたまま部屋に入って、母に しかられた。 |
+    | Ha cipőben mész a szobába, anya le fog szidni.  |
+
+
+    | はれのときせんたくをしたら、服は はやく かわく。   |
+    | 雨のときせんたくをしたら、服は おそく かわく。     |
+    | Ha szép időben mosunk, a ruhák hamar megszáradnak. |
+    | Esős időben mosott ruhák későn száradnak meg.      |
