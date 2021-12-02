@@ -374,6 +374,19 @@
        - Measure weight
 ****** TODO <2021-12-03 Fri 05:40> Warm up                 :body:maintenance:
        - Warm up
+***** Morning gym                                           :workout:outside:
+****** TODO <2021-12-03 Fri 06:40> Go to oldschool gym
+***** Workday                                                          :work:
+****** TODO <2021-12-03 Fri 08:20> Test schema upgrade on elastic cloud
+       Subtasks:
+******* TODO run indexsetup to create mapping and indices on external ES
+******* TODO make some sessions on the box
+******* TODO update the ES schema, with new version and a new field
+******* TODO run indexsetup again, see if the update happened, and the existing data remained
+****** TODO <2021-12-03 Fri 09:00> Look at EKU problem
+****** TODO <2021-12-03 Fri 09:00> Administer in dayforce
+***** External class
+****** TODO <2021-12-03 Fri 16:00> Music class                     :learning:
 ***** Evening routine                                               :routine:
 ****** TODO <2021-12-03 Fri 22:00> Range of motion         :body:development:
        - Stretch legs
