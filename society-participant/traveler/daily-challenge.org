@@ -1669,3 +1669,30 @@
     | きょうは ようじが ありません。                                                    |
     | Ma nincs időm.                                                                    |
     | Ma nincs semmi dolgom (igen, elrontottam, a つごうがわるい lett volna a megoldás) |
+
+** Day 55 <2021-12-01 Wed>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+
+    | べじたりあんだから、ぜんぜんおにくをたべません。      |
+    | ベジタリアンだから、ぜんぜんお肉を食べません。        |
+    | Mivel vegetáriánus vagyok, egyáltalán nem eszek húst. |
+
+
+    | 試験勉強は たいへん 難しかったです。             |
+    | じけんべんきょうは たいへん むずかしかったです。 |
+    | A vizsgára való felkészülés nagyon nehéz.        |
+
+
+    | 鳥が うんで、中から ひなが でる。        |
+    | たまご                                   |
+    | A kicsi madarak ebből bújnak ki. (tojás) |
+
+
+    | くわは くまの 手じゃなくて、にわで使う どうぐです。             |
+    | Nem a medve mancsa (?), hanem kertben használt szerszám. (kapa) |
+
+
+    | きのうより 今日は あたたかかったです。    |
+    | きのうは きょうより さむくなかったです。  |
+    | Tegnaphoz képest ma meleg volt.           |
+    | Ma a tegnapihoz képest nem volt hidegebb. |
