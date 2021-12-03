@@ -1721,3 +1721,27 @@
     | 雨のときせんたくをしたら、服は おそく かわく。     |
     | Ha szép időben mosunk, a ruhák hamar megszáradnak. |
     | Esős időben mosott ruhák későn száradnak meg.      |
+
+** Day 57 <2021-12-03 Fri>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | 校長先生は父の知り合いだから、問題じゃない。           |
+    | こうちょう先生は父のしりあいだから、もんだいじゃない。 |
+    | Apu az igazgató ismerőse, úgyhogy nincs gond.          |
+
+
+    | 馬は足が長くて、きれいない動物です。 |
+    | A ló egy hosszú lábú, szép állat.    |
+
+
+    | 雨がたくさんふって、道がひとだらけになりました。                                    |
+    | Sok eső esett, ezért sáros lett az út (fent nem az van, de az ne zavarjon meg :) ). |
+
+
+    | 雨がふったり、日がつよくてったりするとき使うもの。           |
+    | かさ                                                         |
+    | Esős időben, vagy erős napsütéskor használt tárgy (esernyő). |
+
+
+    | たくさん勉強したのに、しけんをらくだいしました。   |
+    | あまり勉強しましたから、しけんをらくだいしました。 |
+    | Sokat tanultam, mégsem sikerült a vizsga.          |
