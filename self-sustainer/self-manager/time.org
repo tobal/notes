@@ -383,10 +383,16 @@
 ******* TODO make some sessions on the box
 ******* TODO update the ES schema, with new version and a new field
 ******* TODO run indexsetup again, see if the update happened, and the existing data remained
-****** TODO <2021-12-03 Fri 09:00> Look at EKU problem
-****** TODO <2021-12-03 Fri 09:00> Administer in dayforce
-***** External class
-****** TODO <2021-12-03 Fri 16:00> Music class                     :learning:
+****** TODO <2021-12-03 Fri 09:00> Ask around about storageD, lucene, CC
+****** TODO <2021-12-03 Fri 11:00> Prepare for refinement
+****** TODO <2021-12-03 Fri 14:00> Administer in dayforce
+****** TODO <2021-12-03 Fri 16:30> CC meeting
+***** Necessities
+****** TODO <2021-12-03 Fri 12:00> Cook lunch
+       - Tortilla with tuna meatballs, veggies, mayo
+****** TODO <2021-12-03 Fri 17:30> Do dishes
+***** Teacher
+****** TODO <2021-12-03 Fri 18:00> Music class                     :learning:
 ***** Evening routine                                               :routine:
 ****** TODO <2021-12-03 Fri 22:00> Range of motion         :body:development:
        - Stretch legs
