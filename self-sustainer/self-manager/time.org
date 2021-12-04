@@ -368,46 +368,48 @@
 ****** FAILED <2021-12-02 Thu 23:00> Sleep          :body:mental:maintenance:
 **** <2021-12-03 Fri>
 ***** Morning routine                                               :routine:
-****** TODO <2021-12-03 Fri 05:30> Get up                  :body:maintenance:
+****** DONE <2021-12-03 Fri 05:30> Get up                  :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-****** TODO <2021-12-03 Fri 05:40> Warm up                 :body:maintenance:
+****** FAILED <2021-12-03 Fri 05:40> Warm up               :body:maintenance:
        - Warm up
 ***** Morning gym                                           :workout:outside:
-****** TODO <2021-12-03 Fri 06:40> Go to oldschool gym
+****** DONE <2021-12-03 Fri 06:40> Go to oldschool gym
 ***** Workday                                                          :work:
 ****** TODO <2021-12-03 Fri 08:20> Test schema upgrade on elastic cloud
        Subtasks:
-******* TODO run indexsetup to create mapping and indices on external ES
+******* DONE run indexsetup to create mapping and indices on external ES
 ******* TODO make some sessions on the box
 ******* TODO update the ES schema, with new version and a new field
 ******* TODO run indexsetup again, see if the update happened, and the existing data remained
-****** TODO <2021-12-03 Fri 09:00> Ask around about storageD, lucene, CC
-****** TODO <2021-12-03 Fri 11:00> Prepare for refinement
-****** TODO <2021-12-03 Fri 14:00> Administer in dayforce
-****** TODO <2021-12-03 Fri 16:30> CC meeting
+****** DONE <2021-12-03 Fri 09:00> Ask around about storageD, lucene, CC
+****** DONE <2021-12-03 Fri 11:00> Prepare for refinement
+****** DONE <2021-12-03 Fri 14:00> Administer in dayforce
+****** DONE <2021-12-03 Fri 16:30> CC meeting
 ***** Necessities
-****** TODO <2021-12-03 Fri 12:00> Cook lunch
+****** DONE <2021-12-03 Fri 12:00> Cook lunch
        - Tortilla with tuna meatballs, veggies, mayo
 ****** TODO <2021-12-03 Fri 17:30> Do dishes
 ***** Teacher
-****** TODO <2021-12-03 Fri 18:00> Music class                     :learning:
+****** DONE <2021-12-03 Fri 18:00> Music class                     :learning:
+***** Learning
+****** DONE <2021-12-03 Fri 21:45> Japanese daily challenge        :learning:
 ***** Evening routine                                               :routine:
-****** TODO <2021-12-03 Fri 22:00> Range of motion         :body:development:
+****** DONE <2021-12-03 Fri 22:00> Range of motion         :body:development:
        - Stretch legs
        - Stretch chest, arms
-****** TODO <2021-12-03 Fri 22:15> Plan next day                   :planning:
+****** FAILED <2021-12-03 Fri 22:15> Plan next day                 :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-****** TODO <2021-12-03 Fri 22:30> Hygene of body          :body:maintenance:
+****** FAILED <2021-12-03 Fri 22:30> Hygene of body        :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-****** TODO <2021-12-03 Fri 22:45> Hygene of mind        :mental:maintenance:
+****** FAILED <2021-12-03 Fri 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
-****** TODO <2021-12-03 Fri 23:00> Sleep            :body:mental:maintenance:
+****** FAILED <2021-12-03 Fri 23:00> Sleep          :body:mental:maintenance:
 **** <2021-12-04 Sat>
 ***** Morning routine                                               :routine:
 ****** TODO <2021-12-04 Sat 05:30> Get up                  :body:maintenance:
@@ -439,6 +441,9 @@
        - Measure weight
 ****** TODO <2021-12-05 Sun 05:40> Warm up                 :body:maintenance:
        - Warm up
+***** End of week ToDos
+****** TODO <2021-12-05 Sun> Plan next week                        :planning:
+       - Copy day skeletons for next week
 ***** Evening routine                                               :routine:
 ****** TODO <2021-12-05 Sun 22:00> Range of motion         :body:development:
        - Stretch legs
