@@ -412,27 +412,29 @@
 ****** FAILED <2021-12-03 Fri 23:00> Sleep          :body:mental:maintenance:
 **** <2021-12-04 Sat>
 ***** Morning routine                                               :routine:
-****** TODO <2021-12-04 Sat 05:30> Get up                  :body:maintenance:
+****** FAILED <2021-12-04 Sat 05:30> Get up                :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-****** TODO <2021-12-04 Sat 05:40> Warm up                 :body:maintenance:
+****** FAILED <2021-12-04 Sat 05:40> Warm up               :body:maintenance:
        - Warm up
+***** Practice                                                     :practice:
+****** DONE <2021-12-04 Sat> Driving                          :virtual:pilot:
 ***** Evening routine                                               :routine:
-****** TODO <2021-12-04 Sat 22:00> Range of motion         :body:development:
+****** DONE <2021-12-04 Sat 22:00> Range of motion         :body:development:
        - Stretch legs
        - Stretch chest, arms
-****** TODO <2021-12-04 Sat 22:15> Plan next day                   :planning:
+****** FAILED <2021-12-04 Sat 22:15> Plan next day                 :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-****** TODO <2021-12-04 Sat 22:30> Hygene of body          :body:maintenance:
+****** FAILED <2021-12-04 Sat 22:30> Hygene of body        :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-****** TODO <2021-12-04 Sat 22:45> Hygene of mind        :mental:maintenance:
+****** FAILED <2021-12-04 Sat 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
-****** TODO <2021-12-04 Sat 23:00> Sleep            :body:mental:maintenance:
+****** DONE <2021-12-04 Sat 23:00> Sleep            :body:mental:maintenance:
 **** <2021-12-05 Sun>
 ***** Morning routine                                               :routine:
 ****** TODO <2021-12-05 Sun 05:30> Get up                  :body:maintenance:
