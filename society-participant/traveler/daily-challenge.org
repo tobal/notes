@@ -1745,3 +1745,27 @@
     | たくさん勉強したのに、しけんをらくだいしました。   |
     | あまり勉強しましたから、しけんをらくだいしました。 |
     | Sokat tanultam, mégsem sikerült a vizsga.          |
+
+** Day 58 <2021-12-04 Sat>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | りょうりの中で なにが よくつくりますか。            |
+    | 料理の中で 何が よく作りますか。                    |
+    | A kaják közül melyiket tudod legjobban elkészíteni? |
+
+
+    | ぎんこうのでいりぐちは わってしまって、あけないです。 |
+    | A bank bejárata izébizé, ezért veszélyes.             |
+
+
+    | 武術(ぶじゅつ)や スポーツなどで かちやまけを あらそうこと。                                        |
+    | しりあい                                                                                           |
+    | A harcművészetekben és más sportokban a győzelmet és vereséget eldöntő küzdelem (meccs, mérkőzés). |
+
+
+    | 長さをはかるどうぐです。そして、えんぴつを きれいに 書くどうぐです。 |
+    | Hosszmérésre használt eszköz. És szépírásra is. (?????)              |
+
+
+    | きゅうけいしましょう。 |
+    | 今日、休みましょう。   |
+    | Ma pihenjünk!          |
