@@ -1769,3 +1769,28 @@
     | きゅうけいしましょう。 |
     | 今日、休みましょう。   |
     | Ma pihenjünk!          |
+** Day 59 <2021-12-05 Sun>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | コアラは オーストリアに 住んでいる 動物です。        |
+    | megoldás: コアラは 中国に 住んでいる 動物です。      |
+    | A panda Ausztiában élő állat (nem is, mert Kínában). |
+
+
+    | かどの店の 店員は みんな 親切です。           |
+    | かどのみせの てんいんは みんな しんせつです。 |
+    | A sarki boltban dolgozók mind olyan kedvesek. |
+
+
+    | さむいとき、外で着る ふくです。                                          |
+    | ぼうし                                                                   |
+    | Hideg időben, a szabadban viselt ruha. (a helyes megoldás kabát, うわぎ) |
+
+
+    | ちきゅうは たいようを まわっています。 |
+    | A Föld a Nap körül kering.             |
+
+
+    | あたまが たいへん いたくなりました。   |
+    | めぐすりを 飲みました。                |
+    | A fejem nagyon megfájdult.             |
+    | Vettem be (ittam) fájdalomcsillapítót. |
