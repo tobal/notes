@@ -1794,3 +1794,28 @@
     | めぐすりを 飲みました。                |
     | A fejem nagyon megfájdult.             |
     | Vettem be (ittam) fájdalomcsillapítót. |
+** Day 60 <2021-12-06 Mon>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | わしのくちびるが とても かたいから きをつけてください。             |
+    | megoldás: わしのくちびるが とても かたいから きをつくってください。 |
+    | A sas csőre nagyon kemény, úgyhogy fából készítsd légyszi.          |
+
+
+    | 赤と 青を まぜると、どんな色に なりますか。               |
+    | あおと あかを まぜると、どんないろに なりますか。         |
+    | Ha a kéket és pirosat összekeverjük, milyen színt kapunk? |
+
+
+    | とても高いビル。住まいところじゃない。たとえば、テレビ会社などのビル。         |
+    | タワー                                                                         |
+    | Nagyon magas épület. Nem laknak benne. Például TV társaságok épülete (torony). |
+
+
+    | さむい冬に 小鳥が ひまわりのたねを よく食べて、好みます。           |
+    | Télen a hidegben, a kismaradak szeretik a napraforgó magot megenni. |
+
+
+    | さいふの中に 2000円しかないから、きっぷが 買えない。 |
+    | お金が あまりないから、映画に 行きません。           |
+    | A pénztárcámban nincs 2000yen, nem vettem jegyet.    |
+    | Nincs elég pénzem, nem mentem moziba.                |
