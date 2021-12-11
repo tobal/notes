@@ -1819,3 +1819,29 @@
     | お金が あまりないから、映画に 行きません。           |
     | A pénztárcámban nincs 2000yen, nem vettem jegyet.    |
     | Nincs elég pénzem, nem mentem moziba.                |
+
+** Day 61 <2021-12-09 Thu>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | はブラシに はちみつを ぬれて、4分くらい はをみがきました。 |
+    | megoldás:                                                  |
+
+
+    | きょうだいしまいが よにん も います。 |
+    | 兄弟姉妹が 四人 も います。           |
+    | Négy testvérem is van.                |
+
+
+    | 京都は 東京と 大阪の間に あります。                 |
+    | きょうとうは とうきょうと おおさかの間に あります。 |
+    | Kyotó Ószaka és Tokyo között helyezkedik el.        |
+
+
+    | けが しろくろ で、アフリカに 住んでいる動物。    |
+    | しまうま                                         |
+    | Afrikában élő, fekete-fehér színű állat (zebra). |
+
+
+    | この料理は たまご 入っていません。              |
+    | アレルギーのばあい、この料理が 食べられません。 |
+    | Ebbe az ételbe nem szabad tojást rakni.         |
+    | Allergia miatt ezt a kaját nem ehetem meg.      |
