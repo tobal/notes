@@ -1845,3 +1845,30 @@
     | アレルギーのばあい、この料理が 食べられません。 |
     | Ebbe az ételbe nem szabad tojást rakni.         |
     | Allergia miatt ezt a kaját nem ehetem meg.      |
+** Day 62 <2021-12-10 Fri>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | とこもろしは アメリカから来た やさいです。             |
+    | megoldás: とうもろこしは アメリカから来た やさいです。 |
+    | A kukorica amerikából származik.                       |
+
+
+    | ちちおやは もう いなくなってしまいました。 |
+    | 父親は もう いなくなってしまいました。     |
+    | Nemsokára apa leszek.                      |
+
+
+    | 日本中を 旅行するのが たいへんお金がかかります。             |
+    | にほんちゅうを りょこうするのが たいへんおかねがかかります。 |
+    | Japán szerte sok pénzbe kerül az utazás.                     |
+
+
+    | たまご、貝、くるみ、かめ などの かたい ぶぶんです。                                                                    |
+    | から かわ かみ かま                                                                                                    |
+    | Tojás, kagyló, dió, teknős, stb "kemény része". (szótár nélkül nem tudtam még tippelni sem, de gondolom から azaz héj) |
+
+
+    | 4500円持っていましたが、1700円を はらいました。   |
+    | 4500 jenem van, és 1700-at költöttem.             |
+    | Szótár nélkül tippelni sem tudtam, de a megoldás: |
+    | 今、2800円が もっています。                       |
+    | Most 2800 jenem van.                              |
