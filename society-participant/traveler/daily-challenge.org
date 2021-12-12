@@ -1872,3 +1872,30 @@
     | Szótár nélkül tippelni sem tudtam, de a megoldás: |
     | 今、2800円が もっています。                       |
     | Most 2800 jenem van.                              |
+
+** Day 63 <2021-12-11 Sat>
+*** Jelöld színnel a helyes megoldást! Fordítsd le a mondatokat.
+    | ぼくは いとこが たくさん あります。         |
+    | megoldás: ぼくは いとこが たくさん います。 |
+    | Sok unokatesóm van.                         |
+
+
+    | おおきくて ふとい いぬを もっています。 |
+    | 大きくて 太い 犬を もっています。       |
+    | Nagy és testes kutyám van.              |
+
+
+    | 店は 開いているか 閉まっているか 分かりません。   |
+    | 店は あいているか あやまっているか 分かりません。 |
+    | Nem tudom, hogy a bolt nyitva van-e, vagy zárva.  |
+
+
+    | じょせいのものです。中には いろいろなものが 入れられます。                                 |
+    | スーツケース                                                                               |
+    | Női dolog, mindenféle cuccot raknak bele. (a helyes megoldás kézitáska, azaz ハンドバッグ) |
+
+
+    | みかんは 一キロ いくらですか。    |
+    | みかんの ねだんが わかりません。  |
+    | Mennyibe kerül egy kiló mandarin? |
+    | Nem tudom a mandarin árát.        |
