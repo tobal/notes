@@ -557,3 +557,51 @@
 ****** TODO <2021-12-12 Sun 22:45> Hygene of mind        :mental:maintenance:
        - 15 min meditation
 ****** TODO <2021-12-12 Sun 23:00> Sleep            :body:mental:maintenance:
+*** Week 3 <2021-12-13 Mon>--<2021-12-19 Sun>
+**** <2021-12-13 Mon>
+***** Morning routine                                               :routine:
+****** TODO <2021-12-13 Mon 05:30> Get up                  :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2021-12-13 Mon 05:40> Warm up               :body:maintenance:
+       - Warm up
+***** Morning gym                                           :workout:outside:
+****** TODO <2021-12-13 Mon 06:40> Go to oldschool gym
+***** Workday                                                          :work:
+****** TODO <2021-12-13 Mon> StorageD testing video
+****** TODO <2021-12-13 Mon> Log4j vulnerability
+***** Necessities
+****** TODO <2021-12-13 Mon> Cook lunch
+****** TODO <2021-12-13 Mon> Do dishes
+****** TODO <2021-12-13 Mon> Go shopping
+       - Buy trousers
+****** TODO <2021-12-13 Mon> Buy groceries
+       - For tuna meatballs
+***** Practice
+****** TODO <2021-12-13 Mon 17:45> Piano practice
+       - Rising Sun
+       - Lullaby of Birdland
+       - Short patterns (Last Ninja, Mineshaft, the other one, Sweet Dreams)
+****** TODO <2021-12-13 Mon 18:00> Driving practice
+       - Assetto Corsa
+       - Dirt Rally 2.0
+***** Learning
+****** TODO <2021-12-13 Mon> Japanese daily challenge
+***** Social evening
+****** TODO <2021-12-13 Mon 20:30> Online RPG                        :social:
+***** Evening routine                                               :routine:
+****** TODO <2021-12-13 Mon 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-13 Mon 22:15> Plan next day                 :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-13 Mon 22:30> Hygene of body        :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-13 Mon 22:45> Hygene of mind      :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-13 Mon 23:00> Sleep          :body:mental:maintenance:
