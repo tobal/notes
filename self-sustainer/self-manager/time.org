@@ -500,3 +500,25 @@
 ****** TODO <2021-12-06 Mon 22:45> Hygene of mind        :mental:maintenance:
        - 15 min meditation
 ****** TODO <2021-12-06 Mon 23:00> Sleep            :body:mental:maintenance:
+**** <2021-12-07 Tue>
+***** Workday
+****** TODO <2021-12-07 Tue> Test elastic cleanup
+****** TODO <2021-12-07 Tue> Patch zorp service files
+****** TODO <2021-12-07 Tue> Organize refinement
+****** TODO <2021-12-07 Tue> CC technical meeting
+**** <2021-12-08 Wed>
+***** Workday
+****** TODO <2021-12-08 Wed> Refine cleanup
+****** TODO <2021-12-08 Wed> Begin storageD task
+**** <2021-12-09 Thu>
+***** Workday
+****** TODO <2021-12-09 Thu> Make smaller tasks
+****** TODO <2021-12-09 Thu> Continue storageD task
+**** <2021-12-10 Fri>
+***** Workday
+****** TODO <2021-12-10 Fri> Refinement
+****** TODO <2021-12-10 Fri> Continue storageD task
+**** <2021-12-11 Sat>
+***** Workday
+****** TODO <2021-12-11 Sat> Dayforce administration
+****** TODO <2021-12-11 Sat> Continue storageD task
