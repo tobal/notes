@@ -475,3 +475,28 @@
 ****** TODO <2021-12-05 Sun 22:45> Hygene of mind        :mental:maintenance:
        - 15 min meditation
 ****** TODO <2021-12-05 Sun 23:00> Sleep            :body:mental:maintenance:
+*** Week 2 <2021-12-06 Mon>--<2021-12-12 Sun>
+**** <2021-12-06 Mon>
+***** Workday                                                          :work:
+****** TODO <2021-12-06 Mon> Test schema upgrade on elastic cloud    :devops:
+       Subtasks:
+******* TODO make some sessions on the box
+******* TODO update the ES schema, with new version and a new field
+******* TODO run indexsetup again, see if the update happened, and the existing data remained
+****** TODO <2021-12-06 Mon> Research OpenSSL             :research:security:
+       - Extended key usage verify behaviour
+***** Evening routine                                               :routine:
+****** TODO <2021-12-06 Mon 22:00> Range of motion         :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2021-12-06 Mon 22:15> Plan next day                   :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2021-12-06 Mon 22:30> Hygene of body          :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2021-12-06 Mon 22:45> Hygene of mind        :mental:maintenance:
+       - 15 min meditation
+****** TODO <2021-12-06 Mon 23:00> Sleep            :body:mental:maintenance:
