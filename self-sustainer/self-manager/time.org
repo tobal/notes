@@ -443,6 +443,20 @@
        - Measure weight
 ****** TODO <2021-12-05 Sun 05:40> Warm up                 :body:maintenance:
        - Warm up
+***** System maintenance
+****** TODO <2021-12-05 Sun> Update templates                        :system:
+***** Learning
+****** TODO <2021-12-05 Sun> Japanese daily challenge              :learning:
+****** TODO <2021-12-05 Sun> Prepare for japanese class            :learning:
+***** Teacher
+****** TODO <2021-12-05 Sun> Japanese class                        :learning:
+****** TODO <2021-12-05 Sun> Kenjutsu training               :martial:artist:
+***** Practice                                                     :practice:
+****** TODO <2021-12-05 Sun> Driving                          :virtual:pilot:
+****** TODO <2021-12-05 Sun> Piano                             :music:artist:
+***** Necessities
+****** TODO <2021-12-05 Sun> Cook lunch
+****** TODO <2021-12-05 Sun> Do dishes
 ***** End of week ToDos
 ****** TODO <2021-12-05 Sun> Plan next week                        :planning:
        - Copy day skeletons for next week
