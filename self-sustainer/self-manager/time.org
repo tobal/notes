@@ -169,7 +169,7 @@
       - 30 min meditation or reading
 ***** TODO <2023-08-26 Sat 00:00> Sleep             :body:mental:maintenance:
 ** November
-*** Week 5 <2021-11-28 Sun>-<2021-11-30 Tue>
+*** Week 5 <2021-11-28 Sun>--<2021-11-30 Tue>
 **** <2021-11-28 Sun>
 ***** Morning routine                                               :routine:
 ****** FAILED <2021-11-28 Sun 05:30> Get up                :body:maintenance:
@@ -295,7 +295,7 @@
        - 15 min meditation
 ****** FAILED <2021-11-30 Tue 23:00> Sleep          :body:mental:maintenance:
 ** December
-*** Week 1 <2021-12-01 Wed>-<2021-12-05 Sun> 
+*** Week 1 <2021-12-01 Wed>--<2021-12-05 Sun>
 **** <2021-12-01 Wed>
 ***** Morning routine                                               :routine:
 ****** FAILED <2021-12-01 Wed 05:30> Get up                :body:maintenance:
