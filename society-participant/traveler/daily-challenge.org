@@ -1899,3 +1899,34 @@
     | みかんの ねだんが わかりません。  |
     | Mennyibe kerül egy kiló mandarin? |
     | Nem tudom a mandarin árát.        |
+
+** Day 64 <2022-01-03 Mon>
+*** 漢字の読み方
+    | 1月1日は 日本語で「お正月」と 言います。            |
+    | 1月いちにちは 日本語で「おしょうがつ」と 言います。 |
+    | Január elsejét japánul úgy mondjuk, "oshogatsu".|
+*** 漢字の書き方
+    | 1月は ふゆのあいだに いちばん さむい きせつです。 |
+    | 1月は 冬の間に 一番 寒い 季節です。               |
+    | Télen a január a leghidegebb időszak az évben. |
+*** 言葉の意味
+    | ふゆにも 葉 (針葉樹)のある、 常緑植物 です。                                                                    |
+    | もみじ                                                                                                          |
+    | Télen is tűlevelekkel rendelkező, örökzöld növény. (もみじ, nem tudom ez mi, de a többi biztos nem örökzöld...) |
+*** 言葉の意味
+    | くだもの、やさい、木などの しょくぶつの実の中に ある ものです。植物が 発芽するもとになるもの。 |
+    | たね                                                                                           |
+    | Növények csírázása során jön létre. (たね, mag)|
+*** 言葉の使い方
+    | 猫は目の中に「タペタム」と言うものがある。猫は暗いときもよく見られる。 |
+    | 猫は目の中に「タペタム」と言うものがあるので、暗いときもよく見られる。 |
+    | A macskák szemében "tabetamu"-nak hívjuk. Ennek segítségével tud látni a sötétben.|
+*** じしょ
+    | 漢字の読み方 | かんじのよみかた       | kanjik olvasata  |
+    | お正月       | おしょうがつ           | újév/szilveszter |
+    | 漢字の書き方 | かんじのかきかた       | kanjik írásmódja |
+    | 言葉の意味   | ことばのいみ           | szavak jelentése |
+    | 葉           | は                     | (fa)levél        |
+    | 針葉樹       | しんようじゅ           | tűlevelű         |
+    | 常緑植物     | じょうりょくしょくぶつ | örökzöld növény  |
+    | 植物         | しょくぶつ             | növény           |
