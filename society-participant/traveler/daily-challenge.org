@@ -1930,3 +1930,25 @@
     | 針葉樹       | しんようじゅ           | tűlevelű         |
     | 常緑植物     | じょうりょくしょくぶつ | örökzöld növény  |
     | 植物         | しょくぶつ             | növény           |
+
+** Day 65 <2022-01-04 Tue>
+*** 漢字の読み方
+    | 魚、鳥、馬、みんな動物ですが、種類が 違います。                   |
+    | さかな、とり、うま、みんなどうぶつですが、しゅるいが ちがいます。 |
+    | A hal, madár, ló, bár mind állat ugyan, de különböző fajúak.      |
+*** 漢字の書き方
+    | ともだちが いぎりすじんだから、もちろんえいごがよく はなせる。 |
+    | 友達が イギリス人だから、もちろん英語がよく 話せる。           |
+    | A barátom, mivel brit, ezért természetesen jól beszél angolul. |
+*** 言葉の意味
+    | うるさい。スピーカの音を 小さく しなさい。 |
+    | Hangos. Halkítsd le a hangszórót.          |
+*** 言葉の意味
+    | たとえば、クリスマスケーキは このために いいにおいがします。 |
+    | シナモン                                                     |
+    | Például a karácsonyi sütinek ettől van jó illata. (fahéj)    |
+*** 言葉の使い方
+    | カラス、ワシなどのとりが くちばしが かたくて つよいです。            |
+    | ワシも カラスも くるみのからを われます。                            |
+    | Varjaknak, sasoknak és hasonló madaraknak kemény és erős csőrük van. |
+    | A sasok és varjak is képesek feltörni a diót.                        |
