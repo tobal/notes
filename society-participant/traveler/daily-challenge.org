@@ -1952,3 +1952,24 @@
     | ワシも カラスも くるみのからを われます。                            |
     | Varjaknak, sasoknak és hasonló madaraknak kemény és erős csőrük van. |
     | A sasok és varjak is képesek feltörni a diót.                        |
+
+** Day 66 <2022-01-05 Wed>
+*** 漢字の読み方
+    | 日本は 島国なので 海に 囲まれています。                   |
+    | 日本は とうごくなので うみに こまれていますまれています。 |
+    | Japán szigetország, mivel tenger veszi körbe.|
+*** 漢字の書き方
+    | おおきくて ふとい いぬを みました。 |
+    | 大きくて 太い 犬を 見ました。       |
+    | Láttam egy nagy és dagi kutyát.     |
+*** 言葉の意味
+    | きょうりゅう は インクのせいで ぜつめつ してしまいました。 |
+    | Ez nem ment... gondolom az インセキ a megoldás, de annak nem találtam jelentést |
+*** 言葉の意味
+    | ほかの人のものを ぬすむ人。 |
+    | どろぼう                    |
+    | Amikor egy ember egy másiktól lop. (rablás) |
+*** 言葉の使い方
+    | 熱は 37.9 ど でしたが、1.5 ど さがりました。ふつう、36.3 どです。 |
+    | たいおんは 今 36.4 ど です。                                      |
+    | 37.9 fokos lázam volt, de lejjebb ment 1.5 fokkal. Általában 36.3 szokott lenni. |
