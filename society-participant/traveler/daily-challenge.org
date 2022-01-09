@@ -2015,3 +2015,25 @@
     | あかずきんは おおかみに 食べられました。 |
     | おおかみは あかずきんを たべました。     |
     | Piroskát megette a farkas (a farkas által meg lett éve). |
+
+** Day 69 <2022-01-08 Sat>
+*** 漢字の読み方
+    | ドナウ川 が ハンガリーの首都を 二つの部に 分けています。           |
+    | ドナウ川 が ハンガリーのみやこうを 二つのはんぶんに わけています。 |
+    | A Duna Magyarország fővárosát két részre osztja.                   |
+*** 漢字の書き方
+    | おふろは ちょっとあつかったから、けつあつが あがってしまった。 |
+    | お風呂は ちょっと暑かったから、けつあつが あがってしまった。   |
+    | A fürdőben kicsit meleg volt, úgyhogy felment a vérnyomásom.   |
+*** 言葉の意味
+    | ねつがありそうな子持ちなので、うでどけいを 持ってきてください。 |
+    | Nem tudtam.                                                     |
+*** 言葉の意味
+    | 火事 や なにか 火災のとき 119番号を かけて、くる人。 |
+    | しょうぼうし                                         |
+    | Tűz esetén a 119-es számon hívunk őket (tűzoltó bácsi). |
+*** 言葉の使い方
+    | にわの しばふは たいへん 長くなって、きれいに したいです。 |
+    | くさかりが ひつようです。                                  |
+    | A kertben már nagyon hosszú a fű, szeretném megszépíteni.  |
+    | Kell egy fűnyíró.                                          |
