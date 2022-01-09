@@ -1973,3 +1973,24 @@
     | 熱は 37.9 ど でしたが、1.5 ど さがりました。ふつう、36.3 どです。 |
     | たいおんは 今 36.4 ど です。                                      |
     | 37.9 fokos lázam volt, de lejjebb ment 1.5 fokkal. Általában 36.3 szokott lenni. |
+
+** Day 67 <2022-01-06 Thu>
+*** 漢字の読み方
+    | 日本の人口は 1憶2600万人くらいです。            |
+    | 日本のにんこうは いっちょう2600万人くらいです。 |
+    | Japán népessége 126 millió.|
+*** 漢字の書き方
+    | 日本人のじょしがくせいは せいふくを きます。 |
+    | 日本人の女子学生は せいふくを 来ます。        |
+    | A japán diáklányok egyenruhát viselnek.  |
+*** 言葉の意味
+    | きいろと あおを まぜると うすいあおに なります。 |
+    | Ha a kéket és a sárgát összekeverjük, zöldet kapunk (igen, ezt is elbasztam :D ) |
+*** 言葉の意味
+    | 電話番号を わすれないように パンフレットに 書いておきます。 |
+    | Hogy ne felejtsem el a telefonszámokat, felírom egy jegyzetfüzetbe. |
+*** 言葉の使い方
+    | きのうから からだのぐあいが わるいんです。 |
+    | きのうも きょうも びょうきです。           |
+    | Tegnap óta rosszul vagyok.                 |
+    | Tegnap és ma is beteg voltam.              |
