@@ -1994,3 +1994,24 @@
     | きのうも きょうも びょうきです。           |
     | Tegnap óta rosszul vagyok.                 |
     | Tegnap és ma is beteg voltam.              |
+
+** Day 68 <2022-01-07 Fri>
+*** 漢字の読み方
+    | アフリカ大陸には 珍しい 動物だ たくさん いきています。         |
+    | アフリカだいりくには めずらしい 動物だ たくさん いきています。 |
+    | Az afrikai kontinensen sok különleges állat él.               |
+*** 漢字の書き方
+    | かぞくのみんなが たまごアレルギーが あるの、たべられません。 |
+    | 家族のみんなが 串アレルギーが あるの、食べられません。       |
+    | Az egész család allergiás a tojásra, ezért nem esszük.       |
+*** 言葉の意味
+    | 冬に とりごやに えさを おいて かわいい 小鳥で いっぱいです。 |
+    | A téli madáretető mindig tele van aranyos kismaradakkal.     |
+*** 言葉の意味
+    | 日本では よくその器で ごはんを たきます。 |
+    | すいぞくかん                              |
+    | Amiben a japánok főzik a rizst. (rizsfőző すいはんき, nem pedig akvárium :D ) |
+*** 言葉の使い方
+    | あかずきんは おおかみに 食べられました。 |
+    | おおかみは あかずきんを たべました。     |
+    | Piroskát megette a farkas (a farkas által meg lett éve). |
