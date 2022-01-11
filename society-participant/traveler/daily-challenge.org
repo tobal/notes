@@ -2078,3 +2078,25 @@
     | これで つかまえることが できます。 |
     | Ez egy fából készült evőpálcika.   |
     | Ezt dolgok megfogására használják. |
+** Day 72 <2022-01-11 Tue>
+*** 漢字の読み方
+    | 道場に 入るとき くつを すりっぱに こうかんしなきゃ。         |
+    | どうじょうに いれるとき くつを すりっぱに こうかんしなきゃ。 |
+    | Az edzőterembe lépés előtt a cipőt papucsra cseréljük.       |
+*** 漢字の書き方
+    | しつもんが あった人は 手を あげてください。 |
+    | 叱問が あった人は 手を 伸げてください。     |
+    | Valami... kérdező embernek nyújts kezet légyszi... nem tudom :D |
+*** 言葉の意味
+    | スピーカのスイッチが こわれてしまった。 |
+    | A hangszóró kapcsolója elromlott.       |
+*** 言葉の意味
+    | 中に、たとえば、お水などのえきたいを入れて、開閉のために ふたがついている 器。 |
+    | なべ                                                                           |
+    | Hát... a szavakat talán értem, de szótárazás után sem sikerült lefordítani. A válasz csak tipp, mint általában :) |
+*** 言葉の使い方
+    | サボテンが とげとげが ある しょくぶつです。    |
+    | さわると ゆびを きられる チャンスが あります。 |
+    | A kaktusz egy tüskés növény.                   |
+    | Ha megérinted, lehet hogy megszúr (legalábbis gondolom a jó válasz ezt jelenti...). |
+    
