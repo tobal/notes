@@ -2057,3 +2057,24 @@
     | 冬に 小鳥に えさを やるのが たいせつです。でも、水を やるのも ひつようです。                       |
     | 冬は 小鳥の えさに なれば じゅうぶんです。                                                         |
     | Télen a kismadaraknak fontos eleséget adni. De vizet adni is szükséges. (a válaszom meg rossz :) ) |
+** Day 71 <2022-01-10 Mon>
+*** 漢字の読み方
+    | 病院のとなりの薬屋は 今 閉まっています。           |
+    | びょういんのとなりのくすりやは 今 うまっています。 |
+    | A kórház mellett lévő gyógyszertár most zárva van. |
+*** 漢字の書き方
+    | むらの とりいが とおく から 見える。           |
+    | 材の 取が とおく から 見える。                 |
+    | A falu tori sintó kapuja messziről is látható. |
+*** 言葉の意味
+    | おや~、ひとさし~、なか~ などは ゆびのなまえです。 |
+    | Hüvelyk-, mutató-, középső-, stb. az ujjak nevei. |
+*** 言葉の意味
+    | 歩くとき 歩数を カウントする ツール。              |
+    | まんぽけい                                         |
+    | Séta közben a lépések számolására használt eszköz. (pedométer) |
+*** 言葉の使い方
+    | これは 木で 作った はしです。      |
+    | これで つかまえることが できます。 |
+    | Ez egy fából készült evőpálcika.   |
+    | Ezt dolgok megfogására használják. |
