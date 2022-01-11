@@ -2037,3 +2037,23 @@
     | くさかりが ひつようです。                                  |
     | A kertben már nagyon hosszú a fű, szeretném megszépíteni.  |
     | Kell egy fűnyíró.                                          |
+** Day 70 <2022-01-09 Sun>
+*** 漢字の読み方
+    | 図書館と 郵便局の 間に は いいれすとらんがあります。             |
+    | としょかんと ゆうびんきょくの 間に は いいレストランがあります。 |
+    | A könyvtár és a posta között van egy jó étterem.                 |
+*** 漢字の書き方
+    | 日本の かいしゃで しごとを するのは ちょっと つらい。 |
+    | 日本の 会社で 仕事を するのは ちょっと つらい。       |
+    | Egy japán cégnek dolgozni egy kicsit... nehéz.        |
+*** 言葉の意味
+    | イタリアキッチンでは よく使われ バジルは いつも いいにおいが します。   |
+    | Az olasz konyhában sokszor használt bazsalikomnak mindig jó illata van. |
+*** 言葉の意味
+    | 道や ろうかなどの 行きづまったところ。そこで 左、それとも 右のへ進めます。    |
+    | かど                                                                          |
+    | Úton vagy folyosón lévő hely, ahol jobbra vagy balra mehetünk tovább. (sarok) |
+*** 言葉の使い方
+    | 冬に 小鳥に えさを やるのが たいせつです。でも、水を やるのも ひつようです。                       |
+    | 冬は 小鳥の えさに なれば じゅうぶんです。                                                         |
+    | Télen a kismadaraknak fontos eleséget adni. De vizet adni is szükséges. (a válaszom meg rossz :) ) |
