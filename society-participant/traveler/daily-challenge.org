@@ -2100,3 +2100,26 @@
     | A kaktusz egy tüskés növény.                   |
     | Ha megérinted, lehet hogy megszúr (legalábbis gondolom a jó válasz ezt jelenti...). |
     
+
+** Day 73 <2022-01-12 Wed>
+*** 漢字の読み方
+    | 去年、日本に行きたかったんですが、ころなういるすのためにできなかった。     |
+    | きょねん、日本に行きたかったんですが、コロナウイルスのためにできなかった。 |
+    | Tavaly szerettem volna Japánba menni, de a korona vírus miatt nem tudtam.  |
+*** 漢字の書き方
+    | ちかくに きれいな水のみずうみが あるとよみました。 |
+    | 近くに きれいな水の湖が あると読みました。         |
+    | A közelben lévő szép (vizű?) tó mellett olvastam.  |
+*** 言葉の意味
+    | どんな映画が 好きですか。 |
+    | Milyen filmeket szeretsz? |
+*** 言葉の意味
+    | ヨーロッパと アメリカたいりくの間にある 大きな海の名前です。 |
+    | ちちゅうかい                                                 |
+    | Európa és Afrika között lévő nagy tenger neve. (Földközi)    |
+*** 言葉の使い方
+    | さっき お水を 飲みました。             |
+    | 体のすいぶんは 今、いいです。          |
+    | Épp az előbb ittam vizet.              |
+    | A testem hidratáltsága most megfelelő. |
+    
