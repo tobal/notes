@@ -2143,3 +2143,24 @@
     | はいしゃは「むしばが ある」と 言いました。      |
     | Fájt a fogam, elmentem fogorvoshoz.             |
     | A fogorvost fogszuvasodás miatt látogattam meg. |
+** Day 75 <2022-01-25 Tue>
+*** 漢字の読み方
+    | 郵便局の後ろに図書館が立っています。             |
+    | ゆうびんきょくの後ろにとしょかんが立っています。 |
+    | A posta mögött egy könyvtár áll.                 |
+*** 漢字の書き方
+    | あなうんさあとしてテレビではたらく。 |
+    | アナウンサーとしてテレビで働く。     |
+    | A bemondó a tévécsatornának dolgozik.    |
+*** 言葉の意味
+    | せかいは よのなかと せっけんと 同じいみです。                                                                                             |
+    | A せかい, よのなか, せけん szavaknak ugyanaz a jelentése. (az a kis tsu az efelett lévő sorban csak optikai csalódás, ne foglalkozz vele) |
+*** 言葉の意味
+    | かみのけをきれいにするとき使うどうぐです。これでかみのけをとかします。           |
+    | くさりばし                                                                       |
+    | A haj szépítésére használt eszköz. Ezzel szokták a hajat kifésülni. (fésű, くし) |
+*** 言葉の使い方
+    | おおごえで さわぐ。                                           |
+    | あまり 聞こえない。                                           |
+    | Hangoskodik.                                                  |
+    | Messziről is jól lehet hallani (とおくまでも よく 聞こえる。) |
