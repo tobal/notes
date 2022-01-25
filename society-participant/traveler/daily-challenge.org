@@ -2100,7 +2100,6 @@
     | A kaktusz egy tüskés növény.                   |
     | Ha megérinted, lehet hogy megszúr (legalábbis gondolom a jó válasz ezt jelenti...). |
     
-
 ** Day 73 <2022-01-12 Wed>
 *** 漢字の読み方
     | 去年、日本に行きたかったんですが、ころなういるすのためにできなかった。     |
@@ -2122,4 +2121,25 @@
     | 体のすいぶんは 今、いいです。          |
     | Épp az előbb ittam vizet.              |
     | A testem hidratáltsága most megfelelő. |
-    
+
+** Day 74 <2022-01-24 Mon>
+*** 漢字の読み方
+    | 試験勉強で 大忙しい。                                  |
+    | しけん勉強で だいわすれしいしい。                      |
+    | A vizsgára való tanulás miatt nagyon elfoglalt vagyok. |
+*** 漢字の書き方
+    | かぞくめんばあ みんな COVID で びょうき。 |
+    | 家旅メンバー みんな COVID で 痛気。       |
+    | A családban mindenki COVID-os.            |
+*** 言葉の意味
+    | そろそろしゅっぱつしないと、間に合いません。                         |
+    | Ha nem indulunk azonnal, le fogjuk késni. (a helyes megoldás a すぐ) |
+*** 言葉の意味
+    | 目がわるい人が 使うもの。 |
+    | めがね                  |
+    | Rosszul látó emberek által használt eszköz. (szemüveg) |
+*** 言葉の使い方
+    | はが いたくて、はいしゃに 行きました。          |
+    | はいしゃは「むしばが ある」と 言いました。      |
+    | Fájt a fogam, elmentem fogorvoshoz.             |
+    | A fogorvost fogszuvasodás miatt látogattam meg. |
