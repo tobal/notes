@@ -2164,3 +2164,24 @@
     | あまり 聞こえない。                                           |
     | Hangoskodik.                                                  |
     | Messziről is jól lehet hallani (とおくまでも よく 聞こえる。) |
+
+** Day 76 <2022-01-26 Wed>
+*** 漢字の読み方
+    | 中国は 世の中での一番大きな国の一つです。           |
+    | ちゅうごくは 世の中での一番大きなくにのひとつです。 |
+    | Kína a legnagyobb ország a világon.                 |
+*** 漢字の書き方
+    | つかわないと きちんと かたづけてください。 |
+    | 作わないと きちんと かたづけてください。   |
+    | Az eszközöket szépen rakd rendbe kérlek.   |
+*** 言葉の意味
+    | むすこのむすめは 私のしたむすめ。 |
+    | A fiam lánya az unokám (まご). (igen, ezt rendesen benyaltam :D ) |
+*** 言葉の意味
+    | バス、電車、地下鉄などの のりものです。 |
+    | こうつうきかん                          |
+    | Busz, vonat, metró stb járművek (tömegközlekedés) |
+*** 言葉の使い方
+    | 子供のとき きんべんでしたが・・・。   |
+    | 子供のとき と 今も きんべんじゃない。 |
+    | Ezt nem tudtam... valami hogy a gyerek szorgalmas volt, tehát már nem az... de mit keres ott a とき? |
