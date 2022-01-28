@@ -2185,3 +2185,22 @@
     | 子供のとき きんべんでしたが・・・。   |
     | 子供のとき と 今も きんべんじゃない。 |
     | Ezt nem tudtam... valami hogy a gyerek szorgalmas volt, tehát már nem az... de mit keres ott a とき? |
+
+** Day 77 <2022-01-27 Thu>
+*** ぶんぽう
+    | 日本人によって もちろん日本語が　よく　話せる。      |
+    | Mivel japán, ezért természetesen jól beszél japánul. |
+*** じょし
+    | てんきよほうのよると　明日、雨がふるそうです。               |
+    | Az esti időjárásjelentés szerint úgy néz ki holnap esni fog. |
+*** ひょうげん
+    | A：Tanakaです。よろしく。             |
+    | B：Satoです。はじめまして。よろしく。 |
+    | Szia Uram.                            |
+*** かつよう
+    | きのう 買った カメラは　もうなくしてしまった。 |
+    | Valami van a tegnap vásárolt kamerával...    |
+*** おなじいみ
+    | じゅんびが　できた。   |
+    | かんせい　しちゃった。 |
+    | Elkészültem.           |
