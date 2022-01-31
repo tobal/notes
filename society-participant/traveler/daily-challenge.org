@@ -2204,3 +2204,23 @@
     | じゅんびが　できた。   |
     | かんせい　しちゃった。 |
     | Elkészültem.           |
+
+** Day 78 <2022-01-30 Sun>
+*** ぶんぽう
+    | コートを はいったあとで あつーーーい。  |
+    | Miután kabátban bementem, melegem volt. |
+*** じょし
+    | 日本人ながら もちろん 漢字が 読める。          |
+    | Mivel japán, természetesen tud kanjit olvasni. |
+*** ひょうげん
+    | A:どうぞ、おはいりください。 |
+    | B:ありがとう。               |
+    | Kérem tessék bejönni.        |
+    | Köszönöm.                    |
+*** かつよう
+    | くつが ぼろぼろと小さすぎます。 |
+    | A cipő viseltes és kicsi.       |
+*** おなじいみ
+    | しんぱいしないでください。 |
+    | あんしんしてください。     |
+    | Kérem ne aggódjon.|
