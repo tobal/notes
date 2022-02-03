@@ -2224,3 +2224,23 @@
     | しんぱいしないでください。 |
     | あんしんしてください。     |
     | Kérem ne aggódjon.|
+
+** Day 79 <2022-01-31 Mon>
+*** ぶんぽう
+    | サッカーは ほとんどの女性 によって たいくつなものです。 |
+    | A foci majdnem minden nő számára unalmas dolog.         |
+*** じょし
+    | 何番目のバスが 郵便局に とおりますか。 |
+    | Hanyas busz megy a posta felé?         |
+*** ひょうげん
+    | A:どこ、どこ?           |
+    | B:ちょっと ポストまで。 |
+    | Hova hova?              |
+    | Kiugrok a postára.      |
+*** かつよう
+    | ねる前に ニュースを読むと あまり ねむれない。             |
+    | Ha fekvés előtt híreket olvasok, nem nagyon tudok aludni. |
+*** おなじいみ
+    | あのかたは どなた ですか。 |
+    | あのひとは だれですか。    |
+    | Az az ember ott kicsoda?   |
