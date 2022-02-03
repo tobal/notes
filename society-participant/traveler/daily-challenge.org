@@ -2283,3 +2283,22 @@
     | しょうしょう お待ちください。 |
     | ちょっと 待ってください。     |
     | Kérem várjon egy kicsit.      |
+** Day 82 <2022-02-03 Thu>
+*** ぶんぽう
+    | もっと 勉強するほど。 |
+    | Még tanulnom kell.    |
+*** じょし
+    | 次のバスで のって行って、やく3時ごろ とうちゃくします。     |
+    | A következő buszra szálljon fel, ami kb. 3 óra múlva indul. |
+*** ひょうげん
+    | A:ごちそうさまでした。たいへんおいしかったです。      |
+    | B:どうも、どうも。うれしいです。    |
+    | Nagyon finom volt.                  |
+    | Köszi köszi, örülök.                |
+*** かつよう
+    | ぜんぜん 好きじゃない。食べるなくてもいい?    |
+    | Egyáltalán nem szeretem. Nem baj ha nem eszem meg? (szabad nem megenni?)|
+*** おなじいみ
+    | おくれるよ。                  |
+    | 時間とおりに まにあわないよ。 |
+    | Késtél.                       |
