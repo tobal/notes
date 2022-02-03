@@ -2263,3 +2263,23 @@
     | へやを きれいに してください。 |
     | へやを そうじしてください。    |
     | Takarítsd ki a lakást.         |
+
+** Day 81 <2022-02-02 Wed>
+*** ぶんぽう
+    | うんどうしすぎた、足が 痛くなった。 |
+    | Sokat mozogtam, megfájdult a lábam. |
+*** じょし
+    | ゆうべ、1時間も 友だちに 待っていた。       |
+    | Este egy órán keresztül a barátomat vártam. |
+*** ひょうげん
+    | A:田中と もうします。      |
+    | B:よろしくおねがいします。 |
+    | Tanaka vagyok.             |
+    | Örvendek.                  |
+*** かつよう
+    | ひらがなは かんじより 読んでやすいです。     |
+    | A hiraganát könnyebb olvasni, mint a kanjit. |
+*** おなじいみ
+    | しょうしょう お待ちください。 |
+    | ちょっと 待ってください。     |
+    | Kérem várjon egy kicsit.      |
