@@ -2244,3 +2244,22 @@
     | あのかたは どなた ですか。 |
     | あのひとは だれですか。    |
     | Az az ember ott kicsoda?   |
+** Day 80 <2022-02-01 Tue>
+*** ぶんぽう
+    | 日本で はたらくたいから 日本語を べんきょうしておきます。 |
+    | Mivel japánban szeretnék dolgozni, ezért japánul tanulok. |
+*** じょし
+    | 月曜日の午後に ピアノのレッスンが あります。 |
+    | Hétfő délutánonként zongoraóra van.          |
+*** ひょうげん
+    | A:どうしたんですか。 |
+    | B:おいしいです。     |
+    | Na milyen?           |
+    | Finom.               |
+*** かつよう
+    | りょうりを した あいだに、雨が ふりだした。 |
+    | Miközben főztem, eleredt az eső.            |
+*** おなじいみ
+    | へやを きれいに してください。 |
+    | へやを そうじしてください。    |
+    | Takarítsd ki a lakást.         |
