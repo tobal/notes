@@ -2302,3 +2302,23 @@
     | おくれるよ。                  |
     | 時間とおりに まにあわないよ。 |
     | Késtél.                       |
+
+** Day 83 <2022-02-05 Sat>
+*** ぶんぽう
+    | そんなに がめんを 見すぎるたら 目が 痛くなるよ。           |
+    | Olyan sokat néztem a képernyőt, hogy megfájdult a szemem. |
+*** じょし
+    | ひきだしの中に ノートや あります。 |
+    | A fiókban jegyzetfüzet van.        |
+*** ひょうげん
+    | A:聞いて、聞いて。 |
+    | B:なぜ?なぜ?       |
+    | Ezt hallgasd!      |
+    | Miaz, miaz?       |
+*** かつよう
+    | そんなに あぶらっこい ものを 食べない ほうがいい。 |
+    | Jobb lenne ha nem ennél annyi zsírosat.            |
+*** おなじいみ
+    | ちびちび                    |
+    | おさけを 少しずつ 飲む。    |
+    | Piciket kortyolgatva iszik. |
