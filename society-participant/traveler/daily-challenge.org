@@ -2322,3 +2322,24 @@
     | ちびちび                    |
     | おさけを 少しずつ 飲む。    |
     | Piciket kortyolgatva iszik. |
+
+** Day 84 <2022-02-06 Sun>
+*** ぶんぽう
+    | お金があったら 新しい 家が 買いたいな。    |
+    | Ha lenne pénzem, szeretnék új házat venni. |
+*** じょし
+    | 次のかどで 右に まがってください。   |
+    | A következő sarkon forduljon jobbra. |
+*** ひょうげん
+    | A:かたづけるよ。てつだってやる。 |
+    | B:はーーーい。                   |
+    | Takarítok. Segíts.               |
+    | Okééééé.                         |
+*** かつよう
+    | 明日から ダイエットをしに しています。 |
+    | Holnaptól diétázom.                    |
+*** おなじいみ
+    | 肉が こげちゃった。  |
+    | 肉が くろく なった。 |
+    | Megégettem a húst.   |
+    | A hús fekete lett.   |
