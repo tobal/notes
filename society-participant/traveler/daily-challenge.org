@@ -2343,3 +2343,22 @@
     | 肉が くろく なった。 |
     | Megégettem a húst.   |
     | A hús fekete lett.   |
+** Day 85 <2022-02-07 Mon>
+*** ぶんぽう
+    | 行くかどうか きめていません。              |
+    | Hogy menjek vagy ne, még nem döntöttem el. |
+*** じょし
+    | ラーメンは 好きですが、うどんは 好きじゃない。 |
+    | Bár a ráment szeretem, az udont nem.           |
+*** ひょうげん
+    | A:どこ行くの?                 |
+    | B:ええ、ちょっと ポストまで。 |
+    | Hova mész?                    |
+    | Csak a postára.               |
+*** かつよう
+    | ときどき 日本料理を 食べてが ある。 |
+    | Néha eszek japán kaját.             |
+*** おなじいみ
+    | おなじです。   |
+    | そっくりです。 |
+    | Ugyanolyan.    |
