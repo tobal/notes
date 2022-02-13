@@ -2362,3 +2362,32 @@
     | おなじです。   |
     | そっくりです。 |
     | Ugyanolyan.    |
+
+** Day 86 <2022-02-08 Tue>
+*** ことばのいみ
+    | かしこい         | しずかな     | どんどん   | はやく       |
+    |                  |              | nyugodtan  | gyorsan      |
+    | シャワーをあぶる | はをみがく   | 手をあげる | そうじをする |
+    | zuhanyzik        | fogat mos    | kezet mos  | takarít      |
+    | ニュース         | アナウンサー | いちば     | うなぎ       |
+    | hírek            | bemondó      | piac       | angolna      |
+*** ほんやく
+    | マンションの4かいの 小さな部屋に 住んでいます。       |
+    | Egy 4 emeletes lakóépületben, egy kis lakásban lakom. |
+    | アメリカスタイルの部屋です。                          |
+    | Amerikai stílusú.                                     |
+    | キッチンやリビング いっしょです。                     |
+    | A konyha és a nappali egybe van építve.               |
+    | 部屋は 明るいです。                                   |
+    | Szép fényes lakás.                                    |
+    | おふろも あります。                                   |
+    | Fürdő is van benne.                                   |
+*** ほんやく
+    | A: Mi történt?           |
+    | どうしたんですか。       |
+    | B: Elvágtam az ujjam.    |
+    | ゆびを きりました。      |
+    | A: Ezzel a recés késsel? |
+    | この ナイフで？          |
+    | B: Igen. Nagyon fáj!     |
+    | ええ。とてもいたい。     |
