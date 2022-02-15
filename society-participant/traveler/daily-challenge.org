@@ -2403,3 +2403,16 @@
     | 東京のぶっかが高い。それに 人も多い。                    |
     | プールに 行った。それから ジムにも 行きました。            |
     | アイスクリームが好き。そして プリンも。                  |
+
+** Day 88 <2022-02-14 Mon>
+*** Fordítsd le a szöveget magyarra! Te. Nem az ótvar Google vagy egyéb... köszönöm.
+    | バレンタインデーは 主に アメリカと ヨーロッパで 毎年2月14日に 行われる カップルが 愛を 祝うとされている。                         |
+    | A valentin nap amerikából és európából jövő ünnep, minden évben feb 14-én a párok ekkor ünneplik szerelmüket.                     |
+    | 日本 では1958年ごろから りゅうこうした。                                                                                          |
+    | Japánban 1958-ban jött divatba.                                                                                                   |
+    | ただし、その内容 は日本独自 のはってんをとげた ものとなっている。                                                                 |
+    | De később japán-specifikus ünneppé fejlődött.                                                                                     |
+    | 女性が 男性に きゅうあい できる日とされ、若い男女間で おくりものを かわす ふうしゅうが ある。                                     |
+    | Egy olyan ünnepből, amikor nők és férfiak kifejezhetik egymás iránti vonzalmukat, olyan ünnep lett, amikor ajándékokat cserélnek. |
+    | そのおくりものは チョコレートだよ。                                                                                               |
+    | Ez az ajándék pedig nem más, mint csoki.                                                                                          |
