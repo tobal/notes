@@ -2416,3 +2416,36 @@
     | Egy olyan ünnepből, amikor nők és férfiak kifejezhetik egymás iránti vonzalmukat, olyan ünnep lett, amikor ajándékokat cserélnek. |
     | そのおくりものは チョコレートだよ。                                                                                               |
     | Ez az ajándék pedig nem más, mint csoki.                                                                                          |
+
+** Day 89 <2022-02-15 Tue>
+*** ほんやく してください。じしょ、などを 使わないでほしい。
+    | A tettes közepes testalkatú, fekete hajú férfi.                     |
+    | はんにんは ちゅうくらく せ、くろ かみのけの男です。                 |
+    | Valószínűleg koreai.                                                |
+    | おそらく はんとう人 です。                                          |
+    | Az arcát álarc takarta, így nem lehetett jól látni.                 |
+    | めんを かめんで おおいましたから、よくない みせませんでした。       |
+    | A szeme sötét volt.                                                 |
+    | めが くらく でした。                                                |
+    | Fekete, magas szárú cipőt, barna nadrágot és bőrkabátot viselt.     |
+    | くろい、ながい くつと ちゃいろ パンツ はくて、かわコートを きまる。 |
+    | A kabát fekete volt.                                                |
+    | コートは くろい でした。                                            |
+    | Kesztyű is volt rajta.                                              |
+    | てぶくろも しています。                                             |
+    | Volt nála egy pisztoly.                                             |
+    | ピストルは もちました。                                             |
+    | Sokat hadonászott vele.                                             |
+    | ピストルを たくさん ふるいました。                                  |
+    | Néha nagy hangon kiabált.                                           |
+    | ときどき うるさく さけびました。                                    |
+*** じしょ
+    | はんにん       | tettes             |
+    | せ             | termet             |
+    | ちゅうくらい   | közepes méretű     |
+    | マスク・かめん | álarc, maszk       |
+    | おおう         | takar, befed       |
+    | ピストル       | pisztoly           |
+    | ふるう         | lenget, hadonászik |
+    | さけぶ         | kiabál             |
+    | おそらく       | valószínűleg       |
