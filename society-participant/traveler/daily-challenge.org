@@ -2470,3 +2470,23 @@
 
      | 文: フライドチキンが えいえんに 好きです。|
      | A rántotthúst örökké szeretni fogom.             |
+
+** Day 91 <2022-02-21 Mon>
+*** Párosítsd össze az azonos jelentésű szavakat!
+    | いえ       | おたく     | ház, otthon     |
+    | せんせい   | きょうし   | tanár           |
+    | おかあさん | はは       | anya            |
+    | テーブル   | しょくたく | (étkező) asztal |
+    | きれい     | うつくしい | szép, gyönyörű  |
+    | じどうしゃ | くるま     | autó            |
+    | カメラ     | しゃしんき | kamera          |
+    | コート     | うわぎ     | kabát           |
+    | おおきい   | かくだい   | nagy            |
+    | ランプ     | でんき     | lámpa           |
+*** Válassz ki a fenti szavakból 2-3 darabot és írjál velük egy-egy mondatot!
+    | Ma délelőtt kocsival mentem bevásárolni a boltba. |
+    | 今日 午前 くるまで 店で かうものに 行きました。   |
+    | Kérlek kapcsold fel a villanyt a konyhában.       |
+    | だいどころに でんきを つけてください。            |
+    | Azok a kék virágok nagyon szépek, nem?            |
+    | その あおい 花は たいへん きれいな ですね。       |
