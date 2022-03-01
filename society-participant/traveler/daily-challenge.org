@@ -2490,3 +2490,34 @@
     | だいどころに でんきを つけてください。            |
     | Azok a kék virágok nagyon szépek, nem?            |
     | その あおい 花は たいへん きれいな ですね。       |
+
+** Day 92 <2022-02-28 Mon>
+*** じょし partikula > に、で、を
+    | れい | りんご___好き。                                  | が     |
+    |------+--------------------------------------------------+--------|
+    |    1 | 日本___りゅうがくしている。                      | に     |
+    |    2 | ふじさん___のぼりたい。                          | は     |
+    |    3 | 子供が いえ___出て、にわ___あそびました。        | が、に |
+    |    4 | 山___のぼって、うみの かいがんに つきました。    | を     |
+    |    5 | 駅___友だち___待っています。                     | で、に |
+    |    6 | にわ___出たとん 雨がふりだして、ぬってしまった。 | で     |
+    |    7 | Astori___バス___おりましょう。                   | へ、が |
+    |    8 | 部屋は かいだん___のぼって、右___あります。      | を、に |
+
+
+    | 日本に りゅうがくしている。                                                                         |
+    | Japánban tanulok.                                                                                   |
+    | ふじさんは のぼりたい。                                                                             |
+    | Szeretném megmászni a Fuji-t.                                                                       |
+    | 子供が いえが 出て、にわに あそびました。                                                           |
+    | A gyerek kiment a házból, és a kertben játszott.                                                    |
+    | 山を のぼって、うみの かいがんに つきました。                                                       |
+    | Megmásztam a hegyet, és elértem a tengerpartot. (ammeghogy?)                                        |
+    | 駅で 友だちに 待っています。                                                                        |
+    | Az állomáson várom a barátomat.                                                                     |
+    | にわで 出たとん 雨がふりだして、ぬってしまった。                                                    |
+    | Bejöttem a a kertből amikor elkezdett esni az eső, és elkezdtem tapétázni. (wut? mi az a 出たとん?) |
+    | Astoriaへ バスが おりましょう。                                                                     |
+    | Az Astorián szálljunk fel egy buszra.                                                               |
+    | 部屋は かいだんを のぼって、右に あります。                                                         |
+    | Ha felmész a lépcsőn és jobbra fordulsz, ott van a szoba.                                           |
