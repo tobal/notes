@@ -2521,3 +2521,26 @@
     | Az Astorián szálljunk fel egy buszra.                                                               |
     | 部屋は かいだんを のぼって、右に あります。                                                         |
     | Ha felmész a lépcsőn és jobbra fordulsz, ott van a szoba.                                           |
+** Day 93 <2022-03-01 Tue>
+   | て   | を あげる       | felemeli a kezét/ felteszi a kezét, jelentkezik |
+   | 手   | づくり          | kézzel készített                                |
+   |      | ま が かかる    | időbe telik, munkaigényes                       |
+   | あし | あと            | lábnyom                                         |
+   | 足   | もと            | láb alatt/ pl. a hegy lába                      |
+   |      | くび            | boka                                            |
+   | き   | もち            | érzés, hangulat, közérzet                       |
+   | 気   | に なる         | tetszik                                         |
+   |      | づく            | észrevesz                                       |
+   | は   | いしゃ          | fogorvos                                        |
+   | 歯   | みがきこ        | fogkrém                                         |
+   |      | ぐるま （歯車） | fogaskerék                                      |
+
+
+   | Ez a kézzel készített szék nagyon szép.   |
+   | この てづくり いすは よく きれいな です。 |
+   | Futottam, megfájdult a bokám.             |
+   | はしった、足くびが いたくなった。         |
+   | Rossz a hangulatom.                       |
+   | ぼくのきもちは わるい です。              |
+   | Nem akarok fogorvoshoz menni.             |
+   | はいしゃに いきたくない。                 |
