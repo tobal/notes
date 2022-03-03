@@ -2557,3 +2557,24 @@
     |  8 | はし___わたって、150メートル___行きましょう。 | へ、を |
     |  9 | へや___すわって、何も しません。              | で     |
     | 10 | キッチン___食べましょう。                     | で     |
+*** Fordítsd le a mondatokat magyarra!
+    | 日本に 何をしで 行きましたか。                         |
+    | Japánban hova mentél?                                  |
+    | 川に そって 行きましょう。                             |
+    | A folyó mentén haladjunk.                              |
+    | 朝から ベッドに 本を読んでいます。                     |
+    | Reggel óta  könyvet olvasok az ágyban.                 |
+    | コンサートに 行きましょう。                            |
+    | Menjünk koncertre.                                     |
+    | きょうしつに 出て、ろうかを 走りました。               |
+    | Miután kiment a tanteremből, a folyosón furni kezdett. |
+    | 先生と話しで 来ました。                                |
+    | Jöttem hogy beszéljek a tanárommal.                    |
+    | おふろに 入っています。                                |
+    | Fürdök.                                                |
+    | はしへ わたって、150メートルを 行きましょう。          |
+    | A hídon átmenve, menjünk 150 métert.                   |
+    | へやで すわって、何も しません。                       |
+    | Leültem a szobában, semmit nem csináltam.              |
+    | キッチンで 食べましょう。                              |
+    | Kajáljunk a konyhában.                                 |
