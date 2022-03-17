@@ -2604,3 +2604,32 @@
     | 10時に かえってきてください。                                     |
     | 明日まで___おわります。                                           |
     | なにも 食べたくない。                                             |
+
+** Day 96 <2022-03-15 Tue>
+*** ペアに しなさい Párosítsd össze a szavakat a jelentéssel! Rakd a mondatba a megfelelő szót!
+    | ながそで | hosszú ujjú | さむい冬に ながそでの シャツをきます。      |
+    | はんそで | rövid ujjú  | あたたかい春に はんそでの Tシャツをきます。 |
+    | そでなし | ujjatlan    | あつい夏に そでなしの ドレスをきます。      |
+
+
+    | ボタン   | gomb      | ボタンを おすと ドアが あきます。     |
+    | パンツ   | alsógatya | 男のしたぎを パンツと 言います。      |
+    |  パンティ| bugyi     | 女はのしたぎを パンティと 言います。  |
+    | ポケット | zseb      | ポケットの中に 入れたのに、ないです。 |
+*** 日本語で 言いなさい Mondd japánul (írd le)!
+    | ujjatlan estélyi           | そでなしの やかいふく      |
+    | fehér, rövid ujjú blúz     | しろい はんそでの ブラウス |
+    | hosszú ujjú csiricsáré ing | ながそでの シャツ          |
+    | selyembugyi                | びろうどの パンティ        |
+    | pamut alsógatya            | もめんの パンツ            |
+    | kerek zseb                 | まるい ポケット            |
+    | műanyag gomb               | プラスチックの バタン      |
+
+
+    | Rövid ujjú pólóban még fázom.                            |
+    | ながそでの シャツを きても さむいです。                  |
+    | Ez a piros selyembugyi nagyon sexi.                      |
+    | この あかい びろうどの パンチイは とても セクシー です。 |
+
+*** じしょ
+    | そで | 袖 | ruha ujja |
