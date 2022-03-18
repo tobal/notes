@@ -2650,3 +2650,24 @@
     | としょかんに行きました。それから、しまいました。           |
     | このスパゲッティは バジルのにおいが なります。             |
     | このスパゲッティは バジルのにおいが あります。             |
+** Day 98 <2022-03-17 Thu>
+*** Ki mondja? Párosítsd össze a szakembereket a szájukból elhangozható (kigondoltam egy magyar ékességet: kijövőhető... alkalomadtán tanítsd meg egy japánnak, a sok-sok nyelvi kegyetlenségért cserébe, köszönöm) mondatokkal!
+    | これ、ちょっと痛い かもしれません。                       | はいしゃ             |
+    | ほけんしょうが もっていますか。                           | びょういんのうけつけ |
+    | テストのとき、きょうかしょをかばんの中に 入れてください。 | 先生                 |
+    | このくすりを朝とよる、しょくご 飲んでください。           | いしゃ               |
+    | パスポートを見せてください。                              | おまわりさん         |
+    | スタイルは前と同じですか。                                | びようし・とこや     |
+*** Fordítsd le a mondatokat magyarra!
+    | これ、ちょっと痛い かもしれません。                       |
+    | Lehet, hogy itt még kicsit fájni fog.                     |
+    | ほけんしょうが もっていますか。                           |
+    | Magánál van a biztosítási kártyája?                       |
+    | テストのとき、きょうかしょをかばんの中に 入れてください。 |
+    | A doga alatt a könyvet rakjátok el a táskába.             |
+    | このくすりを朝とよる、しょくご 飲んでください。           |
+    | Ezt a gyógyszert reggel és este, étkezés után vegye be.   |
+    | パスポートを見せてください。                              |
+    | Kérem mutassa az útlevelét.                               |
+    | スタイルは前と同じですか。                                |
+    | A frizurád eddig is ilyen volt?                           |
