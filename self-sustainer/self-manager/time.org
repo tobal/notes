@@ -26,125 +26,136 @@
 ******* TODO <DATE 05:40> Warm up                          :body:maintenance:
 	- Warm up
 ****** Evening routine
-******* TODO <DATE 22:00> Range of motion                  :body:development:
+******* TODO <DATE 21:00> Range of motion                  :body:development:
 	- Stretch legs
 	- Stretch chest, arms
-******* TODO <DATE 22:15> Plan next day                            :planning:
+******* TODO <DATE 21:15> Plan next day                            :planning:
 	- Review org file
 	- Prepare for next day
 	  Put stuff into bag, take out meat from freezer, lock door
-******* TODO <DATE 22:30> Hygene of body                   :body:maintenance:
+******* TODO <DATE 21:30> Hygene of body                   :body:maintenance:
 	- Wash face
 	- Eye training
 	- Dental
-******* TODO <DATE 22:45> Hygene of mind                 :mental:maintenance:
+******* TODO <DATE 21:45> Hygene of mind                 :mental:maintenance:
 	- 15 min meditation
 	- write diary
-******* TODO <DATE 23:00> Sleep                     :body:mental:maintenance:
+******* TODO <DATE 22:00> Sleep                     :body:mental:maintenance:
+	- read book
 ***** Productivity
+      Workday or personal projects, 8 hours per day, from 9:00 to 17:00
 ****** Workday                                                         :work:
+******* TODO <DATE 9:00> Review emails
+******* TODO <DATE 9:30> Deep work
+******* TODO <DATE 13:00> Deep work
+******* TODO <DATE 15:00> Coffee
+******* TODO <DATE 15:30> Deep work
 ****** Projects                                                     :project:
 ******* Role playing games
-******** TODO <DATE> MAGUS player character
-******** TODO <DATE> MAGUS elven island civil war campaign
-******** TODO <DATE> 4 simulations campaign
+	- Akkar Kro MAGUS player character
+	- MAGUS elven island civil war campaign
+	- 4 simulations campaign
 ******* The ever padawan
-******** TODO <DATE> Learn video editing
-******** TODO <DATE> Buy big pendrive                           :expenditure:
-******** TODO <DATE> Edit existing Dark Souls videos
+	- Learn video editing
+	- Buy big pendrive
+	- Edit existing Dark Souls videos
 ***** Health
 ****** Workout                                                      :workout:
 ******* TODO <DATE 06:30> Oldschool gym                          :leavehouse:
-******* TODO <DATE> Cardio training
+******* TODO <DATE 17:00> Cardio training
 	- dancing
-******* TODO <DATE> Weight training
+******* TODO <DATE 17:15> Weight training
 	- kettlebell swing, military, around head, row, turkish
-******* TODO <DATE> In-betweens
-	- Push up
-	- Kenjutsu steps, cuts
-	- Stretch legs
 ****** Food
-******* TODO <DATE> Cook lunch
-******* TODO <DATE> Do groceries                                 :leavehouse:
+******* TODO <DATE 11:30> Cook lunch
+******* TODO <DATE 18:00> Do groceries                           :leavehouse:
 ****** Leasure time
-       - Passive
-	 ToDo during passive leasure: develop grip strength
-	 - Youtube
-	 - Movies
-       - Active
-	 - Video games
+       Passive leasure time, watch videos or movies
+******* TODO <DATE 20:00> Watch
+******* TODO <DATE 20:00> In-betweens
+	- [ ] Grip strength
+	- [ ] Push up
+	- [ ] Kenjutsu steps, cuts
+	- [ ] Stretch legs
+***** Maintenance
+****** Sorting
+******* TODO <DATE 17:30> Sort out temporary container          :maintenance:
+******* TODO <DATE 17:30> Sort clothes
+******* TODO <DATE 17:30> Sort papers
+******* TODO <DATE 17:30> Sort computer desks
+******* TODO <DATE 17:30> Sort TV cupboard
+******* TODO <DATE 17:30> Sort cupboard near window
+******* TODO <DATE 17:30> Sort upstairs cupboard
+******* TODO <DATE 17:30> Sort kitchen cupboard
+******* TODO <DATE 17:30> Change bulbs
+****** Cleaning                                                 :maintenance:
+******* TODO <DATE 17:30> Do dishes                                 :routine:
+******* TODO <DATE 17:30> Wash clothes
+******* TODO <DATE 17:30> Clean kitchen
+******* TODO <DATE 17:30> Clean bathroom
+******* TODO <DATE 17:30> Clean upstairs
+******* TODO <DATE 17:30> Clean living room and stairs
+****** Virtual maintenance                                      :maintenance:
+******* TODO <DATE 17:30> Update workstation system                 :routine:
+******* TODO <DATE 17:30> Label and archive emails
+******* TODO <DATE 17:30> Sort out github repos
+******* TODO <DATE 17:30> Setup online profiles
+******* TODO <DATE 17:30> Reinstall systems
+******* TODO <DATE 17:30> Save links from tabs
+******* TODO <DATE 17:30> Youtube video lists
 ***** Self improvement
 ****** Learning                                                    :learning:
-******* TODO <DATE> Japanese daily challenge                        :routine:
-******* TODO <DATE 16:30> Japanese class                         :leavehouse:
-******* TODO <DATE> Music class                                  :leavehouse:
-******* TODO <DATE> Programming                                     :routine:
-	- do small programming challenges (codewars, hackerrank, etc)
-******* TODO <DATE> IT security
-	- watch lectures
-	- do hacking challenges
-******* TODO <DATE> Artificial intelligence
-	- watch lectures
-	- do learning projects (OpenAI gym, etc)
-******* TODO <DATE> Other technologies
-	- elasticsearch, game development, etc
-******* TODO <DATE> Go
+******* Learn Japanese
+******** TODO <DATE 18:00> Japanese daily challenge
+******** TODO <DATE 18:15> Practice writing
+******** TODO <DATE 18:15> Practice reading
+******** TODO <DATE 18:15> Do previous challange
+******** TODO <DATE 18:15> Extend notes, learn words
+******* Learn IT
+******** Programming
+********* TODO <DATE 18:30> Do programming challenge
+	  - do small programming challenges (codewars, hackerrank, etc)
+******** IT security
+********* TODO <DATE 18:30> Watch IT sec lecture
+********* TODO <DATE 18:30> Do hacking challenge
+******** Artificial intelligence
+********* TODO <DATE 18:30> Watch AI lecture
+********* TODO <DATE 18:30> Do AI learning project
+	  - OpenAI gym
+	  - Pandas practice
+******** Game development
+********* TODO <DATE 18:30> Unreal engine tutorial
+******** Other technologies
+********* TODO <DATE 18:30> Watch Elasticsearch lecture
+******* TODO <DATE 18:30> Go
 	- watch lectures
 	- take notes on sequences
 ****** Practice                                            :practice:routine:
-******* TODO <DATE> Driving                                   :virtual:pilot:
+******* TODO <DATE 19:00> Sim racing practice                 :virtual:pilot:
 	- rally
 	- track racing
-******* TODO <DATE> Piano                                      :artist:music:
+******* TODO <DATE 19:30> Piano practice                       :artist:music:
         - practice with metronome
         - practice reading sheet music
         - practice known songs
         - practice singing
-******* TODO <DATE> Typing
-******* TODO <DATE> Coding kata
-******* TODO <DATE> Games
+******* TODO <DATE 12:45> Typing
+******* TODO <DATE 9:15> Coding kata
+******* TODO <DATE 19:00> Games practice
+	- FPS: Aim lab
 	- Soulslikes
 	- Roguelikes
 	- RTS
-	- FPS
 	- Flight sim
 	- Arcade
-******* TODO <DATE> Kenjutsu
+******* TODO <DATE 19:30> Kenjutsu practice
 	- learn kata
 	- kihon
-******* TODO <DATE> Juggling
+******* TODO <DATE 19:00> Go practice
+	- joseki
+******* TODO <DATE 19:30> Juggling practice
 	- staff
 	- ropedart
-******* TODO <DATE> Go
-	- joseki
-******* TODO <DATE> Japanese
-	- reading
-	- writing
-***** Maintenance
-****** Sorting
-******* TODO <DATE> Change bulbs
-******* TODO <DATE> Sort out temporary container                :maintenance:
-******* TODO <DATE> Sort clothes
-******* TODO <DATE> Sort papers
-******* TODO <DATE> Sort computer desks
-******* TODO <DATE> Sort TV cupboard
-******* TODO <DATE> Sort upstairs cupboard
-******* TODO <DATE> Sort kitchen
-****** Cleaning                                                 :maintenance:
-******* TODO <DATE> Do dishes                                       :routine:
-******* TODO <DATE> Wash clothes
-******* TODO <DATE> Clean kitchen
-******* TODO <DATE> Clean bathroom
-******* TODO <DATE> Clean upstairs
-******* TODO <DATE> Clean living room and stairs
-****** Virtual maintenance                                      :maintenance:
-******* TODO <DATE> Update workstation system                       :routine:
-******* TODO <DATE> Label and archive emails
-******* TODO <DATE> Sort out github repos
-******* TODO <DATE> Setup online profiles
-******* TODO <DATE> Reinstall systems
-******* TODO <DATE> Save links from tabs
-******* TODO <DATE> Youtube video lists
 ** Weekly template to copy
 **** <DATE Mon>
 **** <DATE Tue>
