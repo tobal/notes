@@ -15,58 +15,145 @@
 # [[https://orgmode.org/manual/Agenda-Views.html][Agenda Views]]
 
 * Template
-** Day
-*** Morning routine
-    - Get up
-    - Warm up
-*** Productive time
-    - Workday
-    - Housework
-    - Ordering
-      - Apartment
-      - Virtual (notes, online profiles, etc)
-*** Learning time
-    - Japanese
-      - reading
-      - writing
-      - doing problems
-    - Professional (programming, security, etc)
-      - watch courses
-      - watch conference videos
-      - do coding problems
-*** Practice time
-    - Piano
-      - practice with metronome
-      - practice reading sheet music
-      - practice known songs
-    - Virtual driving
-      - rally
-      - track racing
-    - Coding katas
-      - python
-      - scala
-    - Typing
-*** Necessities
-    - Cook for the day
-    - Do dishes
-*** In betweens
-    - Push up
-    - Kenjutsu steps, cuts
-    - Stretch legs
-*** Leasure time
-    - Passive
-      ToDo during passive leasure: develop grip strength
-      - Youtube
-      - Movies
-    - Active
-      - Video games
-*** Evening routine
-    - Stretch
-    - Plan next day
-    - Hygene
-    - Meditation
-    - Sleep
-** Week
+** All inclusive day
+**** <DATE>
+***** Routines                                                      :routine:
+****** Morning routine
+******* TODO <DATE 05:30> Get up                           :body:maintenance:
+	- Wash face
+	- Drink water
+	- Measure weight
+******* TODO <DATE 05:40> Warm up                          :body:maintenance:
+	- Warm up
+****** Evening routine
+******* TODO <DATE 22:00> Range of motion                  :body:development:
+	- Stretch legs
+	- Stretch chest, arms
+******* TODO <DATE 22:15> Plan next day                            :planning:
+	- Review org file
+	- Prepare for next day
+	  Put stuff into bag, take out meat from freezer, lock door
+******* TODO <DATE 22:30> Hygene of body                   :body:maintenance:
+	- Wash face
+	- Eye training
+	- Dental
+******* TODO <DATE 22:45> Hygene of mind                 :mental:maintenance:
+	- 15 min meditation
+	- write diary
+******* TODO <DATE 23:00> Sleep                     :body:mental:maintenance:
+***** Productivity
+****** Workday                                                         :work:
+****** Projects                                                     :project:
+******* Role playing games
+******** TODO <DATE> MAGUS player character
+******** TODO <DATE> MAGUS elven island civil war campaign
+******** TODO <DATE> 4 simulations campaign
+******* The ever padawan
+******** TODO <DATE> Learn video editing
+******** TODO <DATE> Buy big pendrive                           :expenditure:
+******** TODO <DATE> Edit existing Dark Souls videos
+***** Health
+****** Workout                                                      :workout:
+******* TODO <DATE 06:30> Oldschool gym                          :leavehouse:
+******* TODO <DATE> Cardio training
+	- dancing
+******* TODO <DATE> Weight training
+	- kettlebell swing, military, around head, row, turkish
+******* TODO <DATE> In-betweens
+	- Push up
+	- Kenjutsu steps, cuts
+	- Stretch legs
+****** Food
+******* TODO <DATE> Cook lunch
+******* TODO <DATE> Do groceries                                 :leavehouse:
+****** Leasure time
+       - Passive
+	 ToDo during passive leasure: develop grip strength
+	 - Youtube
+	 - Movies
+       - Active
+	 - Video games
+***** Self improvement
+****** Learning                                                    :learning:
+******* TODO <DATE> Japanese daily challenge                        :routine:
+******* TODO <DATE 16:30> Japanese class                         :leavehouse:
+******* TODO <DATE> Music class                                  :leavehouse:
+******* TODO <DATE> Programming                                     :routine:
+	- do small programming challenges (codewars, hackerrank, etc)
+******* TODO <DATE> IT security
+	- watch lectures
+	- do hacking challenges
+******* TODO <DATE> Artificial intelligence
+	- watch lectures
+	- do learning projects (OpenAI gym, etc)
+******* TODO <DATE> Other technologies
+	- elasticsearch, game development, etc
+******* TODO <DATE> Go
+	- watch lectures
+	- take notes on sequences
+****** Practice                                            :practice:routine:
+******* TODO <DATE> Driving                                   :virtual:pilot:
+	- rally
+	- track racing
+******* TODO <DATE> Piano                                      :artist:music:
+        - practice with metronome
+        - practice reading sheet music
+        - practice known songs
+        - practice singing
+******* TODO <DATE> Typing
+******* TODO <DATE> Coding kata
+******* TODO <DATE> Games
+	- Soulslikes
+	- Roguelikes
+	- RTS
+	- FPS
+	- Flight sim
+	- Arcade
+******* TODO <DATE> Kenjutsu
+	- learn kata
+	- kihon
+******* TODO <DATE> Juggling
+	- staff
+	- ropedart
+******* TODO <DATE> Go
+	- joseki
+******* TODO <DATE> Japanese
+	- reading
+	- writing
+***** Maintenance
+****** Sorting
+******* TODO <DATE> Change bulbs
+******* TODO <DATE> Sort out temporary container                :maintenance:
+******* TODO <DATE> Sort clothes
+******* TODO <DATE> Sort papers
+******* TODO <DATE> Sort computer desks
+******* TODO <DATE> Sort TV cupboard
+******* TODO <DATE> Sort upstairs cupboard
+******* TODO <DATE> Sort kitchen
+****** Cleaning                                                 :maintenance:
+******* TODO <DATE> Do dishes                                       :routine:
+******* TODO <DATE> Wash clothes
+******* TODO <DATE> Clean kitchen
+******* TODO <DATE> Clean bathroom
+******* TODO <DATE> Clean upstairs
+******* TODO <DATE> Clean living room and stairs
+****** Virtual maintenance                                      :maintenance:
+******* TODO <DATE> Update workstation system                       :routine:
+******* TODO <DATE> Label and archive emails
+******* TODO <DATE> Sort out github repos
+******* TODO <DATE> Setup online profiles
+******* TODO <DATE> Reinstall systems
+******* TODO <DATE> Save links from tabs
+******* TODO <DATE> Youtube video lists
+** Weekly template to copy
+**** <DATE Mon>
+**** <DATE Tue>
+**** <DATE Wed>
+**** <DATE Thu>
+**** <DATE Fri>
+**** <DATE Sat>
+**** <DATE Sun>
+** Weekly extra
 *** Monday
     - Role playing
 *** Tuesday
@@ -85,20 +172,26 @@
     - Kenjutsu
     - End of week planning
       - Quest of the week
-** Month
+** Monthly extra
 *** Week 1
     - Groceries for the month
+    - Pay music class
 *** Week 2
 *** Week 3
+    - Pay debt
 *** Week 4
     - Go to hairdresser
     - End of month planning
       - Quest of the month
-** Year
-*** Spring equinox
-*** Summer solstice
-*** Autumn equinox
-*** Winter solstice
+    - Pay japanese class
+** Yearly extra
+*** Spring equinox (march 20)
+    - spring cleaning
+    - tassel until easter
+*** Summer solstice (june 21)
+*** Autumn equinox (september 22)
+    - autumn cleaning
+*** Winter solstice (december 21)
 * 2021
 ** May
 *** <2021-05-06 Thu>
