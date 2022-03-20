@@ -2671,3 +2671,28 @@
     | Kérem mutassa az útlevelét.                               |
     | スタイルは前と同じですか。                                |
     | A frizurád eddig is ilyen volt?                           |
+
+** Day 99 <2022-03-19 Sat>
+*** A megadott szavakat helyezd el a rejtvény celláiban.
+    | た | く |    | は |    | す |    |
+    |    | る |    | ら |    | い |    |
+    |    | ま | ほ | う | づ | か | い |
+    |    |    | う |    |    |    |    |
+    |    |    | れ | い | ぞ | う | こ |
+    |    |    | ん |    |    |    | め |
+    |    | う | そ |    |    |    |    |
+    |    |    | う | る | さ | い |    |
+*** Amikor készen vagy, a legutolsóként beírt szóval írj egy mondatot!
+    | 図書館に うるさく はなしては いけません。 |
+    | A könyvtárban nem szabad hangosan beszélni. |
+*** じしょ
+    | うそ         | hazugság |
+    | うるさい     | hangos|
+    | くるま       |autó |
+    | こめ         | rizs |
+    | すいか       | dinnye |
+    | たく         | ház |
+    | はらう       | fizet |
+    | ほうれんそう | spenót |
+    | まほうづかい | varázsló |
+    | れいぞうこ   | hűtőszekrény |
