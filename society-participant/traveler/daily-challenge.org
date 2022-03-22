@@ -2696,3 +2696,30 @@
     | ほうれんそう | spenót |
     | まほうづかい | varázsló |
     | れいぞうこ   | hűtőszekrény |
+
+** Day 100 <2022-03-21 Mon>
+*** Fordítsd le
+    | Kávét iszom.                          |
+    | コーヒーを のみます。                 |
+    | Igyunk kávét!                         |
+    | コーヒーを のみましょう！             |
+    | Kérsz kávét?                          |
+    | コーヒーは いかがですか。             |
+    | Ihatok kávét?                         |
+    | コーヒーを のんでもいいですか。       |
+    | Kávét szeretnék inni.                 |
+    | コーヒーを のみたい。                 |
+    | Nem kérsz kávét?                      |
+    | こーひーを のみたいではありませんか。 |
+    | Nem szabad kávét inni.                |
+    | コーヒーを のんではいけません。       |
+    | Tetszik kérni kávét?                  |
+    |                                       |
+    | Kávét fogok inni.                     |
+    | コーヒーを のむ つもり です。         |
+    | Épp most ittam kávét.                 |
+    | いま、コーヒーを のみた ところです。  |
+    | Most fogok kávézni.                   |
+    | いま、コーヒーを のむ ところです。    |
+    | Kávézni megyek.                       |
+    | コーヒーを のむに 行きます。          |
