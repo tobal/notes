@@ -2723,3 +2723,30 @@
     | いま、コーヒーを のむ ところです。    |
     | Kávézni megyek.                       |
     | コーヒーを のむに 行きます。          |
+
+** Day 101 <2022-03-22 Tue>
+*** Fordítsd le
+    | Megittam a kávét.                                  |
+    | コーヒーを のんでしまいました。                    |
+    | Iszom-e kávét vagy sem, nem tudom.                 |
+    | コーヒーを のむ かもしれない。                     |
+    | Kávé után kekszet eszek.                           |
+    | コーヒーを のみた あとで クッキーを たべます。     |
+    | Megiszom a kávét.                                  |
+    | コーヒーを のんでいます。                          |
+    | Szeretek kávézni.                                  |
+    | こーひーを のむのが すきです。                     |
+    | Kávé előtt semmit nem csinálok.                    |
+    | コーヒーを のむ まえに なにも します。             |
+    | Kávé után azonnal indulok.                         |
+    | コーヒーを のみた あとで すぐ いきます。           |
+    | Kávézás közben híreket szoktam hallgatni.          |
+    | コーヒーを のみながら、ニュースを ききます。       |
+    | Úgy döntöttem, hogy nem iszom többet kávét.        |
+    |                                                    |
+    | Néha szoktam inni kávét.                           |
+    | ときどき こーひーを のむ ことに しています。       |
+    | Nem nagyon kávézom.                                |
+    |                                                    |
+    | Ittam már cibetmacskakakis kávét. :-)              |
+    | ジャコウネコの コーヒーを のみた ことが あります。 |
