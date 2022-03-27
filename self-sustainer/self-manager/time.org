@@ -734,3 +734,87 @@
 ****** FAILED <2021-12-13 Mon 22:45> Hygene of mind      :mental:maintenance:
        - 15 min meditation
 ****** FAILED <2021-12-13 Mon 23:00> Sleep          :body:mental:maintenance:
+* 2022
+** March
+*** <2022-03-28>
+**** Routines                                                       :routine:
+***** Morning routine
+****** TODO <2022-03-28 05:30> Get up                      :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2022-03-28 05:40> Warm up                     :body:maintenance:
+****** TODO <2022-03-28 05:50> Shower                      :body:maintenance:
+       - Shower
+       - Wash hair
+       - Shave
+***** Evening routine
+****** TODO <2022-03-28 21:00> Range of motion                   :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2022-03-28 21:15> Plan next day                       :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2022-03-28 21:30> Hygene of body                    :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2022-03-28 21:45> Hygene of mind                  :mental:maintenance:
+       - 15 min meditation
+       - write diary
+****** TODO <2022-03-28 22:00> Sleep                      :body:mental:maintenance:
+       - read book
+**** Productivity
+     Workday or personal projects, 8 hours per day, from 9:00 to 17:00
+***** Workday                                                          :work:
+****** TODO <2022-03-28 9:00> Review emails
+****** TODO <2022-03-28 9:30> Deep work
+****** TODO <2022-03-28 13:00> Deep work
+****** TODO <2022-03-28 15:00> Coffee
+****** TODO <2022-03-28 15:30> Deep work
+**** Health
+***** Workout                                                       :workout:
+****** TODO <2022-03-28 06:30> Oldschool gym                           :leavehouse:
+****** TODO <2022-03-28 17:00> Cardio training
+       - dancing
+****** TODO <2022-03-28 17:15> Weight training
+       - kettlebell swing, military, around head, row, turkish
+***** Food
+      - no food challenge
+***** Leasure time
+      Passive leasure time, watch videos or movies
+****** TODO <2022-03-28 20:00> Watch
+       - youtube
+****** TODO <2022-03-28 20:00> In-betweens
+       - [ ] Grip strength
+       - [ ] Push up
+       - [ ] Kenjutsu steps
+       - [ ] Stretch legs
+**** Social
+***** Role playing game
+****** TODO <2022-03-28 20:30> Weekly online RPG w/ Turis
+**** Maintenance
+***** Sorting
+****** TODO <2022-03-28 17:30> Sort out temporary container           :maintenance:
+       - letters
+***** Cleaning                                                  :maintenance:
+****** TODO <2022-03-28 17:30> Do dishes                                  :routine:
+***** Administration
+****** TODO <2022-03-28 17:30> Pay tax
+****** TODO <2022-03-28 17:30> Share tickets
+**** Self improvement
+***** Learning                                                     :learning:
+****** Learn Japanese
+******* TODO <2022-03-28 18:00> Japanese daily challenge
+******* TODO <2022-03-28 18:15> Extend notes, learn words
+****** Learn IT
+******* Other technologies
+******** TODO <2022-03-28 18:30> Watch Elasticsearch lecture
+***** Practice                                             :practice:routine:
+****** TODO <2022-03-28 19:00> Sim racing practice                  :virtual:pilot:
+       - rally
+****** TODO <2022-03-28 19:30> Piano practice                  :artist:music:
+       - try out microphone
+****** TODO <2022-03-28 12:45> Typing
+****** TODO <2022-03-28 9:15> Coding kata
