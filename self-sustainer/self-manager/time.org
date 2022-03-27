@@ -25,6 +25,10 @@
 	- Measure weight
 ******* TODO <DATE 05:40> Warm up                          :body:maintenance:
 	- Warm up
+******* TODO <DATE 05:50> Shower                           :body:maintenance:
+	- Shower
+	- Wash hair
+	- Shave
 ****** Evening routine
 ******* TODO <DATE 21:00> Range of motion                  :body:development:
 	- Stretch legs
@@ -68,14 +72,14 @@
 	- kettlebell swing, military, around head, row, turkish
 ****** Food
 ******* TODO <DATE 11:30> Cook lunch
-******* TODO <DATE 18:00> Do groceries                           :leavehouse:
+******* TODO <DATE 11:30> Do groceries                           :leavehouse:
 ****** Leasure time
        Passive leasure time, watch videos or movies
 ******* TODO <DATE 20:00> Watch
 ******* TODO <DATE 20:00> In-betweens
 	- [ ] Grip strength
 	- [ ] Push up
-	- [ ] Kenjutsu steps, cuts
+	- [ ] Kenjutsu steps
 	- [ ] Stretch legs
 ***** Maintenance
 ****** Sorting
@@ -105,11 +109,11 @@
 ******* TODO <DATE 17:30> Youtube video lists
 ***** Self improvement
 ****** Learning                                                    :learning:
-******* Learn Japanese
+******* Learn japanese
 ******** TODO <DATE 18:00> Japanese daily challenge
 ******** TODO <DATE 18:15> Practice writing
 ******** TODO <DATE 18:15> Practice reading
-******** TODO <DATE 18:15> Do previous challange
+******** TODO <DATE 18:15> Do previous challenge
 ******** TODO <DATE 18:15> Extend notes, learn words
 ******* Learn IT
 ******** Programming
@@ -127,9 +131,10 @@
 ********* TODO <DATE 18:30> Unreal engine tutorial
 ******** Other technologies
 ********* TODO <DATE 18:30> Watch Elasticsearch lecture
-******* TODO <DATE 18:30> Go
-	- watch lectures
-	- take notes on sequences
+******* Learn games
+******** TODO <DATE 18:30> Go
+	 - watch lectures
+	 - take notes on sequences
 ****** Practice                                            :practice:routine:
 ******* TODO <DATE 19:00> Sim racing practice                 :virtual:pilot:
 	- rally
@@ -156,6 +161,9 @@
 ******* TODO <DATE 19:30> Juggling practice
 	- staff
 	- ropedart
+***** Social
+****** Role playing game
+******* TODO <DATE 20:30> Weekly online RPG w/ Turis
 ** Weekly template to copy
 **** <DATE Mon>
 **** <DATE Tue>
