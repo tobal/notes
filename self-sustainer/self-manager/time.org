@@ -9,6 +9,7 @@
 # Agenda: add to agenda files: C-c [; remove with: C-c ]
 # Open agenda: M-x org-agenda RET a; close other window: C-x 1
 # Open original file in window: TAB
+# Change window: C-x o; close current window: C-x 0
 # Change TODO state: t
 # Clock: start: I, stop: O
 # Open diary: i
