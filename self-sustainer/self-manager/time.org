@@ -825,3 +825,59 @@
        - try out microphone
 ****** FAILED <2022-03-28 12:45> Typing
 ****** DONE <2022-03-28 9:15> Coding kata
+*** <2022-03-30>
+**** Routines                                                       :routine:
+***** Morning routine
+****** TODO <2022-03-30 05:30> Get up                            :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+****** TODO <2022-03-30 05:40> Warm up                           :body:maintenance:
+       - Warm up
+****** TODO <2022-03-30 05:50> Shower                            :body:maintenance:
+       - Shower
+       - Wash hair
+       - Shave
+***** Evening routine
+****** TODO <2022-03-30 21:00> Range of motion                   :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+****** TODO <2022-03-30 21:15> Plan next day                             :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+****** TODO <2022-03-30 21:30> Hygene of body                    :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+****** TODO <2022-03-30 21:45> Hygene of mind                  :mental:maintenance:
+       - 15 min meditation
+       - write diary
+****** TODO <2022-03-30 22:00> Sleep                      :body:mental:maintenance:
+       - read book
+**** Productivity
+     Workday or personal projects, 8 hours per day, from 9:00 to 17:00
+***** Workday                                                          :work:
+****** TODO <2022-03-30 9:00> Review emails
+****** TODO <2022-03-30 9:30> Deep work
+****** TODO <2022-03-30 13:00> Deep work
+****** TODO <2022-03-30 15:00> Coffee
+****** TODO <2022-03-30 15:30> Deep work
+**** Health
+***** Workout                                                       :workout:
+****** TODO <2022-03-30 06:30> Oldschool gym                           :leavehouse:
+****** TODO <2022-03-30 18:20> Kenjutsu training at Gödöllő      :leavehouse:
+***** Food
+****** TODO <2022-03-30 11:30> Fasting day
+**** Maintenance
+***** Cleaning                                                  :maintenance:
+****** TODO <2022-03-30 17:00> Mop up apartment
+****** TODO <2022-03-30 17:30> Do dishes                                  :routine:
+****** TODO <2022-03-30 17:30> Clean living room and stairs
+**** Self improvement
+***** Learning                                                     :learning:
+****** Learn japanese
+******* TODO <2022-03-30 18:00> Japanese daily challenge
+***** Practice                                             :practice:routine:
+****** TODO <2022-03-30 12:45> Typing
+****** TODO <2022-03-30 9:15> Coding kata
