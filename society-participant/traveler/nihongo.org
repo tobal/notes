@@ -295,7 +295,39 @@
      - 着物 kimono
      - 兄弟 testvérek
      - 家族 család
-
+** Ozora
+| Japán nap Ozorán                                                                                                                                       |
+| Ozoraの 日本の ようび。                                                                                                                                |
+| Idén az Ozora fesztiválon japán nap volt.                                                                                                              |
+| ことし Ozoraのフェスティバルに 日本の ようびは ありました。                                                                                            |
+| Ekkor 24 órán keresztül csak japán zenészek játszottak az egyik helyszínen.                                                                            |
+| ステージのひとつに ２４時間に 日本の おんがくか だけは そうしました。（奏する）                                                                        |
+| Emiatt a szokásosnál jóval több japán érkezett a fesztiválra, én pedig eldöntöttem, hogy megpróbálok beszélni velük.                                   |
+| このため いつもより 日本人は 来ました、話す ことに しました。                                                                                          |
+| Az Ozora egy zenei és összművészeti fesztivál, amit 2004 óta évente megrendeznek.                                                                      |
+| Ozoraは おんがくと げいじゅつの フェスティバル です。毎年に おこないます。                                                                             |
+| A fesztivált egy másfél négyzetkilométeres területen tartják, a Tolna megyei Ozorától nem messze.                                                      |
+| Tolna県の Ozoraに ちかい 1.5 平方キロメートル めんせき（面積）に あります。                                                                            |
+| Sajnos a fesztiválról sokan azt gondolják, hogy ott mindenki csak drogozik.                                                                            |
+| TBD                                                                                                                                                    |
+| De azt kell mondjam, hogy a tapasztalatom alapján ez a buta sztereotípia - Ilonka, fogd be a füledet - teljes mértékben igaz.                          |
+| でも、ぼくの けいけん（経験）に より、この ばか きせいがいねん（既成概念）は - Ilonka、耳を覆ってください - ぜったいに ほんと です。                   |
+| A fesztiválon a zene mellett rengeteg más program, pl. testmozgással és művészetekkel kapcsolatos workshopok, előadások, vetítések is vannak.          |
+| フェスティバルに zene mellett rengeteg más program、たとえば うんどうとげいじゅつの けんしゅうかい（研修会）や、こうぎ（講義）や、vetítésは あります。 |
+| A fesztiválon mindenki nagyon kedves és közvetlen, ezért nem okozott gondot idegen japánokat megszólítani.                                             |
+| みんなは とても このましいとちょくせつ（直接）から、日本人に 話すのは やさしい でした。                                                                |
+| De sajnos a gyér szókincsem miatt a beszélgetések nagyon rövidek voltak.                                                                               |
+| でも、ざんねんながら ぼくの ちいさな たんご（単語）から、はなすのは とても みじかい でした。                                                           |
+| Általában így kezdődtek:                                                                                                                               |
+| TBD                                                                                                                                                    |
+| Hello                                                                                                                                                  |
+| Hello                                                                                                                                                  |
+| 日本人ですか。                                                                                                                                         |
+| はい、日本人です！                                                                                                                                     |
+| えいごが 話せますか。                                                                                                                                  |
+| ちょっと。。。                                                                                                                                         |
+| Nagyon jól éreztem magam a fesztiválon, remélem jövőre is tudok menni.                                                                                 |
+| TBD                                                                                                                                                    |
 * Daily practices
 *** Morning
     - Reggel 5:30-kor kelek.
@@ -335,4 +367,3 @@
     - Este 11-kor nyújtó gyakorlatokat végzek.
     - Utána megmosom az arcom, fogat mosok.
     - Aztán lefekszem, és olvasok addig, amíg el nem álmosodok.
-
