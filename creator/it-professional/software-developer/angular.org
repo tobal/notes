@@ -13,3 +13,34 @@
       > ng new my-dream-project --no-strict
       > cd my-dream-project
       > ng serve
+
+** Section 5 - Components and databinding deep dive
+   Property and event binding can be done on HTML elements (with native properties and events), or on our own
+   directives and components too (with native properties and events).
+*** Property and event binding
+**** Binding to custom properties
+    - Properties by default are not bindable from outside
+    - It can be done by adding a decorator in front og the property definition
+      @Input() element: {type: string, name: string, content: string}
+    - Usage in html:
+      <directive-name [element]="variable-name"></directive-name>
+**** Assigning an alias
+    - It can be used with an alias too
+      @Input('srvElement') element: {type: string, name: string, content: string}
+      <directive-name [srvElement]="variable-name"></directive-name>
+**** Binding to custom events
+    - We want to notify the parent component, so the other way around
+      - we listen for the event, and call our function
+        <directive (eventName)="onEvent($event)"></directive>
+      - to define an event, put in the component (like a property):
+        @Output() eventName = new EventEmitter<{type: definition, of: event}>();
+      - to emit the event:
+        this.eventName.emit({type: "tip", of: "event"})
+**** Assigning an alias
+    - These can be used with an alias too
+      @Input('srvElement') element: {type: string, name: string, content: string}
+      <directive-name [srvElement]="variable-name"></directive-name>
+      @Output('ev') eventName = new EventEmitter<{type: definition, of: event}>();
+      <directive (ev)="onEvent($event)"></directive>
+*** View encapsulation
+    - in Angular, scope of css files are limited to the component to which it belongs (style encapsulation)
