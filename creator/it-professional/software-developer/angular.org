@@ -1,0 +1,15 @@
+* Udemy course
+** Section 1 - Getting started
+   Angular is a Javascript framework which allows you to create reactive Single-Page-Applications (SPAs)
+   The DOM is changed on the fly, there is only a single html
+*** CLI
+    [[https://github.com/angular/angular-cli][CLI git repo]]
+    For project creation, must use nodejs LTS (version 17 not working)
+*** Project setup
+    - install nodejs and npm
+    - install angular cli
+      > sudo npm install -g @angular/cli@latest
+    - create new project
+      > ng new my-dream-project --no-strict
+      > cd my-dream-project
+      > ng serve
