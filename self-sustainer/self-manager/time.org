@@ -995,3 +995,35 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 94.9 |       3 |       0 |              0 |     2 |       464 |  1418 |         6 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2022-08-22 Mon>
+**** DONE <2022-08-22 Mon 05:45> Get up
+**** DONE <2022-08-22 Mon 07:00> Oldschool workout
+**** DONE <2022-08-22 Mon 09:15> Let the demons take control
+**** DONE <2022-08-22 Mon 09:45> Work
+**** DONE <2022-08-22 Mon 11:00> Daily meeting
+**** DONE <2022-08-22 Mon 11:15> Lunch
+     - fried plate, rice, fermented cabbage
+     - 2x protein bar
+**** DONE <2022-08-22 Mon 11:45> Youtube
+     - AoE4
+**** DONE <2022-08-22 Mon 12:30> Sim racing
+     - F1 2019 Melbourne circuit
+**** DONE <2022-08-22 Mon 13:20> Work
+**** DONE <2022-08-22 Mon 14:10> Sim racing
+     - F1 2019 Melbourne circuit
+**** DONE <2022-08-22 Mon 14:50> Doing nothing
+**** DONE <2022-08-22 Mon 15:40> Work
+**** DONE <2022-08-22 Mon 16:20> Doing nothing
+**** DONE <2022-08-22 Mon 17:00> Sleep
+**** DONE <2022-08-22 Mon 17:50> Doing nothing
+**** DONE <2022-08-22 Mon 19:00> Buy junk food
+**** DONE <2022-08-22 Mon 20:30> Role playing
+**** DONE <2022-08-22 Mon 23:15> Doing nothing
+**** DONE <2022-08-23 Tue 00:45> Sleep
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 94.5 |       7 |       0 |              6 |     2 |         0 |  2257 |         6 |
+     |      |         |         |                |       |           |       |           |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
