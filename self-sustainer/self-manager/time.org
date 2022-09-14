@@ -1027,6 +1027,7 @@
      | 94.5 |       7 |       0 |              6 |     2 |         0 |  2257 |         6 |
      |      |         |         |                |       |           |       |           |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
+
 *** <2022-08-23 Tue>
 **** DONE <2022-08-23 Tue 09:15> Get up
 **** DONE <2022-08-23 Tue 09:45> Work
@@ -1040,4 +1041,33 @@
      |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 94.5 |       7 |       0 |              6 |     2 |         0 |  2257 |         6 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+** September
+*** <2022-09-14 Wed>
+**** DONE <2022-09-14 Wed 05:30> Wake up, snooze...
+**** DONE <2022-09-14 Wed 06:00> Get up, coffee
+**** DONE <2022-09-14 Wed 07:00> Oldschool workout
+**** DONE <2022-09-14 Wed 08:15> Drive to work
+**** DONE <2022-09-14 Wed 08:50> Breakfast
+     - eggs, ham, sausage
+**** DONE <2022-09-14 Wed 09:00> Work
+**** DONE <2022-09-14 Wed 11:00> All hands meeting
+**** DONE <2022-09-14 Wed 12:00> Lunch
+     - wholegrain bagette, ham, fruits
+**** DONE <2022-09-14 Wed 13:00> Angular online course
+**** DONE <2022-09-14 Wed 14:00> Work
+**** DONE <2022-09-14 Wed 16:25> Drive home
+**** DONE <2022-09-14 Wed 17:00> Dinner
+     - chicken, fermented cucumber, joghurt
+**** DONE <2022-09-14 Wed 17:30> Waste time
+     - watch youtube: AoE4 meta
+**** DONE <2022-09-14 Wed 20:00> Upload to youtube
+**** DONE <2022-09-14 Wed 20:15> Waste time
+**** DONE <2022-09-14 Wed 21:00> Practice piano
+**** DONE <2022-09-14 Wed 21:45> Learn japanese
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 92.5 |       6 |       7 |              8 |     1 |        17 |  5475 |       4.5 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
