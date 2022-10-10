@@ -1,5 +1,10 @@
 * Fergetegliget felszabadítása (M.A.G.U.S. UTK)
 ** Háttér
+*** A sziget földrajza
+    - A sziget három tartománya, és járásaik:
+      - Északi: Agros
+      - Keleti: Mithrus
+      - Déli: Tyndros
 ** Játékmenet
 *** Hajóút Új-Pyarronból
     A karakterek Új-Pyarronból indulnak, nem ismerik egymást. Mindannyian jegyet váltanak egy hajóra, ami az északi
@@ -34,6 +39,9 @@
     - Ahogy szétnéznek, látják hogy a tenger felől az egész láthatáron vihar tombol
     - A kapitány is túléli, mindenki más odavész
     - A megmentőjük egy veterán tábornok, a neve *Corronis Daritus*
+      - Ha kérdik, elmondja hogy az Agros-i felszabadító hadsereg tábornoka, és az első gyalogsági század parancsnoka
+      - Elmondja, hogy fellázadtak az uralkodó ellen, de leverték a sereget, nem járt sikerrel a felkelés
+      - Így kerültek fogságba az emberei
     - A hajótörésből maradt holmikat egy tutajt használva összeszedte, és visszaszolgáltatja a karaktereknek
     - Cserébe a szívességért csak annyit kér, hogy segítsenek neki kiszabadítani a csapatait, akiket egy katonai táborban
       tartanak fogva
