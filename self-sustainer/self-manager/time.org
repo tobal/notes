@@ -1076,9 +1076,10 @@
 **** DONE <2022-09-15 Thu 12:10> Wash clothes
 **** DONE <2022-09-15 Thu 12:15> Cook lunch
 **** DONE <2022-09-15 Thu 12:20> Do dishes
-**** DONE <2022-09-15 Thu 12:40> Chill
+**** DONE <2022-09-15 Thu 12:40> Escape reality
 **** DONE <2022-09-15 Thu 13:00> Practice piano
 **** DONE <2022-09-15 Thu 13:20> Lunch
+     - fried chicken, fermented cabbage
 **** DONE <2022-09-15 Thu 13:35> Work
 **** DONE <2022-09-15 Thu 14:20> Go to shoemaker
 **** DONE <2022-09-15 Thu 14:40> Take out cash
@@ -1087,6 +1088,7 @@
 **** DONE <2022-09-15 Thu 16:30> Practice rally sim
 **** DONE <2022-09-15 Thu 17:10> Cook dinner
 **** DONE <2022-09-15 Thu 17:20> Dinner
+     - fried parizer, bread
 **** DONE <2022-09-15 Thu 17:35> Waste time
 **** DONE <2022-09-15 Thu 19:35> Learn japanese
 **** DONE <2022-09-15 Thu 19:50> Waste time
@@ -1095,4 +1097,26 @@
      |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 92.7 |       8 |       1 |              2 |     3 |         0 |  3286 |       5.5 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2022-09-24 Sat>
+**** DONE <2022-09-24 Sat 12:30> Get up
+**** DONE <2022-09-24 Sat 12:50> Lunch
+     - grilled chicken, fermented cucumber
+**** DONE <2022-09-24 Sat 13:20> Shower
+**** DONE <2022-09-24 Sat 13:50> Go to Arena Mall
+**** DONE <2022-09-24 Sat 14:20> Arena Kupa practice
+**** DONE <2022-09-24 Sat 14:50> Go home
+**** DONE <2022-09-24 Sat 15:20> Waste time
+**** DONE <2022-09-24 Sat 17:00> Do japanese homework
+**** DONE <2022-09-24 Sat 18:30> Dinner
+     - grilled chicken, fermented cucumber
+**** DONE <2022-09-24 Sat 19:00> Watch AoE4
+**** DONE <2022-09-24 Sat 20:30> Before
+**** DONE <2022-09-24 Sat 23:30> Party
+     - Colyn, ANII
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 92.3 |       6 |       0 |              2 |     1 |         7 |  7278 |         8 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
