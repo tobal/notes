@@ -17,7 +17,7 @@
     #+attr_html: :width 600px
     #+attr_latex: :width 600px
     #+NAME:   fig:CARAVEL-001
-    [[./img/caravel-diagram.png]]
+    [[./img/thundergrove/sail-travel/caravel-diagram.png]]
 **** Hajóút
      - Miután kifutottak, és a kapitány kiosztotta a parancsait, megmutatja nekik a kabinjaikat (az orr részben), és elmondja
        mikor lesz ebéd, amit a kapitány kabinjában fognak elkölteni, a kapitánnyal és két tisztjével
