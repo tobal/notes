@@ -1,0 +1,39 @@
+* Fergetegliget felszabadítása (M.A.G.U.S. UTK)
+** Háttér
+** Játékmenet
+*** Hajóút Új-Pyarronból
+    A karakterek Új-Pyarronból indulnak, nem ismerik egymást. Mindannyian jegyet váltanak egy hajóra, ami az északi
+    Pentád térségébe indul másnap. Itt még felkészülhetnek, bevásárolhatnak a másnapi út előtt
+    - Megismerkednek a kapitánnyal, aki kalandozóból lett kereskedő, a neve *Ternel Ranthar*
+    - Azt javasolja, hogy adják el a lovaikat, és vegyenek másikat miután célbaértek, de némi felárért lovakat is tud vinni
+**** Indulás
+     - Másnap reggel a karakterek elmennek a kikötőbe, ahol már rakodják a hajót
+     - A hajó neve Rézsellő, Ranthar büszke szívvel beszél róla, egy három árbocos karavella, 20 fős legénységgel,
+       az orrán egy rézből készült sellő alakú orrdísz
+     - Kereskedőhajó, de néha utasokat is szállít, most épp ércekkel van megrakodva
+     - A rakodás után el is indulnak, a karakterek itt találkoznak először
+    #+CAPTION: Karavella felépítése
+    #+attr_html: :alt Karavella felépítése
+    #+attr_html: :width 600px
+    #+attr_latex: :width 600px
+    #+NAME:   fig:CARAVEL-001
+    [[./img/caravel-diagram.png]]
+**** Hajóút
+     - Miután kifutottak, és a kapitány kiosztotta a parancsait, megmutatja nekik a kabinjaikat (az orr részben), és elmondja
+       mikor lesz ebéd, amit a kapitány kabinjában fognak elkölteni, a kapitánnyal és két tisztjével
+     - A vacsorakor mindenkit egyenként kikérdez, ki honnan jött, miért tart északra, megismerkednek a karakterek
+     - Öt nap elteltével kiérnek a Gályák tengeréről, de nem kapnak kedvező szelet
+     - A kapitány úgy dönt, nem a partmenti szigetek mentén folytatja, hanem a Keleti óceán nyílt vize felé veszi az irányt,
+       úgy gondolja így gyorsabban célhoz érnek
+**** Hajótörés a viharban
+     - Néhány nappal ezután egy hatalmas vihart fedeznek fel a horizonton. A kapitány úgy dönt, megkerüli nyugat felől
+     - A kerülés közben túl közel mennek a viharhoz, ami szinte kinyúl értük, és bekebelezi a hajót
+     - A hajó elsüllyed, a karakterek eszméletüket vesztik
+*** Ébredés Fergetegligeten
+    - Amikor magukhoz térnek, egy rögtönzött menedékhelyen, egy sátorban találják magukat, egy agyagos tengerparton
+    - Ahogy szétnéznek, látják hogy a tenger felől az egész láthatáron vihar tombol
+    - A kapitány is túléli, mindenki más odavész
+    - A megmentőjük egy veterán tábornok, a neve *Corronis Daritus*
+    - A hajótörésből maradt holmikat egy tutajt használva összeszedte, és visszaszolgáltatja a karaktereknek
+    - Cserébe a szívességért csak annyit kér, hogy segítsenek neki kiszabadítani a csapatait, akiket egy katonai táborban
+      tartanak fogva
