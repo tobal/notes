@@ -3,6 +3,9 @@
 *** A sziget földrajza
     - A sziget három tartománya, és járásaik:
       - Északi: Agros
+	- északi uradalom: Agyagpart
+	- déli uradalom: Csermely síkság
+	- keleti uradalom:
       - Keleti: Mithrus
       - Déli: Tyndros
 ** Játékmenet
@@ -39,12 +42,26 @@
     - Ahogy szétnéznek, látják hogy a tenger felől az egész láthatáron vihar tombol
     - A kapitány is túléli, mindenki más odavész
     - A megmentőjük egy veterán tábornok, a neve *Corronis Daritus*
-      - Ha kérdik, elmondja hogy az Agros-i felszabadító hadsereg tábornoka, és az első gyalogsági század parancsnoka
+      - Ha kérdik, elmondja hogy az Agros-i felszabadító hadsereg tábornoka, és a Babérfűz első gyalogsági század parancsnoka
+	(régről az elf háborúból maradt meg a hagyomány, hogy fafajtákról nevezik el az alakulatokat)
       - Elmondja, hogy fellázadtak az uralkodó ellen, de leverték a sereget, nem járt sikerrel a felkelés
       - Így kerültek fogságba az emberei
+      - A csata a keleti uradalomban volt, de az agyagpartig kergették a túlélőket. Sokan fogságba estek, és végül
+	a Babérfűz gyalogsági század is megadta magát nem messze, a Tüske hegység lábánál.
     - A hajótörésből maradt holmikat egy tutajt használva összeszedte, és visszaszolgáltatja a karaktereknek
     - Cserébe a szívességért csak annyit kér, hogy segítsenek neki kiszabadítani a csapatait, akiket egy katonai táborban
       tartanak fogva
+**** A foglyok tábora
+     - A foglyokat egy palánkvárban tartják fogva, ami egyben az egyik királyi hadtest tábora is
+     - A tábor a hegység szélén található, egy sziklafal tövében
+       - Nappal nagy a nyüzsgés a táborban, a közelben élelmet gyűjtenek, vagy elmennek kérni a közeli tanyákról, vízért
+	 járnak, stb
+       - Éjszaka bezárják a kaput, és csak a tornyokban, a kapunál, és a tábornoki sátor előtt állnak őrt
+       - De a rajtaütés estéjén van még egy részeg a főzőhelynél
+     - A karakterekre van bízva, hogy hogyan szabadítják ki őket
+       - Lebonthatják a falat a sziklafal mellett, így be se kell menniük
+       - Felgyújthatják a raktárat (tele tüzifával és kajával), és meglóghatnak amíg a tűzzel vannak elfoglalva
+       - Halkan leszedhetik az őröket, a foglyoknak fegyvert adhatnak (a gyakorlótér melletti ládákból)
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
