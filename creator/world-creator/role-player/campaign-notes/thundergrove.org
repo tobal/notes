@@ -45,3 +45,18 @@
     - A hajótörésből maradt holmikat egy tutajt használva összeszedte, és visszaszolgáltatja a karaktereknek
     - Cserébe a szívességért csak annyit kér, hogy segítsenek neki kiszabadítani a csapatait, akiket egy katonai táborban
       tartanak fogva
+** Krónika
+*** Karakterek
+**** Turi - Ardgal (dél)
+    Kinézet: 180cm, jó kötésű, nehéz vértezet (fekete acél félvért), csataló, borostás, szögletes arc, vállig fekete haj,
+    két kard, lovon táskák, fegyverek
+**** Peti - Ado (gorvik)
+    Kinézet: kövérkés, 180cm, kopasz, nagydarab, fekete ruha, hosszúíj, cica a vállán
+**** Srí - Belkar (dordon hegység)
+    Kinézet: gnóm, elegáns ruha, oldalán kard
+**** Fekszi - Ilvir (shadon)
+    Kinézet: alacsonyabb, kopasz, rövid szakáll, fehér ing, többi ruha fekete és barna, fekete köpeny csuklyával,
+    íj, oldalán rövid kard
+**** Fix - Zontar (keleti sztyeppék)
+    Kinézet: 190cm, 110kg, hoszsú szőke, izmos, félmesztelen, hátán farkasbőr, kétkezes csatabárd, bicepszen bőrszíjak,
+    bőrnadrág
