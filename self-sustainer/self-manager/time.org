@@ -1121,75 +1121,77 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
 ** October
 *** <2022-10-22 Sat>
-**** TODO <2022-10-22 Sat 07:30> Get up
+**** DONE <2022-10-22 Sat 07:30> Get up
      - Make bed
      - Wash face
      - Drink water
      - Measure weight
-**** TODO <2022-10-22 Sat 07:40> Warm up
-**** TODO <2022-10-22 Sat 07:50> Wash clothes
-**** TODO <2022-10-22 Sat 08:00> Pay stuff
-**** TODO <2022-10-22 Sat 08:10> Deep work
+**** FAILED <2022-10-22 Sat 07:40> Warm up
+**** DONE <2022-10-22 Sat 07:50> Wash clothes
+**** DONE <2022-10-22 Sat 08:00> Pay stuff
+**** DONE <2022-10-22 Sat 08:10> Deep work
      - test upgrade
-**** TODO <2022-10-22 Sat 08:30> Do groceries
+**** DONE <2022-10-22 Sat 08:30> Do groceries
      - Aldi
-**** TODO <2022-10-22 Sat 09:15> Write grocerie list
-**** TODO <2022-10-22 Sat 09:30> Age of Empires 4 practice
-     - practice build order, to feudal and castle
-**** TODO <2022-10-22 Sat 10:00> In-betweens
+     - 1h
+**** DONE <2022-10-22 Sat 09:15> Write grocerie list
+**** DONE <2022-10-22 Sat 09:30> Age of Empires 4 practice
+     - practice build order, to feudal
+**** DONE <2022-10-22 Sat 10:00> In-betweens
      - Kenjutsu steps
-**** TODO <2022-10-22 Sat 10:00> Deep work
+**** FAILED <2022-10-22 Sat 10:00> Deep work
      - fix review comments
-**** TODO <2022-10-22 Sat 10:30> Dry clothes
-**** TODO <2022-10-22 Sat 10:40> Cook lunch
+**** DONE <2022-10-22 Sat 10:30> Dry clothes
+**** DONE <2022-10-22 Sat 10:40> Cook lunch
      - fried párizsi
-**** TODO <2022-10-22 Sat 11:00> In-betweens
+**** DONE <2022-10-22 Sat 11:00> In-betweens
      - Grip strength
-**** TODO <2022-10-22 Sat 11:00> Chill time
-**** TODO <2022-10-22 Sat 12:00> Japanese homework
+**** FAILED <2022-10-22 Sat 12:00> Japanese homework
      - weekly practice
-**** TODO <2022-10-22 Sat 12:30> Role playing game campaign
+**** DONE <2022-10-22 Sat 12:30> Role playing game campaign
      - make map
-**** TODO <2022-10-22 Sat 12:30> In-betweens
+**** DONE <2022-10-22 Sat 12:30> In-betweens
      - Stretch legs
-**** TODO <2022-10-22 Sat 13:30> Deep work
+**** FAILED <2022-10-22 Sat 13:30> Deep work
      - write html
-**** TODO <2022-10-22 Sat 14:30> Buy stuff
+**** DONE <2022-10-22 Sat 14:30> Buy stuff
      - shampoo, protein, melatonin
-**** TODO <2022-10-22 Sat 15:30> Weight training
+**** FAILED <2022-10-22 Sat 15:30> Weight training
      - kettlebell swing, military, around head, row, turkish
-**** TODO <2022-10-22 Sat 15:45> Role playing game campaign
+**** DONE <2022-10-22 Sat 15:45> Role playing game campaign
      - read up on elves
+**** FAILED <2022-10-22 Sat 15:45> Role playing game campaign
      - elaborate faith
-**** TODO <2022-10-22 Sat 16:30> In-betweens
+**** DONE <2022-10-22 Sat 16:30> In-betweens
      - Push up
-**** TODO <2022-10-22 Sat 16:30> Age of Empires 4 practice
-     - practice build order, to feudal and castle
+**** FAILED <2022-10-22 Sat 16:30> Age of Empires 4 practice
+     - practice build order, to castle
+**** FAILED <2022-10-22 Sat 16:30> Age of Empires 4 practice
      - play online
-**** TODO <2022-10-22 Sat 18:00> Cardio training
+**** FAILED <2022-10-22 Sat 18:00> Cardio training
      - dancing
-**** TODO <2022-10-22 Sat 18:15> Dinner
-     - sandwich
-**** TODO <2022-10-22 Sat 18:45> Chill time
-**** TODO <2022-10-22 Sat 21:00> Range of motion
+**** DONE <2022-10-22 Sat 18:15> Dinner
+     - egg bacon tortilla
+**** FAILED <2022-10-22 Sat 21:00> Range of motion
      - Stretch legs
      - Stretch chest, arms
-**** TODO <2022-10-22 Sat 21:15> Plan next day
+**** FAILED <2022-10-22 Sat 21:15> Plan next day
      - Review org file
      - Prepare for next day
        Put stuff into bag, take out meat from freezer, lock door
-**** TODO <2022-10-22 Sat 21:30> Hygene of body
+**** FAILED <2022-10-22 Sat 21:30> Hygene of body
      - Wash face
      - Eye training
      - Dental
-**** TODO <2022-10-22 Sat 21:45> Hygene of mind
+**** FAILED <2022-10-22 Sat 21:45> Hygene of mind
      - 10 min meditation
      - write diary
-**** TODO <2022-10-22 Sat 22:00> Sleep
-     - read book
+**** DONE <2022-10-22 Sat> Wash dishes
+**** DONE <2022-10-22 Sat> Watch F1 qualifying
+**** DONE <2022-10-22 Sat> Watch F1 3rd free practice
 **** Stat table
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     |    |         |         |                |       |           |       |           |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 92.8 |      10 |       1 |              6 |     1 |         0 |  7704 |         3 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
