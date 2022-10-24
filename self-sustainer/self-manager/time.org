@@ -1193,5 +1193,20 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
-     | 92.8 |      10 |       1 |              6 |     1 |         0 |  7704 |         3 |
+     | 92.8 |      10 |       2 |              6 |     1 |         0 |  7704 |         3 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2022-10-23 Sun>
+**** DONE Age of Empires 4 practice build order to castle
+**** DONE Age of Empires 4 play online
+**** DONE In-betweens grip strength
+**** DONE Japanese homework
+**** DONE Japanese class
+**** DONE Kenjutsu training
+**** DONE Watch F1 race
+**** DONE Do review comments
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 93.1 |      10 |       4 |              2 |     1 |        20 |  7704 |         8 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
