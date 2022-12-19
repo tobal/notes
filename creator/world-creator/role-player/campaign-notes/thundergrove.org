@@ -138,10 +138,10 @@
      - Ha beszélgetnek a falusiakkal, kiderül hogy:
        - Itt vannak a tartomány legjobb mesteremberei, de mióta megbénult a kereskedelem, nem tudnak dolgozni
        - A falu régóta nem kap vasércet a Tüskés hegység bányáiból, ezért nem tudnak dolgozni a mesteremberek
-       - A kivont pénz miatt a kereskedelem szinte megszűnt, ezért fát is alig tudnak venni a közeli erdő favágóitól
        - Étel is alig érkezik, a délre lévő parasztok szokták ellátni a térséget, de föld alatti szörnyek miatti rossz
 	 termésre panaszkodnak, ezért nem hajlandóak a saját tartalékaikat megosztani a faluval
        - Ezért nem hajlandóak ellátni a csapatokat, bár szimpatizálnak az üggyel
+       - A favágók egy ideje nem jönnek a faluba, hogy fát adjanak el
 **** Tunyogmatolcs
      - Földművelő falu, kicsi, a legtöbb földműves a környező tanyákon él
      - Van egy kocsma, Korcsma az árpakalászhoz
@@ -156,7 +156,44 @@
      |------------+--------------------------------------------------+----------+-----------------------------------------------------------------------------------------------+-----+----------------------+-------------------+-----+---------------------------|
      | Óriásféreg | 3k10 utána 1k10/kör, csak Fp, kicsi fogai vannak | 1k10/kör | 6/2, rövid fegyverrel vagy nyíllal nem lehet Ép sebet ejteni rajta                            | 150 | Gyors próba -2/+4-el | 1/3 körönként sav | 100 | 360                       |
      | Falény     | 1k10 + 5                                         |          | csak súlyosabb fegyverekkel sebezhető, legjobb a balta, kard max 1 Ép-t sebez, tűz jó ellenne |  80 | 150                  | 2                 | 100 | csak túlütéssel sebezhető |
-
+**** Mecsekpölöske
+     - Bányászfalu, az ide vezető út hosszú és veszélyes (nappal 4 óránként érkezik támadás, éjszaka ha nincsenek védett
+       helyen, állandóan támadják őket)
+     - Maga a hegység belselyében megfigyelhetők a szél koptatta egyedi alakzatok, ami által karcsúbb, de magasabb, hegyesebb
+       hegycsúcsok alakultak itt ki
+     - Három akna van a falu mellett lévő nagy tárnán kívül
+       - Lepény akna
+       - Rózsa akna
+       - Akác akna
+     - A kocsmában (Korcsma az Acélpörölyhöz) csak gombasört kapnak, mert régóta nem járnak a kereskedők az óriáspókok miatt
+     - A pókok régen nem voltak ilyen agresszívek, kellett velük vigyázni, de nem volt probléma
+     - Pár hónapja egy vörös fajta pók jelent meg, és azóta agresszívek, bárkit megtámadnak azonnal
+     - Azóta leállt a bányászat, csak a szomszédos halászfaluig merészkednek el, hogy halat hozzanak, cserébe gombát visznek
+     - Az óriáspókok valójában
+       - Nem pókok, inkább hangyafélék, de mérgező a harapásuk
+       - Kétféle van, a régi fekete, és az újonnan megjelent vörös
+	 - A fekete hangya mérge irtózatos fájdalmat okoz, körönként 3k10 majd 2k10 majd 1k10 Fp minusz utána a seb helye
+	   fáj még sokáig, 10 percig körönként 1Fp (összesen 60), de ha foglalkozik vele egy herbalista, könnyen tud enyhítő
+	   borogatást rakni rá
+	 - A vörös hangya mérge ellen körönként -2,-3, stb. Ake próbával lehet ellenállni, ha EG próba nincs meg -2-vel
+	 - Ha elvéti, teljesen megzavarodik, k6: 1-2 elkezd menekülni, 3-4 egy helyben katatón állapotban bámul, 5-6 megtámadja
+	   a legközelebb lévőt
+	 - Csak akkor sikerül a méreg fecskendezés, ha túlütés van, ekkor viszont nem okoz Ép sebet
+     |-------------+-------------+-----+------------+-----+---------+----+----|
+     | Név         | Harapás sbz | SFÉ | VÉ         |  TÉ | Tám/kör | Ép | Fp |
+     |-------------+-------------+-----+------------+-----+---------+----+----|
+     | Óriáshangya | 1k6         |   2 | 180/70+táv | 110 | 2       | 5  | 26 |
+     - A Rózsa aknában fészkel a vörös királynő, az Akác aknában a fekete, mindkettő elhagyott, nem használt bánya már
+       - A Rózsa aknában egyszer régen vízért találtak, amit most egy nagy vas-kapu zár el a járattól. Ha kinyitják,
+	 eláraszthatják a bányát, és ha lezárják valamivel az egyetlen kijáratot, akkor megölik a teljes vörös kolóniát
+       - Minél közelebb vannak egy fészekhez, annál nagyobb valószívűséggel találkoznak ilyen vagy olyan hangyával
+       - Megérezhetik a feromonjaikat, amiből különbözőt bocsátanak ki ha csak felderítenek (barát), vagy ha ellenséget találnak
+	 így négyféle feromont különböztethetnek meg, amiket a hangyák tetemeiből ki is vonhatnak
+     - A faluban tudják, hogy hol van a fekete királynő, azért hagyták el az aknát, mert beköltözött, de ez nem volt baj, mert
+       már majdnem kiürült
+     - 
+     - 
+**** Gerényes
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
