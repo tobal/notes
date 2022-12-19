@@ -1,13 +1,25 @@
 * Fergetegliget felszabadítása (M.A.G.U.S. UTK)
 ** Háttér
 *** A sziget földrajza
-    - A sziget három tartománya, és járásaik:
+    - A sziget három tartománya, és uradalmaik:
       - Északi: Agros
 	- északi uradalom: Agyagpart
+	  - favágó falu: Kercseliget
+	  - mesterember falu: Kaposszekcső
+	  - hegyi halászfalu: Gerényes
+	  - agyagparti halászfalu: Kisvaszar
+	  - bányászfalu: Mecsekpölöske
+	  - földműves falu: Tunyogmatolcs
 	- déli uradalom: Csermely síkság
-	- keleti uradalom:
+	- keleti uradalom: Agros (ura: Wolemor Nevur)
       - Keleti: Mithrus
       - Déli: Tyndros
+*** Helységnevek
+    Tokodaltáró, Tunyogmatolcs
+*** Történelem, múlt
+**** Agros ura, Wolemor Nevur
+     Megtudhatják tőle: Amikor a Mithrus tartomány ura fellázadt, a király parancsára, kényszerítésére támadták meg őket
+     Agros tartományból. Az, hogy utána Agros is fellázadt, bizonyíték erre.
 ** Játékmenet
 *** Hajóút Új-Pyarronból
     A karakterek Új-Pyarronból indulnak, nem ismerik egymást. Mindannyian jegyet váltanak egy hajóra, ami az északi
