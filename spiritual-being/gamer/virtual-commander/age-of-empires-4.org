@@ -9,25 +9,26 @@
    - 3 villagers to gold (and build mine)
    - subsequent villagers to food until landmark available
 ** Rus
-*** Fast feudal
-    - 1 villager builds hunting cabin
-    - other villagers on food
-    - 1st trained villager builds house, then lumber camp
-    - all new villagers on food
-    - train 2 scouts, explore, kill gaia
-    - food/wood: 9/1, 9/2, 9/3, 10/3, 11/3
-    - now build landmark with 3 villagers on food, Golden Gate (4:23)
-    - then put 2 from food on wood (6/5)
-    - then build gold mine with 1 villager on food (4/5)
-    - new vils go to build landmark, until 6
-    - build house with villager on wood
-    - then build wooden fortress near lumber
-    - when landmark finishes, villager split should be 4/9/4
-    - new villagers on wood, 4/11/4, buy food if needed
-    - build 1-2 stables, for early knights
-    - then 7/13/4
-*** Eco boom
-    - buy 300 stone, build 2nd town center
-*** Fast castle
-    - research professional scouts
-    - gather carcasses
+*** Season 1
+**** Fast feudal
+     - 1 villager builds hunting cabin
+     - other villagers on food
+     - 1st trained villager builds house, then lumber camp
+     - all new villagers on food
+     - train 2 scouts, explore, kill gaia
+     - food/wood: 9/1, 9/2, 9/3, 10/3, 11/3
+     - now build landmark with 3 villagers on food, Golden Gate (4:23)
+     - then put 2 from food on wood (6/5)
+     - then build gold mine with 1 villager on food (4/5)
+     - new vils go to build landmark, until 6
+     - build house with villager on wood
+     - then build wooden fortress near lumber
+     - when landmark finishes, villager split should be 4/9/4
+     - new villagers on wood, 4/11/4, buy food if needed
+     - build 1-2 stables, for early knights
+     - then 7/13/4
+**** Eco boom
+     - buy 300 stone, build 2nd town center
+**** Fast castle
+     - research professional scouts
+     - gather carcasses
