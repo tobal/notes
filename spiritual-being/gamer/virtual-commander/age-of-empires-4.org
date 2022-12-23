@@ -46,3 +46,18 @@
      - in feudal, build stable
      - send knight to harrass
      - when 300w, send villagers for 2nd TC (buy stone)
+*** Season 3
+**** My build order(2 TC fast castle)
+     - train villager
+     - 4v food, rally to food
+     - 2v build hunter's cabin, house, lumber mill
+     - train scout from cabin
+     - 400f 200g age up with 6v
+     - 6v on food, rest on wood, rally to wood
+     - build wooden fortress
+     - in feudal, build stable
+     - send 5v for one round of stone
+     - send knight to harrass
+     - research wheelbarrow
+     - research double broad axe
+     - when 300w, send villagers for 2nd TC (buy stone)
