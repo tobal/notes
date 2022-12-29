@@ -1,3 +1,40 @@
+* My previous experience with RTS games
+** Intro
+** My previous experience with RTS games
+*** WarCraft 2
+    I was quite young when I first came into contact to an RTS game. It was 1996, when my father bought our first PC, a
+    Pentium 1, with a colored monitor - which was a big thing at that time in a small village in Northern Hungary. And with
+    it, came quite a few games. Maybe I shouldn't mention this, but this is thanks to the excessive piracy in that region,
+    which was our almost only means of getting games. So you know, one day my brother came home with a bunch of floppies,
+    and on them, there it was: Warcraft 2, the first RTS ever, which I played. And I played it a lot. I played the campaigns
+    a million times, altough, I almost always used cheats.
+
+    This was a habit of mine, and I blame all of it on the trainers at every start of every pirated game on the Commodore 64.
+    For those who are younger, trainers were the short questions at the start of every game, for every of which you answered yes.
+    I think the letter Y was the first button I ever learned the location of on the keyboard. There were also cool animations
+    along with the trainers, that is how demoscene came into being. By answering yes to all of these questions, I didn't need
+    to worry about how many lives I had, I could just play peacefully without any stress. Later when playing Warcraft 2, I felt
+    dread whenever I tried to play without cheats. I didn't understand at the time, that this is what brings excitement into a
+    game.
+*** Red Alert
+    Not long after I tried Red Alert too (altough without the cinematics... ripped version, you know...), and I played with it
+    quite a bit, but not too much. The reason was that I didn't know about any god mode cheat for it, and I was too noob to
+    complete the campaign... I got stuck at about the fourth or fifth mission. But I always got back to warcraft 2, I even
+    made a few maps for it too with the editor. I loved it so much, that I decided that RTS is officially my favorite game
+    genre.
+*** Age of Empires
+    Meanwhile, Age of Empires had been released. I remember specifically, that a magazine wrote it combines elements of 
+    Warcraft and Civilization... I had no idea at the time what kind of game was Civilization, but that sounded awesome.
+    However, I didn't play with it as much... not as much as with Warcraft. The graphics were a bit weird for me, and the
+    four types of resources made it a bit complicated after warcraft or red alert. Forgive me, I was 12. But it was fine.
+    Also at that time happened when I completely missed the Total Annihilation train, even though it was another milestone
+    of my supposedly favorite genre.
+*** StarCraft
+    Then, came 1998, and with it, came Starcraft. I read about it in magazines long before we got the game, and I was very
+    hyped for it. And it didn't disappoint.
+*** Age of Empires 2
+*** WarCraft 3
+*** StarCraft 2
 * How I began to learn to play Age of Empires 4
 ** Intro
    Hi there everyone, it's Tobal here. I always try to find new things to learn, whatever it is that fascinates me at the
@@ -93,3 +130,10 @@
 
     But this was just the beginning of the story. In part 2 of this video, I'll tell you about how I got help from a very
     unexpected source. And in part 3, I'll tell you about my season 3 adventures, so stay tuned if you're interested. Cheers.
+* Part 2
+** Beasty's coaching
+** More practice
+** Could defeat china
+* Part 3
+** Develop new build order for season 3 and practice it
+** Season 3 ranking matches
