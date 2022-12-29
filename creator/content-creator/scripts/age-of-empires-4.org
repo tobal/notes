@@ -1,0 +1,95 @@
+* How I began to learn to play Age of Empires 4
+** Intro
+   Hi there everyone, it's Tobal here. I always try to find new things to learn, whatever it is that fascinates me at the
+   moment. In this, and two subsequent videos, I will show you how RTS games caught my interest in the recent past, and how
+   I am learning how to play a specific one, Age of Empires 4. If you are also a fellow beginner, I hope this video can
+   inspire you in some way. You can find the links in the description to everything which is referenced during the course
+   of the video.
+** How I began to learn to play RTS games
+   I liked RTS games ever since I had access to a PC as a kid, I even considered it my favorite genre at one point. My
+   previous experiences with the genre will be the topic of a separate video, but long story short, I always liked the
+   Blizzard RTS style the most - which can be attributed to the fact that WarCraft 2 was the first RTS game I ever played.
+   But I distanced from the genre after StarCraft, I was playing mostly Total War games, when I wanted to play a strategy
+   game. When StarCraft 2 came out, I played it because I was interested in the story (the Hybrid storyline specifically,
+   which they forshadowed in the Brood War campaign)... but the story of StarCraft 2 was disappointing for me after the
+   first two campaigns, so when Legacy of the Void came out, I didn't even play it.
+*** Lowko's castings
+    It was around 2020 when I started watching StarCraft 2 matches, primarily on Lowko's channel. Maybe it had something to
+    do with the lockdown, I don't know... but suddenly, I felt the urge to play StarCraft 2 again, but not the campaign, but
+    skirmish matches. Previously I exclusively played campaign, and I knew that I suck at it. But I thought back to the times
+    when RTS was my favorite genre, and I figured it would be nice to... not suck at it.
+
+    However, I didn't know how to start. Watching pro-level players play the game made me realize that I pretty much don't
+    know anything about how to play an RTS game. From the casted matches, I didn't understand anything, even though I played
+    the game earlier, and knew the units. I realized that StarCraft 2 had a plethora of strategies which is part of the meta,
+    the byproduct of a long history of meta changes, and I would need to learn most of them to be successful at the game. I
+    got discouraged, and gave up before I even started... until I found Altercate's channel.
+*** StarCraft 2 videos by Altercate SC
+    [[https://www.youtube.com/playlist?list=PL13He6PQGnKIAQaADnbJAbMCvghxTWLQ9][Starcraft 2 for Beginners youtube list]]
+    Altercate has a really good playing list, which teaches how to play StarCraft 2 skirmish from the ground up. It was just
+    what I needed. The two most important takeaways from the videos for me was the importance of build orders, the macro-cycle,
+    and that I have to produce workers constantly. These concepts were very new for me at that time.
+*** Played against AI
+    So now that I had a very clear picture on how to start practicing, I picked a race and started playing skirmishes against
+    the AI. I picked terran, even though my favorite race in the StarCraft universe was always protoss... I picked terran
+    because I knew it's the most straightforward race to play, and I wanted to learn to walk before learning to fly. A followed
+    the build order, I did the macro-cycle, and it gave me some success against lower difficulty AI. But when I got to Hard
+    difficulty, I was just mowed down. Even though I had far better economy, and more units, the Hard AI always just
+    completely destroyed my army. I figured it is because my micro was basically just an A-move. I tried a few time to micro my
+    units better, but to no avail. I thought maybe Starcraft is too fast paced for me, I got discouraged again, and stopped
+    playing.
+** Finding Age of Empires 4
+*** Watch Age of Empires 4 matches, Drongo's castings
+    Approximately a year later, I started watching Age of Empires 4 matches. To be frank, I wasn't very hyped about AoE4, when
+    it was released. For a fair bit of time, I didn't even take a look at it. Back in the day, I played a few campaigns with
+    AoE2, and I liked it, but didn't even try out AoE3. That game didn't catch my attention, and to be entirely honest, I think
+    it's because the 3D graphics didn't capture the charm of previous Age of Empires games in my eyes. I know it's lame to
+    dismiss a game just because of graphics, but it is what it is.
+    
+    But AoE4 had the same charming visuals as the first two games, and maybe that's why I started watching casted games. I mostly
+    watched Aussie Drongo's castings - love that guy btw -, and I was hooked by them. Never before did something like this happen
+    to me, but I started to follow tournaments, got to know the pro players and the casters, and most importantly, I learned
+    a bunch of stuff about the civilizations, just by watching these. I watched the meta slowly evolving in front of my eyes,
+    from patch to patch, watched dominant strategies come and go, and this taught me much about the game, and about RTS games
+    in general. Also, I noticed that Lidakor, a prominent caster, and Szalámi, a quite famous player in the AoE scene - you may
+    know him as the vololo-god -, are both from Hungary just as I do, and that was nice to see.
+*** Why I chose Rus
+    So, needless to say, I got interested in playing the game. And from the casted matches, I already knew which will be my
+    favorite civilization: Rus. They hunt for food, they have strong palisades, they have horse archers, and most importantly:
+    warrior monks. Ever since Shogun Total War 1, I love warrior monks, even though the two units are nothing alike, besides
+    the name. They are on horseback, and can fight, even can buff the other units... it was so fucking cool. So I started to
+    practice with Rus.
+
+    There were a few advantages in picking the Rus as the first civ to learn, even though these advantages didn't influence me
+    at all when I chose it. They are a fairly straightforward civ, so I don't need to fiddle with more complex mechanics as a
+    beginner, and the early game is quite micro intensive, which is good for me, because my micro is very weak, and I need to
+    practice it.
+*** Watch build order guides from Grubby
+    The first build order I learned with Rus, I learned from Grubby. It wasn't he, who came up with it, but it was the one
+    everyone used at that time. It was the professional scouts build, where you bring all the hunt under the TC, so you don't
+    need to leave your base, go castle, and then overwhelm the opponent with horse archers and scouts. I only practiced this
+    build against AI, and I couldn't even beat the hardest AI, but this was the first proper build order I learned, and I had
+    a lot of fun with it.
+** Going multiplayer
+*** Found Beasty's guides, learned and practiced
+    But a few patches after that, the pro scouts build was no longer viable, so I had to look for another one. That was around
+    the time when I found BeastyQT's guides, after he grabbed my attention by winning N4C. I discovered that he really wants
+    to help other players get better at the game, and has a bunch of informative guides for beginners, so I started practicing
+    his season 1 build order. I got fairly decent with it, and after I could defeat the hardest AI, I figured it would be timely
+    to try myself in multiplayer.
+
+*** Ranking matches
+    The thing is, at this point, I still didn't know what I was doing. I was the one trick pony of one trick ponies. I didn't
+    know how to scout, how to respond to what the opponents does, I just blindly followed the build, and hoped that I win. If
+    you look at my first five matches, you will see what I mean. I go feudal, I build the archery ranges, push the enemy with
+    archers, knights and rams, and that's it. If the push does not work, I don't know what to do. I even gave up a few times
+    prematurely, because I didn't know how to progress with the game. Not to say that I didn't win, I had a few victories here
+    and there. After the ranking matches, I god Silver 3, and not long after, I got Gold 1, which was better than I expected.
+    Still a very low rank, but I thought it was a good start.
+
+    Still, it bothered me very much that my playstyle is very rigid. It culminated in a match where I got busted by someone with
+    a much lower rank, just because of my tunnel vision. After that, a kind of multiplayer dread took over me, and I didn't have
+    the drive to play the game anymore.
+
+    But this was just the beginning of the story. In part 2 of this video, I'll tell you about how I got help from a very
+    unexpected source. And in part 3, I'll tell you about my season 3 adventures, so stay tuned if you're interested. Cheers.
