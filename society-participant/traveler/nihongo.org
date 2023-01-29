@@ -356,6 +356,30 @@
 *** új konzol あたらしい ゲームき
     - Szeretnék venni egy új konzolt. De túl drága.
     - あたらしい ゲームきを かいたいな。でも、たかすぎです。
+** 2023-01-29
+*** Cho Chikun fogalmazás
+    Cho Chikun ( 趙 治勲) Koreában, Seoul-ban született 1956-ban. Profi go játékos, aki élete során több mint 80 címet nyert.
+    Ez a japán go szövetség ( 日本棋院 nihon ki-in) nyilvántartása szerint világrekord. A legrangosabb, Honinbo címet tízszer
+    szerezte meg. Több go könyv szerzője.
+
+    A neve eredetileg Pung-yeon volt, de az apja egy javasasszony tanácsára megváltoztatta Chihun-ra. A jövendölés, miszerint
+    így a fia híres lesz, valóra vált. Chikun-t a nagyapja tanította go-zni, és meglátta benne a tehetséget. Az apja 6 éves
+    korában Japánba küldte, hogy profi go játékos lehessen. 11 évesen kapta meg az első dan-ját, ezzel a világ legfiatalabb
+    go játékosa lett.
+
+    Cho Chikun egy nagyon egyedi személyiség a go világban. Ehhez a humora, laza hozzáállása és szokatlanul rendezetlen haja
+    is hozzájárul. A leghíresebb go mém (tea stealing tesuji) is az ő nevéhez kötődik.
+    [[https://www.youtube.com/watch?v=g62mOnoBTZM][Tea-suji]]
+
+    チョ チクン（趙 治勲）は １９５６に、 ちょうせん、ブサンで 生まれました。プロのいご せんしゅ です。かれの しょうがい（生涯）で ８０かい しょうごうを
+    かくときます。にほん きいん （日本棋院）に よると せかいきろく です。もっとも えうよある しょうごう、ほにんぼ しょうごは １０かい かくときました。
+
+    もともと なまえは Pung-yeonが、かれの父は Chihunに かえりました。うらないしは。。。
+    チクンを おじいさんは いごを するのが おしえました。父は ６さいときに 日本へ あげました。さいしょのだんを １１さいときに かくときます。さいせんしょう
+    プロのせんしゅは なりました。
+
+    チョ チクンは とても ウニークの せうかく です。かれの わらいのツボと、laid back attitudeと、めちゃめちゃな かみのけも こうけんします。もっとも
+    ゆうめいな いごのメームも。。。
 * Daily practices
 *** Morning
     - Reggel 5:30-kor kelek.
