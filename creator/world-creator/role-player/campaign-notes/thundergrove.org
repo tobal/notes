@@ -172,3 +172,52 @@
 **** Fix - Zontar (keleti sztyeppék)
     Kinézet: 190cm, 110kg, hoszsú szőke, izmos, félmesztelen, hátán farkasbőr, kétkezes csatabárd, bicepszen bőrszíjak,
     bőrnadrág
+*** Kronológia
+**** Caldusador 2486. éve 3. hónap 5. nap
+***** 8:00 Ébredés, találkozás Daritus-szal
+***** 19:00 Érkezés a táborhoz, felderítés
+***** 20:30 Séta a sziklafal tetejére
+***** 21:00 Kémlelés, ott alvás
+**** Caldusador 2486. éve 3. hónap 6. nap
+***** 6:00 Ébredés, kémlelés, tervezés, indulás a falu felé
+***** 13:00 Várakozás az ellátmány karavánra
+***** 15:00 A karaván lefegyverzése, víz megmérgezése
+***** 17:00 A karaván túlélői vissza indulnak a táborba
+***** 21:00 Érkezés vissza a táborhoz, a tábor elkezdi inni a vizet, 5 óra múlva mindenki alszik
+***** 21:30 Érkezés a sziklafal tetejére
+**** Caldusador 2486. éve 3. hónap 7. nap
+***** 2:00 Mindenki alszik
+***** 2:30 Érkezés a táborhoz, megkötözés, a sereg foglyul ejtése
+***** 4:00 Bumm a fejbe (6 fej), sereg megkötözve
+***** 4:30 Megbeszélés
+***** 5:30 Alvás
+***** 13:30 Ébredés, indulás
+      Daritus elfogja az ellátmány karavánt
+***** 21:30 Érkezés Kaposszekcsőre
+      Vizet feltöltik, 2 nap
+***** 22:30 Fogadó, beszéd Sugrovval, Alvás
+**** Caldusador 2486. éve 3. hónap 8. nap
+***** 6:00 Ébredés, falu felderítése, találkozás a pappal és a kereskedővel
+***** 7:00 Indulás a földművesekhez
+***** 13:00 Érkezés Tunyogmatolcsra
+***** 15:00 Érkezés a Cerell tanyára
+***** 16:00 Ásni kezdenek
+***** 16:20 Lemennek a járatba
+      Séta: 20 perc, 10, 10 (Fix megbetegszik), 10, 20, 15, 10, 10, 10, 10, 10, 10, 5, 15, 15, 10, 30, 20, 60
+***** Megölték az órásférget
+      - a lárvákat is felgyújtották
+      - a kardot nem hozták el
+***** 21:20 Feljönnek
+***** 21:50 Visszaérnek a tanyára
+**** Caldusador 2486. éve 3. hónap 9. nap
+     - a háttérben:
+       - a futár eléri a déli tartományt, aki úgy dönt küld egy felmentő csapatot segítségül, 3 nap múlva érkeznek
+	 Kaposszekcsőhöz
+***** 6:00 Ébredés
+***** 7:00 Visszaérnek a faluba
+      Találkoznak Ranthar-al, aki örül hogy megoldódott a probléma, vesz kaját eladni, és indul vissza Kaposszekcsőre
+***** 7:30 Vissza indulnak
+***** 12:00 Visszaérnek Kaposszekcsőre
+      Vesznek 2 heti ellátmányt, 1 hétnyi víz
+***** 20:00 Elérik a hegységet
+***** 21:00 Tábort vernek éjszakára
