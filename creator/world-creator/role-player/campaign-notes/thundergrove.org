@@ -105,6 +105,43 @@
 	  - ellátmányt, ennivalót kell biztosítani nekik, amit a táborban találtak, csak 3 napra elég
 	- Daritus sem ismeri a környéket, de ismeri a legközelebbi falut, afelé el tudja őket irányítani, és javasolja,
 	  hogy kezdjék el felderíteni a környéket
+**** Kaposszekcső problémái
+     - A legközelebbi falu Kaposszekcső
+     - Ha felderítik, a következőket találhatják
+       - Egy fogadó
+	 - Fogadó a Mithrill Pörölyhöz
+	 - A fogadós neve *Azul Sugrov*
+	 - Elmondja, hogy az Azul testvérek tagja, akik Fergetegliget-szerte üzemeltetnek fogadókat
+	 - Kivéve Mennir... szegény Mennir
+       - Piac, ami feltűnően üres
+       - Templom a négyarcú úrnak
+	 - Középen egy hatalmas fa, a törzsébe, négy irányba faragott, stilizált arc
+	   - Vidám (élet)
+	     - Siena Boralisse, az Érintéssel Enyhítő alapján
+	     - Aneis, a Fájdalmat Enyhítő
+	   - Szigorú (rend)
+	     - Magon L'levar, a Szavakat Ismerő alapján
+	     - Nogam, a Bölcselő
+	   - Dühös (káosz)
+	     - Mallior, az Éjben Kacagó alapján
+	     - Roillam, az Alkony Bolondja
+	   - Alvó (halál)
+	     - Moranna Naranol, a Homály Lakója alapján
+	     - Lonaran, az Álomhozó
+	 - Az arcokkal szemben rönkszentélyek
+       - A falu közepén rengeteg műhely, kohó, stb. található, ami szintén feltűnően üres
+       - A falu szélén a szolgálók körbekerített negyede, aminek minden bejáratát a Felvigyázók harcosai védik
+	 - A Felvigyázók egy ősi harcos rend, akik nem hajlandóak háborúkban részt venni, és még a király sem parancsolhat
+	   nekik. Az egyetlen feladatuk, hogy a szolgálókat felügyeljék, és ne engedjenek senkit a szolgálók tereibe
+	 - A szolgálókat általában Gyermeknek hívják, teljes nevükön Roillam Gyermekei, akiket megfertőzött a káosz-úrnő,
+	   ezért tisztátalanok, senki nem érhet hozzájuk, beszélni is csak akkor, ha parancsot osztanak nekik
+     - Ha beszélgetnek a falusiakkal, kiderül hogy:
+       - Itt vannak a tartomány legjobb mesteremberei, de mióta megbénult a kereskedelem, nem tudnak dolgozni
+       - A falu régóta nem kap vasércet a Tüskés hegység bányáiból, ezért nem tudnak dolgozni a mesteremberek
+       - A kivont pénz miatt a kereskedelem szinte megszűnt, ezért fát is alig tudnak venni a közeli erdő favágóitól
+       - Étel is alig érkezik, a délre lévő parasztok szokták ellátni a térséget, de föld alatti szörnyek miatti rossz
+	 termésre panaszkodnak, ezért nem hajlandóak a saját tartalékaikat megosztani a faluval
+       - Ezért nem hajlandóak ellátni a csapatokat, bár szimpatizálnak az üggyel
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
