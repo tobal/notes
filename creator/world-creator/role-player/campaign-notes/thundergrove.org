@@ -63,6 +63,8 @@
     - A hajótörésből maradt holmikat egy tutajt használva összeszedte, és visszaszolgáltatja a karaktereknek
     - Cserébe a szívességért csak annyit kér, hogy segítsenek neki kiszabadítani a csapatait, akiket egy katonai táborban
       tartanak fogva
+    - A kereskedő persze nem akar csatlakozni a küldetéshez, őt elirányítja a legközelebbi nagyobb falu, *Kaposszekcső*
+      irányába
 **** A foglyok tábora
      - A foglyokat egy palánkvárban tartják fogva, ami egyben az egyik királyi hadtest tábora is
      - A tábor a hegység szélén található, egy sziklafal tövében
@@ -74,6 +76,35 @@
        - Lebonthatják a falat a sziklafal mellett, így be se kell menniük
        - Felgyújthatják a raktárat (tele tüzifával és kajával), és meglóghatnak amíg a tűzzel vannak elfoglalva
        - Halkan leszedhetik az őröket, a foglyoknak fegyvert adhatnak (a gyakorlótér melletti ládákból)
+     - Daritus elmondja, hogy a táborban található felszerelést is érdemes lenne megszerezni, így azt felhasználhatják
+       a saját táborukhoz
+*** Első csapatok
+**** A szabadító akció után
+    - Ha sikerült elfoglalni a tábort, minden ellátmánnyal
+      - megtalálják a feljegyzéseket a parancsnoki táborban, miszerint a sereg nem vár erősítést, csak a pókok miatt nem
+	hajlandó a Tüskés hegységbe hatolni, és további parancsra vár (2 napja küldte a futárt)
+      - A futár 3 hét alatt ér a várhoz, és vissza még 3 hét
+      - 1256db thrill-t, 26 mithrill-t találnak
+      - Daritus ünneplést rendel el
+        - Az esti lakoma alatt bemutatja két parancsnokát, akik egy testvérpár, és titokban félelfek, *Lorem* és *Ipsum*,
+	  mindketten alacsonyabbak, hasonló arcvonások, fekete haj, és mindketten széles fejpántot viselnek (hogy eltakarják
+	  a levágott fülvégüket)
+	- Elmeséli a karaktereknek a felkelés történetét
+	  - *Caldusador Dardatos* király bevonta a mithrill pénzérméket Agros tartományban, és csak a kis méretű érméket
+	    hagyta meg
+	  - Továbbá nem hajlandó foglalkozni a tartomány problémáival, de az adót erőszakkal beszedi
+	  - Mithrus tartomány már korábban fellázadt, és most nem hajlandó beengedni a király adószedőit
+	  - Agros tartomány ura is ugyanezt tervezte, de a király sereget küldött ellene
+	  - Agros is sereget toborzott, ennek az élére állt Daritus, de a felkelést leverték, minden maradt a régiben
+	  - De Daritus nem adta fel, most hogy az emberei kiszabadultak, újra sereget akar toborozni
+	- Felkéri a karaktereket, hogy legyenek a sereg felderítői... zsoldot nem tud ígérni, de busás részesedést ad a
+	  zsákmányolt javakból
+	- Ha elfogadják, felvázolja a következő teendőket:
+	  - a seregnek segédekre, szolgálókra van szüksége (40)
+	  - fel kell tölteni újoncokkal a sorokat (40)
+	  - ellátmányt, ennivalót kell biztosítani nekik, amit a táborban találtak, csak 3 napra elég
+	- Daritus sem ismeri a környéket, de ismeri a legközelebbi falut, afelé el tudja őket irányítani, és javasolja,
+	  hogy kezdjék el felderíteni a környéket
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
