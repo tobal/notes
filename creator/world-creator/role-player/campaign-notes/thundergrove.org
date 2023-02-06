@@ -1,6 +1,5 @@
 * Fergetegliget felszabadítása (M.A.G.U.S. UTK)
 ** Háttér
-
 *** A sziget földrajza
     - A sziget három tartománya, és uradalmaik:
       - Északi: Agros
@@ -330,3 +329,14 @@
 ***** Utazás a hegységben
 **** Caldusador 2486. éve 3. hónap 15. nap
 ***** 12:00 Elérik a Rózsa aknát
+***** Megölik a királynőt, elárasztják a bányát
+**** Caldusador 2486. éve 3. hónap 16. nap
+***** Utazás a hegységben
+**** Caldusador 2486. éve 3. hónap 17. nap
+***** Utazás a hegységben, elérik a bányászfalut
+**** Caldusador 2486. éve 3. hónap 18. nap
+***** Utazás a hegységben, kísérik a vasérc karavánt
+**** Caldusador 2486. éve 3. hónap 19. nap
+***** Utazás a hegységben, kísérik a vasérc karavánt
+**** Caldusador 2486. éve 3. hónap 20. nap
+***** Utazás a hegységben, kísérik a vasérc karavánt, elérik a hegység szélét
