@@ -1,5 +1,6 @@
 * Fergetegliget felszabadítása (M.A.G.U.S. UTK)
 ** Háttér
+
 *** A sziget földrajza
     - A sziget három tartománya, és uradalmaik:
       - Északi: Agros
@@ -172,7 +173,7 @@
      - Az óriáspókok valójában
        - Nem pókok, inkább hangyafélék, de mérgező a harapásuk
        - Kétféle van, a régi fekete, és az újonnan megjelent vörös
-	 - A fekete hangya mérge irtózatos fájdalmat okoz, körönként 3k10 majd 2k10 majd 1k10 Fp minusz utána a seb helye
+	 - A fekete hangya mérge irtózatos fájdalmat okoz, körönként 3k6 majd 2k6 majd 1k6 Fp minusz utána a seb helye
 	   fáj még sokáig, 10 percig körönként 1Fp (összesen 60), de ha foglalkozik vele egy herbalista, könnyen tud enyhítő
 	   borogatást rakni rá
 	 - A vörös hangya mérge ellen körönként -2,-3, stb. Ake próbával lehet ellenállni, ha EG próba nincs meg -2-vel
@@ -186,13 +187,11 @@
      - A Rózsa aknában fészkel a vörös királynő, az Akác aknában a fekete, mindkettő elhagyott, nem használt bánya már
        - A Rózsa aknában egyszer régen vízért találtak, amit most egy nagy vas-kapu zár el a járattól. Ha kinyitják,
 	 eláraszthatják a bányát, és ha lezárják valamivel az egyetlen kijáratot, akkor megölik a teljes vörös kolóniát
-       - Minél közelebb vannak egy fészekhez, annál nagyobb valószívűséggel találkoznak ilyen vagy olyan hangyával
+       - Minél közelebb vannak egy fészekhez, annál nagyobb valószínűséggel találkoznak ilyen vagy olyan hangyával
        - Megérezhetik a feromonjaikat, amiből különbözőt bocsátanak ki ha csak felderítenek (barát), vagy ha ellenséget találnak
 	 így négyféle feromont különböztethetnek meg, amiket a hangyák tetemeiből ki is vonhatnak
      - A faluban tudják, hogy hol van a fekete királynő, azért hagyták el az aknát, mert beköltözött, de ez nem volt baj, mert
        már majdnem kiürült
-     - 
-     - 
 **** Gerényes
 ** Krónika
 *** Karakterek
@@ -258,3 +257,28 @@
       Vesznek 2 heti ellátmányt, 1 hétnyi víz
 ***** 20:00 Elérik a hegységet
 ***** 21:00 Tábort vernek éjszakára
+**** Caldusador 2486. éve 3. hónap 10. nap
+***** 6:00 Felkelés
+***** 10:00 Támadás - nem támadtak
+***** 14:00 Támadás
+***** 15:00 Pihenés
+***** 18:00 Támadás
+***** 22:00 Elérik a kunyhót
+**** Caldusador 2486. éve 3. hónap 11. nap
+***** 6:00 Felkelés
+***** 13:00 Látják a vörös és fekete hangyákat harcolni
+      Rájönnek a feromon trükkre, csapolnak maguknak
+***** 22:00 Elérik a kunyhót
+**** Caldusador 2486. éve 3. hónap 12. nap
+***** 6:00 Felkelés
+***** 20:00 Elérik a falut
+      Megtudják, hogy az Akác aknában tűntek fel először a fekete hangyák
+***** 21:00 Alszanak
+**** Caldusador 2486. éve 3. hónap 13. nap
+***** 6:00 Felkelés, beszélnek az egyik Felvigyázóval
+      Megtudják, hogy a vörösek a Rózsa aknában tűntek fel először
+***** Utazás a hegységben
+**** Caldusador 2486. éve 3. hónap 14. nap
+***** Utazás a hegységben
+**** Caldusador 2486. éve 3. hónap 15. nap
+***** 12:00 Elérik a Rózsa aknát
