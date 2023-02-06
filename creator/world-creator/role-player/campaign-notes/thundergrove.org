@@ -171,6 +171,7 @@
      |------------+--------------------------------------------------+----------+-----------------------------------------------------------------------------------------------+-----+----------------------+-------------------+-----+---------------------------|
      | Óriásféreg | 3k10 utána 1k10/kör, csak Fp, kicsi fogai vannak | 1k10/kör | 6/2, rövid fegyverrel vagy nyíllal nem lehet Ép sebet ejteni rajta                            | 150 | Gyors próba -2/+4-el | 1/3 körönként sav | 100 | 360                       |
      | Falény     | 1k10 + 5                                         |          | csak súlyosabb fegyverekkel sebezhető, legjobb a balta, kard max 1 Ép-t sebez, tűz jó ellenne |  80 | 150                  | 2                 | 100 | csak túlütéssel sebezhető |
+*** A vasérc visszaállítása
 **** Mecsekpölöske
      - Bányászfalu, az ide vezető út hosszú és veszélyes (nappal 4 óránként érkezik támadás, éjszaka ha nincsenek védett
        helyen, állandóan támadják őket)
@@ -207,6 +208,39 @@
      - A faluban tudják, hogy hol van a fekete királynő, azért hagyták el az aknát, mert beköltözött, de ez nem volt baj, mert
        már majdnem kiürült
 **** Gerényes
+*** Az első falu átáll
+    - Ha sikerült megölni vmelyik hangyakirálynőt, a bányászfalu ünnepli őket, de megkérik még, hogy adjanak kíséretet egy
+      szállítmány vasércnek. Ha elérik a hegység szélét, onnan visszamehetnek Daritus-hoz, aki csatlakozik hozzájuk a faluba
+      menet, a parancsnokainak pedig kiadja, hogy induljon el a sereg a falu felé.
+    - Miután sikerült visszaállítani a bányászatot, és visszatérnek a kalandozók, Kaposszegcső lakosai hősként ünneplik őket.
+      Szólhatnak Daritus-nak, aki beszél az elöljáróval és a falusiakkal, és sikerül meggyőzni őket, hogy lázadjanak fel a
+      király ellen. Az elöljáró beleegyezik, de csak akkor hajlandó ellátmányt adni, ha megvédik a falut az adószedőktől.
+      - Daritus: "Nincs még elegetek a király zsarnokságából? Amikor nem volt mit ennetek, és amikor nem tudtatok dolgozni a
+	vashiány miatt, a király füle botját sem mozdította. A király serege be sem mert menni a hegységbe, hogy a foglyokat
+	kényszermunkára fogja. Mi segítettünk nektek, és ha hajlandóak vagytok csatlakozni a lázadásunkhoz, a királyt is
+	képesek lehetünk megdönteni. Ki van velem?!"
+      - A falusiak közül csak néhány fiatal lelkesül fel, a legtöbb ember még nem bízik eléggé abban, hogy sikerülhet legyőzni
+	a királyt. Sikerül annyi önkéntest összeszedni, hogy az első két csapatot teljes létszámra lehessen hozni, de többet
+	nem.
+      - Később hír érkezik egy sereg érkezéséről, akiket a szomszédos tartományból küldtek az első, "fogolytartó" sereg
+	megsegítésére. A sereg akkora, mint most Daritus-é. A falusiak azt mondják, ha őket sikerül legyőzni, akkor elhiszik,
+	hogy a lázadás sikeres lehet. Ezután a falu képes kiállítani egy csapat lándzsást és egy csapat íjászt.
+    - A tábor átköltözik a falu mellé, és megkezdődik az utánpótlás kiképzése. A karakterek is ekkor kapnak kiképzést
+**** A kiképzés
+     - Egy hét telik itt el, ezalatt a karakterek megtanulnak formációban harcolni, és a hadvezetés alapjait
+       - Megkapják ingyen: térképészet 1, lélektan 1, taktika 2, hadvezetés 2
+       - Hadászati szempontok:
+	 - Helyzeti előny (oldalról, hátulról támadás)
+	 - Domborzat
+	 - Kifáradás
+	 - Morál
+	 - Időjárás
+	 - Formáció fontossága
+       - Katonák harcértéke
+         |--------+---------+-----+-----+----+---------+----+----|
+         | Név    | sbz     | SFÉ |  VÉ | TÉ | Tám/kör | Ép | Fp |
+         |--------+---------+-----+-----+----+---------+----+----|
+         | Katona | 2k6 + 2 |   2 | 160 | 90 |       2 | 13 | 55 |
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
@@ -220,7 +254,7 @@
     Kinézet: alacsonyabb, kopasz, rövid szakáll, fehér ing, többi ruha fekete és barna, fekete köpeny csuklyával,
     íj, oldalán rövid kard
 **** Fix - Zontar (keleti sztyeppék)
-    Kinézet: 190cm, 110kg, hoszsú szőke, izmos, félmesztelen, hátán farkasbőr, kétkezes csatabárd, bicepszen bőrszíjak,
+    Kinézet: 190cm, 110kg, hosszú szőke, izmos, félmesztelen, hátán farkasbőr, kétkezes csatabárd, bicepszen bőrszíjak,
     bőrnadrág
 *** Kronológia
 **** Caldusador 2486. éve 3. hónap 5. nap
