@@ -1244,3 +1244,66 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 92.1 |      6 |       1 |              6 |     2 |         20 |  4412 |         5 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
+
+*** <2022-10-25 Tue>
+**** DONE Write html
+**** DONE Review docs
+**** DONE Lunch
+     - bacon eggs sandwich
+**** DONE Send html to review
+**** DONE Meet with Livi
+**** DONE Groceries
+**** DONE Dinner
+     - 3x sandwich
+**** DONE Piano class
+**** DONE Online RPG
+**** DONE Prepare drink
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 92.1 |      6 |       1 |              6 |     2 |         20 |  4412 |         5 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+** November
+*** <2022-10-22 Sat>
+**** TODO Get up
+     - Make bed
+     - Wash face
+     - Drink water
+     - Measure weight
+**** TODO Warm up
+**** TODO Wash clothes
+**** TODO Pay stuff
+**** TODO Write grocerie list
+**** TODO Do groceries
+     - Aldi
+**** TODO Tidy up desk
+**** TODO Wash dishes
+**** TODO Japanese practice
+**** TODO F1 game
+**** TODO Review pledge, renew
+**** TODO Age of Empires 4 practice
+**** TODO Cardio training
+     - dancing
+**** TODO Dinner
+     - egg bacon tortilla
+**** TODO Range of motion
+     - Stretch legs
+     - Stretch chest, arms
+**** TODO Plan next day
+     - Review org file
+     - Prepare for next day
+       Put stuff into bag, take out meat from freezer, lock door
+**** TODO Hygene of body
+     - Wash face
+     - Eye training
+     - Dental
+**** TODO Hygene of mind
+     - 10 min meditation
+     - write diary
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 92.8 |      10 |       2 |              6 |     1 |         0 |  7704 |         3 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
