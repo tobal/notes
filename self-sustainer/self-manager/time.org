@@ -1307,3 +1307,22 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 92.8 |      10 |       2 |              6 |     1 |         0 |  7704 |         3 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
+* 2023
+** February
+*** <2023-02-08 Wed>
+**** TODO <2023-02-08 Wed 21:30> Plan next day                     :planning:
+      - Write org file
+**** TODO <2023-02-08 Wed 22:00> Chill
+**** Evening routine
+***** TODO <2023-02-08 Wed 23:00> Range of motion                    :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+***** TODO <2023-02-08 Wed 23:30> Hygene of body           :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+***** TODO <2023-02-08 Wed 23:45> Hygene of mind                   :mental:maintenance:
+       - 5 min meditation
+       - write diary
+***** TODO <2023-02-09 Thu 00:00> Sleep                       :body:mental:maintenance:
+       - read book
