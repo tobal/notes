@@ -1381,6 +1381,56 @@
        - write diary
 ***** FAILED <2023-02-09 Thu 22:00> Sleep           :body:mental:maintenance:
        - read book
+*** <2023-02-18 Sat>
+**** Morning routine
+***** TODO <2023-02-18 Sat 05:30> Get up                 :body:maintenance:
+       - Wash face
+       - Drink water
+       - Measure weight
+***** TODO <2023-02-18 Sat 05:40> Warm up                :body:maintenance:
+       - Warm up
+**** Day
+***** TODO <2023-02-18 Sat 06:20> Groceries
+       - Sweets
+       - Sour cream/greek yoghurt
+       - Hard cheese
+       - Bacon
+       - Syrup
+       - Bottle washer
+***** TODO <2023-02-18 Sat 08:00> Work
+       - Buffer
+       - RabbitMqWriter
+***** TODO <2023-02-18 Sat 09:00> Record narration
+***** TODO <2023-02-18 Sat 10:00> Play Go
+***** TODO <2023-02-18 Sat 10:30> Play Age of Empires 4
+***** TODO <2023-02-18 Sat 12:00> Lunch
+***** TODO <2023-02-18 Sat 13:00> Work
+       - Unit tests
+***** TODO <2023-02-18 Sat 14:00> Video editing
+***** TODO <2023-02-18 Sat 15:00> Work
+       - IT test
+***** TODO <2023-02-18 Sat 16:00> Cook dinner
+      - fried parizer, bread
+***** TODO <2023-02-18 Sat 16:30> Sleep
+***** TODO <2023-02-18 Sat 18:40> Shower
+***** TODO <2023-02-18 Sat 19:00> Go to Orsi's
+***** TODO <2023-02-18 Sat 21:30> Techno party
+**** Evening routine
+***** TODO <2023-02-19 Sun 07:00> Range of motion        :body:development:
+       - Stretch legs
+       - Stretch chest, arms
+***** TODO <2023-02-19 Sun 07:15> Plan next day                  :planning:
+       - Review org file
+       - Prepare for next day
+	 Put stuff into bag, take out meat from freezer, lock door
+***** TODO <2023-02-19 Sun 07:30> Hygene of body         :body:maintenance:
+       - Wash face
+       - Eye training
+       - Dental
+***** TODO <2023-02-19 Sun 07:45> Hygene of mind       :mental:maintenance:
+       - 15 min meditation
+       - write diary
+***** TODO <2023-02-18 Sat 08:00> Sleep           :body:mental:maintenance:
        - read book
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
