@@ -1310,76 +1310,77 @@
 * 2023
 ** February
 *** <2023-02-08 Wed>
-**** TODO <2023-02-08 Wed 21:30> Plan next day                     :planning:
+**** DONE <2023-02-08 Wed 21:30> Plan next day                     :planning:
       - Write org file
-**** TODO <2023-02-08 Wed 22:00> Chill
+**** DONE <2023-02-08 Wed 22:00> Chill
 **** Evening routine
-***** TODO <2023-02-08 Wed 23:00> Range of motion                    :body:development:
+***** FAILED <2023-02-08 Wed 23:00> Range of motion        :body:development:
        - Stretch legs
        - Stretch chest, arms
-***** TODO <2023-02-08 Wed 23:30> Hygene of body           :body:maintenance:
+***** FAILED <2023-02-08 Wed 23:30> Hygene of body         :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-***** TODO <2023-02-08 Wed 23:45> Hygene of mind                   :mental:maintenance:
+***** FAILED <2023-02-08 Wed 23:45> Hygene of mind       :mental:maintenance:
        - 5 min meditation
        - write diary
-***** TODO <2023-02-09 Thu 00:00> Sleep                       :body:mental:maintenance:
+***** FAILED <2023-02-09 Thu 00:00> Sleep           :body:mental:maintenance:
        - read book
 *** <2023-02-09 Thu>
 **** Morning routine
-***** TODO <2023-02-09 Thu 06:30> Get up                   :body:maintenance:
+***** FAILED <2023-02-09 Thu 06:30> Get up                 :body:maintenance:
        - Wash face
        - Drink water
        - Measure weight
-***** TODO <2023-02-09 Thu 06:40> Warm up                  :body:maintenance:
+***** FAILED <2023-02-09 Thu 06:40> Warm up                :body:maintenance:
        - Warm up
-***** TODO <2023-02-09 Thu 06:50> Shower                   :body:maintenance:
+***** FAILED <2023-02-09 Thu 06:50> Shower                 :body:maintenance:
        - Shower
        - Wash hair
        - Shave
 **** Workday
-***** TODO <2023-02-09 Thu 07:00> Work
-***** TODO <2023-02-09 Thu 09:00> Break
-***** TODO <2023-02-09 Thu 09:15> Work
+***** FAILED <2023-02-09 Thu 07:00> Work
+***** FAILED <2023-02-09 Thu 09:00> Break
+***** DONE <2023-02-09 Thu 09:15> Work
       - Ask about study material
-***** TODO <2023-02-09 Thu 11:30> Do dishes
-***** TODO <2023-02-09 Thu 11:45> Cook lunch
+***** DONE <2023-02-09 Thu 11:30> Do dishes
+***** DONE <2023-02-09 Thu 11:45> Cook lunch
       - Carbonara
-***** TODO <2023-02-09 Thu 12:00> Lunch
-***** TODO <2023-02-09 Thu 12:40> Work
-***** TODO <2023-02-09 Thu 13:30> Break
-***** TODO <2023-02-09 Thu 13:40> Work
-***** TODO <2023-02-09 Thu 14:30> Break
-***** TODO <2023-02-09 Thu 14:40> Work
-***** TODO <2023-02-09 Thu 15:30> Break
-***** TODO <2023-02-09 Thu 15:40> Work
-***** TODO <2023-02-09 Thu 16:30> Break
-***** TODO <2023-02-09 Thu 16:40> Work
+***** FAILED <2023-02-09 Thu 12:00> Lunch
+***** FAILED <2023-02-09 Thu 12:40> Work
+***** FAILED <2023-02-09 Thu 13:30> Break
+***** FAILED <2023-02-09 Thu 13:40> Work
+***** FAILED <2023-02-09 Thu 14:30> Break
+***** FAILED <2023-02-09 Thu 14:40> Work
+***** FAILED <2023-02-09 Thu 15:30> Break
+***** FAILED <2023-02-09 Thu 15:40> Work
+***** FAILED <2023-02-09 Thu 16:30> Break
+***** FAILED <2023-02-09 Thu 16:40> Work
 **** Free time
-***** TODO <2023-02-09 Thu 17:10> Cook dinner
+***** FAILED <2023-02-09 Thu 17:10> Cook dinner
       - fried parizer, bread
-***** TODO <2023-02-09 Thu 17:30> Dinner
-***** TODO <2023-02-09 Thu 19:00> Practice kenjutsu
-***** TODO <2023-02-09 Thu 19:20> Learn japanese
+***** FAILED <2023-02-09 Thu 17:30> Dinner
+***** FAILED <2023-02-09 Thu 19:00> Practice kenjutsu
+***** FAILED <2023-02-09 Thu 19:20> Learn japanese
       - reading
-***** TODO <2023-02-09 Thu 19:50> Youtube
+***** FAILED <2023-02-09 Thu 19:50> Youtube
 **** Evening routine
-***** TODO <2023-02-09 Thu 21:00> Range of motion          :body:development:
+***** FAILED <2023-02-09 Thu 21:00> Range of motion        :body:development:
        - Stretch legs
        - Stretch chest, arms
-***** TODO <2023-02-09 Thu 21:15> Plan next day                    :planning:
+***** FAILED <2023-02-09 Thu 21:15> Plan next day                  :planning:
        - Review org file
        - Prepare for next day
 	 Put stuff into bag, take out meat from freezer, lock door
-***** TODO <2023-02-09 Thu 21:30> Hygene of body           :body:maintenance:
+***** FAILED <2023-02-09 Thu 21:30> Hygene of body         :body:maintenance:
        - Wash face
        - Eye training
        - Dental
-***** TODO <2023-02-09 Thu 21:45> Hygene of mind         :mental:maintenance:
+***** FAILED <2023-02-09 Thu 21:45> Hygene of mind       :mental:maintenance:
        - 15 min meditation
        - write diary
-***** TODO <2023-02-09 Thu 22:00> Sleep             :body:mental:maintenance:
+***** FAILED <2023-02-09 Thu 22:00> Sleep           :body:mental:maintenance:
+       - read book
        - read book
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
