@@ -221,7 +221,7 @@
       - A falusiak közül csak néhány fiatal lelkesül fel, a legtöbb ember még nem bízik eléggé abban, hogy sikerülhet legyőzni
 	a királyt. Sikerül annyi önkéntest összeszedni, hogy az első két csapatot teljes létszámra lehessen hozni, de többet
 	nem.
-      - Később hír érkezik egy sereg érkezéséről, akiket a szomszédos tartományból küldtek az első, "fogolytartó" sereg
+      - Később hír érkezik majd egy sereg érkezéséről, akiket a szomszédos tartományból küldtek az első, "fogolytartó" sereg
 	megsegítésére. A sereg akkora, mint most Daritus-é. A falusiak azt mondják, ha őket sikerül legyőzni, akkor elhiszik,
 	hogy a lázadás sikeres lehet. Ezután a falu képes kiállítani egy csapat lándzsást és egy csapat íjászt.
     - A tábor átköltözik a falu mellé, és megkezdődik az utánpótlás kiképzése. A karakterek is ekkor kapnak kiképzést
@@ -240,6 +240,13 @@
          | Név    | sbz     | SFÉ |  VÉ | TÉ | Tám/kör | Ép | Fp |
          |--------+---------+-----+-----+----+---------+----+----|
          | Katona | 2k6 + 2 |   2 | 160 | 90 |       2 | 13 | 55 |
+*** Fenyegetés
+    - Miután átállították a falut, észreveszik, hogy a kereskedő (Ranthar) eltűnt. Tokodaltáróra ment kereskedni, de nem tért
+      vissza.
+      - Az történt, hogy a városban elfecsegte mindenkinek, hogy honnan érkezett. Ezt megneszelték a király kémei, és elfogták
+	a visszaúton. Egy viskóba vitték az erdőben, ahol kihallgatják, és ha a karakterek nem érnek oda időben, meg is ölik.
+      - A karakterek megtalálják a szekerét az úton, ahol követhetik a nyomokat az erdőbe.
+
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
@@ -340,3 +347,12 @@
 ***** Utazás a hegységben, kísérik a vasérc karavánt
 **** Caldusador 2486. éve 3. hónap 20. nap
 ***** Utazás a hegységben, kísérik a vasérc karavánt, elérik a hegység szélét
+**** Caldusador 2486. éve 3. hónap 21. nap
+***** Elérik Kaposszekcsőt, a falu ünnepli őket
+***** Szólnak Daritusnak, elmegy velük a faluba
+**** Caldusador 2486. éve 3. hónap 22. nap
+***** Daritus beszél a falusiakkal, akad pár önkéntes
+***** Elkezdődik a kiképzés
+**** Caldusador 2486. éve 3. hónap 23-29 nap
+***** Kiképzés
+
