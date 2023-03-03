@@ -278,12 +278,43 @@
      - Éjszakába nyúló ünneplés, zene, tánc, lakoma
      - Másnap veszi észre a kocsmáros, hogy Ranthar, a kereskedő, nem tér haza az útjáról, pedig az ünnepre ide akart érni,
        szól a hősöknek
+*** Ranthar eltűnt, fejvadászok felkutatása
     - Miután átállították a falut, észreveszik, hogy a kereskedő (Ranthar) eltűnt. Tokodaltáróra ment kereskedni, de nem tért
       vissza.
       - Az történt, hogy a városban elfecsegte mindenkinek, hogy honnan érkezett. Ezt megneszelték a király kémei, és elfogták
-	a visszaúton. Egy viskóba vitték az erdőben, ahol kihallgatják, és ha a karakterek nem érnek oda időben, meg is ölik.
+	a visszaúton. Egy viskóba vitték az erdőben, ahol kihallgatják, és ha a karakterek nem érnek oda időben (1 napon belül),
+	meg is ölik.
       - A karakterek megtalálják a szekerét az úton, ahol követhetik a nyomokat az erdőbe.
-
+      - A viskó környéke csapdákkal van tele, amik bejeleznek (-2 észlelés próba)
+      - Ha bejelzett valamelyik csapda, akkor a három fejvadász elhagyja a viskót rejtőzködve
+	- Egy a fa tetejéről elkezd lőni rájuk, amíg a másik megkerüli őket észrevétlenül (80% rejtőzés és lopózás),
+	  és megpróbálja őket hátbaszúrni (Orvtámadás 4. fok, +2k6 sp). A harmadik lent marad a pincében.
+	- A nyilak mérgezettek, sikertelen egészségpróbánál görcsöt okoz 5 körre, sikeresnél kábulatot 5 körre
+      - Ha sikerül meglepni őket, akkor kettőt találnak a viskóban, akiket meglepve megölhetik őket, a harmadik lent elrejtőzik
+	a pincében (ahol a kereskedő is fogva van tartva), és a sötétből támad rájuk.
+      - Ha élve elfogják valamelyiket, kihallgathatják. Ha fizetnek neki 1 mithrill-t, kettős ügynököt csinálhatnak belőle,
+	1 mithrill-t kér minden jelentésért. Megtudhatják, hogy:
+	- A király levadásztat mindenkit, aki a külső világból érkezik
+	- Mindenkit kihallgatnak, hogy megtudjanak mindent a külső világról, aztán megölik őket
+	- A király nem adott magyarázatot rá, de sejtésük szerint azért, hogy a szigeten élők ne akarjanak elmenni
+      - A viskóban találnak feljegyzéseket:
+	- A környező falvakban tevékenykedő ügynökökről
+	  - Tokodaltárón egy kocsmáros és egy kereskedő
+	  - Kaposszekcsőn egy szerszámkovács
+	- Egy feljegyzés ami szerint Kaposszekcsőn felkelés szerveződik (még nem küldték el a királynak)
+	- Jelentés a kereskedő kihallgatásáról:
+	  - Feljegyzések a külső világ királyságairól: Új pyarron, Toron, Abaszisz, Északi városállamok, Shadon, Gorvik
+	  - Nem ember, de emberi lényekről, külső jegyek leírása: törpe, gnóm, goblin, elf, ork, amund
+	  - Volt 5 további túlélő, akik szintén a szigeten vannak, azok hozzávetőleges leírása
+      - A kereskedőtől megtudják:
+	- A külső világról kérdezgették, birodalmakról, és nem emberi lényekről
+	- Elmondta hogy a kalandozók is a szigeten vannak
+	- A felkelésről nem árult el semmit
+	  |----------------------------+----------+-----+----+-----+-------+----------+----+----|
+	  | Név                        | sbz      | SFÉ | KÉ |  VÉ | TÉ/CÉ | Időigény | Ép | Fp |
+	  |----------------------------+----------+-----+----+-----+-------+----------+----+----|
+	  | Fejvadász (visszacsapó íj) | 2k6 + 2  |   1 | 45 | 140 |    58 |        3 | 14 | 45 |
+	  | Fejvadász (rövidkard)      | 1k10 + 1 |   1 | 45 | 148 |   110 |        5 | 14 | 45 |
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
