@@ -227,7 +227,17 @@
     - A tábor átköltözik a falu mellé, és megkezdődik az utánpótlás kiképzése. A karakterek is ekkor kapnak kiképzést
 **** A kiképzés
      - Egy hét telik itt el, ezalatt a karakterek megtanulnak formációban harcolni, és a hadvezetés alapjait
-       - Megkapják ingyen: térképészet 1, lélektan 1, taktika 2, hadvezetés 2
+       - Harcászati kiképzés:
+	 - taktika 2
+	 - hadvezetés 2
+	   - térképészet 1
+	     - számtan/mértan 1
+	       -?írás/olvasás 1
+	     -?művészet(rajz) 1
+	   - lélektan 1
+       - Fegyveres kiképzés:
+	 - pajzshasználat 1
+	 - nyeles fegyverek (lándzsa) 2
        - Hadászati szempontok:
 	 - Helyzeti előny (oldalról, hátulról támadás)
 	 - Domborzat
@@ -235,12 +245,15 @@
 	 - Morál
 	 - Időjárás
 	 - Formáció fontossága
+       - A két meglévő század:
+	 - Lándzsa és közepes pajzs, pajzsfal alakzat
+	 - Kiegészítő fegyver: kard v fejsze v buzogány
        - Katonák harcértéke
-         |--------+---------+-----+-----+----+---------+----+----|
-         | Név    | sbz     | SFÉ |  VÉ | TÉ | Tám/kör | Ép | Fp |
-         |--------+---------+-----+-----+----+---------+----+----|
-         | Katona | 2k6 + 2 |   2 | 160 | 90 |       2 | 13 | 55 |
-*** Fenyegetés
+         |---------------------+---------+-----+-----+----+---------+----+----|
+         | Név                 | sbz     | SFÉ |  VÉ | TÉ | Tám/kör | Ép | Fp |
+         |---------------------+---------+-----+-----+----+---------+----+----|
+         | Katona (hosszúkard) | 2k6 + 2 |   2 | 160 | 90 |       2 | 13 | 55 |
+     - Meghívják őket a Aneis ünnepére, Tunyogmatolcsra, ami a 3. hónap 30. napján lesz
     - Miután átállították a falut, észreveszik, hogy a kereskedő (Ranthar) eltűnt. Tokodaltáróra ment kereskedni, de nem tért
       vissza.
       - Az történt, hogy a városban elfecsegte mindenkinek, hogy honnan érkezett. Ezt megneszelték a király kémei, és elfogták
