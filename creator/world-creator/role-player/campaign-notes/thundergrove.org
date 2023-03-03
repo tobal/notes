@@ -254,6 +254,30 @@
          |---------------------+---------+-----+-----+----+---------+----+----|
          | Katona (hosszúkard) | 2k6 + 2 |   2 | 160 | 90 |       2 | 13 | 55 |
      - Meghívják őket a Aneis ünnepére, Tunyogmatolcsra, ami a 3. hónap 30. napján lesz
+*** Tavaszünnep
+**** Az ünnep menete
+     - Az elöljáró beszédet mond a főtéren, amiben köszönetet mond a hőseinknek és Daritusnak, hogy megszabadították a falut
+       az óriásféregtől, így értelmet adtak Aneis ünnepének, elvethetik a magokat tavasszal
+     - Aneis papjai (sárga köntösben) rituálisan ültetnek egy fát a főtéren, közben imákat mormolnak (óelf szavak
+       felismerhetők)
+     - Színi előadás, Caldusador felemelkedéséről
+       - Történet:
+         - Caldusador, első ezen a néven, a viharból előtűnve érkezett a szigetre
+	 - Erős nemzetséget hozott létre, ezzel elnyerte Aneis kegyeit (tavaszi háttér, zöld lombok)
+	 - A sziget erdeit megzabolázta, királyságot épített az erdők helyére, ezzel elnyerte Nogam kegyeit (nyári háttér,
+	   sárga kalászok)
+	 - Roillam megirigyelte Caldusador királyságát, ezért a királyság lelkileg gyenge alattvalóit meggyőzte, hogy
+	   lázadjanak fel a király ellen (ezeket barna csuklyás Gyermekeknek beöltözött színészek játsszák) (őszi háttér,
+	   színes lombok, felhős ég)
+	 - Caldusador a kegyelt istenekhez fordul, Aneishoz és Nogamhoz, akik azt tanácsolják, nyerje meg Lonaran kegyeit is
+	 - Lonaran azt mondja neki, győzze le csatában Roillam követőit, azzal elnyeri kegyét
+	 - Caldusador nehéz szívvel, de sereget gyűjt, és legyőzi Roillam követőit. Az életben maradtaknak jószívűen
+	   megkegyelmez, és engedi nekik, hogy a királyságot szolgálják. A Felvigyázók Rendjét hozza létre, hogy Roillam
+	   Gyermekeit kordában tartsák
+       - Erről megtudhatják az előljáróval beszélgetve, hogy minden ünnepen kötelezően elő kell adni
+     - Éjszakába nyúló ünneplés, zene, tánc, lakoma
+     - Másnap veszi észre a kocsmáros, hogy Ranthar, a kereskedő, nem tér haza az útjáról, pedig az ünnepre ide akart érni,
+       szól a hősöknek
     - Miután átállították a falut, észreveszik, hogy a kereskedő (Ranthar) eltűnt. Tokodaltáróra ment kereskedni, de nem tért
       vissza.
       - Az történt, hogy a városban elfecsegte mindenkinek, hogy honnan érkezett. Ezt megneszelték a király kémei, és elfogták
