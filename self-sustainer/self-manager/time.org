@@ -1451,3 +1451,322 @@
      |    |         |       6 |              3 |     4 |      31.9 |  6635 |         8 |
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      - 672.6
+** May
+*** <2023-05-01 Mon>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Oldschool gym
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+
+*** <2023-05-02 Tue>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Piano class
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-05-03 Wed>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Oldschool gym
+***** TODO Coach
+***** TODO Kenjutsu training
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-05-04 Thu>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Kenjutsu practice
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-05-05 Fri>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Juggling practice
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-05-06 Sat>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-05-07 Sun>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+        - Shower
+        - Wash hair
+        - Shave
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** TODO Japanese practice
+***** TODO Go practice
+***** TODO Age of Empires practice
+***** TODO Piano practice
+***** TODO Typing practice
+***** TODO IT learning
+**** Weekly activities
+***** TODO Japanese class
+***** TODO Kenjutsu training
+**** Stat table
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
