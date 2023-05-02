@@ -319,6 +319,14 @@
 	  |----------------------------+----------+-----+----+-----+-------+----------+----+----|
 	  | Fejvadász (visszacsapó íj) | 2k6 + 2  |   1 | 45 | 140 |    58 |        3 | 14 | 45 |
 	  | Fejvadász (rövidkard)      | 1k10 + 1 |   1 | 45 | 148 |   110 |        5 | 14 | 45 |
+*** Sereg közeledik
+     - Felfedeznek egy sereget, ha felderítik, kiderül hogy két századból áll, és Gerényrákos urának, Scardo Velosnak a
+       lobogója alatt menetelnek.
+     - Rio Lanus, a másik hadvezér aki óriáspókok miatt kért segítséget
+     - Csata előtti beszéd: "A király elfordult tőlünk, hagyja szenvedni a népét. És amikor mi felemeltük a szavunkat, ő
+       sereget küldött ellenünk! Legyőzött, fogjul ejtett, és megalázott minket! De mi nem adtuk fel, nem igaz?! Ismertek
+       már, tudjátok, hogy a végsőkig kitartok mellettetek. Tartsatok ki ti is! Itt az idő, hogy bosszút álljunk a király
+       katonáin!"
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
