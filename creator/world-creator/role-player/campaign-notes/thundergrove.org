@@ -10,10 +10,11 @@
 	  - agyagparti halászfalu: Kisvaszar
 	  - bányászfalu: Mecsekpölöske
 	  - földműves falu: Tunyogmatolcs
-	- déli uradalom: Csermely síkság
+	- déli uradalom: Csermely síkság (ura: Merikad Tren)
 	- keleti uradalom: Agros (ura: Wolemor Nevur)
       - Keleti: Mithrus
       - Déli: Tyndros
+    - Gerényrákos
 *** Helységnevek
     Tokodaltáró, Tunyogmatolcs
 *** Történelem, múlt
@@ -232,8 +233,8 @@
 	 - hadvezetés 2
 	   - térképészet 1
 	     - számtan/mértan 1
-	       -?írás/olvasás 1
-	     -?művészet(rajz) 1
+	       - ?írás/olvasás 1
+	     - ?művészet(rajz) 1
 	   - lélektan 1
        - Fegyveres kiképzés:
 	 - pajzshasználat 1
@@ -258,7 +259,7 @@
 **** Az ünnep menete
      - Az elöljáró beszédet mond a főtéren, amiben köszönetet mond a hőseinknek és Daritusnak, hogy megszabadították a falut
        az óriásféregtől, így értelmet adtak Aneis ünnepének, elvethetik a magokat tavasszal
-     - Aneis papjai (sárga köntösben) rituálisan ültetnek egy fát a főtéren, közben imákat mormolnak (óelf szavak
+     - Aneis papjai (zöld köntösben) rituálisan ültetnek egy fát a főtéren, közben imákat mormolnak (óelf szavak
        felismerhetők)
      - Színi előadás, Caldusador felemelkedéséről
        - Történet:
@@ -294,11 +295,11 @@
 	a pincében (ahol a kereskedő is fogva van tartva), és a sötétből támad rájuk.
       - Ha élve elfogják valamelyiket, kihallgathatják. Ha fizetnek neki 1 mithrill-t, kettős ügynököt csinálhatnak belőle,
 	1 mithrill-t kér minden jelentésért. Megtudhatják, hogy:
-	- A király levadásztat mindenkit, aki a külső világból érkezik
+	- A király levadásztat mindenkit, aki a külső világból érkezik (királyi parancs elrejtve a szájukban)
 	- Mindenkit kihallgatnak, hogy megtudjanak mindent a külső világról, aztán megölik őket
 	- A király nem adott magyarázatot rá, de sejtésük szerint azért, hogy a szigeten élők ne akarjanak elmenni
       - A viskóban találnak feljegyzéseket:
-	- A környező falvakban tevékenykedő ügynökökről
+	- A környező falvakban tevékenykedő besúgókról
 	  - Tokodaltárón egy kocsmáros és egy kereskedő
 	  - Kaposszekcsőn egy szerszámkovács
 	- Egy feljegyzés ami szerint Kaposszekcsőn felkelés szerveződik (még nem küldték el a királynak)
@@ -306,6 +307,9 @@
 	  - Feljegyzések a külső világ királyságairól: Új pyarron, Toron, Abaszisz, Északi városállamok, Shadon, Gorvik
 	  - Nem ember, de emberi lényekről, külső jegyek leírása: törpe, gnóm, goblin, elf, ork, amund
 	  - Volt 5 további túlélő, akik szintén a szigeten vannak, azok hozzávetőleges leírása
+	- Egy ládában:
+	  - Mérget
+	  - Álöltözékeket
       - A kereskedőtől megtudják:
 	- A külső világról kérdezgették, birodalmakról, és nem emberi lényekről
 	- Elmondta hogy a kalandozók is a szigeten vannak
