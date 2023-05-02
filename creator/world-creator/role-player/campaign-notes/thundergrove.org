@@ -530,9 +530,33 @@
 ***** Elkezdődik a kiképzés
 **** Caldusador 2486. éve 3. hónap 23-29 nap
 ***** Kiképzés
-**** Caldusador 2486. éve 3. hónap 30 nap
+**** Caldusador 2486. éve 3. hónap 30. nap
 ***** Tavaszünnep Tunyogmatolcson
-***** Hírt kapnak a kereskedő eltűnéséről
 **** Caldusador 2486. éve 4. hónap 1. nap
+***** Hírt kapnak a kereskedő eltűnéséről
 ***** Ranthar kiszabadítása
-
+***** Átállítják az ügynököt
+      - Mérget adnak be neki, egy nap múlva találkoznak majd újra
+**** Caldusador 2486. éve 4. hónap 2. nap
+***** Elindulnak vissza az erdei kunyhóból
+***** Észreveszik a sereget Tokodaltáró mellett
+      - Felderítik, közben futárt indítanak a táborba
+**** Caldusador 2486. éve 4. hónap 3. nap
+**** Caldusador 2486. éve 4. hónap 4. nap
+***** Bevárják a sereget
+**** Caldusador 2486. éve 4. hónap 5. nap
+**** Caldusador 2486. éve 4. hónap 6. nap
+***** Csata
+***** Csata utáni ünneplés
+**** Caldusador 2486. éve 4. hónap 7. nap
+***** Tokodaltáró kapujánál
+***** Felfedezik a várost
+***** Megkapják a küldetést a felvigyázók vezetőjétől, hogy derítsék fel a rabszolgák eltűnését
+***** Kapnak infót a bordélyházból
+***** Éjszaka elmennek a titkos küzdőtérre, ahol a rabszolgák harcolnak
+***** Elkapják a konferansziét, kikérdezik, zombit csinálnak belőle, ő pedig másnap reggel kimegy a főtérre és öngyilkos lesz
+**** Caldusador 2486. éve 4. hónap 8. nap
+***** Felkelnek délben
+***** Elmennek Trassirhoz, aki megbízza őket a foglyok kiszabadításával
+***** Kiszabadítják a foglyokat a bordélyház pincéjéből, tárgyi bizonyítékot is hoznak Vargas ellen
+***** Trassir elhívja őket, hogy segítsenek elfogni Vagras-t
