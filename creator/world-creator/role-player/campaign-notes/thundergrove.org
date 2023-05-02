@@ -33,8 +33,6 @@
      - Sehanine: fegyverek és páncélok varázserővel felruházása
      - Labelas: könyvtár
      - Solonor: papok, gyógyítók
-**** Kalandok
-     - Rabszolga ring: a Felvigyázók bízzák meg őket, hogy derítsék fel rabszolgák eltűnését -> illegális gladiátor harcok
 ** Játékmenet
 *** Hajóút Új-Pyarronból
     A karakterek Új-Pyarronból indulnak, nem ismerik egymást. Mindannyian jegyet váltanak egy hajóra, ami az északi
@@ -349,6 +347,81 @@
 ***** Kultúra
      - Az óelfektől maradtak fent a hagyományaik, tőlük tanultak az erdőben lovon manőverezni (pónilóval). Kiváló íjászok,
        az erdő ismerői és őrei. Mélységesen tisztelik a fákat, és egy örödik istent imádnak
+*** Tokodaltáró
+**** Helyek
+***** Kocsmák, fogadók, szórakozás
+     - Fogadó a Lúcfenyőhöz
+       - Megfizethető fogadó
+     - Korcsma a Juharfához
+       - Ennek a kocsmának a kocsmárosa a király besúgója
+       - Ha nagyon összehaverkodnak a helyiekkel, az egyik megsúgja nekik, hogy legyenek a bordélyház pincelejáratánál
+	 sötétedés után, és ha kérdezik a jelszót, mondják, hogy "cingár csuklyás csavargó". Ha elmennek, beengedik őket
+	 elkérnek fizetségként 100 trillt fejenként, és megnézhetik, ahogy a rabszolgák harcolnak egymással, mindegyik
+	 fejpánttal.
+     - A Kőris lányai
+       - A város egyetlen bordélyháza, alatta üzemel a gradiátor ring.
+       - Ha beszélnek a lányokkal, és az egyiket elviszik egy körre, az elmondja, hogy az egyik szobában fura hangokat hall
+	 néha. Mintha egy tömeget hallana, éljenzést, stb. Ha megnézik a szobát, és megkérdezik a madame-ot, kiderül, hogy
+	 a hangok a pincéből jöhetnek, ahova egy eldugott lejárat van, ami most le van zárva, de valóban hallatszódnak hangok
+	 mögüle. A madame nem engedi kinyitni, mert akkor a tulajdonos úr megharagudna. Nem mondhatja el, ki az, de azt igen,
+	 hogy hetente szokott ellátogatni egy kapcsolattartó, és holnap este is jönni fog.
+       - Ha őt elfogják, megtudhatják tőle, hogy Vagras bízta meg, hogy igazgassa a bordélyházat, és tartsa titokban a
+	 gradiátor ringet.
+     - Fogadó a Borókához
+       - Ez a legfancy-bb hely a városban, alig van ember, aki meg tudja fizetni. Ezek egyike Vagras is, aki a bordélyház
+	 alatt üzemelő küzdőteret üzemelteti.
+***** Kereskedelem
+     - Piactér (kaják)
+       - Kiderül, hogy különösen sok ennivaló fogy a bordélyházban
+     - Szabóság
+       - Kiderül, hogy Vagras különböző méretű, de ugyanolyan színű, nagyon egyszerű ruhát rendel, bizonyos időközönként
+       - A kereskedő a király besúgója
+     - Kovács
+     - Ékszerész
+     - Fegyverkovács
+       - Ha kikérdezik, kiderül hogy Vagras néha meggbízza fegyverek javításával, amik nem a helyőrség fegyverei
+     - Íjászda, lőtér
+***** Vallás
+     - Egy hatalmas park van a város közepén, ahol egy-egy külön szentéllyel tisztelegnek mind a négy isten előtt
+***** Egyéb helyek
+     - Út a várba (le van zárva)
+     - A fal tövében őrséghelyek, a helyőrség központja a város közepén a tér a mellett van
+     - A Gyermekek tábora egy cölöpvár a város falához simulva, a fal tövében van a Felvigyázók városi központja.
+       - Vagy itt, vagy egy kocsmában találja meg a kalandozókat Trassir, a felvigyázók vezetője
+	 - Azzal bízza meg, hogy derítsék fel a rabszolgák eltűnését, ami egyre gyakoribb az utóbbi fél évben
+	 - Neki nincs ráhatása a helyőrségre, ők pedig nem akarnak csinálni semmit, ezért az a gyanú, hogy a helyőrség
+	   vezetője, Vagras keze van a dologban
+	 - Derítsék fel, hova tűnnek a rabszolgák, és ha lehet, szabadítsák ki őket
+	 - Ha kell, adhat egy rabszolgát csalinak
+       - Ha kiderítették ki felelős érte, és hol vannak a rabok, Trassir megbízza őket hogy szabadítsák ki a szolgákat
+	 - A bordélyház alatti pincéből kiszabadíthatják őket
+	 - Ezután már van bizonyíték Vagras ellen, már Trassir is felléphet ellene, hívja a játékosokat is, extra fizetség
+	   fejében, ha segítenek elbánni Vagras-szal és a testőrségével
+	 - Párbeszéd:
+	   Trassir: Azért jöttünk, hogy felelősségre vonjunk az elkövetett bűneidért. Bizonyítékom van rá, hogy Gyermekeket
+	   raboltál, hogy aztán élet-halál harcra kényszerítsd őket, és így juss vagyonhoz, tisztességtelenül. A Gyermekek
+	   nem csak az én és a Felvigyázók, de egyenesen Roillam védelme alatt állnak. Ha békében megadod magad, akkor
+	   elkerülheted, hogy itt és most végrehajtsam a halálbüntetésed.
+	   Vagras: Hagyjuk már a mellébeszélést. A rendednek és az istenednek is leáldozóban van a hatalma. Ha Merikad nagyúr
+	   meghallja, hogy ilyen arcátlan voltál egy főtiszttel, akit személyesen ő nevezett ki, nagy bajba kerülsz. Távozz
+	   most, vagy nézz szembe a következményekkel.
+	   Trassir: Tévedsz, a drágalátos uradnak felettem nincs hatalma. A Felvigyázók egyenesen a király megbízásából őrzik
+	   a Gyermekeket... ha úgy ítélem, hogy valaki megszegi a Roillammal ősidők óta megköttetett szerződést, akkor jogomban
+	   áll a törvény teljes szigorával lesújtani.
+	   Vagras: Akkor lássuk, képes vagy-e véghezvinni (feláll, int a testőrségének, a balkonról 4 számszeríjász néz ki)
+	 - Harc: Vagras, 2 kardos testőr, 4 számszeríjász
+	   Velük megy Trassir is két felvigyázóval
+	  |---------------------------+-------+-----+----+-----------+-------+----------+----+-----|
+	  | Név                       | sbz   | SFÉ | KÉ |        VÉ | TÉ/CÉ | Időigény | Ép |  Fp |
+	  |---------------------------+-------+-----+----+-----------+-------+----------+----+-----|
+	  | Vagras (pallos)           | 4k6+6 |   8 | 31 |       176 |   132 |       10 | 15 | 157 |
+	  | Testőr (lovagkard)        | 3k6+2 |   5 | 31 | 150 (170) |    94 |        5 | 15 | 111 |
+	  | Testőr (számszeríj)       | 1k6   |   5 | 31 |       130 |    56 |        3 | 15 | 111 |
+	  | Trassir (2kezes buzogány) | 3k6+6 |   7 | 30 |       175 |   134 |       10 | 15 | 157 |
+	  | Felvigyázó (buzogány)     | 2k6+2 |   4 | 34 | 142 (177) |    94 |        5 | 15 | 111 |
+**** Egyéb
+***** Futár üzenete
+
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
