@@ -1455,49 +1455,48 @@
 *** <2023-05-01 Mon>
 **** Routines
 ***** Morning routine
-****** TODO Get up
+****** FAILED Get up
         - Wash face
         - Drink water
         - Measure weight
-****** TODO Exercise
+****** DONE Exercise
         - Warm up
 	- Kenjutsu slashes
-****** TODO Shower
+****** FAILED Shower
         - Shower
         - Wash hair
         - Shave
 ***** Evening routine
-****** TODO Range of motion
+****** FAILED Range of motion
         - Stretch legs
         - Stretch chest, arms
-****** TODO Plan next day
+****** FAILED Plan next day
         - Review org file
         - Prepare for next day
-****** TODO Hygene of body
+****** FAILED Hygene of body
         - Wash face
         - Eye training
         - Dental
-****** TODO Hygene of mind
+****** FAILED Hygene of mind
         - 15 min meditation
         - write diary
-****** TODO Sleep
+****** FAILED Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
+***** DONE Japanese practice
+***** FAILED Go practice
+***** DONE Age of Empires practice
+***** DONE Piano practice
+***** FAILED Typing practice
+***** FAILED IT learning
 **** Weekly activities
-***** TODO Oldschool gym
+***** FAILED Oldschool gym
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      |    |         |         |                |       |           |       |           |
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
-
 *** <2023-05-02 Tue>
 **** Routines
 ***** Morning routine
