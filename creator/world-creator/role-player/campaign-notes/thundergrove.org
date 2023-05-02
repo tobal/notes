@@ -327,6 +327,28 @@
        sereget küldött ellenünk! Legyőzött, fogjul ejtett, és megalázott minket! De mi nem adtuk fel, nem igaz?! Ismertek
        már, tudjátok, hogy a végsőkig kitartok mellettetek. Tartsatok ki ti is! Itt az idő, hogy bosszút álljunk a király
        katonáin!"
+*** Favágóknak segítség
+     - Amikor a falu felé (Kercseliget) mennek, piros X-es táblák fogadják. Az egyikre ki is van írva, hogy forduljanak
+       vissza.
+     - Amikor beérnek, megtudják hogy erősen fertőző betegség sújtja a falut. Erős gyengeséget okoz, a helyi herbalista,
+       egy idős asszony, Sercil foglalkozik a betegekkel. Maszkban, úgy hogy nem ér hozzájuk, nem kapja el a betegséget,
+       de nagyon kell vigyáznia.
+     - A betegség: egyhe lefolyásnál hosszantartó gyengeség, erős fáradékonyság, erős lefolyásnál a fentiek plusz erős
+       rosszullét, ágyhozkötöttség, étvágytalanság, így hosszú távon leépülés
+     - Hosszú lappangású (2 hét), sose tudni ki kaphatta már el, ezért Sercil megtiltotta, hogy bárki is elhagyja a falut
+       (pedig a fiatalok menni akartak, de túlságosan tisztelték az öreg bölcset, senki nem mert ellent mondani neki)
+     - Alesius-tól megkérdezve megtudhatják, ki kapta el legelőször, és ha őt kikérdezik (Tirania), megtudhatják tőle,
+       hogy senkivel sem találkozott mostanában, akivel eddig is (titokban dobok mindenkinek lélektanra, aki megdobja,
+       rájön hogy hazudik). Ha tovább kérdezik, kiböki, hogy egy férfival a barbárok falujából.
+       - Azért ilyen nehezen bökte ki, mert tabu a barbárokról még csak beszélni is. Elképzelhetetlen, hogy bárki is szóba
+	 álljon velük, a közembereknek csak néhány szitkozódásában maradtak csak meg. Egyszerűen csak senki nem megy a
+	 Szarvas ligetbe, és onnan sem jön ki senki.
+       - Elmondja, hogy egy tisztáson találkoztak a férfival, hogyha ott nincs a hét második napján délután, akkor csak a
+	 barbárok falujában találhatják meg.
+**** A barbárok faluja
+***** Kultúra
+     - Az óelfektől maradtak fent a hagyományaik, tőlük tanultak az erdőben lovon manőverezni (pónilóval). Kiváló íjászok,
+       az erdő ismerői és őrei. Mélységesen tisztelik a fákat, és egy örödik istent imádnak
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
