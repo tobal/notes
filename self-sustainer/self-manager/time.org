@@ -1500,44 +1500,45 @@
 *** <2023-05-02 Tue>
 **** Routines
 ***** Morning routine
-****** TODO Get up
+****** FAILED Get up
         - Wash face
         - Drink water
         - Measure weight
-****** TODO Exercise
+****** FAILED Exercise
         - Warm up
 	- Kenjutsu slashes
-****** TODO Shower
+****** FAILED Shower
         - Shower
         - Wash hair
         - Shave
 ***** Evening routine
-****** TODO Range of motion
+****** FAILED Range of motion
         - Stretch legs
         - Stretch chest, arms
-****** TODO Plan next day
+****** DONE Plan next day
         - Review org file
         - Prepare for next day
-****** TODO Hygene of body
+****** FAILED Hygene of body
         - Wash face
         - Eye training
         - Dental
-****** TODO Hygene of mind
+****** FAILED Hygene of mind
         - 15 min meditation
         - write diary
-****** TODO Sleep
+****** FAILED Sleep
         - read book
 **** Self development
 ***** TODO Japanese practice
-***** TODO Go practice
+***** DONE Go practice
 ***** TODO Age of Empires practice
-***** TODO Piano practice
+***** DONE Piano practice
 ***** TODO Typing practice
 ***** TODO IT learning
-***** TODO Resistance training
+***** DONE Resistance training
 ***** TODO Sim racing practice
 **** Weekly activities
-***** TODO Piano class
+***** DONE Piano class
+***** DONE Role playing game
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
