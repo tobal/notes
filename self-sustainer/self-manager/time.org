@@ -1554,11 +1554,7 @@
         - Measure weight
 ****** TODO Exercise
         - Warm up
-	- Kenjutsu slashes
 ****** TODO Shower
-        - Shower
-        - Wash hair
-        - Shave
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1576,18 +1572,23 @@
 ****** TODO Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
-***** TODO Resistance training
-***** TODO Sim racing practice
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
 **** Weekly activities
 ***** TODO Oldschool gym
 ***** TODO Coach
-***** TODO Kenjutsu training
+***** TODO Kenjutsu dojo
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
@@ -1603,11 +1604,7 @@
         - Measure weight
 ****** TODO Exercise
         - Warm up
-	- Kenjutsu slashes
 ****** TODO Shower
-        - Shower
-        - Wash hair
-        - Shave
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1625,14 +1622,19 @@
 ****** TODO Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
-***** TODO Resistance training
-***** TODO Sim racing practice
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
 **** Weekly activities
 ***** TODO Kenjutsu practice
 **** Stat table
@@ -1650,11 +1652,7 @@
         - Measure weight
 ****** TODO Exercise
         - Warm up
-	- Kenjutsu slashes
 ****** TODO Shower
-        - Shower
-        - Wash hair
-        - Shave
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1672,14 +1670,19 @@
 ****** TODO Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
-***** TODO Resistance training
-***** TODO Sim racing practice
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
 **** Weekly activities
 ***** TODO Juggling practice
 **** Stat table
@@ -1697,11 +1700,7 @@
         - Measure weight
 ****** TODO Exercise
         - Warm up
-	- Kenjutsu slashes
 ****** TODO Shower
-        - Shower
-        - Wash hair
-        - Shave
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1719,14 +1718,19 @@
 ****** TODO Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
-***** TODO Resistance training
-***** TODO Sim racing practice
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
 **** Weekly activities
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
@@ -1743,11 +1747,7 @@
         - Measure weight
 ****** TODO Exercise
         - Warm up
-	- Kenjutsu slashes
 ****** TODO Shower
-        - Shower
-        - Wash hair
-        - Shave
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1765,17 +1765,22 @@
 ****** TODO Sleep
         - read book
 **** Self development
-***** TODO Japanese practice
-***** TODO Go practice
-***** TODO Age of Empires practice
-***** TODO Piano practice
-***** TODO Typing practice
-***** TODO IT learning
-***** TODO Resistance training
-***** TODO Sim racing practice
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
 **** Weekly activities
 ***** TODO Japanese class
-***** TODO Kenjutsu training
+***** TODO Kenjutsu dojo
 **** Stat table
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
