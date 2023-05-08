@@ -1646,13 +1646,13 @@
 *** <2023-05-05 Fri>
 **** Routines
 ***** Morning routine
-****** TODO Get up
+****** DONE Get up
         - Wash face
         - Drink water
         - Measure weight
 ****** TODO Exercise
         - Warm up
-****** TODO Shower
+****** DONE Shower
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1685,12 +1685,14 @@
 ****** TODO Typing practice
 **** Weekly activities
 ***** TODO Juggling practice
+**** Etc
+***** DONE Groceries
 **** Stat table
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     |    |         |         |                |       |           |       |           |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 95.35 |         |         |                |       |           |       |           |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
 *** <2023-05-06 Sat>
 **** Routines
 ***** Morning routine
