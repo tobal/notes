@@ -1,4 +1,5 @@
-# Make sum of column: C-c +, p
+# Make sum of column: C-c + (shift =), p
+# Sort by column: C-c ^ (shift 6), a
 
 * 2022
 ** September
