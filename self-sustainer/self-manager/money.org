@@ -131,3 +131,44 @@
    | Tobacco               |   1170 | <2023-05-04 Thu> |       |
    | Tobacco               |   2160 | <2023-05-02 Tue> |       |
    | Tobacco               |   4470 | <2023-04-27 Thu> |       |
+** June
+*** Plan
+**** Mandatory regular
+   |------------------+--------|
+   | Expense          | Amount |
+   |------------------+--------|
+   | Japanese         |  26000 |
+   | Gym              |  27000 |
+   | Piano            |  40000 |
+   | Rent             | 150000 |
+   | Debt             |  53000 |
+   | Gas              |  25000 |
+   | Highway          |   9000 |
+   | Kenjutsu monthly |   7500 |
+   | Regular fees     |  26400 |
+   | Food             |  90000 |
+   | Tobacco          |  15000 |
+   | Household        |  12500 |
+   |------------------+--------|
+**** Mandatory onefold
+   |---------------+--------|
+   | Expense       | Amount |
+   |---------------+--------|
+   | Missed rent   | 145251 |
+   | Marci present |  13000 |
+   | Hand torch    |  12500 |
+   | Ozora         |  52000 |
+   | Kenjutsu camp |  14000 |
+   | Wedding       |  15000 |
+**** Frivolous
+   |------------------+--------|
+   | Expense          | Amount |
+   |------------------+--------+
+   | Jet models       |  17700 |
+   | Boxed games      |  11000 |
+   | Chair            |  45000 |
+   | Shoes            |  10000 |
+   | Book             |   5000 |
+   | Cyberpunk books  |  28500 |
+   | Contact staff    |  52000 |
+   |------------------+--------+
