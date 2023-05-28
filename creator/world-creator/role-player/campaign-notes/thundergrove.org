@@ -354,9 +354,50 @@
 	 barbárok falujában találhatják meg.
        - A férfi neve Anatel
 **** A barbárok faluja
+***** Küldetés
+     - Amikor megérkeznek a játékosok, ha nyíltan közelítenek, az erdőben a fegyvereik letételére kényszerítik őket. Ha nem
+       engedelmeskednek, lenyilazzák őket. Ha elmondják hogy Anatel-t keresik, hajlandóak szóba állni velük. Elviszik a
+       faluba a kalandozókat.
+     - A faluban megtudják, hogy itt is tombol a betegség.
+     - Ha a tisztásra mennek, ott megtalálhatják a fura növényt, ami a betegséget okozza, és ellenszert készíthetnek belőle.
+     - Értesülhetnek a romokról, és egy viskóról is az erdő déli részén, ahol egy fura öregember lakik, de csak időszakosan
+       szokott felbukkanni.
 ***** Kultúra
      - Az óelfektől maradtak fent a hagyományaik, tőlük tanultak az erdőben lovon manőverezni (pónilóval). Kiváló íjászok,
-       az erdő ismerői és őrei. Mélységesen tisztelik a fákat, és egy örödik istent imádnak
+       az erdő ismerői és őrei. Mélységesen tisztelik a fákat, és egy ötödik istent imádnak
+     - Ez az ötödik isten is egy kalahora, aki az ősi háború idején élt, majd eltűnt. A neve Merlyel, a Harcos Hajadon. Ő
+       fogta össze az öt elf törzset (déli elfek, északi elfek, hegyi elfek, éji elfek, pusztai elfek), és vonta körbe
+       mágikus viharral a szigetet. A varázst öt ősi fegyver köti meg, amit megtalálva, és egy rituálét elvégezve megtörhető
+       a vihar.
+     - A barbárok magukat Erdei Népnek hívják.
+     - Van két szent helyük, ahova zarándokutak vezetnek. Ezek ősi elf romok, egyik az erdő északi részén, a másik a
+       hegységben.
+***** Helyek
+****** Csólyospálos
+       - A hegységből lefolyó patakok vizébe oldott fémeket szedik össze, így jut a nép vasérchez, itt készülnek a fegyvereik
+****** Zákányszék
+       - A fő település
+****** Kömpöc
+       - Főként vadászok, erdőkerülők
+****** Csikéna
+       - Előretolt helyőrség, a legtöbb harcos itt van, próbálják védeni az erdőt az írtástól
+****** Szent helyek
+       - A fali vésetek története:
+         - Urria története, az óelfek elvezetik a jövevényeket Uscha-hoz, az Ősfához, aminek kérgét a jövevények felhasítják,
+	   vizéből isznak, ezért az óelfek megölik őket. Emiatt Urria kitaszítja őket a paradicsomból, a Földre.
+	 - Megérkeznek a szigetre
+	 - Elültetik a világfát a sziget délnyugati csücskében
+	 - Öt törzsre szakadnak
+	 - Az öt törzs mutálódik
+	 - Megérkeznek az emberek
+	 - Háború dúl az emberekkel
+	 - Merlyel egyesíti a törzseket, létrehozza a vihart, és az öt fegyvert, amit a törzseknek ad, a villám hatalmával
+	 - Az öt törzs bukása:
+	   - Északi törzs (kard)
+	   - Déli törzs (íj)
+	   - Pusztai törzs (csatabárd)
+	   - Éji törzs (varázspálca)
+	   - Hegyi törzs (dobótőr, vagy amit Srí használ) TODO
 *** Tokodaltáró
 **** Helyek
 ***** Kocsmák, fogadók, szórakozás
