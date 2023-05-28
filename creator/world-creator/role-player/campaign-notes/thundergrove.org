@@ -10,11 +10,17 @@
 	  - agyagparti halászfalu: Kisvaszar
 	  - bányászfalu: Mecsekpölöske
 	  - földműves falu: Tunyogmatolcs
+	  - város: Tokodaltáró
 	- déli uradalom: Csermely síkság (ura: Merikad Tren)
+	  - város a híd mellett: Gerényrákos
 	- keleti uradalom: Agros (ura: Wolemor Nevur)
+	- barbárok földje, Szarvasligetben
+	  - tüskés hegység melletti falu: Csólyospálos
+	  - fö település: Zákányszék
+	  - vadászok faluja: Kömpöc
+	  - helyőrség: Csikéna
       - Keleti: Mithrus
       - Déli: Tyndros
-    - Gerényrákos
 *** Helységnevek
     Tokodaltáró, Tunyogmatolcs
 *** Történelem, múlt
