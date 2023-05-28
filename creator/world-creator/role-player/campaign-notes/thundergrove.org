@@ -611,3 +611,20 @@
 ***** Elmennek Trassirhoz, aki megbízza őket a foglyok kiszabadításával
 ***** Kiszabadítják a foglyokat a bordélyház pincéjéből, tárgyi bizonyítékot is hoznak Vargas ellen
 ***** Trassir elhívja őket, hogy segítsenek elfogni Vagras-t
+***** Elfogják, kapnak páncélokat, beadják a kovácshoz
+**** Caldusador 2486. éve 4. hónap 9. nap
+***** Elmennek a favágó faluba, tudomást szereznek a betegségről
+***** Visszamennek a városba
+**** Caldusador 2486. éve 4. hónap 10. nap
+***** Elmennek a tisztásra, megtalálják a betegséget okozó füvet, csinálnak elleszérumot
+***** Továbbmennek a barbárokhoz, ahol találkoznak velük
+**** Caldusador 2486. éve 4. hónap 11. nap
+***** Megbeszélik, hogy az ellenszerért cserébe legyen egy találka a Khán és Daritus között
+**** Caldusador 2486. éve 4. hónap 12. nap
+**** Caldusador 2486. éve 4. hónap 13. nap
+***** Létrejön a találkozó, megegyeznek, hogy az Erdei Nép csatlakozik a felkeléshez
+**** Caldusador 2486. éve 4. hónap 14. nap
+***** Visznek ellenszert a favágóknak, ők is felgyógyulnak, és csatlakoznak a felkeléshez
+**** Caldusador 2486. éve 4. hónap 15. nap
+**** Caldusador 2486. éve 4. hónap 16. nap
+***** Megnézik a romokat, a domborműveket
