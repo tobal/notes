@@ -337,6 +337,9 @@
      - Amikor beérnek, megtudják hogy erősen fertőző betegség sújtja a falut. Erős gyengeséget okoz, a helyi herbalista,
        egy idős asszony, Sercil foglalkozik a betegekkel. Maszkban, úgy hogy nem ér hozzájuk, nem kapja el a betegséget,
        de nagyon kell vigyáznia.
+     - A falu elöljárója: Alesius, elég gyenge kezű vezető, Sercil simán elnyomja
+     - A fiatal, aki kilógott: Berin. Sercil parancsa ellenére, ha a karakterek két hét múlva sem érkeznek, kilóg és szól
+       a külvilágnak.
      - A betegség: egyhe lefolyásnál hosszantartó gyengeség, erős fáradékonyság, erős lefolyásnál a fentiek plusz erős
        rosszullét, ágyhozkötöttség, étvágytalanság, így hosszú távon leépülés
      - Hosszú lappangású (2 hét), sose tudni ki kaphatta már el, ezért Sercil megtiltotta, hogy bárki is elhagyja a falut
@@ -349,6 +352,7 @@
 	 Szarvas ligetbe, és onnan sem jön ki senki.
        - Elmondja, hogy egy tisztáson találkoztak a férfival, hogyha ott nincs a hét második napján délután, akkor csak a
 	 barbárok falujában találhatják meg.
+       - A férfi neve Anatel
 **** A barbárok faluja
 ***** Kultúra
      - Az óelfektől maradtak fent a hagyományaik, tőlük tanultak az erdőben lovon manőverezni (pónilóval). Kiváló íjászok,
