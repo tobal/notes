@@ -1854,6 +1854,9 @@
      | 97.1 |      10 |       5 |              0 |     2 |        20 |   876 |         6 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
 
+*** <2023-05-29 Mon>
+**** Routines
+***** Morning routine
 ****** TODO Get up
         - Wash face
         - Drink water
@@ -1861,7 +1864,6 @@
 ****** TODO Exercise
         - Warm up
 	- Kenjutsu slashes
-****** TODO Shower
 ***** Evening routine
 ****** TODO Range of motion
         - Stretch legs
@@ -1893,14 +1895,11 @@
 ****** TODO Piano practice
 ****** TODO Typing practice
 **** Etc
-***** TODO Read mail
-***** TODO Watch F1
-**** Weekly activities
-***** TODO Japanese class
-***** TODO Kenjutsu dojo
+***** TODO Rabbitmq sending bug
+***** TODO Record 80 bunti choreography
 **** Stat table
-     |------+---------+---------+----------------+-------+-----------+-------+-----------|
-     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |------+---------+---------+----------------+-------+-----------+-------+-----------|
-     | 97.1 |         |         |                |       |           |       |         7 |
-     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    |         |         |                |       |           |       |           |
+     |----+---------+---------+----------------+-------+-----------+-------+-----------|
