@@ -1800,3 +1800,57 @@
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
      |    |         |         |                |       |           |       |         7 |
      |----+---------+---------+----------------+-------+-----------+-------+-----------|
+
+*** <2023-05-28 Sun>
+**** Routines
+***** Morning routine
+****** TODO Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+****** TODO Shower
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
+**** Etc
+***** TODO Read mail
+***** TODO Watch F1
+**** Weekly activities
+***** TODO Japanese class
+***** TODO Kenjutsu dojo
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 97.1 |         |         |                |       |           |       |         7 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
