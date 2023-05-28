@@ -1804,6 +1804,56 @@
 *** <2023-05-28 Sun>
 **** Routines
 ***** Morning routine
+****** DONE Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** FAILED Exercise
+        - Warm up
+	- Kenjutsu slashes
+***** Evening routine
+****** DONE Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** DONE Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** Learning
+****** DONE Japanese learning
+****** TODO IT learning
+***** Games
+****** DONE Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** DONE Resistance training
+****** DONE Kenjutsu training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
+**** Etc
+***** DONE Read mail
+***** DONE Watch F1
+**** Weekly activities
+***** DONE Japanese class
+***** DONE Kenjutsu dojo
+**** Stat table
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 97.1 |      10 |       5 |              0 |     2 |        20 |   876 |         6 |
+     |------+---------+---------+----------------+-------+-----------+-------+-----------|
+
 ****** TODO Get up
         - Wash face
         - Drink water
