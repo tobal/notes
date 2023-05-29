@@ -1815,16 +1815,15 @@
 ****** DONE Range of motion
         - Stretch legs
         - Stretch chest, arms
-****** TODO Plan next day
+****** DONE Plan next day
         - Review org file
         - Prepare for next day
 ****** DONE Hygene of body
         - Wash face
         - Eye training
         - Dental
-****** TODO Hygene of mind
-        - 15 min meditation
-        - write diary
+****** DONE Hygene of mind
+        - 5 min meditation
 ****** TODO Sleep
         - read book
 **** Self development
@@ -1851,9 +1850,8 @@
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
      |   Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
-     | 97.1 |      10 |       5 |              0 |     2 |        20 |   876 |         6 |
+     | 97.1 |      10 |      13 |              0 |     2 |        20 |   876 |         6 |
      |------+---------+---------+----------------+-------+-----------+-------+-----------|
-
 *** <2023-05-29 Mon>
 **** Routines
 ***** Morning routine
