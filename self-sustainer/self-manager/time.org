@@ -1855,11 +1855,11 @@
 *** <2023-05-29 Mon>
 **** Routines
 ***** Morning routine
-****** TODO Get up
+****** DONE Get up
         - Wash face
         - Drink water
         - Measure weight
-****** TODO Exercise
+****** FAILED Exercise
         - Warm up
 	- Kenjutsu slashes
 ***** Evening routine
@@ -1880,24 +1880,27 @@
         - read book
 **** Self development
 ***** Learning
-****** TODO Japanese learning
+****** DONE Japanese learning
 ****** TODO IT learning
 ***** Games
 ****** TODO Go practice
-****** TODO Age of Empires practice
+****** DONE Age of Empires practice
 ****** TODO Sim racing practice
 ***** Training
 ****** TODO Resistance training
-****** TODO Kenjutsu training
+****** DONE Kenjutsu training
+****** DONE Choreo training
 ***** Practice
 ****** TODO Piano practice
 ****** TODO Typing practice
 **** Etc
 ***** TODO Rabbitmq sending bug
 ***** TODO Record 80 bunti choreography
+**** Weekly activities
+***** DONE Oldschool gym
 **** Stat table
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     |    |         |         |                |       |           |       |           |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 96.25 |      12 |       2 |              0 |     2 |         8 |  1133 |         5 |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
