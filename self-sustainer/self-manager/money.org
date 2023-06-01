@@ -175,20 +175,25 @@
    | Coding bundle   |   7000 |
    |-----------------+--------|
 *** Actual
-   |---------------+--------+------------------+-------------------|
-   | Expense       | Amount | Date             | Category          |
-   |---------------+--------+------------------+-------------------|
-   | Marci present |  13000 | <2023-05-25 Thu> | etc               |
-   | Jet models    |  17700 | <2023-05-25 Thu> | frivolous         |
-   | Cafe frei     |    950 | <2023-05-25 Thu> | etc               |
-   | Work lunch    |   2200 | <2023-05-25 Thu> | etc               |
-   | Pipi          |   2558 | <2023-05-26 Fri> | fast food         |
-   | Spar          |   1624 | <2023-05-26 Fri> | food              |
-   | Penny         |   2607 | <2023-05-26 Fri> | food              |
-   | Rent          | 145251 | <2023-05-27 Sat> | monthly           |
-   | Debt          |  53000 | <2023-05-27 Sat> | monthly           |
-   | Gyros         |   1650 | <2023-05-27 Sat> | fast food         |
-   | Ozora ticket  |  53335 | <2023-05-28 Sun> | mandatory onefold |
-   | Gyros         |   2600 | <2023-05-29 Mon> | fast food         |
-   | Burger king   |   4760 | <2023-05-30 Tue> | fast food         |
-   |---------------+--------+------------------+-------------------|
+   |-----------------+--------+------------------+-------------------|
+   | Expense         | Amount | Date             | Category          |
+   |-----------------+--------+------------------+-------------------|
+   | Marci present   |  13000 | <2023-05-25 Thu> | mandatory onefold |
+   | Jet models      |  17700 | <2023-05-25 Thu> | frivolous         |
+   | Cafe frei       |    950 | <2023-05-25 Thu> | etc               |
+   | Work lunch      |   2200 | <2023-05-25 Thu> | etc               |
+   | Pipi            |   2558 | <2023-05-26 Fri> | fast food         |
+   | Spar            |   1624 | <2023-05-26 Fri> | food              |
+   | Penny           |   2607 | <2023-05-26 Fri> | food              |
+   | Rent            | 145251 | <2023-05-27 Sat> | monthly           |
+   | Debt            |  53000 | <2023-05-27 Sat> | monthly           |
+   | Gyros           |   1650 | <2023-05-27 Sat> | fast food         |
+   | Ozora ticket    |  53335 | <2023-05-28 Sun> | mandatory onefold |
+   | Gyros           |   2600 | <2023-05-29 Mon> | fast food         |
+   | Burger king     |   4760 | <2023-05-30 Tue> | fast food         |
+   | Pipi            |   2000 | <2023-05-31 Wed> | fast food         |
+   | Spar sweets     |   2455 | <2023-05-31 Wed> | fast food         |
+   | Gas             |   8540 | <2023-05-31 Wed> | car               |
+   | Gas             |   6000 | <2023-05-31 Wed> | car               |
+   | Highway monthly |   9219 | <2023-05-31 Wed> | car               |
+   |-----------------+--------+------------------+-------------------|
