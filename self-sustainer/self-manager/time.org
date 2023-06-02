@@ -2012,3 +2012,53 @@
      |-------+---------+---------+----------------+-------+-----------+-------+-----------|
      | 97.25 |      11 |       1 |              1 |     5 |      66.4 |  4544 |         4 |
      |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+*** <2023-06-01 Thu>
+**** Routines
+***** Morning routine
+****** DONE Get up
+        - Wash face
+        - Drink water
+        - Measure weight
+****** TODO Exercise
+        - Warm up
+	- Kenjutsu slashes
+***** Evening routine
+****** TODO Range of motion
+        - Stretch legs
+        - Stretch chest, arms
+****** TODO Plan next day
+        - Review org file
+        - Prepare for next day
+****** TODO Hygene of body
+        - Wash face
+        - Eye training
+        - Dental
+****** TODO Hygene of mind
+        - 15 min meditation
+        - write diary
+****** TODO Sleep
+        - read book
+**** Self development
+***** Learning
+****** TODO Japanese learning
+****** TODO IT learning
+***** Games
+****** TODO Go practice
+****** TODO Age of Empires practice
+****** TODO Sim racing practice
+***** Training
+****** TODO Resistance training
+****** TODO Kenjutsu training
+****** TODO Choreo training
+***** Practice
+****** TODO Piano practice
+****** TODO Typing practice
+**** Etc
+**** Weekly activities
+***** DONE Social
+**** Stat table
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 97.45 |      11 |       1 |              1 |     3 |           |  3239 |         7 |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
