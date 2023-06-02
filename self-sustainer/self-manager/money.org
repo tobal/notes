@@ -156,24 +156,32 @@
    |---------------+--------|
    | Missed rent   | 145251 |
    | Marci present |  13000 |
-   | Hand torch    |  12500 |
+   | Peti present  |   5000 |
    | Ozora         |  52000 |
    | Kenjutsu camp |  14000 |
    | Wedding       |  15000 |
    |---------------+--------|
 **** Frivolous
-   |-----------------+--------|
-   | Expense         | Amount |
-   |-----------------+--------|
-   | Jet models      |  17700 |
-   | Boxed games     |  11000 |
-   | Chair           |  45000 |
-   | Shoes           |  10000 |
-   | Book            |   5000 |
-   | Cyberpunk books |  28500 |
-   | Contact staff   |  52000 |
-   | Coding bundle   |   7000 |
-   |-----------------+--------|
+   |----------------+--------|
+   | Expense        | Amount |
+   |----------------+--------|
+   | Jet models     |  17700 |
+   | Dungeon Keeper |  15000 |
+   | Chair          |  45000 |
+   | Book           |   5000 |
+   | Coding bundle  |   7000 |
+   | Diablo 4       |  26000 |
+   |----------------+--------|
+**** Next month
+   |------------------------+--------|
+   | Expense                | Amount |
+   |------------------------+--------|
+   | Boxed games (F22, BG2) |  11000 |
+   | Shoes                  |  10000 |
+   | Cyberpunk books        |  28500 |
+   | Contact staff          |  52000 |
+   | Hand torch             |  18500 |
+   |------------------------+--------|
 *** Actual
    |-----------------+--------+------------------+-------------------|
    | Expense         | Amount | Date             | Category          |
@@ -196,4 +204,8 @@
    | Gas             |   8540 | <2023-05-31 Wed> | car               |
    | Gas             |   6000 | <2023-05-31 Wed> | car               |
    | Highway monthly |   9219 | <2023-05-31 Wed> | car               |
+   | McDonalds       |   4730 | <2023-06-01 Thu> | fast food         |
+   | Dungeon Keeper  |  14600 | <2023-06-02 Fri> | frivolous         |
+   | Aldi groceries  |  21778 | <2023-06-02 Fri> | food              |
+   | Gyros           |   2600 | <2023-06-02 Fri> | fast food         |
    |-----------------+--------+------------------+-------------------|
