@@ -353,8 +353,8 @@
        - Elmondja, hogy egy tisztáson találkoztak a férfival, hogyha ott nincs a hét második napján délután, akkor csak a
 	 barbárok falujában találhatják meg.
        - A férfi neve Anatel
-**** A barbárok faluja
-***** Küldetés
+*** A barbárok faluja
+**** Küldetés
      - Amikor megérkeznek a játékosok, ha nyíltan közelítenek, az erdőben a fegyvereik letételére kényszerítik őket. Ha nem
        engedelmeskednek, lenyilazzák őket. Ha elmondják hogy Anatel-t keresik, hajlandóak szóba állni velük. Elviszik a
        faluba a kalandozókat.
@@ -362,7 +362,7 @@
      - Ha a tisztásra mennek, ott megtalálhatják a fura növényt, ami a betegséget okozza, és ellenszert készíthetnek belőle.
      - Értesülhetnek a romokról, és egy viskóról is az erdő déli részén, ahol egy fura öregember lakik, de csak időszakosan
        szokott felbukkanni.
-***** Kultúra
+**** Kultúra
      - Az óelfektől maradtak fent a hagyományaik, tőlük tanultak az erdőben lovon manőverezni (pónilóval). Kiváló íjászok,
        az erdő ismerői és őrei. Mélységesen tisztelik a fákat, és egy ötödik istent imádnak
      - Ez az ötödik isten is egy kalahora, aki az ősi háború idején élt, majd eltűnt. A neve Merlyel, a Harcos Hajadon. Ő
@@ -372,16 +372,16 @@
      - A barbárok magukat Erdei Népnek hívják.
      - Van két szent helyük, ahova zarándokutak vezetnek. Ezek ősi elf romok, egyik az erdő északi részén, a másik a
        hegységben.
-***** Helyek
-****** Csólyospálos
+**** Helyek
+***** Csólyospálos
        - A hegységből lefolyó patakok vizébe oldott fémeket szedik össze, így jut a nép vasérchez, itt készülnek a fegyvereik
-****** Zákányszék
+***** Zákányszék
        - A fő település
-****** Kömpöc
+***** Kömpöc
        - Főként vadászok, erdőkerülők
-****** Csikéna
+***** Csikéna
        - Előretolt helyőrség, a legtöbb harcos itt van, próbálják védeni az erdőt az írtástól
-****** Szent helyek
+***** Szent helyek
        - A fali vésetek története:
          - Urria története, az óelfek elvezetik a jövevényeket Uscha-hoz, az Ősfához, aminek kérgét a jövevények felhasítják,
 	   vizéből isznak, ezért az óelfek megölik őket. Emiatt Urria kitaszítja őket a paradicsomból, a Földre.
@@ -397,7 +397,36 @@
 	   - Déli törzs (íj)
 	   - Pusztai törzs (csatabárd)
 	   - Éji törzs (varázspálca)
-	   - Hegyi törzs (dobótőr, vagy amit Srí használ) TODO
+	   - Hegyi törzs (dobótőr, vagy amit Srí használ) T
+***** A remete varázsló kunyhója
+     - A barbároktól tudhatják meg, hogy élt egy öreg remete az erdőben, de már régen nem látták, de a kunyhóját tudják
+       hol van, ha meg akarják látogatni
+     - Ha bemennek, a felső szinten találnak egy egyszerű lakórészt, de egy rafia szőnyeggel letarkart csapóajtót is,
+       ami a pincébe vezet. Lent kisebb-nagyobb ketreceket találnak, és egy nagy asztalt, amin a kísérletek folytak,
+       valamint egy íróasztalt, amiben találnak egy naplót a legalsó fiókban (ott felejtette)
+       TODO: egy másik, a remetéhez kapcsolódó helyszínen találnak egy másik naplót, amiben sajnálkozik, hogy itt felejtette
+       a naplóját, és hogy már veszélyes lenne visszatérni érte.
+****** Napló
+******* Caldusador 2484. éve 7. hónap 13. nap
+       - A királyunk egy bolond. De a varázsló tanács tagjai még nagyobb bolondok. Végre elhatároztam, hogy bemutatom nekik a kísérleteim eredményeit, amin 2 éve kezdtem el dolgozni. A varázslótanács "problémásnak" találta, "etikailag helytelennek". Bolondok mind. Ezért egyenesen a királyhoz mentem, hogy hátha őt meg tudom győzni, hogy folytathassam a munkát. Már éppen a teremtett lényeim katonai bevethetőségéről kezdtem volna beszélni, amikor belém folytotta a szót. Azt mondta, hogy minden jegyzetet semmisítsek meg, amit a romokról, és az ott talált könyvről készítettem, a könyvet pedig adjam át neki. Azt mondta, ha nem teszem meg, a fejemet véteti. Arra is nagyon kíváncsi volt, hogy hol találtam a romokat. Elmondtam neki, de eszem ágában sem volt a jegyzeteim, a több éves munkám eredményét megsemmisíteni. Tudtam, hogy a testőrségével ellenőriztetni fogja, hogy engedelmeskedtem-e, ezért amint kijöttem tőle, tervezni kezdtem, hogyan szökhetek meg a fővárosból. Kezdtem egy új naplót, és most egy kis kunyhóban ülök, ami egy vadászkunyhó lehetett valamikor, északon, a Szarvasliget mélyén. Az itt élő barbárok miatt ritkán merészkednek erre a király katonái, úgyhogy remélem itt nyugodtan folytathatom a kísérleteim.
+******* Caldusador 2484. éve 8. hónap 22. nap
+       - Tegnap visszautaztam a romokhoz, a Teknősgerinc túlsó oldalára, de semmit sem találtam a helyén. Nem csak lerombolták, de még a köveket is elhordták, hűlt helyét találtam a barlangban. Biztosan a király tette... de vajon miért?
+******* Caldusador 2484. éve 11. hónap 3. nap
+       - Áttörést értem el. Végre életben maradt egy egyed, ahol egy hangyát módosítottam úgy, hogy a mérete jóval meghaladja egy átlagos hangyáét. Fekete hangyát használtam, mert azok kevésbé agresszívek. A romoknál talált könyv hatalmas segítségemre volt, miután visszafejtettem a nyelvet amin írták. Mint kiderült, aki írta, a saját fajtársain hajtotta végre a kísérleteit, mert nagyon fogékonyak voltak a mutációkra. Nekem sajnos nincs ilyen szerencsém, ezért állatokon kell kísérleteznem. A könyvben leírt varázslat formulákat hosszú időbe telt úgy átalakítani, hogy állatokon is működjenek, de végre sikerült. Ma jó kedvvel fogom álomra hajtani a fejem.
+******* Caldusador 2485. éve 1. hónap 18. nap
+       - Sikerült egy hangyakirálynőt mutálnom. Miután elérte a felnőttkort, hatalmas lett. Gyönyörű. Mágiával kell kordában tartanom, veszélyes lenne sokáig itt, a pincében tartanom. Ezért most elkábítottam, holnap pedig elviszem, és szabadon engedem a Tüskés hegységben. Hadd éljen, remélem virágzó kolóniát épít, az én kicsikém. A hangyákkal való kísérleteim ezzel befejezettnek tekintem, következőnek valami nagyobbal akarok próbálkozni. Például egy giliszta tökéletes lehet... még átgondolom.
+******* Caldusador 2485. éve 4. hónap 24. nap
+       - A giliszta jóval nagyobb kihívás volt, mint gondoltam. Jóval nagyobbra akart nőni, mint amilyenre a hangyák nőttek, de egy idő után már nem tudtam annyi ennivalót összeszedni neki, hogy túl tudjon élni, ezért végül agresszív lett, és el kellett pusztítanom. Be kell valljam, nemrég fejeztem be a sírást, nagyon megviselt az elvesztése.
+******* Caldusador 2485. éve 8. hónap 1. nap
+       - Heuréka! Rájöttem a megoldásra, és működni látszik. Létrehoztam egy újabb óriásgilisztát, de még mielőtt kezelhetetlen méretűre nőtt volna, szabadon engedtem az északon élő földművesek földjein. Nemsokára itt az aratási időszak, ott bőven fog eleséget találni. Elneveztem Gulykipacsnak. Majd pár hónap múlva meglátogatom, remélem szépen fog növekedni.
+******* Caldusador 2485. éve 10. hónap 15. nap
+       - A pókokkal való kísérletezés zsákutca volt. Talán később még visszatérek rá. Gulykipacsot pár napja meglátogattam, szépen növekszik, addig pedig, hogy feledtessem a pókokkal való csalódásom, begyűjtöttem néhány vöröshangyát. Biztos nem lesz nagy kihívás a fekete hangyák után, és most rám fér a sikerélmény.
+******* Caldusador 2486. éve 1. hónap 30. nap
+       - Szabadon engedtem egy vörös királynőt is a tüskés hegységben, gondoltam érdekes lesz megfigyelni, hogyan élnek majd együtt a feketékkel. Visszafelé jövet meglátogattam Gulykipacsot is, és csodálatos dolog történt: kislárvái lesznek. Ez valóságos csoda, a természet csodája. Most is könnybe lábad a szemem a meghatódottságtól, ha rá gondolok.
+******* Caldusador 2486. éve 3. hónap 21. nap
+       - Gulykupacsot megölték! Az aljas senkiházi gazemberek! Hogy lehet képes valaki ilyen szörnyűségre?! A falusiak szerint valamiféle Dáriusz vagy kicsoda áll a dolog mögött. Gonosz, gonosz ember.
+******* Caldusador 2486. éve 3. hónap 24. nap
+       - Úgy döntöttem továbbállok. Napok óta csak Gulykupacsot siratom, itt minden rá emlékeztet. Még megvan az első kis ketrece is. Újra kell kezdenem valahol máshol, tiszta lappal, hogy tovább tudjak lépni a gyászon. A dolgaim nagyját már összepakoltam, holnap pedig Mithrus tartomány felé veszem az irányt. Ott már úgysincs hatalma a királynak, ha esetleg még mindig kerestetne.
 *** Tokodaltáró
 **** Helyek
 ***** Kocsmák, fogadók, szórakozás
@@ -470,9 +499,6 @@
 	  | Testőr (számszeríj)       | 1k6   |   5 | 31 |       130 |    56 |        3 | 15 | 111 |
 	  | Trassir (2kezes buzogány) | 3k6+6 |   7 | 30 |       175 |   134 |       10 | 15 | 157 |
 	  | Felvigyázó (buzogány)     | 2k6+2 |   4 | 34 | 142 (177) |    94 |        5 | 15 | 111 |
-**** Egyéb
-***** Futár üzenete
-
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
