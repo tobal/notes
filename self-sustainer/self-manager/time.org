@@ -2158,18 +2158,19 @@
 ****** TODO Piano practice
 ****** TODO Typing practice
 **** Etc
-***** TODO Get cash
-***** TODO Clean shoes
-***** TODO Wash car
-***** TODO Wedding
+***** DONE Get cash
+***** DONE Lunch: hamburger
+***** DONE Clean shoes
+***** DONE Prepare cash
+***** DONE Wash car
+***** DONE Wedding
 **** Weekly activities
 **** Stat table
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     |    |         |         |                |       |           |       |           |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 97.80 |      20 |       2 |                |     2 |     228.1 |  5096 |         7 |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
 *** <2023-06-04 Sun>
 **** Routines
 ***** Morning routine
