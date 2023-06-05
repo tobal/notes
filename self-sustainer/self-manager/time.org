@@ -2152,7 +2152,7 @@
        - 3 micro workout
 ****** TODO Kenjutsu training
        - men and kesa slashes with metal sword
-****** TODO Choreo training
+****** DONE Choreo training
        - dummy rehersal of the 3 choreographies
 ***** Practice
 ****** TODO Piano practice
@@ -2198,10 +2198,10 @@
         - read book
 **** Self development
 ***** Learning
-****** TODO Japanese learning
+****** DONE Japanese learning
 ****** TODO IT learning
 ***** Games
-****** TODO Go practice
+****** DONE Go practice
 ****** TODO Age of Empires practice
 ****** TODO Sim racing practice
 ***** Training
@@ -2215,14 +2215,14 @@
 ****** TODO Piano practice
 ****** TODO Typing practice
 **** Etc
-***** TODO Marci birthday
-***** TODO Peti nameday
+***** DONE Marci birthday
+***** DONE Peti nameday
 **** Weekly activities
 ***** TODO Japanese class
 ***** TODO Kenjutsu dojo
 **** Stat table
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     | Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
-     |    |         |         |                |       |           |       |           |
-     |----+---------+---------+----------------+-------+-----------+-------+-----------|
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     |    Kg | Tobacco | Commits | Productive hrs | Ltdtc | Km driven | Steps | Sleep hrs |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
+     | 97.80 |       6 |         |                |     1 |     442.9 |  1539 |         2 |
+     |-------+---------+---------+----------------+-------+-----------+-------+-----------|
