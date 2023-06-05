@@ -204,8 +204,15 @@
    | Gas             |   8540 | <2023-05-31 Wed> | car               |
    | Gas             |   6000 | <2023-05-31 Wed> | car               |
    | Highway monthly |   9219 | <2023-05-31 Wed> | car               |
+   | Bank interest   |   8677 | <2023-05-31 Wed> | monthly           |
    | McDonalds       |   4730 | <2023-06-01 Thu> | fast food         |
    | Dungeon Keeper  |  14600 | <2023-06-02 Fri> | frivolous         |
    | Aldi groceries  |  21778 | <2023-06-02 Fri> | food              |
    | Gyros           |   2600 | <2023-06-02 Fri> | fast food         |
+   | Tobacco         |   6630 | <2023-06-03 Sat> | frivolous         |
+   | Wedding present |  16000 | <2023-06-03 Sat> | mandatory onefold |
+   | Car wash        |   2500 | <2023-06-03 Sat> | car               |
+   | Gas             |  12478 | <2023-06-03 Sat> | car               |
+   | Peti present    |   5000 | <2023-06-04 Sun> | mandatory onefold |
+   | Gas             |  12001 | <2023-06-04 Sun> | car               |
    |-----------------+--------+------------------+-------------------|
