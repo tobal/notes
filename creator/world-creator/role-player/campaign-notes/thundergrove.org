@@ -629,6 +629,72 @@
 	  | Testőr (számszeríj)       | 1k6   |   5 | 31 |       130 |    56 |        3 | 15 | 111 |
 	  | Trassir (2kezes buzogány) | 3k6+6 |   7 | 30 |       175 |   134 |       10 | 15 | 157 |
 	  | Felvigyázó (buzogány)     | 2k6+2 |   4 | 34 | 142 (177) |    94 |        5 | 15 | 111 |
+*** Utazás a vízi elfekhez
+    Megkapják a feladatot, hogy keressék meg, és állítsák át a híres ostrommérnököt, akielvonult a világ elől. Utoljára
+    úgy hallották, hogy az agyagparti halászfaluban, Kisvaszarban telepedett le.
+**** Halászfalu: Kisvaszar
+     Itt megtudják, hogy az ostrommérnök (Sanyi) valóban itt élt, de kb 1-2 hónapja megunta a falusi életmódot, és elindult
+     az Istenek Erdejébe, hogy megvilágosodjon
+     - Észreveszik, hogy hatalmas cölöpök lógnak ki a vízből, amire a falu lakói nem tudnak magyarázatot. A víz alatt
+       fémhulladékot is találnak, ami arra utal, hogy itt kikötő volt. Évezredekkel ezelőtt itt állt az emberek első kikötő
+       városa, amit az elfek elpusztítottak még a vihar megjelenése előtt.
+     - Néhányan a faluban azt is suttogják, hogy az ostrommérnököt valójában a sellők csábították a tengerbe. Ez persze nem
+       igaz, amit a falusiak sellőknek hívnak, azok a vízi elfek, akik nagyritkán kimerészkednek a barlangjaikból.
+     - Az Istenek Erdejéről az hírlik, hogy különös dolgok történnek ott, különös lényeket láttak, csodás káprázatokat.
+       Emiatt a közemberek nem szoktak az erdőbe menni. Ezeket a káprázatokat a Prímabércen élő szerzetesek idézik meg, hogy
+       ne háborgassa őket senki.
+**** Merlyel Ispotálya Rend
+     - Ha elmennek az erdőbe, hosszú ideig nem történik semmi, aztán minél beljebb merészkednek, annál különösebb dolgok
+       történnek. Földöntúli sötétség borul rájuk, máskor különös fényeket fedeznek fel, vagy különös, fenyegető hangokat
+       hallanak.
+     - Végül a szerzetesek megelégelik, és megtámadják őket, láthatatlanságba burkolózva. De amint meglátják, hogy náluk van
+       a villámkard (Kaminari), valamiféle próféciáról kezdenek suttogni, és ragaszkodnak hozzá, hogy menjenek el velük a
+       rendjük székhelyére, hogy láthassa őket az Apát. Ha nem egyeznek bele, akkor megtámadják őket, mert a kardot meg
+       akarják szerezni (ha nem barátságosak, akkor nem róluk szól a prófécia).
+       - A prófécia Merlyel-től származik, aki egy évezredekkel ezelőtt élt mítikus alak. Ő jövendölte meg, hogy egyszer
+	 öt hős újra összegyűjti, és egyesíti a villámfegyvereket, a vihar erejének megtestesüléseit, és azok együttes
+	 hatalmával elpusztítja a szigetet uraló gonoszt.
+     - A rend székhelye egy kolostor a Prímabérc legmagasabb csúcsai között. Az Apát (Tarain apát) fogadja őket, elmeséli
+       a próféciát. A történet szerint a vihar fegyverei az idők hajnalán jöttek létre, akkor, amikor a vihar is.
+       - Az öt fegyver: Kaminari, a kard, Inazuma, a csatabárd, Denki, a rövidkard, Dengeki, a varázsbot, és Inabikari, az íj
+       - Merlyel, aki a hősök eljövetelét megjövendölte, egy félisten, aki a szigettel és a viharral együtt született meg,
+	 tulajdonképpen a sziget szelleme. Az apát tudomása szerint a szigeten élő tévelygők egyike sem hisz benne, ez a
+	 rend az egyetlen, ami fenntartotta ezt a hitet.
+     - Bevezeti őket egy szentélybe. Ez egy ősi elf rom, eköré épült az egész kolostor. Itt egy rajzolaton látják is az öt
+       fegyvert, körülöttük az ősi nép tagjait, a rituálé közben, amikor a vihart megidézték. A rend tagjai úgy tartják,
+       hogy ha erre a helyre visszahozzák a fegyvereket, Merlyel újra testet ölt, aki irányítása alá hajtja a vihart, és
+       kiűzi a szigetről a gonoszt, az elnyomó királyt.
+     - A szentély előtt van egy hatalmas dombormű, egy térkép, ami a szigetet ábrázolja. Amikor a karddal közelítenek felé,
+       megmutat a térképen öt pontot. Az apát elámul, mondja hogy sosem látta még ezt, de hallott történeteket a mesterétől,
+       ami szerint a szentély felfedi majd a hősöknek a fegyverek lelőhelyét. Valójában azokat a helyeket mutatja meg, ahova
+       az öt ősfát elültették az elfek idejövetelükkor.
+     - A legközelebbi ilyen hely az Istenek erdelyében van, de az apát szerint ott biztosan nincs fegyver, ott csak egy nagy
+       tisztás van.
+**** Út a vízi elfek felé
+     - A tisztást megnézve valóban nem találnak semmit, de feltűnik, hogy szokatlanul szabályosan kör alakú. Hogyha leásnak
+       egy méternél lejjebb, tömör fát találnak, ami miatt csak a füvek és az apró cserjék tudnak itt nőni. Ha elmennek,
+       egy nyílvesszőhöz kötözött üzenetet találnak, amiben ez áll:
+       - "A térkép nem hazudott, de a vihar erejét ne a föld fölött keressétek. Találkozzunk ott, ahol a kavics, az agyag,
+	 az erdő és a hegység ölelkezik."
+     - Ha elmennek a kövecses folyó torkolatához, a Prímabérc első hegyének lábához, ahol az Istenek erdejének utolsó fája
+       áll, a fához szegezve egy újabb üzenetet találnak:
+       - "Keressétek a tengerszemet. Az utatok a víz alatt folytatódik."
+     - A tengerszem partján egy levelekből és faágakból tákolt tárolóban öt gyűrűt találnak, amivel a víz alatt is tudnak
+       lélegezni. A víz alatt találnak egy hatalmas, kör alakú kőkaput, mellette három koncentrikus körből álló
+       nyitószerkezettel. Ha a három kört úgy forgatják, hogy a három kör alakú jelölés (vörös, kék és ezüst) legalul egy
+       vonalban van, a kapu kitárul.
+     - A kapun bejutnak egy nagy épített folyosóra, ami emelkedik, majd nemsokára egy természetes barlangjáratba torkollik.
+       Ez elvezet a vízi elfekig, először egy folyosó, ami szintén épített. Ha ezen túljutnak, egy hatalmas barlangba
+       érkeznek. A barlangban van egy plató, ahova a csapdás folyosó vezetett. Ezen van egy kőoltár, rajta a mágikus
+       csatabárddal, és egy fali rajzolat.
+     - A plató szélén szakadék, alatta egy hatalmas víz alatti tó. A tó alatt eljuthatnak a vízi elfek városába. A szentélyt
+       8 vízi elf védi, lándzsákkal felfegyverezve. Amikor a szénájuk rosszul áll, az egyik megszólaltat egy kürtöt, amire
+       jónéhány vízi elf elindul a városból a tavon keresztül, hogy védjék a szentélyt. Amíg felmásznak a sziklafalon, a
+       kalandozóknak van idejük megszerezni a fegyvert, és elmenekülni.
+      |--------------------+-----+-----+----+-----+-------+----------+----+----|
+      | Név                | sbz | SFÉ | KÉ |  VÉ | TÉ/CÉ | Időigény | Ép | Fp |
+      |--------------------+-----+-----+----+-----+-------+----------+----+----|
+      | Vízi elf (lándzsa) | 2k6 |   2 | 21 | 146 |    92 |        5 |  8 | 55 |
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
