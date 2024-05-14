@@ -39,6 +39,136 @@
      - Sehanine: fegyverek és páncélok varázserővel felruházása
      - Labelas: könyvtár
      - Solonor: papok, gyógyítók
+*** Wall of text
+**** Fergetegliget
+    Egy sziget, amit viharok öveznek, és évezredek óta el vannak zárva a külvilágtól. Régen elfek lakták, a harmadkorban (?),
+    aztán emberek érkeztek a szigetre nagy számban, és elkezdték kolonizálni, kiírtani az erdőket az elfekkel együtt. Az
+    elfek nagyon szívósak voltak, ezer (?) évig elhúzódott a háború, végül beszorultak a sziget apró félszigetére, ahol a
+    szent fájuk van. Az elfek beásták magukat, és végső elkeseredésükben mágiával egy hatalmas viharral vették körül a
+    szigetet (a démonkor beköszöntével az anyaföldről nem kaptak segítséget, az elfeket onnan eddigre teljesen kiirtották),
+    és azóta a sziget önfenntartásra rendezkedett be, teljesen el van szigetelve a külvilágtól. Az emberek nem jutottak
+    utánpótláshoz, az elfeknek pedig nem maradt erejük támadni, így a háború fegyverszünettel ért véget.
+
+    Az emberek rengeteg elf foglyot ejtettek, és a leszármazottaikat azóta is rabszolgaként tartják. Ez teljesen megszokott,
+    és az egész szigeten dívik. A rabszolgák hegyes fülét kamaszkorukban levágják, és onnantól kezdve csuklyában kell lenniük
+    életük végéig, arcukat nem mutathatják. Így nőnek fel elfek generációi, de hosszú életüknek köszönhetően a rabszolgák
+    emlékezetében még mindig él a háború. A még gyerek félelfeket és a rabszolgákat a falvak szélén, apró gettókban tartják,
+    ahol a gyerekek anyjukkal vannak amíg fel nem nőnek. A gettók szigorúan őrzöttek a Fenevadak Vigyázói rend tagjai által.
+
+    A háború után az akkor még egységes királyság, ami rengeteg kultúrát ötvözött, kitalált egy propagandát, ami szerint a
+    rabszolgák (Istenek nevei) egyik gonosz kalahora leszármazottjai (istenségnek nevezik persze), és ezért maradnak
+    rabszolgasorban. Az emberek teljesen közönyösek velük, semmibe veszik őket, nem beszélhetnek, ha valaki meg mer szólalni,
+    összevarrják a szájukat. A háború minden emlékét elfedték, senki sem mehet az elfek földjére, mert az a gonosz istenség
+    földje, és amúgy tényleg azonnal nyílzápor fogad, ha megpróbál valaki behatolni a dzsungelszerű erdőbe.
+
+    Történet
+    Az elfek közül a félelfek frakciója két kémet küld az emberek közé, hogy felkelést szítsanak a jelenlegi király ellen. A
+    király családja a háború titkának egyetlen tudója, ha őket megdöntik, végre el lehet mondani az igazságot az embereknek
+    a háborúról, és fel lehet szabadítani a rabszolgákat.
+
+    A kémek elmaszkírozzák a fülüket, amit levágtak, hogy rabszolgának adhassák ki magukat ha kell. Vezetőjük egy fiatal
+    félelf, aki megunta, hogy a háború az egyetlen megoldás a rabszolgák felszabadítására a konzervatív öregek szerint, ezért
+    egy csapattal elindultak ki az erdőből. Őket leleplezve és meggyőzve talán bejuthatnak az elfek erdejébe a karakterek.
+
+    Ez a félelf frakció a háború idején alakult ki. A hosszú háborúban az elfek rájöttek, hogy sokkal lassabban szaporodnak
+    az embereknél, így nincs esélyük. Ezért maguk közé fogadták a gyűlölt félelfeket, hogy segítsenek a háborúban, de a
+    félelfeket azóta is megvetés övezi az óelfek által a félszigeten.
+
+    A szigeten élő óelfek már a harmadkorban nagyon elszigetelve éltek, és egy mutáció miatt egy óelf alfaj alakult itt ki.
+    Sötétebb a bőrük az embereknél, hosszabb a fülük a szokványos elfeknél, és alacsonyabbak (átlag 155-165cm).
+
+    A király családjában is akad egy szakadár. Egy fiatal hercegnő, amikor megtudja az igazságot az elfek elnyomásáról,
+    igazságérzete csorbult, és elhagyta otthonát. Amikor megpróbálta elmondani az igazságot az embereknek, nem hittek neki,
+    annyira mélyre ívódott az elfgyűlölet, az elfek pedig féltek tőle mert ember volt. Azóta vándorol a szigeten, kamatoztatja
+    varázsló tudományát, és az alkalmat lesi, hogy felszabadítsa a rabszolgákat.
+
+    A karaktereket, miután a hajójuk elsüllyed a vihar miatt, és ők a szigeten kötnek ki, először egy tábornok fogadja. A
+    parton táboroznak, és ők húzzák ki őket a vízből. A lovaik megfulladtak, amit magukon viseltek az megvan, a hátizsákjuk
+    tartalma elszórva a parton, ezeket a zsoldosok összegyűjtötték.
+
+    Miután a csapat katona kiszabadult, a karakterektől azt kérik, legyenek a felderítőik. Fizetségként részesednek a
+    zsákmányból, ha ügyesen dolgoznak össze, sok pénzt kereshetnek. A tervük, hogy egyenként átveszik az irányítást a falvak
+    felett, és az abból befolyó összegből fizetik a további kampányt. Így lassacskán megdöntik a jelenlegi királyt.
+
+    A zsoldoscsapatban az elf kémek keltettek felháborodást, de igazi problémákra alapozva: a sziget északi részén súlyos
+    problémák vannak, éhinség van, mert a sziget keleti felén lévő hegységből (ahol a lovasok népe él) a bányákból nem jut el
+    az érc a királyságba, ugyanis kiléptek, senkit nem engednek a területükre, az elit lovasságukkal mindenkit megtántorítanak.
+    Velük a karakterek szövetkezhetnek, az északi provincia kaphatna ércet a háborúhoz, és együttes erővel győzhetnék le a
+    déli részen levő királyságot, miután megvan az északi.
+
+    Amikor az uralkodó megtudja, hogy a külső világból érkeztek betolakodók, bérgyilkosokat küld, hogy megölje őket, ahogy az
+    eddigi ide vetődötteket is megölette. Nem akarja, hogy az emberek a szigeten azt higgyék, hogy van kiút a szigetről.
+
+    Települések nevei
+    A magyar térképről fogok minél idiótább neveket keresni, aztán verset faragni belőle
+
+    Vallás
+    A szigeten egy egyedi többistenhit van, ami Domvik hét arcának és az elfek kalahoráinak a keveréke.
+
+    Szokások, ünnepek
+    Az elfek a háború hosszú évei során egyre kegyetlenebbé váltak, és elkezdték trófeaként gyűjteni az emberfejeket, a
+    koponyákat szépen kikészítették, díszítették. Ez szokásként elterjedt az embereknél is, és azóta is dívik, mióta nincs
+    háború.
+
+    Évente egyszer van egy rabszolga-ünnep TBD
+
+    Ötletek
+    A sziget lovas népe valójában azért nem ad mithrill-t másnak, mert le kellett állniuk a bányászattal. Azért, mert egy
+    különös elf-alfaj a föld alól elkezdte őket terrorizálni. Ők lesznek a "sötét elfek", hófehér bőrrel, vakon.
+**** Teknősliget
+    A Vigyázók rendje központjában megtalálják mindazt az összegyűjtött tudást, amit az évezredek alatt megszereztek azokról
+    a hajókról, amit átjutottak a viharon ilyen-olyan állapotban (minden ami világleírás, ETK, Summarium, stb). Ők székelnek
+    a nagy szorosban. A legtitkosabb könyvtárukban pedig az elfek történelmének tudását is megtalálják.
+
+    Amikor az óelfek átkeltek a tengeren, mivel kitagattattak a déli óelfek közül, megérkeztek a teknős szigetre. Akkor még
+    teljes egészében erdő borította. Öt magot hoztak el az óriástölgyből, amit öt csoport öt különböző helyre akart ültetni.
+    (TODO 5 név az óelf törzseknek). Igy szakadtak öt törzsre, akik hamarosan háborúzni kezdtek egymással, ami végül egy
+    ingatag lábakon álló tűzszünetbe fulladt, és őt részén a szigetnek elszigetelten élnek. Jobb lent az erdei elfek, akikből
+    homoki elf lett, bal lent akik erdei elfek maradtak, jobb fent akikből a föld alatti sötét elfek lettek, középen fent akik
+    vízi elfek lettek, bal fent akikből repülő elfek lettek.
+
+    A játék alatt négy helyszínen szerezhetnek négy féle erőt, mindenki használhat papi mágiát, ebből először az élet, mindig
+    ahol a fát elültették. Jobb középen az istenek erdejében, bal fent Tokodaltáró helyén, jobb fent a hegység lábánál
+    (ezt az idők alatt teljesen befedték mithrillel, ezért nem is gondolják hogy alatta élő fa volt valaha), bal lent a
+    tiltott félsziget csücskében, jobb lent a hegység lábánál a tengerparton. Jobb lentre az idők során beköltöztek a
+    félelfek, akikben nagyon meghígult az elf vér, csak a legszűkebb királyi családban van annyi, hogy még képesek az ómágia
+    igen csekély fokát használni. De kitűnő mágiahasználók. Ők alapították a királyságot, ami aztán elnyomta az egész szigetet,
+    és kitalálta a mesét, ahogy a király megalapította, legyőzve a lázadókat, de kegyesen meghagyva őket rabszolgának. Tőlük
+    független egy emberi faction akikből végül a Vigyázók rendje alakult. Ők szintén fél-óelfek, az első leszármazottai az
+    igazi óelfeknek. Ők akik a békét kezdeményezték az elfek és az emberek között, amikor már teljesen visszorultak az elfek
+    a félszigetre. Ez sikerült is, ez történt 2 ezer évvel ezelőtt. Azóta a háború és az elfek majdnem minden nyomát
+    eltüntették a szigetről. Most békében őrzik Roillam gyermekeit, akik a rabigába hajtott félelfek. További emberi
+    faction-ök a barbárok, akik még az óelf háborúban csatlakoztak az óelfekhez, de csak azzal a feltétellel az óelfek
+    részéről, hogy nem keveredhettek velük. Ha mégis, akkor elvitték a gyereket az óelfek, és megölték őket (vagy legalábbis
+    azt mondták, valójában nagy lenézettségben tartották őket az óelf társadalomban, az óelfek elég rasszisták... a szüleikkel
+    együtt kitaszítottan éltek, de békében). Az emberek tőlük tanulták az erdőben lovaglást és az íjászatot. A másik emberi
+    faction akikből a papok lettek a prímabércen. Ha oda elmennek, megtalálják a szentélyt, ahova egy óelf menekült, és állt
+    az emberek élére. Az istenek erdejében élt az eredeti óelf törzs, akikből a halak lettek, ől lemenekültek az óriásfa
+    gyökereihez, és humanoid, de teljesen vízhez szokott lényekké alakultak (ez eredetileg az emberek előtt egy titkos
+    barlang volt, amihez kivájták az utat úgy, hogy 50 évente egyszer nylljon meg, a 3 hold együttállásakor a bolygó
+    átellenes oldalán, mert akkora az apály). Ez mióta már csak két hold van, sosem nyílik meg, ezért az addig lent ragadt
+    elfekből lettek a vízi elfek.
+
+    A templomban a prímapércen megtudják, hol voltak elvetve a magok (miután megszerezték a medált, ami nyitja, a kard
+    segítségével). A papok azt hiszik azt jelenti a rajzolat az ősi romon (amin látható mind az öt fegyver), hogy a fegyverek
+    helyét jelöli a medál (amit egy socketbe téve egy térképen megjelennek a helyek). A helyek: tokodaltáró (repülő elfek),
+    istenek erdeje (vízi elfek), északkeleti hegység lába (sötét elfek), délkeleti hegység tengerpartja (homoki elfek)
+    délnyugati félsziget csúcsa (erdei elfek).
+
+    A sziget egy része nem szerepel a térképeken, mert a vihar elborítja a hegységet, a tüskés hegységet, amit az állandó
+    szelek tüskés formára vájtak. Mögötte van egy kisebb félsziget, amin szintén van egy kikötő, itt is emberek élnek,
+    majdnem teljesen elzártan a fő-szigettől. Csak egy alagút vezet, amit a sötét elfek építettek, mithrillből, élőhalott
+    emberi és félelf szolgákat használva.
+
+    A halászfaluban hatalmas cölöpök jelzik, hogy valaha egy hatalmas kikötőváros volt itt, amit az óelfek egy drámai
+    csatában elpusztítottak. Ha lemennek a víz alá, még megtalálják a romokat.
+
+    Az óelfek azért lettek kitiltatva, és kellett átköltözniük a szigetre, mert könnyen mutálódtak, jobban hozzászoktak a
+    fákon való életmódhoz, picik, nagyon hosszú fülük van, inkább manószerűek, 100-120cm körüliek, az abszolút max
+    felnőtteknél 80-140 között van. A rasszista elfek elüldözték őket kinézetük miatt. Öt alfajjá mutálódnak az évezredes
+    elszigeteltség során, a háborúk után: vízi (alkarokon és lábszáron úszókkal), repülő (windsuit szerű szárnyak, de a kezek
+    plusz egy feszítő karommá alakult), föld alatti sötét (nagyon alacsony, manószerű, hatalmas, de vak szemek, nagyon hosszú
+    fülek).
 ** Játékmenet
 *** Hajóút Új-Pyarronból
     A karakterek Új-Pyarronból indulnak, nem ismerik egymást. Mindannyian jegyet váltanak egy hajóra, ami az északi
