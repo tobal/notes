@@ -22,7 +22,7 @@
       - Keleti: Mithrus
       - Déli: Tyndros
 *** Helységnevek
-    Tokodaltáró, Tunyogmatolcs
+    Tokodaltáró, Tunyogmatolcs, Cserszegtomaj 
 *** Történelem, múlt
 **** Agros ura, Wolemor Nevur
      Megtudhatják tőle: Amikor a Mithrus tartomány ura fellázadt, a király parancsára, kényszerítésére támadták meg őket
