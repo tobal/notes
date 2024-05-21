@@ -695,6 +695,42 @@
       | Név                | sbz | SFÉ | KÉ |  VÉ | TÉ/CÉ | Időigény | Ép | Fp |
       |--------------------+-----+-----+----+-----+-------+----------+----+----|
       | Vízi elf (lándzsa) | 2k6 |   2 | 21 | 146 |    92 |        5 |  8 | 55 |
+*** Diplomáciai küldetés Mythrus tartományba
+    Miután elfoglalták Agros-t, Daritus elküldi őket Mythros-ba, hogy meggyőzzék a tartományurat, hogy álljon a felkelés
+    oldalára, segítsen legyőzni a királyt.
+    - A tartományúr megkéri őket, hogy tisztítsák ki a bányát a veszélytől, ami miatt már egy éve nem tudnak bányászni.
+    - Megemlíti azt is, hogy az erdőben lévő óriáspókok is gondot okoznak.
+**** Óriáspókok az erdőben
+     A pókok a remete műve.
+     - Egy kunyhóban találnak egy öregasszonyt, akit a remete mágiával tart életben, őt használja "keltetőnek", csak így
+       tudja megoldani a pókok felnövesztését, ami kiderül a naplójából.
+     - Egy másik kunyhóban megtalálják a remetét, a naplóját, és megtalálják a jegyzeteit és az ősi könyvet is, amiben egy
+       óelf tudós ír a genetikai kísérleteiről. A jegyzetei segítségével olvashatóvá válnak az óelf nyelven írt feliratok.
+***** Óriáspókok elleni harc
+      - Ugró pókok, 10 méterre képesek ugrani. Nagyobb kezdeményezéssel el lehet kerülni, de a legelső mindenképp meglepetésszerű,
+	azt csak gyorsaságpróbával lehet elkerülni. Ha számít rá, és kivár, akkor vagy sikeres támadás kell (+60 VÉ ellen),
+	vagy gyorsaság próba +4-el. A kiváráshoz nagyobb kezdeményezés kell.
+      - Ha megragadja a karaktert, támadódobás nélkül megharapja, és befecskendezi a mérgét. A méreg ellen egészség próba -3-al,
+	jobb esetben émelygés (-20 minden harcértékre 6 körig), rosszabb esetben teljes bénulás 2 körig, utána -60 módosító mindenre,
+	ami körönként 10-el enyhül.
+      - Ha a pók nem ugrik rá, akkor át kell ütnie az SFÉ-t, hogy sikeres legyen a mérgezés.
+      - Tudnak hálót lőni, ha valakit háromszor háló talál el, az megbénul, és képtelen harcolni amíg ki nem szabadul valahogy. Amúgy
+	találatonként -10 levonás minden harcértékre.
+      |----------+-----+-----+----+------------+-----+----+----------+----+----|
+      | Név      | sbz | SFÉ | KÉ | VÉ         |  TÉ | CÉ | Időigény | Ép | Fp |
+      |----------+-----+-----+----+------------+-----+----+----------+----+----|
+      | Óriáspók | 2k6 |   0 | 40 | 140/50+táv | 100 | 60 |       10 | 15 | 25 |
+***** Napló
+****** Caldusador 2486. éve 4. hónap 2. nap
+       - Megérkeztem Mythrosba. Úgy gondoltam újra az erdőt választom a kísérleteim színhelyéül. Találtam egy erdészt, aki egyedül lakik, és miután megbizonyosodtam, hogy senki nem fogja keresni, nyugodt szívvel öltem meg. Új naplót kezdtem, mert sajnos az előzőt Agrosban hagytam. Sajnálom, de túl veszélyes lenne visszamenni érte. Ott amúgyis csak fájdalmas emlékek várnak rám.
+****** Caldusador 2486. éve 4. hónap 5. nap
+       - Kényelmesen berendezkedtem, de úgy gondolom ideje újra munkához látni. Vissza akarok térni az óriáspókok témájához, ami a múltkor olyan csúfos kudarcba fulladt. A tojások valamiért sosem akartak kikelni. Arra gondoltam, hogy segíthetne a problémán, ha egy meleg közeget találok, amibe petézhetnek a pókok. De hol találok ilyet?
+****** Caldusador 2486. éve 4. hónap 8. nap
+       - Heuréka! A minap sétáltam az erdőben, és találtam egy kunyhót. Egy kedves öreg néni lakik ott. Már napok óta azon gondolkozok, hogy hogyan tudnék meleg környezetet biztosítani a tojásoknak. Csak bámultam a néni ostoba arcát, ahogy az elhízott testével sürög-forog a kunyhóban, hogy teával kínálhasson meg. Ekkor jutott eszembe a megoldás! Most itt ülök a kunyhójában és írom a naplóm, ő pedig mozdulatlanul fekszik a földön, ilyedt tekintete körbe-körbe jár, nem érti miért nem tud se mozogni, se beszélni. A méreg megtette a hatását.
+****** Caldusador 2486. éve 4. hónap 9. nap
+       - Újabb siker! A varázslat, amivel életben tudom tartani a nénit, sikerült. Jöhet a második fázis, be kell fognom néhány pókot.
+****** Caldusador 2486. éve 4. hónap 14. nap
+       - A tervem működni látszik. Miután a mágikusan mutálódott pókok a meleg környezetbe petéztek, a tojások kikeltek, és gyönyörű, hatalmas testű teremtmények születtek belőlük. A természet csodája! Szükség van még néhány keltető ciklusra, hogy a kívánt méretet elérjem, de a siker innentől kezdve már csak idő kérdése. Gurkipacs, ez a szakmai siker állítson neked emléket!
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
