@@ -548,3 +548,50 @@
      |-------+---------+-----------+-------+-----------+------|
      | 100.1 |       6 |         0 |  2095 |         3 |      |
      |-------+---------+-----------+-------+-----------+------|
+*** <2024-05-23 Thu>
+**** Daily activities [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Tsumego practice
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+     - [X] Kenjutsu slashes
+**** ToDo list [100%]
+     - [X] Fix review comments
+     - [X] Commit and push time notes
+**** Workout [1p]
+     - pushup 1p
+**** Food [???kCal]
+     - cheat day
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.7 |      10 |         0 |  9770 |         6 |       1 |     100 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-05-24 Fri>
+**** Daily activities [0%]
+     - [ ] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [ ] Tsumego
+     - [ ] Japanese reading practice
+     - [ ] Kanji writing practice
+     - [ ] Kenjutsu slashes
+**** Weekly activities [0%]
+     - [ ] Oldschool gym
+**** ToDo list [0%]
+     - [ ] Write generator
+     - [ ] Create MUSH character
+     - [ ] Review
+     - [ ] Mihitable administration
+**** Workout [0p]
+     - [ ] oldschool gym 6p
+**** Food [0kCal]
+     - 
+**** Stat table
+     |----+---------+-----------+-------+-----------+---------+---------+------|
+     | Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |----+---------+-----------+-------+-----------+---------+---------+------|
+     |    |         |           |       |           |         |         |      |
+     |----+---------+-----------+-------+-----------+---------+---------+------|
+     
