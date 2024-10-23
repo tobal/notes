@@ -168,3 +168,50 @@ Project tags:
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 100.0 |       9 |         0 |  7119 |         5 |       6 |      45 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2024-10-22 Tue>
+**** Morning routine [66%]
+     - [X] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+     - [ ] Check org
+**** Daily practice [16%]
+     - [X] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [ ] Kenjutsu slashes
+     - [ ] Tsumego
+     - [ ] Japanese reading practice
+     - [ ] Kanji writing practice
+**** ToDo list [0%]
+     - [ ] Japanese homework
+     - [ ] Diablo 4 grinding
+     - [ ] Research hand writing OCR
+     - [ ] Buy computer stuff
+     - [ ] Practice piano solo
+     - [ ] Write blog about festivals
+     - [ ] Write blog about AoE4 patch and plans
+     - [ ] Write blog about Diablo 4 expansion
+     - [ ] Write blog about org time management
+     - [ ] Write blog about youtube comeback
+**** Weekly activities [100%]
+     - [X] Japanese class
+     - [X] Coach
+     - [X] Piano class
+     - [X] Tabletop RPG
+**** Workout [0p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.9 |      10 |         0 |  5285 |         5 |       0 |    36.4 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
