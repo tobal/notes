@@ -16,20 +16,81 @@
 # Open diary: i
 # [[https://orgmode.org/manual/Agenda-Views.html][Agenda Views]]
 
-Project tags:
-:todo_system:
-:rpg:
-:juggling:
-:youtube:
-:blog:
-:piano:
-:japanese:
-:programming:
-:kenjutsu:
-:ordering:
-:body:
-:rts:
-:go:
+* Project ToDos
+** Self organizing
+*** ToDo system
+*** Youtube channel
+*** Blog
+    - [ ] Write blog about festivals
+    - [ ] Write blog about AoE4 patch and plans
+    - [ ] Write blog about Diablo 4 expansion
+    - [ ] Write blog about org time management
+    - [ ] Write blog about youtube comeback
+*** Ordering
+**** Virtual
+     - [X] Setup Emacs on CyberGamer
+**** Physical
+     - [ ] Buy computer stuff
+*** Body
+** Games
+*** Tabletop RPG
+**** Fergetegliget
+     - [ ] Make Tyndros map
+     - [ ] Make crossing the mountain pass subplot
+     - [ ] Make Elves of the Air subplot, Finger tower dungeon
+**** The Butcher oneshot
+     - [ ] Write flavour texts for butcher
+     - [ ] Research butcher lore
+     - [ ] Make characters for butcher
+***** Learn Avrae map alias
+      - [ ] Research avrae map alias, make notes
+***** Dungeon map
+      - [X] Download cartographer
+      - [ ] Setup cartographer
+      - [X] Cartographer basics tutorial
+      - [ ] Make butcher dungeon map
+**** The Price of Beauty
+     - [ ] Read module
+     - [ ] Make maps
+*** Computer RPG
+*** Action RPG
+**** Diablo 4
+     - [ ] Diablo 4 season 5 Spiritborn grinding
+*** Real Time Strategy
+*** Turn Based Strategy
+*** Go
+** Art
+*** Juggling
+**** Contact staff
+***** Moves
+      - [X] Steve prayer
+      - [ ] Move while neck wrap
+***** Choreography
+      - [ ] Trauma choreo practice
+      - [ ] Record Trauma choreo
+**** Rope dart
+*** Piano
+**** Sheet reading
+***** Papp book I
+***** Papp book II
+**** Songs
+     - [ ] Practice In the Mood solo
+     - [ ] Practice Mad World intro
+** Learning
+*** Japanese
+**** Class
+     - [ ] Japanese homework
+**** Notes making
+**** Reading
+**** Kanji writing
+**** Vocabulary
+*** Programming
+**** Attila mentoring
+     - [ ] Research hand writing OCR for Attila
+*** Kenjutsu
+** Social
+*** Béci crew
+    - [ ] Research online board games
 
 * 2024
 ** October
