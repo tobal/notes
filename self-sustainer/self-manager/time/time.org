@@ -302,8 +302,8 @@
      - [ ] Make Tyndros map
 **** Workout [0p]
      - micro training (3p)
-       - [X] grip strength
-       - [X] foot correction
+       - [ ] grip strength
+       - [ ] foot correction
        - [ ] pushup 2x
        - [ ] stretch
 **** Food [kCal]
@@ -312,4 +312,45 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.1 |      12 |         0 |     0 |        10 |       0 |   49.75 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2024-10-24 Thu>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+**** Evening routine [75%]
+     - [X] Wash dishes
+     - [X] Stretching
+     - [ ] Bathroom
+     - [X] Check org
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [66%]
+     - [X] Diablo 4 season 5 Spiritborn grinding
+     - [X] Organize DnD books
+     - [X] Setup cartographer
+     - [X] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Wash dishes
+**** Weekly activities [100%]
+     - [X] English class
+     - [X] Cinema with Orsi
+**** Workout [3p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.0 |       8 |         0 |  4112 |         6 |       3 |    88.2 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
