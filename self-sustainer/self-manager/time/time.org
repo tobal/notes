@@ -20,6 +20,10 @@
 ** Self organizing
 *** ToDo system
 *** Youtube channel
+**** Archives
+***** Diablo 4
+      - [ ] Render videos for D4 season 5
+      - [ ] Render videos for D4 season 6
 *** Blog
     - [ ] Write blog about festivals
     - [ ] Write blog about AoE4 patch and plans
@@ -39,14 +43,15 @@
      - [ ] Make crossing the mountain pass subplot
      - [ ] Make Elves of the Air subplot, Finger tower dungeon
 **** The Butcher oneshot
-     - [ ] Write flavour texts for butcher
-     - [ ] Research butcher lore
-     - [ ] Make characters for butcher
-***** Learn Avrae map alias
+***** TODO Make module
+      - [ ] Write flavour texts for butcher
+      - [ ] Research butcher lore
+      - [ ] Make characters for butcher
+***** TODO Learn Avrae map alias
       - [ ] Research avrae map alias, make notes
-***** Dungeon map
+***** TODO Dungeon map
       - [X] Download cartographer
-      - [ ] Setup cartographer
+      - [X] Setup cartographer
       - [X] Cartographer basics tutorial
       - [ ] Make butcher dungeon map
 **** The Price of Beauty
@@ -89,8 +94,11 @@
      - [ ] Research hand writing OCR for Attila
 *** Kenjutsu
 ** Social
-*** Béci crew
+*** Beci crew
     - [ ] Research online board games
+    - [ ] Write to Adam
+*** Bsp crew
+    - [ ] Write to Imi
 
 * 2024
 ** October
@@ -353,4 +361,41 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.0 |       8 |         0 |  4112 |         6 |       3 |    88.2 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2024-10-25 Fri>
+**** Morning routine [33%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [50%]
+     - [X] Diablo 4 season 5 Spiritborn grinding
+     - [X] Render videos for D4 season 5
+     - [ ] Research online board games
+     - [X] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Wash dishes
+**** Workout [0p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.0 |       8 |         0 |  1095 |         7 |       0 |   45.75 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
