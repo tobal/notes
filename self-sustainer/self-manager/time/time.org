@@ -22,8 +22,14 @@
 *** Youtube channel
 **** Archives
 ***** Diablo 4
-      - [ ] Render videos for D4 season 5
-      - [ ] Render videos for D4 season 6
+****** Season 6
+       - [X] Render videos for D4 season 5
+       - [X] Upload D4 season 5 videos
+       - [ ] Render videos for D4 season 6
+***** Age of Empires 4
+****** Season 9
+       - [ ] AoE4 Halloween Full Moon matches
+       - [ ] Cut and upload AoE4 Halloween special
 *** Blog
     - [ ] Write blog about festivals
     - [ ] Write blog about AoE4 patch and plans
@@ -34,7 +40,15 @@
 **** Virtual
      - [X] Setup Emacs on CyberGamer
 **** Physical
-     - [ ] Buy computer stuff
+***** Workstation
+      - [ ] Buy computer stuff
+      - [ ] Assemble new computer
+***** Appartment
+****** Recurring
+       - [ ] Keep dishes clean
+****** One time
+       - [X] Reorder after insleep
+       - [ ] Wash dishes
 *** Body
 ** Games
 *** Tabletop RPG
@@ -60,8 +74,13 @@
 *** Computer RPG
 *** Action RPG
 **** Diablo 4
-     - [ ] Diablo 4 season 5 Spiritborn grinding
+     - [ ] Diablo 4 season 6 Spiritborn grinding
 *** Real Time Strategy
+**** Age of Empires 4
+***** Season 9
+****** TODO Learn Japanese FC with bannerman build order
+****** TODO Learn Japanese 2 TC FC build order
+****** TODO Learn Japanese water build order
 *** Turn Based Strategy
 *** Go
 ** Art
@@ -99,6 +118,8 @@
     - [ ] Write to Adam
 *** Bsp crew
     - [ ] Write to Imi
+*** Lili
+    - [ ] Write to Lili
 
 * 2024
 ** October
@@ -398,4 +419,50 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.0 |       8 |         0 |  1095 |         7 |       0 |   45.75 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2024-10-26 Sat>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+**** Evening routine [66%]
+     - [X] Wash dishes
+     - [X] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [64%]
+     - [X] Diablo 4 season 6 Spiritborn grinding
+     - [X] Render videos for D4 season 5
+     - [X] Upload D4 season 5 videos
+     - [ ] Research online board games
+     - [X] Practice Mad World intro
+     - [X] Make Tyndros map
+     - [X] Wash dishes
+     - [ ] Write to Lili
+     - [ ] Write to Imi
+     - [ ] Write to Adam
+     - [X] Watch F1
+     - [X] Play AoE4 Halloween Full Moon matches
+     - [ ] Cut AoE4 Halloween special
+     - [X] Reorder after insleep
+**** Workout [0p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.5 |       8 |         0 |   614 |         7 |       3 |    82.5 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
