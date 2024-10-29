@@ -31,6 +31,7 @@
        - [X] Play AoE4 Halloween Full Moon matches
        - [ ] Cut and upload AoE4 Halloween special
        - [ ] Write script for AoE4 Halloween special
+       - [ ] Cut Bannerman FC build practice video
 *** Blog
     - [ ] Write blog about festivals
     - [ ] Write blog about AoE4 patch and plans
@@ -79,9 +80,10 @@
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
-****** TODO Learn Japanese FC with bannerman build order
-****** TODO Learn Japanese 2 TC FC build order
+****** DONE Learn Japanese FC with bannerman build order
 ****** TODO Learn Japanese water build order
+****** TODO Learn Rus 2 TC FC build order
+****** TODO Learn Rus water build order
 *** Turn Based Strategy
 *** Go
 ** Art
@@ -513,4 +515,45 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.2 |       8 |      21.5 |  1510 |         5 |       6 |      75 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2024-10-28 Mon>
+**** Morning routine [33%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [50%]
+     - [X] Diablo 4 season 6 Spiritborn grinding
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Write script for AoE4 Halloween special
+     - [ ] Do score repo branch cleanup
+**** Weekly activities [0%]
+     - [ ] Oldschool gym
+     - [ ] Meditation
+**** Workout [0p]
+     - micro training (3p)
+       - [ ] grip strength
+       - [X] foot correction
+       - [ ] shoulderblade 2x
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.3 |       6 |         0 |  1207 |         8 |       0 |    36.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
