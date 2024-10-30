@@ -29,8 +29,8 @@
 ***** Age of Empires 4
 ****** Season 9
        - [X] Play AoE4 Halloween Full Moon matches
-       - [ ] Cut and upload AoE4 Halloween special
        - [ ] Write script for AoE4 Halloween special
+       - [ ] Cut and upload AoE4 Halloween special
        - [ ] Cut Bannerman FC build practice video
 *** Blog
     - [ ] Write blog about festivals
@@ -41,17 +41,25 @@
 *** Ordering
 **** Virtual
      - [X] Setup Emacs on CyberGamer
+     - [ ] Deneb
+     - [ ] Continuous upgrade of arch linux
 **** Physical
 ***** Workstation
       - [ ] Buy computer stuff
       - [ ] Assemble new computer
 ***** Appartment
 ****** Recurring
-       - [ ] Keep dishes clean
+       - Keep dishes clean
+       - Groceries
+	 - syrup, veggies, bacon, hummus, sweets
 ****** One time
        - [X] Reorder after insleep
-       - [ ] Wash dishes
+       - [X] Wash dishes
 *** Body
+***** Oldschool gym
+***** Kenjutsu
+***** Juggling
+***** Micro training
 ** Games
 *** Tabletop RPG
 **** Fergetegliget
@@ -76,7 +84,9 @@
 *** Computer RPG
 *** Action RPG
 **** Diablo 4
-     - [ ] Diablo 4 season 6 Spiritborn grinding
+***** Season 6
+****** TODO Spiritborn to Torment IV
+****** TODO Kill Uber Lilith on Torment IV
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
@@ -555,5 +565,48 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 102.3 |       6 |         0 |  1207 |         8 |       0 |    36.6 |      |
+     | 102.3 |       5 |         0 |  1207 |         8 |       0 |    36.6 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-10-29 Tue>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+**** Evening routine [33%]
+     - [ ] Wash dishes
+     - [X] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [75%]
+     - [X] Diablo 4 season 6 Spiritborn grinding
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [X] Make Tyndros map
+     - [ ] Write script for AoE4 Halloween special
+     - [X] Do score repo branch cleanup
+     - [ ] Fix score repo branch
+     - [X] Groceries (porrige stuff, veggies)
+**** Workout [3p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+     - coffee
+     - porrige
+     - hamburger
+     - fried chicken
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.8 |       6 |         0 |   990 |         5 |       3 |      77 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
