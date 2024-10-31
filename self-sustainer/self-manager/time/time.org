@@ -96,6 +96,7 @@
 ****** TODO Learn Rus water build order
 *** Turn Based Strategy
 *** Go
+    - [ ] Copy and send tsumego mini videos to Peti
 ** Art
 *** Juggling
 **** Contact staff
@@ -609,4 +610,56 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.8 |       6 |         0 |   990 |         5 |       3 |      77 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-10-30 Wed>
+**** Morning routine [60%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [33%]
+     - [ ] Wash dishes
+     - [X] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [50%]
+     - [ ] Diablo 4 season 6 Spiritborn grinding
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Write script for AoE4 Halloween special
+     - [X] Fix score repo branch
+     - [X] Groceries (syrup, veggies, bacon, hummus, yoghurt, sweets)
+     - [ ] Copy and send tsumego mini videos to Peti
+**** Weekly activities [100%]
+     - [X] Oldschool gym
+     - [X] Kenjutsu training
+     - [X] Tabletop RPG
+**** Workout [15p]
+     - oldschool gym (6p)
+     - kenjutsu training (6p)
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+     - coffee
+     - porrige
+     - protein
+     - chicken + tortilla sandwich
+     - carbonara
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.5 |       6 |      63.3 |  4026 |         5 |      15 |    68.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
