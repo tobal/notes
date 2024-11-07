@@ -661,5 +661,57 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 102.5 |       6 |      63.3 |  4026 |         5 |      15 |    68.6 |      |
+     | 102.5 |       7 |      63.3 |  4026 |         5 |      15 |    68.6 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-10-31 Thu>
+**** Morning routine [100%]
+     - [X] Warmup
+     - [X] Breakfast
+     - [X] Commit org
+     - [X] Meditation
+     - [X] Make bed
+     - [X] Check deneb
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [0%]
+     - [ ] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [ ] Kenjutsu slashes
+     - [ ] Tsumego
+     - [ ] Japanese reading practice
+     - [ ] Kanji writing practice
+**** ToDo list [23%]
+     - [ ] Diablo 4 season 6 Spiritborn grinding
+     - [ ] Practice Bannerman FC build
+     - [ ] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Write script for AoE4 Halloween special
+     - [ ] Record speech script
+     - [X] Fix review branch
+     - [ ] Fix review comments
+     - [ ] Read upgrade script code
+     - [X] Groceries (coffee, garlic powder, tobacco)
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] Pay stuff
+     - [X] Visit Orsi&Lóri
+**** Weekly activities [100%]
+     - [X] English class
+**** Workout [0p]
+     - micro training (3p) [20%]
+       - [X] grip strength
+       - [ ] foot correction
+       - [ ] shoulderblade 2x
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+     - coffee
+     - porrige
+     - chicken + tortilla sandwich
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 101.0 |       6 |         0 |  3202 |         8 |       0 |    24.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
