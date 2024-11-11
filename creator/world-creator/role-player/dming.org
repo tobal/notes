@@ -1,0 +1,29 @@
+
+* Scaling with levels
+** Magic items
+*** Starting magic items by level
+    Source: [https://www.lorelock.co/post/how-many-magic-items-should-you-give-your-players-at-the-beginning-of-a-new-campaign]
+    |-------+------------------------------------------------+----------------------------------------------|
+    | Level | Consumable                                     | Non-consumable                               |
+    |-------+------------------------------------------------+----------------------------------------------|
+    |     1 | 0                                              | 0                                            |
+    |     2 | 1 Common                                       | 0                                            |
+    |     3 | 1 Common                                       | 0                                            |
+    |     4 | 2 Common                                       | 1 Uncommon                                   |
+    |     5 | 2 Common                                       | 1 Uncommon                                   |
+    |     6 | 1 Uncommon, 2 Common                           | 1 Uncommon                                   |
+    |     7 | 1 Uncommon, 2 Common                           | 2 Uncommon                                   |
+    |     8 | 1 Uncommon, 2 Common                           | 2 Uncommon                                   |
+    |     9 | 1 Uncommon, 3 Common                           | 2 Uncommon                                   |
+    |    10 | 1 Uncommon, 3 Common                           | 2 Rare, 2 Uncommon                           |
+    |    11 | 1 Rare, 1 Uncommon, 3 Common                   | 2 Rare, 2 Uncommon                           |
+    |    12 | 1 Rare, 1 Uncommon, 3 Common                   | 2 Rare, 2 Uncommon                           |
+    |    13 | 1 Rare, 1 Uncommon, 3 Common                   | 2 Rare, 2 Uncommon                           |
+    |    14 | 1 Rare, 2 Uncommon, 4 Common                   | 2 Rare, 2 Uncommon                           |
+    |    15 | 1 Rare, 2 Uncommon, 4 Common                   | 2 Rare, 2 Uncommon                           |
+    |    16 | 1 Very Rare, 2 Uncommon, 4 Common              | 1 Very Rare, 2 Rare, 2 Uncommon              |
+    |    17 | 1 Very Rare, 2 Uncommon, 4 Common              | 1 Very Rare, 2 Rare, 2 Uncommon              |
+    |    18 | 1 Very Rare, 2 Uncommon, 4 Common              | 1 Very Rare, 2 Rare, 2 Uncommon              |
+    |    19 | 1 Very Rare, 2 Uncommon, 4 Common              | 1 Legendary, 1 Very Rare, 2 Rare, 2 Uncommon |
+    |    20 | 1 Legendary, 1 Very Rare, 2 Uncommon, 5 Common | 1 Legendary, 1 Very Rare, 2 Rare, 2 Uncommon |
+    |-------+------------------------------------------------+----------------------------------------------|
