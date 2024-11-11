@@ -79,22 +79,32 @@
       - [X] Cartographer basics tutorial
       - [ ] Make butcher dungeon map
 **** The Price of Beauty
-     - [ ] Read module
+     - [X] Read module
      - [ ] Make maps
 *** Computer RPG
 *** Action RPG
 **** Diablo 4
 ***** Season 6
-****** TODO Spiritborn to Torment IV
-****** TODO Kill Uber Lilith on Torment IV
+****** DONE Kill Uber Lilith on Torment II
+****** DONE Spiritborn to Torment IV
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
 ****** DONE Learn Japanese FC with bannerman build order
+****** TODO Learn Japanese dark age rush build order
 ****** TODO Learn Japanese water build order
 ****** TODO Learn Rus 2 TC FC build order
+****** TODO Learn Rus horse archer build order
 ****** TODO Learn Rus water build order
 *** Turn Based Strategy
+**** Jagged Alliance
+***** Jagged Alliance 2
+***** Jagged Alliance 3
+**** X-Com
+***** X-Com Files
+**** Heroes of Might and Magic
+***** Heroes 2
+***** Heroes 3
 *** Go
     - [ ] Copy and send tsumego mini videos to Peti
 ** Art
@@ -769,3 +779,45 @@
      |----+---------+-----------+-------+-----------+---------+---------+------|
      |    |         |         0 |  1097 |           |         |         |      |
      |----+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-08 Fri>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [42%]
+     - [X] Record Diablo 4 The Pit Tier 85
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [ ] Make Tyndros map
+     - [ ] Fix review comments
+     - [ ] Copy and send tsumego mini videos to Peti
+**** Workout [3p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+     - coffee
+     - porrige
+     - chicken paprika
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.5 |       8 |         0 |  3316 |         8 |       3 |    60.5 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
