@@ -51,7 +51,6 @@
 ****** Recurring
        - Keep dishes clean
        - Groceries
-	 - syrup, veggies, bacon, hummus, sweets
 ****** One time
        - [X] Reorder after insleep
        - [X] Wash dishes
@@ -80,6 +79,8 @@
       - [ ] Make butcher dungeon map
 **** The Price of Beauty
      - [X] Read module
+     - [ ] Make intro heist subplot
+     - [ ] Make notes of module
      - [ ] Make maps
 *** Computer RPG
 *** Action RPG
@@ -87,6 +88,8 @@
 ***** Season 6
 ****** DONE Kill Uber Lilith on Torment II
 ****** DONE Spiritborn to Torment IV
+**** Monster Hunter World
+***** TODO Complete campaign
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
@@ -98,10 +101,12 @@
 ****** TODO Learn Rus water build order
 *** Turn Based Strategy
 **** Jagged Alliance
-***** Jagged Alliance 2
+***** Jagged Alliance 2 1.13
 ***** Jagged Alliance 3
 **** X-Com
+***** X-Com Enemy Unknown modded
 ***** X-Com Files
+***** X-Com 2
 **** Heroes of Might and Magic
 ***** Heroes 2
 ***** Heroes 3
@@ -123,7 +128,7 @@
 ***** Papp book II
 **** Songs
      - [ ] Practice In the Mood solo
-     - [ ] Practice Mad World intro
+     - [X] Practice Mad World intro
 ** Learning
 *** Japanese
 **** Class
@@ -134,16 +139,16 @@
 **** Vocabulary
 *** Programming
 **** Attila mentoring
-     - [ ] Research hand writing OCR for Attila
+**** Scala
 *** Kenjutsu
 ** Social
 *** Beci crew
-    - [ ] Research online board games
-    - [ ] Write to Adam
+    - [X] Research online board games
+    - [X] Write to Adam
 *** Bsp crew
-    - [ ] Write to Imi
+    - [X] Write to Imi
 *** Lili
-    - [ ] Write to Lili
+    - [X] Write to Lili
 
 * 2024
 ** October
@@ -843,3 +848,44 @@
      |----+---------+-----------+-------+-----------+---------+---------+------|
      |    |         |         0 |    15 |           |         |         |      |
      |----+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-12 Tue>
+**** Morning routine [0%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [ ] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [42%]
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Fix review comments
+     - [ ] Do CD/CI task
+     - [ ] Copy and send tsumego mini videos to Peti
+**** Workout [0p]
+     - micro training (3p)
+       - [X] grip strength
+       - [ ] foot correction
+       - [ ] shoulderblade 2x
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+     - chinese
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.7 |       6 |         0 |       |         8 |         |         |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
