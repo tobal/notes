@@ -55,10 +55,13 @@
        - [X] Reorder after insleep
        - [X] Wash dishes
 *** Body
+**** Training
 ***** Oldschool gym
 ***** Kenjutsu
 ***** Juggling
 ***** Micro training
+**** Eyes
+**** Teeth
 ** Games
 *** Tabletop RPG
 **** Fergetegliget
@@ -93,7 +96,7 @@
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
-****** DONE Learn Japanese FC with bannerman build order
+****** TODO Learn Japanese FC with bannerman build order
 ****** TODO Learn Japanese dark age rush build order
 ****** TODO Learn Japanese water build order
 ****** TODO Learn Rus 2 TC FC build order
@@ -129,6 +132,8 @@
 **** Songs
      - [ ] Practice In the Mood solo
      - [X] Practice Mad World intro
+**** Class
+     - [ ] Copy Mad World sheet
 ** Learning
 *** Japanese
 **** Class
@@ -142,13 +147,18 @@
 **** Scala
 *** Kenjutsu
 ** Social
-*** Beci crew
-    - [X] Research online board games
-    - [X] Write to Adam
-*** Bsp crew
-    - [X] Write to Imi
-*** Lili
-    - [X] Write to Lili
+*** Public
+**** Conference talk
+***** TODO Give talk about analytics on Unite
+      - [ ] Write to Szabi
+*** Friends
+**** Beci crew
+     - [X] Research online board games
+     - [X] Write to Adam
+**** Bsp crew
+     - [X] Write to Imi
+**** Lili
+     - [X] Write to Lili
 
 * 2024
 ** October
@@ -740,7 +750,7 @@
      |----+---------+-----------+-------+-----------+---------+---------+------|
 *** <2024-11-02 Sat>
 **** Monthly activities [100%]
-     - [X] Party
+     - [X] Atmos party
 **** Stat table
      |----+---------+-----------+-------+-----------+---------+---------+------|
      | Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
@@ -839,7 +849,7 @@
      |----+---------+-----------+-------+-----------+---------+---------+------|
      | Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |----+---------+-----------+-------+-----------+---------+---------+------|
-     |    |         |           |  1931 |           |         |         |      |
+     |    |         |      15.1 |  1931 |           |         |         |      |
      |----+---------+-----------+-------+-----------+---------+---------+------|
 *** <2024-11-11 Mon>
 **** Stat table
@@ -874,18 +884,75 @@
      - [ ] Fix review comments
      - [ ] Do CD/CI task
      - [ ] Copy and send tsumego mini videos to Peti
-**** Workout [0p]
+**** Weekly activities [100%]
+     - [X] Tabletop RPG
+**** Workout [3p]
      - micro training (3p)
        - [X] grip strength
-       - [ ] foot correction
-       - [ ] shoulderblade 2x
-       - [ ] pushup 2x
-       - [ ] stretch
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
 **** Food [kCal]
      - chinese
 **** Stat table
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 103.7 |       6 |         0 |       |         8 |         |         |      |
+     | 103.7 |      14 |         0 |  1206 |         8 |       3 |    48.4 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-13 Wed>
+**** Morning routine [40%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [40%]
+     - [X] Ask Peti about review comments
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: parent doc assert
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [X] Javascript package update skeleton
+     - [X] Ask Adam about javascript package update
+     - [ ] Debug and fix javascript package update
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] Send money to family
+     - [X] Pay gym
+     - [ ] Pay japanese class
+     - [ ] Buy DM's guide
+     - [X] Write to Szabi
+     - [ ] Buy ticket to Astral Projection party
+     - [ ] Copy Mad World sheet
+**** Weekly activities [100%]
+     - [X] Kenjutsu training
+**** Workout [0p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [ ] shoulderblade 2x
+       - [ ] pushup 2x
+       - [ ] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.2 |       6 |      62.2 |  1220 |         4 |       0 |      56 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
