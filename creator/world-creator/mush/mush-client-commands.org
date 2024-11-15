@@ -1,0 +1,11 @@
+* Commands
+  - say, pose: do things with character
+  - emit: cat
+  - dig: create room
+  - look, examine: interact with objects
+  - give <inventory object> = <target>
+  - inventory
+
+* Examples
+  - teleport Berge Birtok
+
