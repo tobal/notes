@@ -133,7 +133,13 @@
      - [ ] Practice In the Mood solo
      - [X] Practice Mad World intro
 **** Class
-     - [ ] Copy Mad World sheet
+***** DONE November
+      - [X] Copy Mad World sheet
+      - [X] Mad World chords intro
+***** TODO December
+      - [ ] Papp II 18 blatt
+      - [ ] Mad World 3b seperate hands
+      - [ ] Mad World chords new part
 ** Learning
 *** Japanese
 **** Class
@@ -942,7 +948,8 @@
      - [ ] Copy Mad World sheet
 **** Weekly activities [100%]
      - [X] Kenjutsu training
-**** Workout [0p]
+**** Workout [6p]
+     - kenjutsu training (6p)
      - micro training (3p)
        - [X] grip strength
        - [X] foot correction
@@ -954,5 +961,65 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 103.2 |       6 |      62.2 |  1220 |         4 |       0 |      56 |      |
+     | 103.2 |       6 |      62.2 |  1220 |         4 |       6 |      56 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-14 Thu>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [100%]
+     - [X] Wash dishes
+     - [X] Stretching
+     - [X] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [55%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: parent doc assert
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [X] Debug and fix javascript package update
+     - [X] Review PHP code
+     - [X] Review python code
+     - [X] Administer annual leaves
+     - [X] Practice Bannerman FC build
+     - [X] Practice Mad World intro
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [X] Send money to family
+     - [ ] Pay japanese class
+     - [ ] Buy DM's guide
+     - [X] Buy ticket to Astral Projection party
+     - [X] Copy Mad World sheet
+     - [X] Tidy up downstairs
+     - [X] Wash dishes
+**** Weekly activities [100%]
+     - [X] English class
+**** Monthly activities [100%]
+     - [X] Piano class
+     - [X] Mush roleplay
+**** Workout [3p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+     - porrige
+     - carbonara
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.2 |       6 |         0 |    74 |         7 |       3 |    92.5 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
