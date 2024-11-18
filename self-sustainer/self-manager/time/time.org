@@ -156,16 +156,16 @@
 *** Public
 **** Conference talk
 ***** TODO Give talk about analytics on Unite
-      - [ ] Write to Szabi
 *** Friends
 **** Beci crew
-     - [X] Research online board games
-     - [X] Write to Adam
+***** TODO Meet 2024 december with Béciék
+***** TODO Karmatörő with Adam
 **** Bsp crew
      - [X] Write to Imi
 **** Lili
-     - [X] Write to Lili
-
+***** TODO Meet 2024 november
+**** Árpi
+***** TODO Meet 2024 november
 * 2024
 ** October
 *** <2024-10-19 Sat>
@@ -726,7 +726,7 @@
      - [X] Groceries (coffee, garlic powder, tobacco)
      - [ ] Copy and send tsumego mini videos to Peti
      - [ ] Pay stuff
-     - [X] Visit Orsi&L�ri
+     - [X] Visit Orsi&Lóri
 **** Weekly activities [100%]
      - [X] English class
 **** Workout [0p]
@@ -1120,4 +1120,53 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.0 |      16 |      14.2 |  7358 |         7 |       0 |    32.4 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-17 Sun>
+**** Morning routine [0%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [ ] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [25%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: parent doc assert
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [X] Practice Bannerman FC build
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [X] Pay japanese class
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Wash dishes
+**** Weekly activities [100%]
+     - [X] Japanese class
+     - [X] Kenjutsu training
+**** Workout [9p]
+     - kenjutsu training (6p)
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x
+       - [X] pushup 2x
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.3 |       7 |      21.9 | 13897 |         6 |       9 |      45 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
