@@ -187,6 +187,7 @@
        - [ ] User score
 ****** TODO Register
        - [ ] Talk about which days to go
+       - [ ] Send pic and bio
        - [ ] Register to conf
        - [ ] Reserve hotel
 *** Friends
@@ -1313,4 +1314,63 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.2 |      10 |         0 |  1013 |         8 |       3 |      67 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-20 Wed>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+**** Daily practice [50%]
+     - [ ] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [ ] Tsumego
+     - [ ] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [12%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [ ] Review comments: parent doc assert
+     - [X] Merge javasript update
+     - [ ] Send pic and bio
+     - [X] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Go to bank
+     - [ ] Write perfect day plan
+     - [ ] Review IDUKA
+     - [ ] Check important letter
+     - [ ] Check important e-mail
+**** Weekly activities [100%]
+     - [X] Oldschool gym
+     - [X] Kenjutsu training
+**** Workout [12p]
+     - oldschool gym (6p)
+     - kenjutsu training (6p)
+     - micro training (3p)
+       - [ ] grip strength
+       - [X] foot correction
+       - [ ] shoulderblade 2x15
+       - [ ] pushup 2x10
+       - [X] military push 2x10
+       - [ ] stretch
+**** Food [kCal]
+     - coffee
+     - porrige
+     - carbonara
+     - sandwich
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.4 |      11 |      62.4 |  2662 |         4 |      12 |    52.4 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
