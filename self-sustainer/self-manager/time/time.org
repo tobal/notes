@@ -140,6 +140,9 @@
       - [ ] Papp II 18 blatt
       - [ ] Mad World 3b seperate hands
       - [ ] Mad World chords new part
+*** Reading books
+**** TODO Dune trilogy
+***** TODO A Dűne
 ** Learning
 *** Japanese
 **** Class
@@ -176,6 +179,9 @@
 **** Belts
 ***** DONE 2 Kyu (blue)
 ***** TODO 1 Kyu (brown)
+*** Reading books
+**** Psychology
+***** DONE Személyiségünk rejtett tartalékai
 ** Social
 *** Public
 **** Conference talk
@@ -1373,4 +1379,59 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.4 |      11 |      62.4 |  2662 |         4 |      12 |    52.4 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-21 Thu>
+**** Morning routine [60%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [100%]
+     - [X] Wash dishes
+     - [X] Stretching
+     - [X] Bathroom
+     - [X] Reading
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [23%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [ ] Review comments: parent doc assert
+     - [ ] Send pic and bio
+     - [X] Review UI code
+     - [ ] Change authenticator
+     - [X] Practice Bannerman FC build
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [X] Go to bank
+     - [ ] Write perfect day plan
+     - [ ] Review IDUKA
+     - [ ] Check important letter
+     - [ ] Check important e-mail
+**** Weekly activities [100%]
+     - [X] English class
+     - [X] Japanese class
+**** Workout [3p]
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] military push 2x10
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.3 |      10 |         0 |  1783 |         6 |       3 |    76.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
