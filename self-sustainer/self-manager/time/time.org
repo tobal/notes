@@ -41,8 +41,10 @@
 *** Ordering
 **** Virtual
      - [X] Setup Emacs on CyberGamer
-     - [ ] Deneb
      - [ ] Continuous upgrade of arch linux
+***** Deneb
+      - [ ] BASH shell setup
+      - [ ] GPG key setup for email
 **** Physical
 ***** Workstation
       - [ ] Buy computer stuff
@@ -1434,4 +1436,63 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.3 |      10 |         0 |  1783 |         6 |       3 |    76.6 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-22 Fri>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [26%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [ ] Review comments: parent doc assert
+     - [ ] Send pic and bio
+     - [ ] Change authenticator
+     - [X] Practice Bannerman FC build
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Write perfect day plan
+     - [ ] Review IDUKA
+     - [ ] Check important letter
+     - [ ] Check important e-mail
+     - [X] Sleep extra
+     - [X] Wash dishes
+     - [X] Tidy kitchen
+**** Weekly activities [100%]
+     - [X] Oldschool gym
+**** Monthly activities [100%]
+     - [X] Yotto party
+**** Workout [9p]
+     - oldschool gym (6p)
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] military push 2x10
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.8 |      10 |      12.5 |  2453 |         4 |       9 |      71 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
