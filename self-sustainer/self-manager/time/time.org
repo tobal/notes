@@ -160,6 +160,7 @@
 *** Programming
 **** Attila mentoring
 ***** TODO Review IDUKA
+***** TODO Review crosswords
 **** Scala
 *** Kenjutsu
 **** Katas
@@ -208,6 +209,11 @@
 ***** TODO Meet 2024 november
 **** Árpi
 ***** TODO Meet 2024 november
+**** Ice
+     - [ ] Hackersuli Unity
+     - [ ] OWASP Meetup
+**** Dávid
+     - [ ] Answer on messenger
 *** Family
 **** Name day
 ***** Mom nov 19
@@ -1502,4 +1508,62 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.4 |       8 |         0 | 20356 |         6 |       0 |       0 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-24 Sun>
+**** Morning routine [0%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [ ] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [0%]
+     - [ ] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [ ] Kenjutsu slashes
+     - [ ] Tsumego
+     - [ ] Japanese reading practice
+     - [ ] Kanji writing practice
+**** ToDo list [16%]
+     - [ ] Review comments: wrapper to encoder
+     - [ ] Review comments: encoder unit test
+     - [ ] Review comments: parent doc assert
+     - [ ] Send pic and bio
+     - [ ] Change authenticator
+     - [ ] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Write perfect day plan
+     - [X] Review IDUKA
+     - [X] Check important letter
+     - [X] Check important e-mail
+     - [ ] Pay fine
+     - [ ] Answer to Dávid
+**** Weekly activities [100%]
+     - [X] Kenjutsu training
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [ ] grip strength
+       - [ ] foot correction
+       - [ ] shoulderblade 2x15
+       - [ ] pushup 2x10
+       - [ ] military push 2x10
+       - [ ] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.7 |       8 |           |   979 |         8 |       6 |    23.2 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
