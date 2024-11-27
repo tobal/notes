@@ -1625,3 +1625,61 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.3 |      10 |         0 |  5010 |         5 |       3 |    36.8 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-26 Tue>
+**** Morning routine [40%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Stretching
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [17%]
+     - [X] Review comments: parent doc assert
+     - [ ] Review scala code
+     - [ ] Send pic and bio
+     - [ ] Change authenticator
+     - [ ] Japanese daily challenge
+     - [X] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] Copy and send tsumego mini videos to Peti
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [X] Write perfect day plan
+     - [ ] Review IDUKA
+     - [ ] Pay fine
+     - [ ] Answer to Dávid
+     - [ ] Wash dishes
+**** Weekly activities [100%]
+     - [X] Coach
+     - [X] Tabletop RPG
+**** Workout [3p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] grip strength
+       - [X] foot correction
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] military push 2x10
+       - [X] stretch
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.4 |      10 |         0 |  3425 |         8 |       3 |    51.4 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
