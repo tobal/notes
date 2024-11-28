@@ -1,0 +1,27 @@
+# M-x set-language-environment Japanese
+# C-\ in INSERT mode to toggle
+# To switch between kanji, hit SPACE after typing
+# To write with katakana, hit K after typing
+# Insert timestamp: C-u C-c .
+
+* 日本語チャレンジ
+** Day 1 <2024-11-25 Mon>
+   | あります、が、くるま、じてんしゃ、の、は、みっつ、も |
+   | じてんしゃは くるまのみっつもが あります。         |
+   | Bicikliből három kerekes is van.              |
+
+   | いい、おばあちゃん、が、ごはん、します、つくった、におい、の、は |
+   | おばあちゃんのつくった ごはんは いいにおいがします。            |
+   | A nagyi által készített ételnek finom illata van.        |
+
+   | おもいます、か、きのう、しあい、どう、の、は |
+   | きのうの しあいは どう おもいますか。       |
+   | Mit gondolsz a tegnapi しあいról?       |
+** Day 2 <2024-11-26 Tue>
+   | 毎 (海) | (地) 池 | 休 (体) | (林) 森 | (弟) 第  |
+   | うみ    | ち      | からだ  | はやし  | おとうと |
+   | tenger |        | test   | liget  | öcs     |
+   
+   | 板 (校) | (雪) 雲 | 湖 (潮)  | 頭 (顔) | 貝 (買)  |
+   | こう    | ゆき    | みずうみ | あたま  | かう     |
+   | iskola | hó     |         | fej    | vásárol |
