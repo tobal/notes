@@ -1744,3 +1744,61 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.0 |      10 |      62.4 |  2622 |         4 |      15 |    81.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-28 Thu>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [83%]
+     - [ ] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [41%]
+     - [X] Fix score repo
+     - [X] Merge score repo
+     - [X] Review scala code
+     - [ ] Change authenticator
+     - [X] Japanese daily challenge
+     - [X] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Review IDUKA
+     - [ ] Pay fine
+     - [ ] Answer to Dávid
+     - [ ] Wash dishes
+     - [X] Groceries
+     - [X] Morning walk
+**** Weekly activities [100%]
+     - [X] MUSH RPG
+**** Monthly activities [100%]
+     - [X] Meetup
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] foot correction
+       - [X] military push 2x10
+       - [X] grip strength
+       - [ ] shoulderblade 2x15
+       - [ ] pushup 2x10
+       - [ ] stretch 2x
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.0 |       9 |      16.5 |  4497 |         4 |       0 |    87.3 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
