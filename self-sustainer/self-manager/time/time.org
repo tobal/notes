@@ -1861,3 +1861,56 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.9 |      11 |         0 |  1669 |         5 |       9 |    63.6 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-11-30 Sat>
+**** Morning routine [20%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [66%]
+     - [ ] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [0%]
+     - [ ] Write scala service skeleton
+     - [ ] Change authenticator
+     - [ ] Japanese daily challenge
+     - [ ] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Review IDUKA
+     - [ ] Pay fine
+     - [ ] Pay phone
+     - [ ] Wash dishes
+**** Monthly activities [100%]
+     - [X] Árpi social
+**** Workout [3p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] foot correction
+       - [X] military push 2x10
+       - [X] grip strength
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] stretch 2x
+**** Food [kCal]
+     - cheat (fried chicken, gyros)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.4 |      11 |      28.3 |  2257 |        10 |       3 |    37.2 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
