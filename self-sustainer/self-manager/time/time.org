@@ -1914,3 +1914,61 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.4 |      11 |      28.3 |  2257 |        10 |       3 |    37.2 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+** December
+*** <2024-12-01 Sun>
+**** Morning routine [100%]
+     - [X] Make bed
+     - [X] Warmup
+     - [X] Commit org
+     - [X] Check deneb
+     - [X] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [100%]
+     - [X] Piano practice
+     - [X] Age of Empires 4 practice
+     - [X] Kenjutsu slashes
+     - [X] Tsumego
+     - [X] Japanese reading practice
+     - [X] Kanji writing practice
+**** ToDo list [53%]
+     - [ ] Write scala service skeleton
+     - [ ] Change authenticator
+     - [X] Japanese daily challenge
+     - [X] Practice Bannerman FC build
+     - [X] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [X] Review IDUKA
+     - [X] Pay fine
+     - [X] Pay phone
+     - [X] Wash dishes
+**** Weekly activities [100%]
+     - [X] Kenjutsu training
+**** Workout [9p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] foot correction
+       - [X] military push 2x10
+       - [X] grip strength
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] stretch 2x
+**** Food [kCal]
+     - coffee
+     - porrige
+     - fried parizer
+     - jam sandwich
+     - canned fish
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.2 |      10 |      19.2 |  1299 |         5 |       9 |    70.6 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
