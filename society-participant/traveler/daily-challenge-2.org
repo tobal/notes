@@ -75,4 +75,62 @@
    | X | まっすぐふえています。                                                   |
    | X | あまりふえています。                                                     |
    | X | よくふえています。                                                       |
-    
+** Day 7 <2024-12-02 Mon>
+   | a mondat témáját jelölő partikula                                                                    | は                  |
+   | mindig a mondat/ tagmondat végén áll, semmi más nem állhat utána, mint záró partikulák               | ね                  |
+   | főnév és Ana esetén に、Ai esetén く toldalék előzi meg                                               | határozószó        |
+   | két vagy több kandzsiból álló összetétel/ kettő vagy több szóból keletkező összetett szó megnevezése | じゅくご            |
+   | Megelőzheti a mondat témáját, de utána is állhat                                                     | időhatározó        |
+   | a mondat alanyát jelölő partikula                                                                    | が                  |
+   | zárópartikula, a személyes meggyőződésemet akarom vele nyomatékosítani                               | よ                  |
+   | a mondat alanya és az állítmány közé kell kerüljön (ha van)                                          | gyakorisághatározó |
+   - きつねは まいにちのおそい よなか おとなしくしながら 森のおくからへを さがしに 行く。
+   - きつね: alany
+   - まいにちのおそい よなか: időhatározó
+   - 森のおくから: helyhatározó
+   - さがしに 行く: állítmány
+** Day 8 <2024-12-03 Tue>
+   | 学校のしょくどうは おいしいです。  |
+   |--------------------------------|
+   | A sulis menzán jó a kaja.      |
+*** 
+   |   | 学校のビューフェはおいしいです。 |
+   | O | 学校のしょくどうはおいしいです。 |
+   |   | 学校のしょくばはおいしいです。   |
+   |   | 学校のこんびにはおいしいです。   |
+*** 
+   | うちの犬は まいごに なりました。 |
+   |------------------------------|
+   | A kutyánk まいご lett.        |
+*** 
+   |   | うちの犬は うちに います。         |
+   |   | うちの犬は かしこく なりました。   |
+   |   | うちの犬は うちに いません。      |
+   |   | うちの犬は かしこく なっていません。 |
+*** 
+   | 日本語は 日本人とおなじように じょうずに 話せます。 |
+   |-----------------------------------------------|
+   |                                               |
+*** 
+   | | 日本語が もごもごです。                      |
+   | | 日本語が すらすらです。                      |
+   | | 日本語が ぺらぺらです。                      |
+   | | 日本語が へたです。                          |
+*** 
+   | 鳥の「口」は ～～～です。             |
+   |------------------------------------|
+   | A madarak "száját" csőrnek hívják. |
+*** 
+   |   | 鳥の「口」は くちべにです。 |
+   | O | 鳥の「口」は くちばしです。 |
+   |   | 鳥の「口」は くちびるです。 |
+   |   | 鳥の「口」は くちなみです。 |
+*** 
+   | 外は すずしいです。 |
+   |------------------|
+   | Kint hideg van.  |
+*** 
+   | O | 外は さむいです。    |
+   |   | 外は あついです。    |
+   |   | 外は さむくないです。 |
+   |   | 外は あつくないです。 |
