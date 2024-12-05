@@ -2075,3 +2075,55 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.1 |       6 |         0 |   653 |         9 |       0 |      39 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-12-04 Wed>
+**** Morning routine [20%]
+     - [ ] Make bed
+     - [ ] Warmup
+     - [X] Commit org
+     - [ ] Check deneb
+     - [ ] Meditation
+**** Evening routine [0%]
+     - [ ] Wash dishes
+     - [ ] Bathroom
+     - [ ] Reading
+**** Daily practice [16%]
+     - [ ] Piano practice
+     - [ ] Age of Empires 4 practice
+     - [ ] Kenjutsu slashes
+     - [X] Tsumego
+     - [ ] Japanese reading practice
+     - [ ] Kanji writing practice
+**** ToDo list [0%]
+     - [ ] Change authenticator
+     - [ ] Japanese daily challenge
+     - [ ] Practice Bannerman FC build
+     - [ ] Grind Monster Hunter World
+     - [ ] Make Tyndros map
+     - [ ] GPG key setup for email
+     - [ ] Buy DM's guide
+     - [ ] Buy Monster Hunter Wilds
+     - [ ] Wash dishes
+     - [ ] Apply to kenjutsu training and exam
+**** Weekly activities [100%]
+     - [X] Oldschool gym
+**** Monthly activities [100%]
+     - [X] Go game with Peti
+     - [X] Meetup
+**** Workout [6p]
+     - [X] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [ ] foot correction
+       - [ ] military push 2x10
+       - [ ] grip strength
+       - [ ] shoulderblade 2x15
+       - [ ] pushup 2x10
+       - [ ] stretch 2x
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.0 |       6 |      14.9 |  9269 |         4 |       6 |    39.3 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
