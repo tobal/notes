@@ -42,6 +42,7 @@
 **** Virtual
      - [X] Setup Emacs on CyberGamer
      - [ ] Continuous upgrade of arch linux
+     - [ ] GPG key setup for email
 ***** Deneb
       - [ ] BASH shell setup
       - [ ] GPG key setup for email
@@ -160,6 +161,8 @@
 *** Programming
 **** Attila mentoring
 ***** TODO Review IDUKA
+      - [X] Review IDUKA
+      - [ ] Debug IDUKA
 ***** TODO Review crosswords
 **** Scala
 *** Kenjutsu
@@ -2181,4 +2184,75 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.4 |       9 |      15.1 |  1325 |         8 |       3 |    50.6 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-12-06 Fri>
+**** ToDo [48%]
+***** Routines [50%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [58%]
+****** Daily practice [83%]
+       - [X] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Kenjutsu slashes
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [33%]
+       - [X] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Oldschool gym
+       - [X] Orsi social
+***** Daily ToDos [33%]
+****** ToDos for the day [50%]
+       - [ ] Apply to kenjutsu training and exam
+       - [X] Buy protein
+       - [X] Copy appartment key
+       - [ ] Debug IDUKA
+****** Work [16%]
+       - [X] Add saver bug
+       - [ ] Saver bug ittest
+       - [ ] Saver bug fix
+       - [ ] Write article
+       - [ ] Review session score
+       - [ ] Change authenticator
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [9p]
+     - [X] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] foot correction
+       - [X] military push 2x10
+       - [X] grip strength
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] stretch 2x
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.6 |       8 |         0 | 10131 |         3 |       9 |      48 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
