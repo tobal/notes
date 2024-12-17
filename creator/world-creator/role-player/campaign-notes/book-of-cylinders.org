@@ -1,0 +1,112 @@
+* Book of Cylinders (D&D 5e) 
+** Music
+   - calm, travel: https://www.youtube.com/watch?v=sHA_4wfQhE8
+   - tavern: https://www.youtube.com/watch?v=D02-tXFkgCI
+   - combat: https://www.youtube.com/watch?v=t3B802PIuB0
+   - sneaking: https://www.youtube.com/watch?v=2e4n1ZK0Pyo
+** The Mansion Heist
+*** Felütés
+    - Egy kocsmában ülnek. Két karakter mondani akar valamit:
+      - Warlock: A patrónusod utasított, hogy menj el Mécsesvárba,
+	és az ottani könyvtárban nézd meg Orden Khawalt: A mennyek
+	objektív analízise c. kötetében Achranach nevű félangyal
+	valódi nevét. Mindenképp rá akarod venni őket, hogy arra
+	menjetek, különben elveszted a varázslás képességed. Nem
+	muszáj elmondanod, hogy egy démont szolgálsz, ki tudja,
+	hogy reagálnak, vagy tudják-e egyáltalán.
+	Illetve ismersz egy tolvajt a városban, aki bármit képes
+	megszerezni.
+      - Paladin: Régóta álmodozol róla, hogy egyszer elmész Mécsesvárba,
+	és meglátogatod a messze földön híres könyvtárát. Sajnos csak
+        úgy engednek be, ha viszel egy olyan könyvet, ami még nincs
+	meg nekik.
+      - Barbár: Vízmélyébe akarsz menni, mindig is kíváncsi voltál
+	rá, mert híresen szép, és híresen jó kardforgató iskolái
+	vannak, szeretnéd kihívni párbajra az ottani bajnokokat.
+	Felveted a többieknek, hogy ha eladtátok a varázs-
+	tárgyakat, észak felé vehetnétek az irányt.
+      - Druida: Északra, a Trollkéreg erdőbe akasz menni, mert
+        kapcsolódni, egyesülni akarsz a trollok erdejének szellemével.
+      - Van egy kapcsolatod a helyi tolvajklánnal, aki bármit
+	képes megszerezni, elegendő pénzért cserébe.
+    - A ládában találnak:
+      - Potion of hill giant strength
+      - Potion of Growth
+      - Scroll of Web
+      - Scroll of Slow
+      - Scroll of Pass without trace
+    - Egyéb könyvek: 900g
+    - Ha ellopják a könyvet anélkül, hogy riasztanák a városőröket: 1000xp
+*** Utazás Mécsesvárba
+    - Ahogy elhagyjátok Baldur Kapuját, lóra pattantok, és elindultok dél felé a
+      Parti Út (Coast Way) mentén. Már erősen sötétedik, mire eléritek a Baráti
+      Jobb fogadót, ami egy hatalmas, fallal körbevett, erődítmény szerű, magas
+      épület. Miután eltöltöttetek egy estét, reggel továbbindultok délnek, majd
+      nyugatnak fordultok, az Oroszlán Úton, alkonyatra pedig el is éritek Mécsesvár
+      kapuját. Három magas, lila köntösbe öltözött, marcona képű ember áll őrt.
+    - Mécsesvár falai közé csak meghívára léphetnek be látogatók, vagy egy, a
+      könyvtárunk számára hasznos felajánlásért cserébe.
+    - A kapun belépve a Levegő Udvara fogad titeket, ami egy különálló, fallal
+      körülvett városrész, teljesen leválasztva a sokkal hatalmasabb könyvtár
+      épületétől. A könyvtárba a Smaragd Kapun át léphetnek be az arra érdemesek,
+      ezen kívül a téren található egy kovács, istállóval, A Pihenés háza, Oghma
+      temploma, a Kandalló fogadó, a Könyvkötők háza, ruhaművesek műhelyei,
+      és Pedagógia Oszlopai, az északi fal mentén.
+**** Kovács, istálló
+    - Khe'ril Hammerbind felel érte, egy arany törpe veterán,
+      aki a hely patkókovácsa. Az istállóban a lovakon kívül egyéb hátasoknak is
+      van kialakított hely (griffek, wyvernek).
+**** Pihenés háza
+    - Háromemeletes téglatest alakú épület, itt alhatnak az utazók
+      éjszaka, és tárolhatják a felszerelésüket. Privát és közösségi szobák is
+      vannak, a ház pedig kezeskedik a csendért és a nyugalomért.
+      50 ember befogadására képes, és innen nyílik a könyvtár épülete, a Firefly
+      Cellar (Szentjános Pince).
+**** Kovács, istálló
+    - Oghma templom: A kicsike templom tetejéről 4 vízköpő néz le, akik kőgólemekként
+      megvédik a templomot. A helyi pap Lorekeeper Kei Tigersteel (Tigrisacél Kei, a
+      tanok őre), aki shou származású, ezért sárgás-bronz színű bőre van, fekete haja,
+      és széles, lapos vonásai.
+**** Kandalló
+    - Egy picike egyszintes fogadónak látszik kívülről, de belépve
+      kitágul a tér, belülről háromszoros a mérete. A térmágia a bár fölött függő
+      enyhén derengő kristálygömbbe zárt óramű szerkezetből árad.
+      Az egyik folyosón egy sor ajtó látszólag a falba nyílik, ezek portálok,
+      ahol más létsíkokon lehet találkozni másokkal, lehallgathatatlanul.
+      20 ember befogadására képes, plusz a portálok.
+**** Könyvkötők
+    - Itt könyveket és tekercseket másoltathatnak maguknak, 50gp per
+      varázslat szint, vagy 100gp per könyv.
+**** Ruhaművesek
+**** Pedagógia Oszlopai:
+    - A lapos tetejű, eltérő magasságú tornyokban tanulmányozhatják
+      a könyveket. A termeket bérelni kell, de ingyenes. Minden teremben csönd
+      varázs uralkodik.
+*** A küldetés
+    - Ahogy lófráltok, odalép hozzátok egy rézszínű dragonborn nő, aki az itteni
+      papok és szerzetesekre jellemző zöld köntöst visel, és egy jókora könyvet
+      tart az ölében.
+    - Üdv, én Pelk vagyok, és a Köztudomásúak rendje nevében vagyok itt.
+      Önök kalandozók, nem igaz? A felüljáróim engedték meg, hogy beavassam önöket
+      egy problémába, amiben a segítségüket szeretnénk kérni. Mécsesvár régóta
+      egy közeli faluból, a gripplik falujából szerzi be a rákhúst. Ez nemrég
+      teljesen elapadt, ezen kívül utazók nemrégiben ezt a könyvet hozták, amit
+      ősi romok között találtak Tethyr-ben, messze lent délen. Azt mondták a benne
+      leírtak nem kitalált történet, hanem egy figyelmeztetés.
+    - A felüljáróim megengedték, hogy átadjam ezt a könyvet tanulmányozásra.
+    - A könyv három hengerből áll, amit vizes agyagban végiggurítva olvashatóvá
+      válik az írás. Az első henger a békaszerű humanoid lények, a gripplik
+      fénykorát mutatják be, ahogy háziasították az óriásrákokat, és virágzó
+      falut építettek. A második henger elmeséli, ahogy gonosz kígyószerű
+      lények támadják meg a falut, sokakat megölnek, a rákok pedig kitörnek
+      ketreceikből. A harmadik henger bemutatja a támadás utóhatásait, a falu
+      romokban, az egyetlen álló épület az istenüknek szentelt templom, amit
+      kígyólények foglaltak el.
+    - Még megtudhatják: hogy Nemrég egy csapat yuan-ti költözött be a régóta
+      elhagyott templomba, ami nem messze a gripplik falujától van. Ők békések,
+      és megengedték nekik, hogy feltárják a romokat.
+    - az utoljára visszatért kereskedők azt a hírt hozták, hogy a gripplik ellepték
+      a kereskedő kikötőt, mert a falujukat egy agresszív yuan-ti banda támadta meg.
+*** Utazás a gripplik falujába
+    - Van egy tapasztalt kapitány, Mitor Jans, aki szívesen elviszi őket a kikötőhöz
+      a hajóján, a Kutyafülén.
