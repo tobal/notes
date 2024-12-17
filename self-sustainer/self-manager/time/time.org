@@ -2534,3 +2534,76 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.5 |      10 |         0 |  3594 |         9 |       0 |      33 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-12-11 Wed>
+**** ToDo [27%]
+***** Routines [50%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [0%]
+****** Daily practice [0%]
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Kenjutsu slashes
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [0%]
+       - [ ] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [50%]
+****** Weekly activities [100%]
+       - [X] Oldschool gym
+       - [X] Kenjutsu training
+***** Daily ToDos [37%]
+****** ToDos for the day [0%]
+       - [ ] Debug IDUKA
+       - [ ] Orsi social
+       - [ ] RPG module
+****** Work [75%]
+       - [X] Daily
+       - [X] Saver bug test
+       - [X] Saver bug fix
+       - [X] Give help
+       - [X] Review
+       - [X] Demo
+       - [ ] Write article
+       - [ ] Change authenticator
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [0%]
+       - [ ] Wash dishes
+       - [ ] Downstairs dusting
+**** Workout [12p]
+     - [X] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [ ] foot correction
+       - [ ] military push 2x10
+       - [ ] grip strength
+       - [ ] shoulderblade 2x15
+       - [ ] pushup 2x10
+       - [ ] stretch 2x
+**** Food [kCal]
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.3 |       6 |           |       |         5 |      12 |      27 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
