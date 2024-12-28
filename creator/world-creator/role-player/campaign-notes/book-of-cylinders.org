@@ -39,7 +39,7 @@
     - Ha ellopják a könyvet anélkül, hogy riasztanák a városőröket: 1000xp
 *** Utazás Mécsesvárba
     - Ahogy elhagyjátok Baldur Kapuját, lóra pattantok, és elindultok dél felé a
-      Parti Út (Coast Way) mentén. Már erősen sötétedik, mire eléritek a Baráti
+      Parti Út (Coast Way) mentén. A harmadik nap estéjén eléritek a Baráti
       Jobb fogadót, ami egy hatalmas, fallal körbevett, erődítmény szerű, magas
       épület. Miután eltöltöttetek egy estét, reggel továbbindultok délnek, majd
       nyugatnak fordultok, az Oroszlán Úton, alkonyatra pedig el is éritek Mécsesvár
@@ -53,7 +53,7 @@
       temploma, a Kandalló fogadó, a Könyvkötők háza, ruhaművesek műhelyei,
       és Pedagógia Oszlopai, az északi fal mentén.
 **** Kovács, istálló
-    - Khe'ril Hammerbind felel érte, egy arany törpe veterán,
+    - Kalapács Khe'ril felel érte, egy arany törpe veterán,
       aki a hely patkókovácsa. Az istállóban a lovakon kívül egyéb hátasoknak is
       van kialakított hely (griffek, wyvernek).
 **** Pihenés háza
@@ -90,7 +90,7 @@
       Önök kalandozók, nem igaz? A felüljáróim engedték meg, hogy beavassam önöket
       egy problémába, amiben a segítségüket szeretnénk kérni. Mécsesvár régóta
       egy közeli faluból, a gripplik falujából szerzi be a rákhúst. Ez nemrég
-      teljesen elapadt, ezen kívül utazók nemrégiben ezt a könyvet hozták, amit
+      teljesen elapadt[...] ezen kívül utazók nemrégiben ezt a könyvet hozták, amit
       ősi romok között találtak Tethyr-ben, messze lent délen. Azt mondták a benne
       leírtak nem kitalált történet, hanem egy figyelmeztetés.
     - A felüljáróim megengedték, hogy átadjam ezt a könyvet tanulmányozásra.
@@ -110,3 +110,5 @@
 *** Utazás a gripplik falujába
     - Van egy tapasztalt kapitány, Mitor Jans, aki szívesen elviszi őket a kikötőhöz
       a hajóján, a Kutyafülén.
+*** Crab maze
+    - Szerzett xp: crab x25xp
