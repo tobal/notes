@@ -225,6 +225,42 @@
      - [ ] Write perfect day plan
 **** Psychologist
      - [ ] Write email to apply
+* Goals for the year 2025
+** Self organizing
+*** ToDo system
+    - [ ] Daily list making is scripted
+    - [ ] Stat table is graphed
+*** Youtube channel
+    - [ ] Daily upload of practice videos
+*** Ordering
+    - [ ] Maintain cleanliness
+    - [ ] Fix tap, lamps
+*** Body
+    - [ ] Change dental crown
+    - [ ] Go for eye examination
+** Games
+*** Tabletop RPG
+    - [ ] Play and master the wizard class
+*** Real Time Strategy
+    - [ ] Get to platinum 3 in AoE4
+*** Go
+    - [ ] Play a quick match every day
+** Art
+*** Juggling
+    - [ ] Master continuous neckwrap routine
+    - [ ] Master Trauma choreography
+    - [ ] Master On the beach choreography
+    - [ ] Have a kata with all known tricks
+*** Piano
+    - [ ] Able to read sheet music
+*** Reading books
+** Learning
+*** Japanese
+    - [ ] N4 exam
+*** Programming
+    - [ ] Have a coding kata routine
+*** Kenjutsu
+    - [ ] Brown belt
 * 2024
 ** October
 *** <2024-10-19 Sat>
