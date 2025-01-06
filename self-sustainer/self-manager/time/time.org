@@ -2809,5 +2809,75 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 103.8 |      10 |         0 |   509 |         9 |       3 |      58 |      |
+     | 103.8 |      10 |         0 |   509 |         8 |       3 |      58 |      |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2024-12-28 Sat>
+**** ToDo [72%]
+***** Routines [100%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [100%]
+       - [X] Wash dishes
+       - [X] Bathroom
+       - [X] Reading
+***** Daily activities [66%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [33%]
+       - [ ] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Monthly activities [100%]
+       - [X] Party (Woo York)
+***** Daily ToDos [60%]
+****** ToDos for the day [60%]
+       - [X] Write down goals for next year
+       - [X] Plan progression
+       - [ ] Write Adam
+       - [X] Email draft to Kata
+       - [ ] Translate daily routine sentences to japanese
+***** Misc ToDos [33%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [100%]
+       - [X] Wash dishes
+**** Workout [3p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3p)
+       - [X] foot correction
+       - [X] military push 2x10
+       - [X] grip strength
+       - [X] shoulderblade 2x15
+       - [X] pushup 2x10
+       - [X] stretch 2x
+**** Food [kCal]
+     - coffee
+     - vadas
+     - sandwich
+     - bejgli
+     - porrige
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.6 |       6 |         0 |  1951 |         9 |       3 |      72 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
