@@ -261,6 +261,40 @@
     - [ ] Have a coding kata routine
 *** Kenjutsu
     - [ ] Brown belt
+* Progression
+** Piano
+*** Papp I (monday)
+**** TODO Week 1 1-8
+**** TODO Week 2 9-16
+**** TODO Week 3 17-26
+**** TODO Week 4 27-34
+**** TODO Week 5 35-39
+**** TODO Week 6 40-44
+**** TODO Week 7 45-52
+**** TODO Week 8 53-57
+**** TODO Week 9 58-61
+**** TODO Week 10 62-63
+** Japanese
+*** Reading (tuesday)
+**** TODO Week 1 おおそうじ
+**** TODO Week 2 すみませーん
+**** TODO Week 3 まちがってはいけない
+**** TODO Week 4 てつどうわすれものいち
+*** Writing (wednesday)
+**** TODO Week 1 Basic kanji set 1
+**** TODO Week 2 Basic kanji set 2
+**** TODO Week 3 Basic kanji set 3
+**** TODO Week 4 Basic kanji set 4
+**** TODO Week 5 Basic kanji set 5
+**** TODO Week 6 Basic kanji set 6
+**** TODO Week 7 Basic kanji set 7
+**** TODO Week 8 Basic kanji set 8
+** Kenjutsu
+*** Brown (thursday)
+**** TODO Week 1 Fukuro shinai
+**** TODO Week 2 Koryu
+**** TODO Week 3 Inazuma battou
+**** TODO Week 4 Hojo
 * 2024
 ** October
 *** <2024-10-19 Sat>
