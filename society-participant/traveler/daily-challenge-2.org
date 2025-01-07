@@ -156,4 +156,72 @@
    |                                                              |
    | けんこうために いっしゅうかん２，３かい さかなるいを 食べます。（２） |
    |                                                              |
-    
+** Day 11 <2025-01-02 Thu>
+*** 
+   | どんどん | mélyen, jóízűen alszik ぐっすり                  | ぎゅうにゅうはいつもごくごく飲む。       |
+   | だんだん | lazázig, döglik ごろごろ                         | くたくたつかれてるので、休みたいの。     |
+   | ごろごろ | ragyog – természeténél fogva きらきら            | くつをみがいて、ぴかぴかになってるね。   |
+   | くたくた | serényen, gyorsan, hatékonyan せっせと           | ぶっかがだんだんあがっていく。          |
+   | きらきら | gyors, nagyfokú változás/ folytonosság どんどん  | 大雨で水がどんどんあがっている。        |
+   | ぴかぴか | ragyog – mert pl. tiszta, új stb. ぴかぴか       | 日本語はぺらぺらと話せたいな～～。       |
+   | ぐっすり | nagy kortyokban kruttyolva iszik ごくごく        | きらきらひかっているダイヤモンドゆびわ。 |
+   | ごくごく | kis mértékű lassú változás/ fokozatosan だんだん | さいきんぐっすりねむれない。            |
+   | ぺらぺら | halálosan fáradt, kimerült くたくた              | 一日中、何もしないでごろごろしてた。     |
+   | せっせと | folyékonyan beszél idegen nyelven ぺらぺら       | ありはせっせとと働くこんちゅうだ。       |
+*** 
+   | A tejet mindig nagy kortyokban iszom.            |
+   | Nagyon fáradt vagyok, szeretnék pihenni.         |
+   | A kibokszolt cipő szépen csillog, nem?           |
+   | Az árak gyorsan emelkednek.                      |
+   | A sok esőzés miatt a vízszint gyorsan emelkedik. |
+   | Szeretnék folyékonyan beszélni japánul.          |
+   | Csillogó gyémántgyűrű.                           |
+   | Mostanában jóízűen alszom.                       |
+   | Egész nap nem csináltam semmit, csak döglöttem.  |
+   | A hangya hatékonyan dolgozó rovar.               |
+** Day 12 <2025-01-03 Fri>
+   | かめ     | から     | A teknős páncélját hártya (まく) fedi/ borítja.         |
+   | ねこ     | たぺたむ | A macskák a tapetumnak köszönhetően látnak a sötétben. |
+   | くま     | まえあし | A medve a mancsaival ügyesen eszik.                    |
+   | うし     | つの     | A tehenek szarva kissé tompa.                          |
+   | とり     | はね     | A madarak a szárnyuknak köszönhetően tudnak repülni.   |
+   | へび     | かわ     | A kígyó levedli (脱皮 だっぴ) a bőrét.                   |
+   | いのしし | きば     | A vaddisznó agyara hegyes, erős.                       |
+   | きつね   | しっぽ   | A róka farka fluffy.                                   |
+   | うま     | ひづめ   | A lovak patája kemény, mégis érzékeny.                 |
+** Day 13 <2025-01-04 Sat>
+   | A teknős páncélját hártya (まく) fedi/ borítja.         |
+   | かめは からが まくで かぶせる。                            |
+   | A macskák a tapetumnak köszönhetően látnak a sötétben. |
+   | ねこは たぺたむのために くらいに みられる。                 |
+   | A medve a mancsaival ügyesen eszik.                    |
+   | くまは まえあしで じょうずに たべる。                       |
+   | A tehenek szarva kissé tompa.                          |
+   | うしは つのが ちょっと にぶいです。                        |
+   | A madarak a szárnyuknak köszönhetően tudnak repülni.   |
+   | とりは はねのために とべます。                             |
+   | A kígyó levedli (脱皮 だっぴ) a bőrét.                   |
+   | へびは かわを 脱皮 だっぴ します。                         |
+   | A vaddisznó agyara hegyes, erős.                       |
+   | いのししは きばが つよいです。                             |
+   | A róka farka fluffy.                                   |
+   | きつねは しっぽが ふわふわです。                           |
+   | A lovak patája kemény, mégis érzékeny.                 |
+   | うまは ひづめが かたくて、センシティブです。                 |
+** Day 14 <2025-01-06 Mon>
+   | たいらないもの、ふうとう、ペーパー、シーツなど | まい |
+   | いろいろなもののかぞえることば、いす、パンなど | つ   |
+   | 丸くて小さいもの、りんご、みかん、けしゴムなど | こ   |
+   | ひとのかぞえることば                        | にん |
+   | グラス、おさら、ボールの中になにかあるとき使う | はい |
+   | 小さい動物、犬、猫、ネズミなど               | ひき |
+   | ねんれいが言いたいとき使うかぞえることば      | さい |
+   | ついのもの、くつ、ソックスなど               | そく |
+   | へや、のりものなどのきごうに使う             |     |
+   | ほそながいもの、えんぴつ、かさ、びんなど      | ほん |
+   | 本、じしょ、ノートなどのもの                 | さつ |
+   | マンション、デパートなどのフロアーをかぞえる   | けん |
+   | 大きいどうぶつ、ぞう、うま、うしなど          | とう |
+   | たてもの、家のかぞえることば                 |     |
+   | クラス、じゅぎょう、レッスンのかぞえることば   |     |
+   | きかい、たとえば、車、ミキサー、ＰＣなど      | だい |
