@@ -2881,3 +2881,69 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.6 |       6 |         0 |  1951 |         9 |       3 |      72 |      |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+* 2025
+** January
+*** <2025-01-06 Mon>
+**** ToDo [17%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [8%]
+****** Daily practice [16%]
+       - [X] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [0%]
+       - [ ] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [50%]
+****** Weekly activities [50%]
+       - [ ] Oldschool gym
+       - [X] Group meditation
+***** Daily ToDos [0%]
+****** ToDos for the day [0%]
+       - [ ] Write Adam
+       - [ ] Translate daily routine sentences to japanese
+***** Misc ToDos [16%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [50%]
+       - [ ] Wash dishes
+       - [X] Wash clothes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3x2p)
+       foot correction, military push, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [1200kCal]
+     - babos rettenet 700kCal
+     - porrige 500kCal
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.6 |      12 |         0 |  4849 |         6 |       0 |      17 | 1200 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
