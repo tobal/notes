@@ -110,5 +110,13 @@
 *** Utazás a gripplik falujába
     - Van egy tapasztalt kapitány, Mitor Jans, aki szívesen elviszi őket a kikötőhöz
       a hajóján, a Kutyafülén.
+    - Tócsa Anyó
 *** Crab maze
-    - Szerzett xp: crab x25xp
+    - Szerzett xp: crab 10x25xp
+    - pureblood: 5x200xp
+*** Gripply village
+    - A falu ritkábban lakott, mint ahogy az emberi falvakban megszoktátok. Elszórtan
+      láttak kis, félgömb alakú kunyhókat, amiket a saras, lápos talaly fölött cölöpök
+      tartanak fent. Belül a kunyhókban nincs padló, a bútorozás a kunyhó faláról,
+      tetejéről függeszkedve van megoldva. Láttok nagyobb raktárakat is, ezeknek már van
+      cölöpökkel megemelt padlózata, hogy szárazon tartsák a tárolandókat.
