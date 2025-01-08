@@ -225,3 +225,39 @@
    | たてもの、家のかぞえることば                 |     |
    | クラス、じゅぎょう、レッスンのかぞえることば   |     |
    | きかい、たとえば、車、ミキサー、ＰＣなど      | だい |
+** Day 15 <2025-01-07 Tue>
+*** 
+   | １ | れんが   | ルビックキューブ | ドーナツ | 本        |
+   | ２ | インド   | ミャンマー       | ベトナム | モンゴリア |
+   | ３ | ミリ     | キロ            | トン     | メガトン  |
+   | ４ | つの     | えんとつ        | となかい | あごひげ  |
+   | ５ | しんぞう | はい            | かんぞう | い        |
+*** 
+   | せつめい      |
+   |--------------|
+   | １, ドーナツ   |
+   | ２, モンゴリア |
+   | ３, ミリ      |
+   | ４, えんとつ   |
+   | ５, い        |
+** Day 16 <2025-01-08 Wed>
+   | A szusit evőpálcikával eszik.                    |
+   | すしを はしで たべます。                            |
+   | Éles ollóval vágd a papírt.                      |
+   | するどい ハサミで かみを きってください。             |
+   | A teszten csak tollal szabad írni.               |
+   | テストに ペンだけで かけなさい。                     |
+   | Fűrésszel darabolom a tűzifát.                   |
+   | たきものを のこぎりで きざむ。                       |
+   | Ceruzával írtam, ki lehet radírozni.             |
+   | えんぴつで かきました、けすが できる。                |
+   | Kézi mixerrel alaposan keverjük össze.           |
+   | ミキサーで まぜください。                           |
+   | Rizsszedő lapáttal szedik a rizst a rizsfőzőből. |
+   | すはんきに rizsszedő lapátで ごはんを だします。     |
+   | Szappannal mos kezet.                            |
+   | すつけんで てを あらう。                            |
+   | Videójátékkal mulatja az időt.                   |
+   | ビデオゲムで あそびます。                           |
+   | Autóval jár dolgozni.                            |
+   | しごとに くるまで いきます。                         |
