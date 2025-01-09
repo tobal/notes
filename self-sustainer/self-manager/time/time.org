@@ -3014,3 +3014,71 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.7 |      14 |         0 |  3378 |         5 |       2 |      40 | 2220 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-08 Wed>
+**** ToDo [29%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [50%]
+****** Daily practice [33%]
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [66%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [50%]
+****** Weekly activities [50%]
+       - [ ] Oldschool training
+       - [X] Kenjutsu training
+***** Daily ToDos [33%]
+****** ToDos for the day [66%]
+       - [X] Write Adam
+       - [X] Write Kata
+       - [ ] Ugyfelkapu+
+****** Work [0%]
+       - [ ] Analytics notes
+       - [ ] Reserve room
+       - [ ] Bug help doc
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2350kCal]
+     - chinese food (2000kCal)
+     - chocolate (350kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 101.6 |      10 |      62.6 |  1657 |         7 |       6 |      29 | 2350 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
