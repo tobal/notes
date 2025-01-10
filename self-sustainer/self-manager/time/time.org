@@ -3082,3 +3082,78 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.6 |      10 |      62.6 |  1657 |         7 |       6 |      29 | 2350 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-09 Thu>
+**** ToDo [37%]
+***** Routines [20%]
+****** Morning routine [40%]
+       - [X] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [33%]
+****** Daily practice [33%]
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [33%]
+       - [ ] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Japanese class
+       - [X] English class
+       - [X] Orsi social (cinema)
+***** Daily ToDos [31%]
+****** ToDos for the day [0%]
+       - [ ] Ugyfelkapu+
+****** Work [62%]
+       - [X] Analytics notes
+       - [X] Conference meeting
+       - [ ] UX meeting
+       - [ ] Reserve room
+       - [X] Bug help doc
+       - [X] Administer time
+       - [X] Review
+       - [ ] Choose bug
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2190kCal]
+     - coffee (70kCal)
+     - babos rettenet (700kCal)
+     - cinema food (490+400kCal)
+     - sandwich (400kCal)
+     - ice cream (130kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 101.7 |       6 |         0 |  4741 |         6 |       2 |      37 | 2190 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
