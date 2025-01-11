@@ -3155,5 +3155,74 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 101.7 |       6 |         0 |  4741 |         6 |       2 |      37 | 2190 |
+     | 101.7 |      10 |         0 |  4741 |         6 |       2 |      37 | 2190 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-10 Fri>
+**** ToDo [17%]
+***** Routines [20%]
+****** Morning routine [40%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [33%]
+****** Daily practice [33%]
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [33%]
+       - [ ] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Daily ToDos [16%]
+****** ToDos for the day [0%]
+       - [ ] Ugyfelkapu+
+       - [ ] Parking for the year
+       - [ ] Pay debt
+       - [ ] Pay japanese
+       - [ ] Pay kenjutsu
+       - [ ] Pay Mom
+       - [ ] Pay english
+       - [ ] Pay oldschool
+****** Work [33%]
+       - [ ] Reserve room
+       - [ ] Put images into slides
+       - [X] Choose bug
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3200kCal]
+     - order (2500kCal)
+     - babos rettenet (700kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.0 |      12 |         0 |    13 |         9 |       2 |      17 | 3200 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
