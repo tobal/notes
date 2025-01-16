@@ -7,16 +7,16 @@
 * 日常ルーチンの例文（にちじょう れいぶん）
 ** 水
 *** コーヒー
-    | Ha reggel álmosan kelek, kávét készítek.                                                       |
-    | 朝 ねむいに 起きるのとき、コーヒーを 使います。                                                      |
-    | Teszek vizet a vízforralóba, és bekapcsolom.                                                   |
-    | 電気ポットに お水を 入れて、点けます。（つけます）                                                   |
-    | Közben egy csészébe kávéport, tejport és cukorpótlót rakok.                                    |
-    | そうこうしている内に カップに コーヒーパウダーや、ぎゅうにゅうパウダーや、ごうせいかんみりょうを 入れます。 |
-    | Felöntöm forró vízzel, és egy kiskanállal megkavarom.                                          |
-    | カップに 暑い お水を 入れて、スプーンで まぜます。                                                   |
-    | Megvárom amíg kihűl, mert nem szeretem forrón.                                                 |
-    | 暑いに 好きじゃないから、待ちます。                                                                 |
+    | Ha reggel álmosan kelek, kávét készítek.                               |
+    | あさ、ねむくて 目が さめたとき、コーヒーを入れる。                           |
+    | Teszek vizet a vízforralóba, és bekapcsolom.                           |
+    | あさ、ねむくて 目が さめたとき、コーヒーを入れる。                           |
+    | Közben egy csészébe kávéport, tejport és cukorpótlót rakok.            |
+    | そして、カップに インスタントコーヒー、 ミルクパウダーと かんみりょうを 入れる。 |
+    | Felöntöm forró vízzel, és egy kiskanállal megkavarom.                  |
+    | カップに おゆを 入れてから、よく まぜて 飲む。                               |
+    | Megvárom amíg kihűl, mert nem szeretem forrón.                         |
+    | ホットコーヒーが そんなに 好きじゃないので、ちょっと ひえてから 飲む。          |
 *** シロップ
     | Itthon általában szörpöt iszom.                                 |
     | Magában a vízet nem annyira szeretem.                           |
