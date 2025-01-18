@@ -3532,3 +3532,78 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.3 |      14 |         0 |    54 |         6 |       4 |      47 | 2700 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-17 Fri>
+**** ToDo [35%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [83%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [66%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Daily ToDos [20%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Pay debt
+       - [ ] Pay japanese
+       - [ ] Pay kenjutsu
+       - [ ] Pay Mom
+       - [ ] Pay english
+       - [ ] Pay oldschool
+       - [ ] Pay phone
+****** Work [40%]
+       - [ ] Reserve room
+       - [X] Ask about tests
+       - [ ] Fix tests
+       - [ ] Merge bugfix
+       - [X] Cafeteria
+***** Misc ToDos [25%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [50%]
+       - [ ] Wash dishes
+       - [X] Cook in advance
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2000kCal]
+     - eastern food (1500kCal)
+     - porrige (500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.0 |      12 |         0 |     7 |         6 |       2 |      35 | 2000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
