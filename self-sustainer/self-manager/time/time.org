@@ -40,9 +40,10 @@
     - [ ] Write blog about youtube comeback
 *** Ordering
 **** Virtual
-     - [X] Setup Emacs on CyberGamer
-     - [ ] Continuous upgrade of arch linux
-     - [ ] GPG key setup for email
+***** CyberGamer
+      - [X] Setup Emacs on CyberGamer
+***** Ono sendai
+      - [ ] Continuous upgrade of arch linux
 ***** Deneb
       - [ ] BASH shell setup
       - [ ] GPG key setup for email
@@ -83,11 +84,16 @@
       - [X] Setup cartographer
       - [X] Cartographer basics tutorial
       - [ ] Make butcher dungeon map
-**** The Price of Beauty
+**** Book of Cylinders
      - [X] Read module
-     - [ ] Make intro heist subplot
+     - [X] Make intro heist subplot
      - [ ] Make notes of module
-     - [ ] Make maps
+     - [X] Make maps
+**** MUSH
+     - [X] draw deep one
+     - [X] create objects fénykép, rajz
+     - [ ] push object texts to git
+     - [ ] mad cultist story arc
 *** Computer RPG
 *** Action RPG
 **** Diablo 4
@@ -99,7 +105,7 @@
 *** Real Time Strategy
 **** Age of Empires 4
 ***** Season 9
-****** TODO Learn Japanese FC with bannerman build order
+****** DONE Learn Japanese FC with bannerman build order
 ****** TODO Learn Japanese dark age rush build order
 ****** TODO Learn Japanese water build order
 ****** TODO Learn Rus 2 TC FC build order
@@ -117,7 +123,7 @@
 ***** Heroes 2
 ***** Heroes 3
 *** Go
-    - [ ] Copy and send tsumego mini videos to Peti
+    - [X] Copy and send tsumego mini videos to Peti
 ** Art
 *** Juggling
 **** Contact staff
@@ -139,17 +145,17 @@
 ***** DONE November
       - [X] Copy Mad World sheet
       - [X] Mad World chords intro
-***** TODO December
-      - [ ] Papp II 18 blatt
-      - [ ] Mad World 3b seperate hands
-      - [ ] Mad World chords new part
+***** DONE December
+      - [X] Papp II 18 blatt
+      - [X] Mad World 3b seperate hands
+      - [X] Mad World chords new part
 *** Reading books
 **** TODO Dune trilogy
 ***** TODO A Dűne
 ** Learning
 *** Japanese
 **** Class
-     - [ ] Japanese homework
+     - [X] Japanese homework
 **** Learn at home
 ***** Notes making
 ***** Reading
@@ -192,37 +198,39 @@
 *** Public
 **** Conference talk
 ***** TODO Give talk about analytics on Unite
-****** TODO Make slides
-       - [ ] Algorithms
-       - [ ] Baseline build
-       - [ ] How to evaluate
-       - [ ] User score
+****** DONE Make slides
+       - [X] Algorithms
+       - [X] Baseline build
+       - [X] How to evaluate
+       - [X] User score
 ****** TODO Register
-       - [ ] Talk about which days to go
-       - [ ] Send pic and bio
+       - [X] Talk about which days to go
+       - [X] Send pic and bio
        - [ ] Register to conf
        - [ ] Reserve hotel
 *** Friends
 **** Beci crew
-***** TODO Meet 2024 december with Béciék
-***** TODO Karmatörő with Adam
+***** FAILED Meet 2024 december with Béciék
+***** DONE Karmatörő with Adam
+***** TODO Board gaming with Adam
+***** TODO Visit Béciék 2025 spring
 **** Bsp crew
      - [X] Write to Imi
 **** Lili
-***** TODO Meet 2024 november
+***** DONE Meet 2024 november
 **** Árpi
-***** TODO Meet 2024 november
+***** DONE Meet 2024 november
 **** Ice
-     - [ ] Hackersuli Unity
-     - [ ] OWASP Meetup
+     - [X] Hackersuli Unity
+     - [X] OWASP Meetup
 **** Dávid
-     - [ ] Answer on messenger
+     - [X] Answer on messenger
 *** Family
 **** Name day
 ***** Mom nov 19
 *** Coaching
 **** Motivation coach
-     - [ ] Write perfect day plan
+     - [X] Write perfect day plan
 **** Psychologist
      - [ ] Write email to apply
 * Goals for the year 2025
