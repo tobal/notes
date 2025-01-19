@@ -5,6 +5,8 @@
   - look, examine: interact with objects
   - give <inventory object> = <target>
   - inventory
+  - create[/drop] <objname>
+  - desc <objname> = "description"
 
 * Examples
   - teleport Berge Birtok
