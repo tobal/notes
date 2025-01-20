@@ -3694,3 +3694,80 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.5 |      22 |      27.6 |  3953 |         7 |       8 |      46 | 4160 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-19 Sun>
+**** ToDo [22%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [0%]
+****** Daily practice [0%]
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [0%]
+       - [ ] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Social [100%]
+       - [X] Board games at Adam's
+***** Daily ToDos [0%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Pay debt
+       - [ ] Pay japanese
+       - [ ] Pay kenjutsu
+       - [ ] Pay Mom
+       - [ ] Pay english
+       - [ ] Pay oldschool
+       - [ ] Pay phone
+****** Work [0%]
+       - [ ] Reserve room
+       - [ ] Fix tests
+       - [ ] Merge bugfix
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Xanathar's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [1920kCal]
+     - Ádám food (1500kCal)
+     - sausage sandwich + tomato (210x2)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.9 |       8 |        45 | 15040 |         3 |       0 |      22 | 1920 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
