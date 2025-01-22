@@ -3852,3 +3852,81 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.1 |      11 |         0 |  2886 |         5 |       6 |      24 | 4250 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-21 Tue>
+**** ToDo [55%]
+***** Routines [50%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [68%]
+****** Daily practice [71%]
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [ ] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [66%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Japanese class
+       - [X] Coach
+       - [X] Tabletop RPG
+***** Daily ToDos [53%]
+****** ToDos for the day [50%]
+       - [ ] Parking for the year
+       - [X] Write to Béci
+****** Work [57%]
+       - [ ] Reserve room
+       - [ ] Fix tests
+       - [ ] Merge bugfix
+       - [X] Send link to doc team
+       - [X] Ask about integration
+       - [X] Sprint planning
+       - [X] Sprint demo
+***** Misc ToDos [5%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Xanathar's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [16%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [X] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2060kCal]
+     - gyros (1500kCal)
+     - porrige (500kCal)
+     - hell coffee (60kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.5 |      10 |         0 |  3197 |         8 |       2 |      55 | 2060 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
