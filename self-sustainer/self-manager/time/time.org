@@ -3930,3 +3930,86 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.5 |      10 |         0 |  3197 |         8 |       2 |      55 | 2060 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-22 Wed>
+**** ToDo [46%]
+***** Routines [30%]
+****** Morning routine [60%]
+       - [ ] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [52%]
+****** Daily practice [71%]
+       - [X] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [33%]
+       - [X] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Oldschool gym
+       - [X] Kenjutsu training
+***** Daily ToDos [48%]
+****** ToDos for the day [57%]
+       - [ ] Parking for the year
+       - [X] Write to Ilonka
+       - [X] Write to Eliza
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+       - [X] Find fukuro shinai video
+       - [X] Learn fukuro shinai succession
+****** Work [20%]
+       - [ ] Reserve room
+       - [X] Fix tests
+       - [ ] Implement doc team recommendations
+       - [ ] Push initial PR
+       - [ ] Merge bugfix
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy DM's guide
+       - [ ] Buy Xanathar's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [14p]
+     - [X] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3280kCal]
+     - coffee (70kCal)
+     - protein (100kCal)
+     - fried chicken + veggies (550kCal)
+     - rib + cabbage (330 + 30kCal)
+     - porrige (700kCal)
+     - fried chicken (1500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.5 |       6 |      63.2 |  3831 |         3 |      14 |      46 | 3280 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
