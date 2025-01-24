@@ -113,11 +113,21 @@
       a hajóján, a Kutyafülén.
 	- Tócsa Anyó
 *** Gripply village
-	- A falu ritkábban lakott, mint ahogy az emberi falvakban megszoktátok. Elszórtan
-	láttak kis, félgömb alakú kunyhókat, amiket a saras, lápos talaly fölött cölöpök
-	tartanak fent. Belül a kunyhókban nincs padló, a bútorozás a kunyhó faláról,
-	tetejéről függeszkedve van megoldva. Láttok nagyobb raktárakat is, ezeknek már van
-	cölöpökkel megemelt padlózata, hogy szárazon tartsák a tárolandókat.
+    - A falu ritkábban lakott, mint ahogy az emberi falvakban megszoktátok. Elszórtan
+      láttak kis, félgömb alakú kunyhókat, amiket a saras, lápos talaly fölött cölöpök
+      tartanak fent. Belül a kunyhókban nincs padló, a bútorozás a kunyhó faláról,
+      tetejéről függeszkedve van megoldva. Láttok nagyobb raktárakat is, ezeknek már van
+      cölöpökkel megemelt padlózata, hogy szárazon tartsák a tárolandókat.
+**** Tócsa Anyó kunyhója
+     - Kiszabadított yuan-tik: Kösszönjük, hogy kisszabadítottatok, nagyon hálásszak vagyunk.
+       Mi a békalények barátai vagyunk, néhány holdtöltével ezelőtt érkesztünk. Megengedték
+       nekünk, hogy a kösszelben lévő templomot feltárjuk. A templomot az ősszeink építették,
+       ész a Pikkelyes Anyának sszentelték.
+     - Békében éltünk egymás mellett, amíg meg nem érkessztek Sseth, a Szisszegő Halál hívei.
+       Napnyugtakor elhurcolták kettő társszunkat, hogy feláldosszzák az issztenüknek. Kérlek,
+       szegítsszetek rajtuk ha tudtok, talán még megakadályosszhatjátok a szertartászt. Ne
+       hagyjátok, hogy bemocckolják aszt a szent helyet.
+     - Maaz Vorsa
 *** XP
 **** Harc
      - crab: 10x25xp
@@ -126,9 +136,10 @@
      - to go: malison 2 (700), pureblood 4 (200), abomination 1 (2900)
      - Össz: 250+2600+2800+2900=8550
 **** Célok
-     - Ellopják a könyvet anélkül, hogy riasztanák a városőröket: 1500xp
-     - Végigmennek a crab maze-en riasztás nélkül: 5000xp
+     - Ellopják a könyvet anélkül, hogy riasztanák a városőröket: 2500xp
+     - Végigmennek a crab maze-en riasztás nélkül: 10000xp
      - Megmentenek legalább egy tojás medencét: 2500xp + 1000xp/medence
      - Kiszabadítják a yuan-tiket a Tócsa Anyó kunyhójában: 1500xp
      - Megmentik a yuan-tiket a rituálétól: 4000xp
-     - Össz: 1500+4500+1500+4000=11500
+     - Megölik az abominationt: 6000xp
+     - Össz: 2500+4500+1500+4000+6000=18500
