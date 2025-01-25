@@ -4088,3 +4088,80 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.9 |       9 |         0 |   639 |         7 |       0 |      37 | 3750 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-24 Fri>
+**** ToDo [36%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [75%]
+****** Daily practice [85%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [ ] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [66%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+***** Daily ToDos [11%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+****** Work [22%]
+       - [ ] Reserve room
+       - [ ] Implement doc team recommendations
+       - [ ] Ask about substitution
+       - [ ] Fix substitution
+       - [ ] Send to review
+       - [X] Merge bugfix
+       - [ ] Merge bugfix to LTS
+       - [X] Meeting with colleague
+       - [ ] Investigate user score
+***** Misc ToDos [50%]
+****** Not urgent [50%]
+       - [X] Buy DM's guide
+       - [X] Buy Xanathar's guide
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [100%]
+       - [X] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [5250kCal]
+     - fried chicken + veggies (550kCal)
+     - chinese food (800 + 1400kCal)
+     - porrige (500kCal)
+     - fried chicken (2000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.7 |      12 |         0 |  1057 |         9 |       0 |      36 | 5250 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
