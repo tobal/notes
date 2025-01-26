@@ -4165,3 +4165,80 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.7 |      12 |         0 |  1057 |         9 |       0 |      36 | 5250 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-25 Sat>
+**** ToDo [38%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [100%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [100%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [100%]
+       - [X] Age of Empires 4
+       - [X] Assetto Corsa
+***** Daily ToDos [10%]
+****** ToDos for the day [20%]
+       - [ ] Parking for the year
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+       - [X] Write to paper coffee japanese sentences
+       - [ ] Translate sirup japanese sentences
+****** Work [0%]
+       - [ ] Reserve room
+       - [ ] Implement doc team recommendations
+       - [ ] Ask about substitution
+       - [ ] Fix substitution
+       - [ ] Send to review
+       - [ ] Merge bugfix to LTS
+       - [ ] Investigate user score
+***** Misc ToDos [33%]
+****** Not urgent [0%]
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [100%]
+       - [X] Wash dishes
+       - [X] Groceries
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2500kCal]
+     - ordered hamburger + fries (2500kCal)
+     - sandwich (400kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.2 |      10 |         0 |  1048 |         5 |       0 |      38 | 2500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
