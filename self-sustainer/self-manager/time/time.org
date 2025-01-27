@@ -68,27 +68,39 @@
 **** Teeth
 ** Games
 *** Tabletop RPG
-**** Fergetegliget
-     - [ ] Make Tyndros map
-     - [ ] Make crossing the mountain pass subplot
-     - [ ] Make Elves of the Air subplot, Finger tower dungeon
-**** The Butcher oneshot
-***** TODO Make module
-      - [ ] Write flavour texts for butcher
-      - [ ] Research butcher lore
-      - [ ] Make characters for butcher
-***** TODO Learn Avrae map alias
-      - [ ] Research avrae map alias, make notes
-***** TODO Dungeon map
-      - [X] Download cartographer
-      - [X] Setup cartographer
-      - [X] Cartographer basics tutorial
-      - [ ] Make butcher dungeon map
-**** Book of Cylinders
-     - [X] Read module
-     - [X] Make intro heist subplot
-     - [ ] Make notes of module
-     - [X] Make maps
+**** DnD adventures
+***** Fergetegliget
+      - [ ] Make Tyndros map
+      - [ ] Make crossing the mountain pass subplot
+      - [ ] Make Elves of the Air subplot, Finger tower dungeon
+***** The Butcher oneshot
+****** TODO Make module
+       - [ ] Write flavour texts for butcher
+       - [ ] Research butcher lore
+       - [ ] Make characters for butcher
+****** TODO Learn Avrae map alias
+       - [ ] Research avrae map alias, make notes
+****** TODO Dungeon map
+       - [X] Download cartographer
+       - [X] Setup cartographer
+       - [X] Cartographer basics tutorial
+       - [ ] Make butcher dungeon map
+***** Book of Cylinders
+      - [X] Read module
+      - [X] Make intro heist subplot
+      - [ ] Make notes of module
+      - [X] Make maps
+**** DnD characters
+***** Ronin
+      - [X] Make build
+      - [ ] Write backstory
+      - [ ] Write NPCs
+	- [ ] Childhood friend (thiefling thief)
+	- [ ] Cleric of Mystra (human teacher)
+	- [ ] Wizard master (half-elf harper)
+	- [ ] Artificer friend (gnome battle smith)
+	- [ ] Arcane shop contact (human wizard merchant)
+	- [ ] Pelk (dragonborn member of the Avowed)
 **** MUSH
      - [X] draw deep one
      - [X] create objects fénykép, rajz
