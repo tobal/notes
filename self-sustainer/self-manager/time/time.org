@@ -4339,4 +4339,90 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.7 |      14 |         0 |    20 |         7 |       4 |      32 | 3100 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-
+*** <2025-01-27 Mon>
+**** ToDo [37%]
+***** Routines [20%]
+****** Morning routine [40%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [100%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [100%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [100%]
+       - [X] Age of Empires 4
+       - [X] Assetto Corsa
+       - [X] Upload videos
+***** Outside activities [50%]
+****** Weekly activities [50%]
+       - [ ] Oldschool gym
+       - [X] Group meditation
+***** Daily ToDos [13%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+       - [ ] Translate sirup japanese sentences
+       - [ ] Practice koryu
+       - [ ] Practice fukuro shinai
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+****** Work [25%]
+       - [ ] Reserve room
+       - [ ] Implement doc team recommendations
+       - [X] Ask about substitution
+       - [ ] Fix substitution
+       - [ ] Send to review
+       - [ ] Merge bugfix to LTS
+       - [ ] Investigate user score
+       - [X] VPAT meeting
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [ ] Write Ronin backstory
+       - [ ] Write NPCs for Ronin (Pelk, artificer, shopkeeper)
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [5500kCal]
+     - chinese food (1500 + 1500kCal)
+     - burger king (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 103.9 |      13 |         0 |  5926 |         6 |       0 |      37 | 5500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
