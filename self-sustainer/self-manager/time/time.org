@@ -4426,3 +4426,91 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 103.9 |      13 |         0 |  5926 |         6 |       0 |      37 | 5500 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-28 Tue>
+**** ToDo [51%]
+***** Routines [40%]
+****** Morning routine [80%]
+       - [X] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [100%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [100%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [100%]
+       - [X] Age of Empires 4
+       - [X] Assetto Corsa
+       - [X] Upload videos
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Japanese class
+       - [X] Tabletop RPG
+***** Daily ToDos [0%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+       - [ ] Translate sirup japanese sentences
+       - [ ] Practice koryu
+       - [ ] Practice fukuro shinai
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+****** Work [0%]
+       - [ ] Reserve room
+       - [ ] Implement doc team recommendations
+       - [ ] Fix substitution
+       - [ ] Send to review
+       - [ ] Merge bugfix to LTS
+       - [ ] Investigate user score
+       - [ ] Review for guild
+***** Misc ToDos [15%]
+****** Not urgent [0%]
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [45%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Book of Cylinders module notes
+       - [ ] Make Tyndros map
+       - [X] Write Ronin backstory
+       - [X] Write Ronin appearance
+       - [X] Write NPCs for Ronin (Pelk, artificer, shopkeeper)
+       - [X] Make artificer build
+       - [X] Baldur's Gate map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [2800kCal]
+     - gyros (1000 + 1800kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.4 |      12 |         0 |   542 |         5 |       2 |      51 | 2800 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
