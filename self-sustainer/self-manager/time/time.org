@@ -4685,3 +4685,88 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.2 |      10 |         0 |    34 |         7 |       0 |      28 | 3800 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-01-31 Fri>
+**** ToDo [17%]
+***** Routines [10%]
+****** Morning routine [20%]
+       - [ ] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [11%]
+****** Daily practice [0%]
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [33%]
+       - [ ] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [0%]
+       - [ ] Age of Empires 4
+       - [ ] Assetto Corsa
+       - [ ] Upload videos
+***** Outside activities [50%]
+****** Weekly activities [0%]
+       - [ ] Oldschool gym
+****** Monthly activities [100%]
+       - [X] IDM party
+***** Daily ToDos [16%]
+****** ToDos for the day [0%]
+       - [ ] Parking for the year
+       - [ ] Print cafeteria
+       - [ ] Send cafeteria
+       - [ ] Practice koryu
+       - [ ] Practice fukuro shinai
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+****** Work [33%]
+       - [ ] Reserve room
+       - [ ] Fix visual tests
+       - [ ] Send to review
+       - [ ] Investigate user score
+       - [X] Review for guild
+       - [X] Demo prepare meeting
+***** Misc ToDos [0%]
+****** Not urgent [0%]
+       - [ ] Buy Monster Hunter Wilds
+       - [ ] Investigate training hall rent
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: dark secret
+       - [ ] MUSH: item curses
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3300kCal]
+     - rib + pickles (800kCal)
+     - porrige (500kCal)
+     - chinese food (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.3 |       6 |         0 |  8677 |         5 |       0 |      17 | 3300 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
