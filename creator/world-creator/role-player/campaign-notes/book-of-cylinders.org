@@ -47,12 +47,12 @@
       kapuját. Három magas, lila köntösbe öltözött, marcona képű ember áll őrt.
     - Mécsesvár falai közé csak meghívára léphetnek be látogatók, vagy egy, a
       könyvtárunk számára hasznos felajánlásért cserébe.
-    - A kapun belépve a Levegő Udvara fogad titeket, ami egy különálló, fallal
+    - A kapun belépve a Levegő Udvara fogadja az utazót, ami egy különálló, fallal
       körülvett városrész, teljesen leválasztva a sokkal hatalmasabb könyvtár
       épületétől. A könyvtárba a Smaragd Kapun át léphetnek be az arra érdemesek,
       ezen kívül a téren található egy kovács, istállóval, A Pihenés háza, Oghma
       temploma, a Kandalló fogadó, a Könyvkötők háza, ruhaművesek műhelyei,
-      és Pedagógia Oszlopai, az északi fal mentén.
+      és a Pedagógia Oszlopai, az északi fal mentén.
 **** Kovács, istálló
     - Kalapács Khe'ril felel érte, egy arany törpe veterán,
       aki a hely patkókovácsa. Az istállóban a lovakon kívül egyéb hátasoknak is
@@ -63,8 +63,8 @@
       vannak, a ház pedig kezeskedik a csendért és a nyugalomért.
       50 ember befogadására képes, és innen nyílik a könyvtár épülete, a Firefly
       Cellar (Szentjános Pince).
-**** Kovács, istálló
-    - Oghma templom: A kicsike templom tetejéről 4 vízköpő néz le, akik kőgólemekként
+**** Oghma templom
+    - A kicsike templom tetejéről 4 vízköpő néz le, akik kőgólemekként
       megvédik a templomot. A helyi pap Lorekeeper Kei Tigersteel (Tigrisacél Kei, a
       tanok őre), aki shou származású, ezért sárgás-bronz színű bőre van, fekete haja,
       és széles, lapos vonásai.
@@ -131,14 +131,15 @@
 *** XP
 **** Harc
      - crab: 10x25xp
-     - pureblood: 9x200xp
+     - pureblood: 13x200xp
      - malison: 2x700
-     - to go: malison 2 (700), pureblood 4 (200), abomination 1 (2900)
+     - to go: malison 2 (700), abomination 1 (2900)
      - Össz: 250+2600+2800+2900=8550
 **** Célok
      - Ellopják a könyvet anélkül, hogy riasztanák a városőröket: 2500xp
      - Végigmennek a crab maze-en riasztás nélkül: 10000xp
      - Megmentenek legalább egy tojás medencét: 2500xp + 1000xp/medence
+     - Az összes tojás medencét megmentették: 8000xp
      - Kiszabadítják a yuan-tiket a Tócsa Anyó kunyhójában: 1500xp
      - Megmentik a yuan-tiket a rituálétól: 4000xp
      - Megölik az abominationt: 6000xp
