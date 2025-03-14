@@ -8,9 +8,9 @@
 ** 水
 *** コーヒー
     | Ha reggel álmosan kelek, kávét készítek.                               |
-    | あさ、ねむくて 目が さめたとき、コーヒーを入れる。                           |
+    | あさ、ねむくて 目が さまたとき、コーヒーを入れる。                           |
     | Teszek vizet a vízforralóba, és bekapcsolom.                           |
-    | あさ、ねむくて 目が さめたとき、コーヒーを入れる。                           |
+    | やかんに 水を いれて、スイッチを おす。                                     |
     | Közben egy csészébe kávéport, tejport és cukorpótlót rakok.            |
     | そして、カップに インスタントコーヒー、 ミルクパウダーと かんみりょうを 入れる。 |
     | Felöntöm forró vízzel, és egy kiskanállal megkavarom.                  |
@@ -19,12 +19,19 @@
     | ホットコーヒーが そんなに 好きじゃないので、ちょっと ひえてから 飲む。          |
 *** シロップ
     | Itthon általában szörpöt iszom.                                 |
+    | うちにいるとき、シロップを 飲みます。                                |
     | Magában a vízet nem annyira szeretem.                           |
+    | ただの水は あまり 好きじゃない。                                    |
     | Édesítős szörpöt használok.                                     |
+    | かんみりょうを入れて 飲みます。                                     |
     | Nem egészséges, de nagyon kevés kalória.                        |
+    | 体に そんなに よくないけど、カロリーが ひくいです。                   |
     | Egy nagy üvegbe egy kis szörpöt öntök, aztán teletöltöm vízzel. |
+    | 大きいポットに 少しシロップを 入れて、いっぱいの水を そそぎます。       |
     | Aztán berakom a hűtőbe, hogy hideg legyen.                      |
+    | それから、冷蔵庫に 入れて ひやしておきます。                          |
     | Csak hidegen szeretem meginni.                                  |
+    | ひやしたままだけ 飲めます。                                         |
 * 辞書（じしょ）
 ** 名詞（めいし）
    | みず             | 水   | víz      |
