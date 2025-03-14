@@ -66,6 +66,16 @@
 ***** Micro training
 **** Eyes
 **** Teeth
+*** Gamification
+**** Skill
+     - Physical health -> Vitality
+     - Mental health -> Spirit
+     - Personal development -> Insight
+     - Home environment -> Stewardship
+     - Financial health -> Prosperity
+     - Social connection -> Charisma
+     - Fun & leasure -> Gaiety
+     - Get shit done -> Initiative
 ** Games
 *** Tabletop RPG
 **** DnD adventures
