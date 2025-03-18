@@ -5808,5 +5808,92 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 102.8 |       6 |       441 |  1691 |         4 |       0 |      40 | 2900 |
+     | 102.8 |      12 |       441 |  1691 |         4 |       0 |      40 | 2900 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-17 Mon>
+**** ToDo [44%]
+***** Routines [50%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [100%]
+****** Daily practice [100%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [100%]
+       - [X] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [100%]
+       - [X] Age of Empires 4
+       - [X] Assetto Corsa
+       - [X] Monster Hunter World
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+****** Weekly activities [50%]
+       - [X] Oldschool gym
+       - [ ] Group meditation
+***** Daily ToDos [22%]
+****** ToDos for the day [0%]
+       - [ ] Buy brown belt
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [66%]
+       - [X] Daily
+       - [X] Speak with colleague
+       - [X] Cleanup service error
+       - [X] Dep update
+       - [X] Manage conference travel
+       - [X] Manage conference hotel
+       - [ ] Edit speech recording
+       - [ ] Make screenshots of slides
+       - [ ] Edit video
+***** Misc ToDos [0%]
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [6p]
+     - [X] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [6200kCal]
+     - burrito spagetti (1500kCal)
+     - meetballs + tomato (400kCal)
+     - order in (2500kCal)
+     - cake (1800kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.6 |      10 |         0 |  1573 |         6 |       6 |      44 | 6200 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
