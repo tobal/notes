@@ -5897,3 +5897,91 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.6 |      10 |         0 |  1573 |         6 |       6 |      44 | 6200 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-18 Tue>
+**** ToDo [45%]
+***** Routines [30%]
+****** Morning routine [60%]
+       - [X] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [28%]
+****** Daily practice [50%]
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] ARPG practice
+       - [X] Kenjutsu slashes and steps
+       - [X] Tsumego
+       - [X] Japanese reading practice
+       - [X] Kanji writing practice
+****** Daily grind [33%]
+       - [X] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+****** Daily videos [0%]
+       - [ ] Age of Empires 4
+       - [ ] Assetto Corsa
+       - [ ] Monster Hunter World
+       - [ ] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Japanese class
+       - [X] Coach
+       - [X] Orsi social
+       - [X] Tabletop RPG
+***** Daily ToDos [66%]
+****** ToDos for the day [0%]
+       - [ ] Buy brown belt
+       - [ ] Print japanese cards
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [100%]
+       - [X] Cook
+       - [X] No unnecessary spending
+****** Work [100%]
+       - [X] Daily
+       - [X] Sprint start
+       - [X] Demo
+       - [X] Cleanup service error
+       - [X] Edit speech recording
+       - [X] Make screenshots of slides
+       - [X] Edit video
+       - [X] Write Ági
+       - [X] Upload video
+***** Misc ToDos [0%]
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [1100kCal]
+     - porrige (500kCal)
+     - pork + pickles (600kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.4 |      10 |         0 |  5392 |         6 |       2 |      45 | 1100 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
