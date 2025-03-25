@@ -6233,3 +6233,46 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.9 |      10 |      15.6 |  6326 |         9 |       0 |      46 | 3000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-24 Mon>
+**** ToDo [%]
+***** ToDos for the day [61%]
+      - [X] Send leave app form
+      - [X] Print boarding pass
+      - [X] Ask Ági
+      - [X] Send signed datasheet
+      - [X] Investigate hotel address
+      - [X] Investigate transportation
+      - [X] Write Misi
+      - [X] Write Ákos
+      - [ ] See online docs
+      - [ ] Install Mudlet
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - gyros (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      12 |         0 |  3632 |         7 |       0 |      61 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
