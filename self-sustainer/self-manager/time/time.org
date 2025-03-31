@@ -6313,3 +6313,184 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 105.5 |       6 |         0 | 12421 |         3 |       0 |      28 | 3500 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-26 Wed>
+**** ToDo [28%]
+***** ToDos for the day [28%]
+      - [X] Unite conf: PAM track
+      - [X] See can shop
+      - [ ] Install Mudlet
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+      - [ ] See online docs
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - other (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |       4 |         0 |  8468 |         6 |       0 |      28 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-27 Thu>
+**** ToDo [28%]
+***** ToDos for the day [28%]
+      - [X] Unite conf
+      - [X] See Prague
+      - [ ] Install Mudlet
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+      - [ ] See online docs
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - other (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |       4 |         0 | 23527 |         7 |       0 |      28 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-28 Fri>
+**** ToDo [28%]
+***** ToDos for the day [28%]
+      - [X] Unite conf: do presentation
+      - [X] Fly home
+      - [ ] Install Mudlet
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+      - [ ] See online docs
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - other (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 | 11644 |         7 |       0 |      28 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-29 Sat>
+**** ToDo [33%]
+***** ToDos for the day [33%]
+      - [X] Kenjutsu presentation @Füvészkert Sakura ünnep
+      - [X] Orsi social
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+      - [ ] See online docs
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - other (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |       8 |         0 | 10608 |         7 |       6 |      33 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-03-30 Sun>
+**** ToDo [0%]
+***** ToDos for the day [20%]
+      - [ ] Debug IDUKA
+      - [ ] Ask for VR rooting and send
+      - [ ] MUSH: dark secret
+      - [ ] See online docs
+***** Debt
+      - landlord (250k)
+      - japanese (70k)
+      - fine (22+15+??)
+      - credit (100k)
+      - grow (15k)
+      - kenjutsu (30k)
+      - coach (5k)
+      - phone (5k)
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - other (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |     0 |         8 |       0 |       0 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
