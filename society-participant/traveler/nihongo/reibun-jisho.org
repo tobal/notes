@@ -34,14 +34,70 @@
     | ひやしたままだけ 飲めます。                                         |
 * 辞書（じしょ）
 ** 名詞（めいし）
-   | みず             | 水   | víz      |
+   | みず             | 水   | víz                  |
    | おみず           | お水 | víz (amit megiszunk) |
-   | ミネラルウォーター |     | ásványvíz   |
-   | すいぶん         | 水分 | víztartalom |
-   | じょうき         | 蒸気    | gőz         |
-   | こおり           | 氷   | jég       |
+   | ミネラルウォーター |     | ásványvíz            |
+   | すいぶん         | 水分 | víztartalom          |
+   | じょうき         | 蒸気 | gőz                  |
+   | こおり           | 氷   | jég                  |
 * 文法（ぶんぽう）
 ** Ható alak
    | G1 | u ＞＞ e +る    |
    | G２ | られる          |
    | G３ | できる、こられる |
+* 会話（かいわ）
+** １ー２ くうこうで
+   | M | あのう、すみません。パスポート、おちましたよ。 |
+   |   | Elnézést, elejtette az útlevelét.        |
+   | L | えっ？どうもありがとうございました。          |
+   |   | Ó... nagyon köszönöm!                    |
+   | M | どういたしまして。                          |
+   |   | Nem tesz semmit.                         |
+** ３ くうこうで
+   | L | あのう、ぼくはLeoです。お名前は？   |
+   |   | Izé, én Leo vagyok. A te neved? |
+   | M | Okada Mikaです。どうぞよろしく。   |
+   |   | Okada Mika vagyok, örvendek.    |
+   | L | こちらこそ。よろしく。             |
+   |   | Örvendek.                       |
+** ４ くうこうで
+   | M | 私は、これからリムジンバスに のるんだけど、Leoは？         |
+   |   | Én itt felszállok a limuzinbuszra... Te?             |
+   | L | どうしよう？ぼく、日本は はじめてなんです。                |
+   |   | Mit kellene tennem? Én most vagyok először Japánban. |
+   | M | じゃあ、いっしょに来る？                                |
+   |   | Menjünk együtt?                                      |
+   | L | どうもありがとう。                                      |
+   |   | Köszönöm.                                            |
+** ５ バスの中で
+   | M | やっと、東京ね・・・。            |
+   |   | Ez a Tokio...                  |
+   | L | すごい！たてもので いっぱいですね。 |
+   |   | Szuper! Mindenfelé épületek.   |
+   | M | 本当にそうね。                   |
+   |   | Tényleg úgy látszik.           |
+** ６ バスの中で
+   | L | あの、Mikaさん。おすまいは どちら ですか。 |
+   |   | Mika, te hol laksz?                   |
+   | M | わたし？わたしは しぶや。Leoは？          |
+   |   | Én? Shibuyában... és te?              |
+   | L | ぼくはね、このじゅうしょのところです。     |
+   |   | Én ezen a címen lakom.                |
+** ７ー８ しんじゅく駅で
+   | M | ここで、おわかれね。                         |
+   |   | Itt különválnak útjaink.                  |
+   | L | Mikaさん、れんらくさきを おしえてくれませんか。 |
+   |   | Mika, elkérhetem az elérhetőséged?        |
+   | M | いいわよ。ここに書くわね。                    |
+   |   | Persze, leírom ide.                       |
+   | L | おねがいします。                            |
+   |   | Kérem szépen.                             |
+** ９ しんじゅく駅で
+   | M | もし、何かあったら、れんらくしてね。 |
+   |   | Ha bármi történne, értesíts.    |
+   | L | ありがとうございます。             |
+   |   | Köszönöm.                       |
+   | M | それじゃ、また。                  |
+   |   | Akkor, viszlát.                 |
+   | L | さようなら。                      |
+   |   | Viszlát örökre.                 |
