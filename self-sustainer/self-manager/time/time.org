@@ -6575,3 +6575,88 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 106.7 |      10 |         0 |    25 |         9 |       0 |      23 | 3000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+** April
+*** <2025-04-01 Tue>
+**** ToDo [45%]
+***** Routines [20%]
+****** Morning routine [40%]
+       - [X] Make bed
+       - [ ] Warmup
+       - [X] Commit org
+       - [ ] Check deneb
+       - [ ] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [65%]
+****** Daily practice [50%]
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [66%]
+       - [ ] Japanese daily challenge
+       - [X] Practice Bannerman FC build
+       - [X] Grind Monster Hunter World
+****** Daily videos [80%]
+       - [X] Age of Empires 4
+       - [X] Assetto Corsa
+       - [X] Monster Hunter World
+       - [ ] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Japanese class
+       - [X] Online TTRPG
+***** Daily ToDos [42%]
+****** ToDos for the day [42%]
+       - [X] Administer bank account
+       - [X] Write Betti
+       - [X] Write Peti
+       - [ ] Pay debts
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [83%]
+       - [X] Daily
+       - [X] Sprint planning
+       - [X] All hands
+       - [X] Cleanup service error
+       - [ ] VPAT
+       - [X] Administer sick leave
+***** Misc ToDos [0%]
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [3500kCal]
+     - order in (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.7 |      12 |         0 |  3420 |         7 |       0 |      45 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
