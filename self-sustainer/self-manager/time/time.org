@@ -6750,3 +6750,84 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 105.2 |      12 |      63.4 |  3384 |         3 |       6 |      26 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-03 Thu>
+**** ToDo [37%]
+***** Routines [50%]
+****** Morning routine [100%]
+       - [X] Make bed
+       - [X] Warmup
+       - [X] Commit org
+       - [X] Check deneb
+       - [X] Meditation
+****** Evening routine [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+***** Daily activities [7%]
+****** Daily practice [0%]
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] ARPG practice
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Tsumego
+       - [ ] Japanese reading practice
+       - [ ] Kanji writing practice
+****** Daily grind [0%]
+       - [ ] Japanese daily challenge
+       - [ ] Practice Bannerman FC build
+       - [ ] Grind Monster Hunter World
+****** Daily videos [20%]
+       - [ ] Age of Empires 4
+       - [ ] Assetto Corsa
+       - [ ] Monster Hunter World
+       - [ ] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+****** Weekly activities [100%]
+       - [X] Office day
+       - [X] English class
+       - [X] Orsi social
+***** Daily ToDos [27%]
+****** ToDos for the day [0%]
+       - [ ] Check online docs
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [80%]
+       - [X] Daily
+       - [X] Review meeting
+       - [X] Send invoices
+       - [X] Bring invoices
+       - [ ] VPAT
+***** Misc ToDos [0%]
+****** Personal projects [0%]
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+****** Maintenance [0%]
+       - [ ] Wash dishes
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [4000kCal]
+     - order in (4000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.7 |       6 |      14.2 |  6396 |         6 |       0 |      37 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
