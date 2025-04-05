@@ -63,3 +63,19 @@
      - research double broad axe
      - send 5v from food for one round of stone, then wood
      - buy stone, then when enough wood, send villagers for 2nd TC
+** Japanese
+*** Season 9
+**** Fast castle with Bannerman
+     - 3 vills to sheep, rally to sheep
+     - 2 vills to stone
+     - 1 vil to gold
+     - build house on berries with food vil, leave it there
+     - age up with 4 vills (Kura Storehouse), send 3 from sheep to straggler trees
+     - when enough stone (175), research daimyo manor, send 2 vills from stone to wood
+     - age up vills go to gold (5 total)
+     - after age up, build stable, build bannerman, go to harrass
+     - build tower on gold
+     - cut all 3 stragglers (450 wood), then go back to sheep
+     - when 11-12 on sheep, rally to gold
+     - age up with 8-10 vills (Floating Gate), yorishiros into stable, 2 forges, town center
+     - after age up, get relics, build mounted samurai, then yumi archers
