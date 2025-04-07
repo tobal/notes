@@ -63,6 +63,25 @@
      - research double broad axe
      - send 5v from food for one round of stone, then wood
      - buy stone, then when enough wood, send villagers for 2nd TC
+*** Season 10
+    Guides I used:
+    [[https://www.youtube.com/watch?v=a_vx9ko5BCw][Rus basic 3 build orders]]
+**** Aggression
+     [[https://aoe4guides.com/builds/uCjaLGoJuMalZQY6wKsX][aoe4guides]]
+     - 5 to wood, 1 build hunting cabin
+     - gather 50 wood, 1st vill build hunting cabin and house
+     - rally to sheep
+     - age up with 4 sheep vills
+     - leave 6 on sheep, rally to wood until 8, build lumber camp
+     - 4 age up vills build stable, house, then go on gold
+     - build 3 knights
+     - rally to food until 11
+     - build archery range
+     - sell food, research double broadax and wheelbarrow
+     - rally to wood, build archery ranges until 3
+     - build blacksmith, then barracks
+**** 2 TC
+**** Fast castle
 ** Japanese
 *** Season 9
 **** Fast castle with Bannerman
