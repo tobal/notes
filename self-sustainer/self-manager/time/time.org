@@ -6975,3 +6975,79 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 106.2 |      12 |         0 |   311 |         7 |       0 |      14 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-06 Sun>
+**** ToDo [66%]
+***** Routine [100%]
+****** Morning [100%]
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [X] Warmup
+       - [X] Commit org
+****** Evening [100%]
+       - [X] Wash dishes
+       - [X] Bathroom
+       - [X] Reading
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Current ToDos [32%]
+****** ToDos for the day [63%]
+       - [ ] Check online docs
+       - [X] Move trash
+       - [X] Write post for youtube
+       - [X] Double play: AoE4
+       - [X] Double play: MHW
+       - [X] Double play: F1 2019
+       - [X] Wash dishes
+       - [X] Take notes on Rus build orders
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] VPAT
+       - [ ] Review for guild
+       - [ ] Code of conduct
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+**** Workout [4p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [X] 2x10
+       - [ ] 3x10
+**** Food [4000kCal]
+     - order in (4000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 106.1 |      12 |         0 |    82 |         6 |       4 |      66 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
