@@ -7051,3 +7051,86 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 106.1 |      12 |         0 |    82 |         6 |       4 |      66 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-07 Mon>
+**** ToDo [59%]
+***** Routine [68%]
+****** Morning [100%]
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [X] Warmup
+       - [X] Commit org
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [72%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+      - [X] Oldschool gym
+      - [ ] Group meditation
+***** Current ToDos [58%]
+****** ToDos for the day [25%]
+       - [X] Research wizard 4th level spells, take notes
+       - [X] Groceries
+       - [ ] Call eye doctor
+       - [ ] Call house representative
+       - [ ] Check online docs
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [50%]
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [100%]
+       - [X] Daily
+       - [X] VPAT
+       - [X] Review for guild
+       - [X] Code of conduct
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+**** Workout [6p]
+     - [X] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [4000kCal]
+     - coffee (70kCal)
+     - protein (100kCal)
+     - hot dogs (500kCal)
+       - virsli (2db 350kCal)
+       - bread (3 slice, 3x50kCal)
+       - mustard
+     - order in (3000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.4 |       6 |         0 |  2869 |         5 |       6 |      59 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
