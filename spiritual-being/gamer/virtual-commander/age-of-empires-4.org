@@ -98,3 +98,17 @@
      - when 11-12 on sheep, rally to gold
      - age up with 8-10 vills (Floating Gate), yorishiros into stable, 2 forges, town center
      - after age up, get relics, build mounted samurai, then yumi archers
+** Knights Templar
+*** Season 10
+    Guide I used:
+    [[https://www.youtube.com/watch?v=YLYSQa2m4RE][Simple Build Order Guide for Knights Templars]]
+**** Aggression
+     - 6 to sheep
+     - 1st to come out build house and mining camp, 1 from food go on gold
+     - rally to food
+     - when 11 on food, 2 on gold, age up with Kingdom of France
+     - put 5 wood, 8 food right after, rally on food
+     - after age up, research safe passage, then queue 2 villagers, rally them to food
+     - research sanctuary, put 8 on wood, rally to food
+     - build production, stable, then archery range
+** House of Lancaster
