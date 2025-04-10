@@ -1,0 +1,49 @@
+* Arcane spells
+  [[https://www.youtube.com/playlist?list=PLAmVMMzG6qEpbGUBZeI-HFBPABJyRY1Kx][Arcane Spell Guide]]
+  |-------+-------------------------------+------|
+  | Level | Name                          | Tier |
+  |-------+-------------------------------+------|
+  |     1 | Blindness                     | S    |
+  |     1 | Find Familiar                 | S    |
+  |     1 | Magic Missile                 | S    |
+  |     1 | Shield                        | S    |
+  |     1 | Sleep                         | S    |
+  |     1 | Friends                       | A    |
+  |     1 | Identify                      | A    |
+  |     1 | Protection From Petrification | A    |
+  |     1 | Spook                         | A    |
+  |     1 | Charm Person                  | B    |
+  |     1 | Grease                        | B    |
+  |     1 | Larloch's Minor Drain         | B    |
+  |     1 | Armor                         | C    |
+  |     1 | Burning Hands                 | C    |
+  |     1 | Chromatic Orb                 | C    |
+  |     1 | Color Spray                   | C    |
+  |     1 | Protection From Evil          | C    |
+  |     1 | Reflected Image               | C    |
+  |     1 | Chill Touch                   | Rp   |
+  |     1 | Infravision                   | Rp   |
+  |     1 | Shocking Grasp                | Rp   |
+  |-------+-------------------------------+------|
+  |     2 | Blur                          | S    |
+  |     2 | Mirror Image                  | S    |
+  |     2 | Web                           | S    |
+  |     2 | Detect Invisibility           | A    |
+  |     2 | Glitterdust                   | A    |
+  |     2 | Invisibility                  | A    |
+  |     2 | Resist Fear                   | A    |
+  |     2 | Strength                      | A    |
+  |     2 | Vocalize                      | A    |
+  |     2 | Horror                        | B    |
+  |     2 | Melf's Acid Arrow             | B    |
+  |     2 | Ray of Enfeeblement           | B    |
+  |     2 | Agannazar's Scorcher          | C    |
+  |     2 | Deafness                      | C    |
+  |     2 | Knock                         | C    |
+  |     2 | Power Word: Sleep             | C    |
+  |     2 | Stinking Cloud                | C    |
+  |     2 | Detect Evil                   | Rp   |
+  |     2 | Ghoul Touch                   | Rp   |
+  |     2 | Know Alignment                | Rp   |
+  |     2 | Luck                          | Rp   |
+  |-------+-------------------------------+------|
