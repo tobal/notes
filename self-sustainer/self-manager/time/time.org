@@ -7291,3 +7291,240 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 105.0 |       6 |         0 |    50 |         8 |       0 |      32 | 5000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-10 Thu>
+**** ToDo [40%]
+***** Routine [44%]
+****** Morning [60%]
+       - [ ] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [ ] Warmup
+       - [X] Commit org
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [18%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [ ] ARPG practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+      - [X] Bring dunasol
+      - [ ] Orsi social
+***** Current ToDos [33%]
+****** ToDos for the day [20%]
+       - [ ] Check online docs
+       - [ ] Call eye doctor
+       - [ ] Call house representative
+       - [X] Take notes on AoE4 templar build order
+       - [ ] Take notes on AoE4 lancaster build order
+       - [X] Take notes on BG arcane spells
+       - [ ] Take notes on MHW long sword build order
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [50%]
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [33%]
+       - [X] Daily
+       - [ ] VPAT
+       - [ ] Administer leave on friday
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG weapons
+       - [ ] Take notes on BG armor
+       - [ ] Take notes on BG npcs
+       - [ ] Take notes on BG2 npcs
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [5000kCal]
+     - order in (5000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.0 |       6 |      78.8 |  4659 |         8 |       0 |      40 | 5000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-11 Fri>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |     255.3 |  4576 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-12 Sat>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |      45.5 | 10827 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-13 Sun>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |     278.7 |  1251 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-14 Mon>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |    26 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-15 Tue>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |  3119 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-16 Wed>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |    14 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-17 Thu>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |  3226 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-18 Fri>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |     0 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-19 Sat>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 107.2 |      10 |      13.4 |  6567 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-20 Sun>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.0 |      10 |         0 | 18470 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-21 Mon>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      10 |         0 |    82 |         7 |       0 |       0 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-04-22 Tue>
+**** ToDo [44%]
+***** Routine [44%]
+****** Morning [20%]
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Warmup
+       - [ ] Commit org
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [54%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] Coach
+      - [X] Online TTRPG
+***** Current ToDos [33%]
+****** ToDos for the day [0%]
+       - [ ] Check online docs
+       - [ ] Call eye doctor
+       - [ ] Call house representative
+       - [ ] Take notes on BG arcane spells
+       - [ ] Take notes on MHW long sword build order
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+****** Daily XP [50%]
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [50%]
+       - [X] Daily
+       - [ ] Rust video
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+**** Food [4000kCal]
+     - order in (5000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.2 |      10 |         0 |  3365 |         7 |       0 |      44 | 4000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
