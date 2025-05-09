@@ -8062,3 +8062,100 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.8 |       6 |      63.4 |  1604 |         8 |       6 |      38 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-05-08 Thu>
+**** ToDo [71%]
+***** Routine [48%]
+****** Morning [100%]
+       - [X] Warmup
+       - [X] Coffee
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [90%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Racing sim practice
+       - [X] ARPG practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [0%]
+       - [ ] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Buy piano pedal
+      - [X] English class
+***** Current ToDos [64%]
+****** ToDos for the day [20%]
+       - [X] Wash dishes
+       - [X] Tidying
+       - [X] Write about kenjutsu camp
+       - [ ] Pay OCR party
+       - [ ] Pay oldschool
+       - [ ] Pay japanese
+       - [ ] Pay debt
+       - [ ] Pay kenjutsu
+       - [ ] Pay kenjutsu camp
+       - [ ] Call eye doctor
+       - [ ] Write to house rep
+       - [ ] Debug IDUKA
+       - [ ] Ask for VR rooting and send
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [100%]
+       - [X] Cook
+       - [X] No unnecessary spending
+****** Work [71%]
+       - [X] Daily
+       - [X] Review
+       - [X] OWASP training
+       - [X] Cloud meeting
+       - [X] Meeting with colleague
+       - [ ] Administration
+       - [ ] Add parameter POC
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [X] 2x10
+       - [X] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2970kCal]
+     - coffee (70kCal)
+     - porrige (500kCal)
+     - salmon + guacamole (400kCal)
+     - ribs + cucumber (600kCal)
+     - bagette + vegetables (600kCal)
+     - gofri + milk drink (800kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.3 |       5 |         0 |  2515 |         4 |       6 |      71 | 2970 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
