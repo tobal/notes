@@ -8672,3 +8672,104 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.3 |       5 |      61.5 |  3217 |         4 |      12 |      62 | 1700 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2025-05-15 Thu>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |       5 |         0 |  6807 |         7 |       0 |       0 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-05-16 Fri>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 106.6 |       5 |         0 |  1108 |         7 |       0 |       0 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-05-17 Sat>
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 106.0 |       5 |         0 |  2838 |         7 |       0 |       0 | 3500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-05-18 Sun>
+**** ToDo [24%]
+***** Routine [13%]
+****** Morning [42%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Coffee
+       - [ ] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [9%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] ARPG practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [0%]
+       - [ ] Upload videos
+       - [ ] Render videos
+***** Outside activities [50%]
+      - [ ] Kenjutsu training
+      - [X] Orsi social
+***** Current ToDos [10%]
+****** ToDos for the day [20%]
+       - [X] Practice Beat Sabre
+       - [ ] Speak mechanic
+       - [ ] Call eye doctor
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Test for branch
+       - [ ] Pipeline for branch
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [3200kCal]
+     - sandwich (800kCal)
+     - order in (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.6 |       5 |         0 |  3149 |         6 |       0 |      24 | 3200 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
