@@ -8939,3 +8939,85 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 105.8 |       7 |         0 |  4766 |         6 |       6 |      58 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-05-21 Wed>
+**** ToDo [37%]
+***** Routine [22%]
+****** Morning [28%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [ ] Coffee
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [9%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [X] ARPG practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [ ] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+      - [ ] Oldschool gym
+      - [X] Kenjutsu training
+***** Current ToDos [39%]
+****** ToDos for the day [16%]
+       - [X] Practice Beat Sabre
+       - [ ] Write Béci festival
+       - [ ] Speak mechanic
+       - [ ] Call eye doctor
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [100%]
+       - [X] Daily
+       - [X] F2F
+       - [X] Tidy branch
+       - [X] Administer VPAT
+       - [X] Send to review
+       - [X] Review
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [3000kCal]
+     - chinese food (3000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 104.9 |       5 |      61.3 |  2145 |         5 |       6 |      37 | 3000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
