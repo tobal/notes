@@ -10850,4 +10850,93 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 104.2 |      12 |         0 |   185 |         8 |       0 |      42 | 1850 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     
+*** <2025-06-24 Tue>
+**** ToDo [64%]
+***** Routine [56%]
+****** Morning [71%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Coffee
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [54%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] ARPG practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Coach
+      - [X] Japanese class
+      - [X] Online TTRPG
+***** Current ToDos [36%]
+****** ToDos for the day [50%]
+       - [X] Practice Beat Sabre
+       - [X] Aoe4 ranking match for season 10
+       - [X] Notes on japanese
+       - [X] Write David
+       - [X] Write coach
+       - [ ] Make drink
+       - [ ] Buy Ozora ticket
+       - [ ] Call eye doctor
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [57%]
+       - [X] Daily
+       - [X] Sprint planning
+       - [X] Demo
+       - [ ] Fix deprecation error
+       - [X] Write colleague
+       - [ ] Environment
+       - [ ] Perf test
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2400kCal]
+     - gyros (1500kCal)
+     - sandwich (800kCal)
+     - rudi (100kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.9 |      14 |         0 |  3940 |         8 |       0 |      64 | 2400 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
