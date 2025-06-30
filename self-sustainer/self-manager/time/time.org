@@ -11031,3 +11031,83 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.4 |       6 |         0 |       |         7 |       0 |       0 | 4000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-06-30 Mon>
+**** ToDo [10%]
+***** Routine [29%]
+****** Morning [14%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Coffee
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [0%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [ ] Real time strategy practice
+       - [ ] Racing sim practice
+       - [ ] ARPG practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [0%]
+      - [ ] Oldschool gym
+***** Current ToDos [0%]
+****** ToDos for the day [0%]
+       - [ ] Pay english
+       - [ ] Pay kenjutsu camp
+       - [ ] Aoe4 ranking match for season 9
+       - [ ] Buy Ozora ticket
+       - [ ] Call eye doctor
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [0%]
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Environment
+       - [ ] Perf test
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2580kCal]
+     - coffee (80kCal)
+     - order in (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 105.5 |      12 |         0 |    21 |         1 |       0 |      10 | 2580 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
