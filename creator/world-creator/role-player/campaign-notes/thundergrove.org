@@ -515,12 +515,9 @@
        - A fali vésetek története:
          - Urria története, az óelfek elvezetik a jövevényeket Uscha-hoz, az Ősfához, aminek kérgét a jövevények felhasítják,
 	   vizéből isznak, ezért az óelfek megölik őket. Emiatt Urria kitaszítja őket a paradicsomból, a Földre.
+	 - A mutáns óelf törzset száműzi a többi elf
 	 - Megérkeznek a szigetre
-	 - Elültetik a világfát a sziget délnyugati csücskében
-	 - Öt törzsre szakadnak
-	 - Az öt törzs mutálódik
-	 - Megérkeznek az emberek
-	 - Háború dúl az emberekkel
+	 - Megérkeznek az emberek, háború dúl az emberekkel
 	 - Merlyel egyesíti a törzseket, létrehozza a vihart, és az öt fegyvert, amit a törzseknek ad, a villám hatalmával
 	 - Az öt törzs bukása:
 	   - Északi törzs (kard)
@@ -719,7 +716,7 @@
       |----------+-----+-----+----+------------+-----+----+----------+----+----|
       | Név      | sbz | SFÉ | KÉ | VÉ         |  TÉ | CÉ | Időigény | Ép | Fp |
       |----------+-----+-----+----+------------+-----+----+----------+----+----|
-      | Óriáspók | 2k6 |   0 | 40 | 140/50+táv | 100 | 60 |       10 | 15 | 25 |
+      | Óriáspók | 2k6 |   0 | 40 | 120/50+táv | 100 | 60 |       10 | 15 | 25 |
 ***** Napló
 ****** Caldusador 2486. éve 4. hónap 2. nap
        - Megérkeztem Mythrosba. Úgy gondoltam újra az erdőt választom a kísérleteim színhelyéül. Találtam egy erdészt, aki egyedül lakik, és miután megbizonyosodtam, hogy senki nem fogja keresni, nyugodt szívvel öltem meg. Új naplót kezdtem, mert sajnos az előzőt Agrosban hagytam. Sajnálom, de túl veszélyes lenne visszamenni érte. Ott amúgyis csak fájdalmas emlékek várnak rám.
@@ -731,6 +728,28 @@
        - Újabb siker! A varázslat, amivel életben tudom tartani a nénit, sikerült. Jöhet a második fázis, be kell fognom néhány pókot.
 ****** Caldusador 2486. éve 4. hónap 14. nap
        - A tervem működni látszik. Miután a mágikusan mutálódott pókok a meleg környezetbe petéztek, a tojások kikeltek, és gyönyörű, hatalmas testű teremtmények születtek belőlük. A természet csodája! Szükség van még néhány keltető ciklusra, hogy a kívánt méretet elérjem, de a siker innentől kezdve már csak idő kérdése. Gurkipacs, ez a szakmai siker állítson neked emléket!
+**** A nekromanta barlangja
+     Lemennek a bányába, ami elvezet a föld alatti elfek városába, ami felett azóta átvette a nekromanta elf az irányítást.
+     Minden elf élőhalott lett azóta.
+     - A dungeon-ben három kristálygömböt kell elpusztítaniuk, amik a nekromanta lelkének darabjait zárják magukba. Ha ezek
+       elpusztulnak, a nekromanta sebezhető lesz.
+     - Mindhárom kristálygömb az életének egy-egy kritikus pillanatát játssza vissza, amikor megérintik.
+     - 1: Hadi tanácskozás, ő ül a fő helyen. Körülötte óelfek (alacsonyak, nagy lekonyuló fülekkel), arról tanácskoznak, hogy
+       nem tudják visszaverni a kérészéltűeket, és ha ez így megy tovább, a barlangokba kell visszavonulniuk. A főhelyen ülő
+       azt mondja, hogy ne aggódjanak, van egy terve.
+     - 2: Nagy csata, emberek támadják az elf csapatokat, ő az első sorban áll... majd varázsol egyet, körülötte a fák elsorvadnak,
+       belőlük kékes fényű energianyalábok szállnak fel, majd egy helyre összpontosulva végigpásztázik az emberek seregén, és
+       elpusztítja őket. Végül egy csatakiálltással bíztatja az elfeket, hogy nyomuljanak előre.
+     - 3: Föld alatti kőváros, egy trónteremben a trónon ül, és a mára átalakult elfek (alacsonyabbak, gyengébbek, nagyobb
+       szemük van) lázadoznak. Unják már a sötétséget, a hideget, hogy csak gombát ehetnek, ezért rátámadnak az urukra. Erre ő
+       villámmal megöl közülük párat (itt már nála van a varázsbot), azokat feltámasztja, és velük öleti meg a többit. Így lett
+       élőholt az összes földalatti elfből.
+     - A műhelyben találnak páncéltörő és robbanó nyilakat (40 és 20 darabot)
+      |----------------+--------+-----+----+-----+-----+----+----------+----+----+--------------------------------------------------|
+      | Név            | Sebzés | SFÉ | KÉ |  VÉ |  TÉ | CÉ | Időigény | Ép | Fp | Spec                                             |
+      |----------------+--------+-----+----+-----+-----+----+----------+----+----+--------------------------------------------------|
+      | Kobold íjjal   | 1k6+3  |   0 | 40 | 100 |   0 | 70 |        3 | 20 |    | páncéltörő nyilak, robbanó nyilak +2k6sbz, Ép is |
+      | Élőholt harcos | 2k6+2  |   6 | 40 | 150 | 140 |  0 |        5 | 45 |    |                                                  |
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
