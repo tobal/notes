@@ -11750,3 +11750,87 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.4 |       8 |         0 |   357 |         8 |       0 |      49 | 2700 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-10 Sun>
+**** ToDo [70%]
+***** Routine [28%]
+****** Morning [42%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Coffee
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [22%]
+       - [X] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Tabletop RPG
+***** Current ToDos [82%]
+****** ToDos for the day [63%]
+       - [X] Call Bro
+       - [X] Wash dishes
+       - [X] Wash clothes
+       - [X] Read RPG module
+       - [ ] Make Tyndros map
+       - [X] Make moon puzzle
+       - [X] AoE4 ranked matches
+       - [X] Sword maintenance
+       - [ ] Call eye doctor
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG arcane spells
+****** Daily XP [100%]
+       - [X] Cook
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Work [100%]
+       - [X] Daily
+       - [X] Perf test
+       - [X] MSI build
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] Take notes on BG devine spells
+**** Workout [2p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2600kCal]
+     - szekelykaposzta (765kCal)
+     - bread (135kCal)
+     - watermelon (300kCal)
+     - carbonara (1400kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.4 |       7 |         0 |    17 |         6 |       2 |      70 | 2600 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
