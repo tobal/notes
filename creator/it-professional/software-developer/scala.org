@@ -1,0 +1,11 @@
+* ZIO
+** Articles read
+*** Streams
+    - https://bilal-fazlani.com/blog/zio-streams-101/
+    - https://bilal-fazlani.com/blog/interesting-patterns-to-consume-zio-streams/
+*** Effects
+    - https://zio.dev/overview/creating-effects/
+*** Common coding
+    - https://docs.scala-lang.org/tour/by-name-parameters.html
+** Documentation
+   - Streams: https://zio.dev/reference/stream/
