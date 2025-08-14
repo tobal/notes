@@ -101,3 +101,20 @@
    |   | Akkor, viszlát.                 |
    | L | さようなら。                      |
    |   | Viszlát örökre.                 |
+
+* 訳す（やくす）
+** 大掃除
+   - もうすぐ一年が終ります。（おわります）
+   - Nemsokára vége az évnek.
+   - 新年を迎える前に、大掃除をするのが日本の習慣です。（しんねん、むかえる、しゅかん）
+   - Az újév előtti nagytakarítás egy hagyomány japánban.
+   - 大掃除では、いつもは掃除しないところをきれいにしたり、ものを整理したり、いらなくなったものを捨てたり、障子を張り替えたりします。（せいりしたり、すてたり、しょじ、はりかえたり）
+   - Nagytakarításkor mindent kitakarítanak, sorba raknak és elrendeznek, selejteznek, a papírfalakat "újrapapírozzák".
+   - 会社や学校でも大掃除をします。
+   - A cégeknél és iskolákban is nagytakarítanak ilyenkor.
+   - 日本人にとって、掃除とはとても大切な文化です。（たいせつ、ぶんか）
+   - A japán emberek számára a takarítás a kultúra egy fontos része.
+   - 身の回りをきれいにするという意味だけでわなく、掃除には、けじめをつける、清めるという意味もありまる。（みのまわり、いみ、きよめる）
+   - Nem csak a környezetük tisztaságát, hanem önmaguk megtisztulását is látják benne.
+   - 新しい年を迎えるために、一年の汚れを落とし、すっきりとした気持ちで新年を迎えます。（よごれ、おとし、きもち）
+   - Az új év köszöntése érdekében megszabadulnak az év során összegyűlt kosztól, hogy tiszta érzéssel köszönthessék az új évet.
