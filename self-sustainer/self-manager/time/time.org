@@ -12087,3 +12087,83 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.7 |       4 |         0 |  2642 |         6 |       6 |      75 | 4500 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-14 Thu>
+**** ToDo [69%]
+***** Routine [64%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Coffee
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [72%]
+       - [X] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Contact sword routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Racing sim practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Kenjutsu training
+***** Current ToDos [43%]
+****** ToDos for the day [0%]
+       - [ ] Pay NAV
+       - [ ] Calculate petrol fee
+       - [ ] Upload photos, videos
+****** Daily XP [50%]
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [80%]
+       - [X] Daily
+       - [X] Perf test
+       - [ ] Sign binary
+       - [X] Write sitrep
+       - [X] Site meeting
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2500kCal]
+     - carbonara (1000kCal)
+     - order in (1500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.5 |       6 |         0 |  4268 |         7 |       6 |      69 | 2500 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
