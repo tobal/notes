@@ -12256,3 +12256,91 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.2 |       5 |         0 |  4001 |         6 |       5 |      75 | 4880 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-16 Sat>
+**** ToDo [69%]
+***** Routine [84%]
+****** Morning [71%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [66%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [X] Reading
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [X] Contact sword routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Racing sim practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Current ToDos [54%]
+****** ToDos for the day [42%]
+       - [ ] Pay NAV
+       - [ ] Calculate petrol fee
+       - [ ] Upload photos, videos
+       - [X] Buy clothes
+       - [X] Wash clothes
+       - [ ] Write conclusions on lost matches
+       - [X] Upstairs ordering
+****** Discipline training [66%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [62%]
+       - [X] Daily
+       - [X] Decrease max threads
+       - [X] Run simulation
+       - [ ] GDB core dump
+       - [ ] Read wiki on signing
+       - [ ] Ask for cert
+       - [X] Ask about MSI packaging
+       - [X] Help remote app docs
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] Make Tyndros map
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [5p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [X] juggling routine (3p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, grip strength, shoulderblade, pushup, stretch
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [6100kCal]
+     - sandwich (600kCal)
+     - order in (4000kCal)
+     - gyros (1500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.4 |       5 |         0 |  4332 |         8 |       5 |      69 | 6100 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
