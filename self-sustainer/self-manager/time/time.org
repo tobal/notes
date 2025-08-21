@@ -12611,3 +12611,87 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.3 |      15 |         0 |  6750 |         6 |       6 |      87 | 2580 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-20 Wed>
+**** ToDo [58%]
+***** Routine [41%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [X] Contact sword routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+***** Current ToDos [33%]
+****** ToDos for the day [33%]
+       - [ ] Upload photos, videos
+       - [ ] Open letters
+       - [ ] Make Tyndros map
+       - [ ] Prepare for RPG
+       - [X] Buy games
+       - [X] Starcraft 2 training
+****** Discipline training [33%]
+       - [X] Get up early
+       - [ ] Cook
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] GDB core dump
+       - [ ] Wix signing in azure
+       - [ ] Ask for parking
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [3p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [X] juggling routine (3p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, saw, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [5000kCal]
+     - gyros (2500kCal)
+     - sweets (1500kCal)
+     - mexican (1000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.9 |       6 |         0 | 33813 |         5 |       3 |      58 | 5000 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
