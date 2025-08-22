@@ -133,6 +133,14 @@
 ****** TODO Learn Rus 2 TC FC build order
 ****** TODO Learn Rus horse archer build order
 ****** TODO Learn Rus water build order
+**** Starcraft 2
+     - [X] In-game training
+     - [ ] In-game 1 Vs AI battles
+     - [ ] In-game 2 Vs AI battles
+     - [ ] In-game 3 Vs AI battles
+     - [ ] Dry practice macro
+     - [ ] Dry practice scouting
+     - [ ] Learn counters
 *** Turn Based Strategy
 **** Jagged Alliance
 ***** Jagged Alliance 2 1.13
@@ -12694,4 +12702,93 @@
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.9 |       6 |         0 | 33813 |         5 |       3 |      58 | 5000 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-21 Thu>
+**** ToDo [73%]
+***** Routine [65%]
+****** Morning [100%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [X] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [60%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Contact sword routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] English class
+      - [X] Online TTRPG
+***** Current ToDos [54%]
+****** ToDos for the day [62%]
+       - [ ] Upload photos, videos
+       - [ ] Open letters
+       - [ ] Make Tyndros map
+       - [X] Prepare for RPG
+       - [X] Make encounter
+       - [X] Make artifacts
+       - [X] Starcraft 2 training
+       - [X] Watch SC2 videos
+****** Discipline training [33%]
+       - [X] Get up early
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [66%]
+       - [X] Daily
+       - [ ] GDB core dump
+       - [X] Read up on wiki
+       - [X] Request cert
+       - [ ] Wix signing in azure
+       - [X] Ask for parking
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] juggling routine (3p)
+     - [ ] party (6p)
+     - micro training (3x2p)
+       foot correction, military push, squat, saw, grip strength, shoulderblade, pushup, stretch
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+       - [ ] 4x10
+       - [ ] 5x10
+**** Food [2580kCal]
+     - coffee (80kCal)
+     - porrige (500kCal)
+     - mexican (2000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.0 |       5 |         0 |    45 |         9 |       0 |      73 | 2580 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
