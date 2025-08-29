@@ -13260,3 +13260,100 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.9 |       6 |      72.8 |  3356 |         6 |      13 |      82 | 3180 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-28 Thu>
+**** ToDo [78%]
+***** Routine [78%]
+****** Morning [100%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [X] Update arch linux
+****** Evening [33%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [80%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [ ] Contact sword routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] English class
+      - [X] Juggling practice
+      - [X] Kenjutsu training
+***** Current ToDos [57%]
+****** ToDos for the day [25%]
+       - [X] Pay send back
+       - [ ] Pack up adapter
+       - [ ] Bring adapter to packeta point
+       - [X] Starcraft 2 training
+       - [X] Cook swedish meatballs
+       - [ ] Ask about szentendre training
+       - [ ] Upload photos, videos for family
+       - [ ] Open letters
+       - [ ] Make Tyndros map
+       - [ ] Investigate health card
+       - [ ] Investigate glasses support
+       - [ ] Buy glasses
+****** Discipline training [66%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [80%]
+       - [X] Daily
+       - [ ] Ask about core dump
+       - [X] Ask about sources list
+       - [X] Build new docker images
+       - [X] Tell about cert
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [13p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [X] juggling practice (6p)
+     - [ ] juggling routine (3p)
+     - [ ] party (6p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [X] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4000kCal]
+     - porrige (500kCal)
+     - fried chicken (1000kCal)
+     - pad thai (1500kCal)
+     - carbonara (1000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.6 |       7 |         0 |  5135 |         8 |      13 |      78 | 4000 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
