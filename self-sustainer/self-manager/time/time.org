@@ -13357,3 +13357,95 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.6 |       7 |         0 |  5135 |         8 |      13 |      78 | 4000 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-08-29 Fri>
+**** ToDo [32%]
+***** Routine [62%]
+****** Morning [37%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [50%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Contact sword routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [0%]
+      - [ ] Kenjutsu training
+***** Current ToDos [34%]
+****** ToDos for the day [18%]
+       - [X] Doom episode
+       - [X] Starcraft 2 training
+       - [ ] Pack up adapter
+       - [ ] Bring adapter to packeta point
+       - [ ] Ask about szentendre training
+       - [ ] Upload photos, videos for family
+       - [ ] Open letters
+       - [ ] Make Tyndros map
+       - [ ] Investigate health card
+       - [ ] Investigate glasses support
+       - [ ] Buy glasses
+****** Discipline training [33%]
+       - [X] Get up early
+       - [ ] Cook
+       - [ ] No unnecessary spending
+****** Work [50%]
+       - [X] Daily
+       - [ ] Ask about core dump
+       - [X] Investigate noble sources list
+       - [ ] Write question
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [4p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] juggling routine (3p)
+     - [ ] party (6p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [X] 1
+       - [X] 2
+       - [ ] 3
+**** Food [5500kCal]
+     - swedish meatballs (1000kCal)
+     - pad thai (2000kCal)
+     - gyros (2500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.7 |       4 |         0 |    22 |         9 |       4 |      32 | 5500 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
