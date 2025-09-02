@@ -13630,5 +13630,107 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 99.8 |       6 |      15.1 |  1465 |         7 |       1 |      72 | 4600 |
+     | 99.8 |       4 |      15.1 |  1465 |         7 |       1 |      72 | 4600 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+** September
+*** <2025-09-01 Mon>
+**** ToDo [78%]
+***** Routine [75%]
+****** Morning [100%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+       - [X] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Contact staff routine
+       - [X] Contact sword routine
+       - [X] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Online TTRPG
+***** Current ToDos [60%]
+****** ToDos for the day [57%]
+       - [X] Buy humble bundle
+       - [X] Call water mechanic
+       - [X] Starcraft 2 training
+       - [X] Pack up adapter
+       - [ ] Bring adapter to packeta point
+       - [ ] Ask about szentendre training
+       - [ ] Upload photos, videos for family
+       - [X] Open letters
+       - [ ] Make Tyndros map
+       - [X] Detail gate opening adventure module
+       - [X] Investigate health card
+       - [X] Investigate glasses support
+       - [ ] Look for health card
+       - [ ] Buy glasses
+****** Discipline training [66%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] No unnecessary spending
+****** Work [57%]
+       - [X] Daily
+       - [X] CD/CI meeting
+       - [X] Write question
+       - [ ] Ask about core dump
+       - [X] Investigate noble sources list
+       - [ ] Build new docker images
+       - [ ] Investigate failed package build
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [7p]
+     - [X] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [X] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3200kCal]
+     - coffee (80kCal)
+     - protein (120kCal)
+     - porrige (500kCal)
+     - swedish meatballs (1000kCal)
+     - gyros (1500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.6 |       7 |         0 |  1560 |         4 |       7 |      78 | 3200 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
