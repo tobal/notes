@@ -1,0 +1,12 @@
+* Online resources
+** Video tutorials
+   - [[https://www.youtube.com/watch?v=OJs6qS5TQyo][How to macro]]
+   - [[https://www.youtube.com/watch?v=7E26kgUnpQE][How to scout]]
+* Learning plan
+  - [ ] In-game training
+  - [ ] In-game 1 Vs AI battles
+  - [ ] In-game 2 Vs AI battles
+  - [ ] In-game 3 Vs AI battles
+  - [ ] Dry practice macro
+  - [ ] Dry practice scouting
+  - [ ] Learn counters
