@@ -1,49 +1,102 @@
 * Arcane spells
   [[https://www.youtube.com/playlist?list=PLAmVMMzG6qEpbGUBZeI-HFBPABJyRY1Kx][Arcane Spell Guide]]
-  |-------+-------------------------------+------|
-  | Level | Name                          | Tier |
-  |-------+-------------------------------+------|
-  |     1 | Blindness                     | S    |
-  |     1 | Find Familiar                 | S    |
-  |     1 | Magic Missile                 | S    |
-  |     1 | Shield                        | S    |
-  |     1 | Sleep                         | S    |
-  |     1 | Friends                       | A    |
-  |     1 | Identify                      | A    |
-  |     1 | Protection From Petrification | A    |
-  |     1 | Spook                         | A    |
-  |     1 | Charm Person                  | B    |
-  |     1 | Grease                        | B    |
-  |     1 | Larloch's Minor Drain         | B    |
-  |     1 | Armor                         | C    |
-  |     1 | Burning Hands                 | C    |
-  |     1 | Chromatic Orb                 | C    |
-  |     1 | Color Spray                   | C    |
-  |     1 | Protection From Evil          | C    |
-  |     1 | Reflected Image               | C    |
-  |     1 | Chill Touch                   | Rp   |
-  |     1 | Infravision                   | Rp   |
-  |     1 | Shocking Grasp                | Rp   |
-  |-------+-------------------------------+------|
-  |     2 | Blur                          | S    |
-  |     2 | Mirror Image                  | S    |
-  |     2 | Web                           | S    |
-  |     2 | Detect Invisibility           | A    |
-  |     2 | Glitterdust                   | A    |
-  |     2 | Invisibility                  | A    |
-  |     2 | Resist Fear                   | A    |
-  |     2 | Strength                      | A    |
-  |     2 | Vocalize                      | A    |
-  |     2 | Horror                        | B    |
-  |     2 | Melf's Acid Arrow             | B    |
-  |     2 | Ray of Enfeeblement           | B    |
-  |     2 | Agannazar's Scorcher          | C    |
-  |     2 | Deafness                      | C    |
-  |     2 | Knock                         | C    |
-  |     2 | Power Word: Sleep             | C    |
-  |     2 | Stinking Cloud                | C    |
-  |     2 | Detect Evil                   | Rp   |
-  |     2 | Ghoul Touch                   | Rp   |
-  |     2 | Know Alignment                | Rp   |
-  |     2 | Luck                          | Rp   |
-  |-------+-------------------------------+------|
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  | Level | Name                            | Tier |                                                                                                         |
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  |     1 | Blindness                       | S    |                                                                                                         |
+  |     1 | Find Familiar                   | S    |                                                                                                         |
+  |     1 | Magic Missile                   | S    |                                                                                                         |
+  |     1 | Shield                          | S    |                                                                                                         |
+  |     1 | Sleep                           | S    |                                                                                                         |
+  |     1 | Friends                         | A    |                                                                                                         |
+  |     1 | Identify                        | A    |                                                                                                         |
+  |     1 | Protection From Petrification   | A    |                                                                                                         |
+  |     1 | Spook                           | A    |                                                                                                         |
+  |     1 | Charm Person                    | B    |                                                                                                         |
+  |     1 | Grease                          | B    |                                                                                                         |
+  |     1 | Larloch's Minor Drain           | B    |                                                                                                         |
+  |     1 | Armor                           | C    |                                                                                                         |
+  |     1 | Burning Hands                   | C    |                                                                                                         |
+  |     1 | Chromatic Orb                   | C    |                                                                                                         |
+  |     1 | Color Spray                     | C    |                                                                                                         |
+  |     1 | Protection From Evil            | C    |                                                                                                         |
+  |     1 | Reflected Image                 | C    |                                                                                                         |
+  |     1 | Chill Touch                     | Rp   |                                                                                                         |
+  |     1 | Infravision                     | Rp   |                                                                                                         |
+  |     1 | Shocking Grasp                  | Rp   |                                                                                                         |
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  |     2 | Blur                            | S    |                                                                                                         |
+  |     2 | Mirror Image                    | S    |                                                                                                         |
+  |     2 | Web                             | S    |                                                                                                         |
+  |     2 | Detect Invisibility             | A    |                                                                                                         |
+  |     2 | Glitterdust                     | A    |                                                                                                         |
+  |     2 | Invisibility                    | A    |                                                                                                         |
+  |     2 | Resist Fear                     | A    |                                                                                                         |
+  |     2 | Strength                        | A    |                                                                                                         |
+  |     2 | Vocalize                        | A    |                                                                                                         |
+  |     2 | Horror                          | B    |                                                                                                         |
+  |     2 | Melf's Acid Arrow               | B    |                                                                                                         |
+  |     2 | Ray of Enfeeblement             | B    |                                                                                                         |
+  |     2 | Agannazar's Scorcher            | C    |                                                                                                         |
+  |     2 | Deafness                        | C    |                                                                                                         |
+  |     2 | Knock                           | C    |                                                                                                         |
+  |     2 | Power Word: Sleep               | C    |                                                                                                         |
+  |     2 | Stinking Cloud                  | C    |                                                                                                         |
+  |     2 | Detect Evil                     | Rp   |                                                                                                         |
+  |     2 | Ghoul Touch                     | Rp   |                                                                                                         |
+  |     2 | Know Alignment                  | Rp   |                                                                                                         |
+  |     2 | Luck                            | Rp   |                                                                                                         |
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  |     3 | Haste                           | S    |                                                                                                         |
+  |     3 | Invisibility 10' radius         | S    |                                                                                                         |
+  |     3 | Melf's Minute Meteors           | S    |                                                                                                         |
+  |     3 | Protection from Fire            | S    |                                                                                                         |
+  |     3 | Remove Magic                    | S    |                                                                                                         |
+  |     3 | Skull Trap                      | S    |                                                                                                         |
+  |     3 | Slow                            | S    |                                                                                                         |
+  |     3 | Vampiric Touch                  | S    |                                                                                                         |
+  |     3 | Flame Arrow                     | A    |                                                                                                         |
+  |     3 | Spell Thrust                    | A    | Removes spell protections, should use before Breach                                                     |
+  |     3 | Detect Illusion                 | B    |                                                                                                         |
+  |     3 | Dire Charm                      | B    |                                                                                                         |
+  |     3 | Non-Detection                   | B    | Good with invisiblity                                                                                   |
+  |     3 | Protection from Cold            | B    | Needed against ice dragon breath Adalon                                                                 |
+  |     3 | Dispel Magic                    | C    | Remove Magic or Breach is better                                                                        |
+  |     3 | Fireball                        | C    |                                                                                                         |
+  |     3 | Ghost Armor                     | C    |                                                                                                         |
+  |     3 | Hold Person                     | C    |                                                                                                         |
+  |     3 | Hold Undead                     | C    |                                                                                                         |
+  |     3 | Lightning Bolt                  | C    |                                                                                                         |
+  |     3 | Minor Spell Deflection          | C    |                                                                                                         |
+  |     3 | Monster Summoning I             | C    |                                                                                                         |
+  |     3 | Protection from Normal Missiles | C    |                                                                                                         |
+  |     3 | Wraithform                      | C    |                                                                                                         |
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  |     4 | Greater Malison                 | S    | Saving throw penalties                                                                                  |
+  |     4 | Improved Invisibility           | S    |                                                                                                         |
+  |     4 | Spirit Armor                    | S    |                                                                                                         |
+  |     4 | Stoneskin                       | S    |                                                                                                         |
+  |     4 | Minor Sequencer                 | A    | MirrorImage+Blur, 2xWeb                                                                                 |
+  |     4 | Wizard Eye                      | A    |                                                                                                         |
+  |     4 | Emotion: Hopelessness           | B    | AoE Command, higher level sleep, gives remove fear                                                      |
+  |     4 | Enchanted Weapon                | B    |                                                                                                         |
+  |     4 | Fire Shield (Red/Blue)          | B    |                                                                                                         |
+  |     4 | Polymorph Self/Other            | B    |                                                                                                         |
+  |     4 | Remove Curse                    | B    |                                                                                                         |
+  |     4 | Secret Word                     | B    | Removes 1 spell protection, good agains Spell Deflection and Spell Turning, not good against Spell Trap |
+  |     4 | Teleport Field                  | B    |                                                                                                         |
+  |     4 | Confusion                       | C    | Chaos is way better                                                                                     |
+  |     4 | Contagion                       | C    |                                                                                                         |
+  |     4 | Farsight                        | C    |                                                                                                         |
+  |     4 | Ice Storm                       | C    |                                                                                                         |
+  |     4 | Minor Globe of Invulnerability  | C    | Immune to 1-2-3 lvl spells                                                                              |
+  |     4 | Monster Summoning II            | C    |                                                                                                         |
+  |     4 | Otiluke's Resilient Sphere      | C    |                                                                                                         |
+  |     4 | Spider Spawn                    | C    |                                                                                                         |
+  |-------+---------------------------------+------+---------------------------------------------------------------------------------------------------------|
+  |     5 | Breach                          | S    | not good against Spell Trap, Spell Shield, Spell Turning, Spell Deflection                              |
+  |     5 | Chaos                           | S    |                                                                                                         |
+  |     5 | Cloudkill                       | S    |                                                                                                         |
+  |     5 | Spell Immunity                  | S    | Choose abjuration to shield against dispel                                                              |
+  |     5 | Spell Shield                    | S    | Protection against buff remove                                                        |
+  |     5 | Anomate Dead                    | A    |                                                                                                         |
