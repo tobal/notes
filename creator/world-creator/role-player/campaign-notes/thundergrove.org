@@ -654,6 +654,7 @@
      - A rend székhelye egy kolostor a Prímabérc legmagasabb csúcsai között. Az Apát (Tarain apát) fogadja őket, elmeséli
        a próféciát. A történet szerint a vihar fegyverei az idők hajnalán jöttek létre, akkor, amikor a vihar is.
        - Az öt fegyver: Kaminari, a kard, Inazuma, a csatabárd, Denki, a rövidkard, Dengeki, a varázsbot, és Inabikari, az íj
+       - Az új felállás: Kaminari, a hosszúkard, Inazuma, a rapír, Denki, a sarló, Dengeki, a varázsbot, és Inabikari, az íj
        - Merlyel, aki a hősök eljövetelét megjövendölte, egy félisten, aki a szigettel és a viharral együtt született meg,
 	 tulajdonképpen a sziget szelleme. Az apát tudomása szerint a szigeten élő tévelygők egyike sem hisz benne, ez a
 	 rend az egyetlen, ami fenntartotta ezt a hitet.
@@ -750,6 +751,47 @@
       |----------------+--------+-----+----+-----+-----+----+----------+----+----+--------------------------------------------------|
       | Kobold íjjal   | 1k6+3  |   0 | 40 | 100 |   0 | 70 |        3 | 20 |    | páncéltörő nyilak, robbanó nyilak +2k6sbz, Ép is |
       | Élőholt harcos | 2k6+2  |   6 | 40 | 150 | 140 |  0 |        5 | 45 |    |                                                  |
+*** Átjutás a Teknősnyak-szoroson
+    Miután elfoglalták Mythros-t, visszatérnek a táborba
+**** A táborban
+    - Itt tudatják velük, hogy a következő feladat átjuttatni a sereget a Teknősnyak-szoroson.
+    - Itt egy hatalmas, lépcsőzetes fal van felhúzva, és egy magas kapu. A kapu kinyitása a cél, ami jelenleg a felkelés
+      sikere miatt zárva van. Mivel a kapu több tíz méter magas, egy hidraulikus mechanikus rendszer működteti. A víz
+      jelenleg le van eresztve, ezért ezt is meg kell oldani, hogy kinyithassák.
+    - A falon túl egy város van, és itt van a Felvigyázók rendjének erődítménye is.
+    - A kettős ügynök elmondja nekik, hogy a kémek egy titkos alagutat használnak a szoroson való túljutásra. Elmondja
+      hol van a bejárata (egy pici barlangban a Teknősgerinc egyik hegyének lábánál, egy süllyesztett, rejtett csapóajtó
+      vezet lefelé).
+    - Azt is elmondja, hogy az alagutat őrzik, csak az ismert ügynökök járhatnak át (ő maga nem akar velük menni, mert
+      ha bármi balul sül el, akkor lebukhat). Az ellenőrző pontot rendszeresen átépítik, ezért nem tudja pontosan leírni,
+      de tele van titkos ajtókkal, folyosókkal, beugrókkal, csapdákkal.
+**** A titkos alagút
+    - Megtalálják az alagutat, lemennek, le kell győzniük az ellenőrző pontnál a katonákat és a rogue-okat. Utána
+      bejuthatnak a városba.
+**** A városban
+     - Az alagút végén egy csapóajtót találnak, ahol kimászva egy taverna pincéjében találják magukat. Innen
+       észrevétlenül kell kijutniuk, mert itt mindenki lojális a királyhoz.
+     - Ha kijutottak, viszonylag szabadon mozoghatnak a városban. Érzik, hogy feszültség van a lakosokban, a felkelők
+       seregének közelsége miatt. A távolban láthatnak a meredek sziklába építve egy erődítményt, ami nem a város
+       falaihoz kapcsolódik, ha rákérdeznek, megtudják, hogy ez a Felvigyázók rendjének központja, és csak a rend
+       tagjai mehetnek be.
+     - Ahogy sétálnak az utcán, az egyik kocsmából több városőr ront ki, vonszolják az egyik társukat. Lelökik a
+       földre, szitkozódnak, árulónak nevezik, és elkezdik halálra verni. Ha a játékosok közbelépnek, a kezdeti négy
+       városőr mellett további 10 érkező városőrrel kell megküzdeniük, viszont így lebuknak, többé nem mozoghatnak
+       szabadon, viszont azonnal elnyerik a zendülők bizalmát.
+     - Ha nem segítenek, a kocsmába bemenve és kikérdezve a kocsmárost (Ralf) megtudják, hogy a városőrségből sokan
+       a felkelők oldalán harcolnának, de a lojalisták tűzzel vassal üldözik őket, ezért titokban tartják a
+       hovatartozásukat.
+     - Ha kapcsolatba akarnak lépni velük, bizonyítaniuk kell, hogy a felkeléssel vannak, méghozzá úgy, hogy az egyik
+       véreskezű tisztet, Bertelot-ot megölik, és elhozzák a fejét. A kocsmáros elárulja, melyik kaszárnyában lakik,
+       és ad személyleírást. Azt is megtudják, hogy ma este napnyugtáig van őrségben, utána el szokott menni inni, és
+       éjszaka részegen szokott visszamenni a szállására.
+     - Ha megölték, és visszaviszik a fejet, az egyik szobában megvizsgálja azt egy varázslónő (Esabel, a király lánya),
+       hogy nem-e csak illúzió. Ha sikeres a teszt, a játékosok kapcsolatba léphetnek a zendülőkkel, és megtudják, hogy
+       másnap délelőtt lesz olyan időszak, amikor csak zendülők állnak őrt a kapunál.
+     - Másnap amikor eljön az idő, egy szivattyúval fel tudják tölteni a hidraulikus szerkezetet, és ki tudják nyitni
+       a kaput. Az események figyelése közben észreveszik őket, tömegével jönnek a katonák, egy percig (10 kör) kell
+       visszatartaniuk őket, hogy a kaput ki tudják nyitni, amire a katonák megfutamodnak az érkező sereg miatt.
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
