@@ -14924,3 +14924,101 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.4 |       5 |         0 |    18 |         8 |       0 |      18 | 5150 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-09-14 Sun>
+**** ToDo [57%]
+***** Routine [59%]
+****** Morning [75%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [60%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Contact sword routine
+       - [ ] Rope dart routine
+       - [X] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Current ToDos [54%]
+****** ToDos for the day [33%]
+       - [X] Starcraft 2 training
+       - [X] Assetto Corsa race
+       - [X] Doom episode
+       - [X] Watch tournament
+       - [X] Watch Alien Earth
+       - [ ] Call family
+       - [ ] Read up on skincare
+       - [ ] Buy blood pressure machine
+       - [ ] Buy humble bundle
+       - [ ] Upload photos, videos for family
+       - [ ] Make Tyndros map
+       - [ ] Collect documents (OI policy, health card, blood pressure table)
+       - [ ] Print documents
+       - [ ] Ask for new health card, deliver document
+       - [ ] Buy glasses
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Test ittests with new images
+       - [ ] Rebase jobs to master
+       - [ ] Split task
+       - [ ] Investigate backtrace
+       - [ ] Investigate presentations
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Buy computer stuff for CyberGamer
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3650kCal]
+     - porrige (500kCal)
+     - fried chicken + fermented cabbage (800kCal)
+     - virsli + bread (350kCal)
+     - order in (2000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 101.2 |       6 |         0 |    47 |         7 |       0 |      57 | 3650 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
