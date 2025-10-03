@@ -16629,3 +16629,101 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.5 |       5 |      59.3 |  5988 |         6 |      12 |      69 | 3492 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-10-02 Thu>
+**** ToDo [60%]
+***** Routine [23%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [30%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Contact staff routine
+       - [ ] Contact sword routine
+       - [ ] Rope dart routine
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] English class
+      - [X] Orsi social
+***** Current ToDos [57%]
+****** ToDos for the day [54%]
+       - [ ] See NAV doc
+       - [X] Starcraft 2 training
+       - [X] Pay István
+       - [X] Pay gym
+       - [X] Pay japanese
+       - [X] Buy Smilla
+       - [X] Play Battlefield
+       - [ ] Tidy up desk
+       - [ ] Tidy up upstairs
+       - [ ] Call Mom
+       - [ ] Install workstation
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Work [66%]
+       - [X] Daily
+       - [X] Fix opensso venv
+       - [ ] Investigate backtrace
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4926kCal]
+     - fried chicken (2200kCal)
+     - kfc (1500kCal)
+     - carbonara (1000kCal)
+     - zero cukor túrórudi (122kCal)
+     - zero cukor zabrudi (104kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 101.3 |       6 |         0 |   656 |         9 |       0 |      60 | 4926 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
