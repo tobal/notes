@@ -16727,3 +16727,93 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 101.3 |       6 |         0 |   656 |         9 |       0 |      60 | 4926 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-10-03 Fri>
+**** ToDo [58%]
+***** Routine [42%]
+****** Morning [25%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+****** Practice [42%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Real time strategy practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Vet
+      - [X] Kenjutsu training
+***** Current ToDos [33%]
+****** ToDos for the day [25%]
+       - [ ] See NAV doc
+       - [ ] Send Zyzyx pics
+       - [X] Groceries
+       - [X] Starcraft 2 training
+       - [ ] Tidy up desk
+       - [ ] Tidy up upstairs
+       - [ ] Call Mom
+       - [ ] Install workstation
+****** Discipline training [0%]
+       - [ ] Get up early
+       - [ ] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Work [75%]
+       - [X] Daily
+       - [X] Guild sync
+       - [X] All hands
+       - [ ] Investigate backtrace
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2322kCal]
+     - rántott borjúláb (2200kCal)
+     - zero cukor túrórudi (122kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.3 |       6 |      75.8 |  5987 |         8 |       0 |      58 | 2322 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
