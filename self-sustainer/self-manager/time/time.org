@@ -17920,9 +17920,9 @@
        - [ ] 2
        - [ ] 3
 **** Food [2365kCal]
+     - protein (120kCal)
      - coffee (80kCal)
      - porrige (365kCal)
-     - protein (120kCal)
      - mirelit + veggies (800kCal)
      - chicken + cabbage (1000kCal)
 **** Stat table
@@ -18121,4 +18121,99 @@
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 102.0 |       6 |      60.8 |  2351 |         8 |       6 |      45 | 1800 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-10-18 Sat>
+**** ToDo [69%]
+***** Routine [64%]
+****** Morning [75%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [20%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [X] Clean litterbox
+****** Practice [62%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Starcraft 2 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Working day
+      - [X] Watch F1
+***** Current ToDos [44%]
+****** ToDos for the day [12%]
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+       - [ ] Change simple app
+       - [X] Send pics
+       - [ ] Call brother
+       - [ ] Call sister
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Ági petrol administration
+       - [ ] Ozora ticket administration
+       - [ ] Cross team test
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [1p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [X] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2945kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - chicken + cabbage (1000kCal)
+     - order in (1500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.4 |       8 |         0 |   137 |         7 |       1 |      69 | 2945 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
