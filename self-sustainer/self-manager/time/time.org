@@ -18690,13 +18690,169 @@
      | 99.3 |       8 |       9.8 |  4214 |         8 |       0 |      51 | 1645 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
 *** <2025-10-24 Fri>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  2565 |
+     |-------|
 *** <2025-10-25 Sat>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    13 |
+     |-------|
 *** <2025-10-26 Sun>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    28 |
+     |-------|
 *** <2025-10-27 Mon>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    33 |
+     |-------|
 *** <2025-10-28 Tue>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    22 |
+     |-------|
 *** <2025-10-29 Wed>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |   392 |
+     |-------|
 *** <2025-10-30 Thu>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  4438 |
+     |-------|
 *** <2025-10-31 Fri>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    15 |
+     |-------|
 *** <2025-11-01 Sat>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  3101 |
+     |-------|
 *** <2025-11-02 Sun>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    34 |
+     |-------|
 *** <2025-11-03 Mon>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    42 |
+     |-------|
+
+*** <2025-11-04 Tue>
+**** ToDo [39%]
+***** Routine [53%]
+****** Morning [62%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Clean litterbox
+****** Practice [50%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Starcraft 2 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Current ToDos [25%]
+****** ToDos for the day [0%]
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+       - [ ] Change simple app
+       - [ ] Call brother
+       - [ ] Call sister
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+****** Discipline training [50%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Ági petrol administration
+       - [ ] Ozora ticket administration
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2945kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - order in (2500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 102.0 |       9 |         0 |  3101 |         7 |       0 |      39 | 2945 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
