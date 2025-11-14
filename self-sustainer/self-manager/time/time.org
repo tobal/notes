@@ -18745,7 +18745,7 @@
      |-------|
      |    15 |
      |-------|
-** October
+** November
 *** <2025-11-01 Sat>
 **** Stat table
      |-------|
@@ -19592,4 +19592,98 @@
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.4 |      11 |      62.4 |  1060 |         7 |       6 |      53 |  300 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-11-13 Thu>
+**** ToDo [60%]
+***** Routine [33%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [33%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [X] Play with cat
+       - [X] Clean litterbox
+****** Practice [37%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Starcraft 2 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Vet
+      - [X] Orsi social
+      - [X] Mush
+***** Current ToDos [47%]
+****** ToDos for the day [50%]
+       - [X] Write Misi
+       - [X] Clean appartment
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [25%]
+       - [ ] Get up early
+       - [ ] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Work [66%]
+       - [X] Daily
+       - [X] Site meeting
+       - [ ] Ági petrol administration
+       - [ ] Ozora ticket administration
+       - [X] CDCI
+       - [X] Ask colleague
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [1800kCal]
+     - gyros (1800kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 96.7 |       8 |      13.9 |  1189 |         6 |       0 |      60 | 1800 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
