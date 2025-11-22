@@ -15,6 +15,7 @@
 # Clock: start: I, stop: O
 # Open diary: i
 # [[https://orgmode.org/manual/Agenda-Views.html][Agenda Views]]
+# Calculator: (calc-eval "1+2")
 
 * Project ToDos
 ** Self organizing
@@ -19776,7 +19777,6 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 97.1 |       8 |         0 |    75 |         7 |       0 |      11 | 3800 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-
 *** <2025-11-15 Sat>
 **** ToDo [42%]
 ***** Routine [26%]
@@ -19864,4 +19864,135 @@
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.0 |      14 |      14.3 |  5112 |         8 |       0 |      11 | 3800 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-11-16 Sun>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     | 20018 |
+     |-------|
+*** <2025-11-17 Mon>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |   100 |
+     |-------|
+*** <2025-11-18 Tue>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    55 |
+     |-------|
+*** <2025-11-19 Wed>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    50 |
+     |-------|
+*** <2025-11-20 Thu>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |   128 |
+     |-------|
+*** <2025-11-21 Fri>
+**** ToDo [59%]
+***** Routine [64%]
+****** Morning [62%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [33%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [X] Play with cat
+       - [X] Clean litterbox
+****** Practice [62%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Starcraft 2 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+      - [ ] Oldschool gym
+      - [X] Kenjutsu training
+***** Current ToDos [63%]
+****** ToDos for the day [40%]
+       - [X] Buy cinema ticket
+       - [X] Wash bedding
+       - [ ] Call water mechanic
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [50%]
+       - [X] Daily
+       - [X] Guild sync
+       - [ ] Ági petrol administration
+       - [ ] Ozora ticket administration
+       - [ ] Elastic code read
+       - [X] Put systemd info
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [7p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [X] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [1045kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - chicken + veggies (600kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.3 |       7 |      61.2 |  1628 |         5 |       7 |      59 | 1045 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
