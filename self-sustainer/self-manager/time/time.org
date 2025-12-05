@@ -21037,5 +21037,199 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 100.6 |       5 |         0 |  1501 |         8 |       0 |      56 | 5500 |
+     | 99.6 |       5 |         0 |  1501 |         8 |       0 |      56 | 5500 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-12-03 Wed>
+**** ToDo [78%]
+***** Routine [65%]
+****** Morning [75%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [ ] Clean litterbox
+****** Practice [85%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Dirt Rally practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Kenjutsu training
+***** Current ToDos [70%]
+****** ToDos for the day [60%]
+       - [X] Wash clothes
+       - [X] Bring stuff from car
+       - [X] Setup card
+       - [ ] Clean apartment
+       - [ ] Call water mechanic
+       - [X] Pay english
+       - [X] Pay kenjutsu
+       - [X] Pay oldschool
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Work [75%]
+       - [X] Daily
+       - [X] Review meeting
+       - [ ] Ági petrol administration
+       - [X] Elastic bug
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [12p]
+     - [X] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3765kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - protein (120kCal)
+     - mirelit + fried veggies (1200kCal)
+     - order in (2000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.6 |       8 |      62.9 |  3243 |         4 |      12 |      78 | 3765 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-12-04 Thu>
+**** ToDo [58%]
+***** Routine [26%]
+****** Morning [37%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [0%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Dirt Rally practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] English class
+      - [X] Peti visit
+      - [X] Orsi visit
+***** Current ToDos [48%]
+****** ToDos for the day [20%]
+       - [ ] Go to bank about card
+       - [X] Clean apartment
+       - [ ] Call water mechanic
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [50%]
+       - [ ] Daily
+       - [X] Ági petrol administration
+       - [ ] Elastic bug
+       - [X] Ask colleague
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2445kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - frici lunch (2000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.2 |       8 |         0 |  4891 |         4 |       0 |      58 | 2445 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
