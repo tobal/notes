@@ -21326,3 +21326,99 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 97.0 |      10 |      61.2 |  3935 |         7 |       6 |      75 | 3645 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-12-06 Sat>
+**** ToDo [71%]
+***** Routine [59%]
+****** Morning [62%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [57%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Dirt Rally practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Demonstration and fire juggling
+      - [X] Party
+***** Current ToDos [54%]
+****** ToDos for the day [33%]
+       - [X] Record Horizon gameplay
+       - [X] Watch F1
+       - [ ] Measure for dou
+       - [ ] Call water mechanic
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [100%]
+       - [X] Daily
+       - [X] Elastic bug
+       - [X] Answer colleague
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [12p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [X] juggling practice (6p)
+     - [X] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [7045kCal]
+     - coffee (80kCal)
+     - porrige (365kCal)
+     - hurka (1000kCal)
+     - sandwich (600kCal)
+     - fried chicken (1500kCal)
+     - eating disorder (3500lCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 96.9 |      16 |         0 | 11899 |         6 |      12 |      71 | 7045 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
