@@ -22753,3 +22753,98 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.0 |       4 |         0 |  2623 |         6 |       0 |      57 | 4000 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-12-21 Sun>
+**** ToDo [51%]
+***** Routine [23%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [12%]
+       - [X] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Dirt Rally practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Kenjutsu seminar
+      - [X] Online TTRPG
+***** Current ToDos [31%]
+****** ToDos for the day [12%]
+       - [X] Record Horizon gameplay
+       - [ ] Record StarCraft gameplay
+       - [ ] Write psychologist
+       - [ ] Write manual therapist
+       - [ ] Measure for dou
+       - [ ] Call car mechanic
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [ ] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Copilot setup
+       - [ ] Setup box
+       - [ ] Investigate delayed elastic
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [12p]
+     - [ ] oldschool gym (6p)
+     - [X] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, shoulderblade, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3000kCal]
+     - cheesy chicken (3000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.3 |       6 |         0 |  2375 |         9 |      12 |      51 | 3000 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
