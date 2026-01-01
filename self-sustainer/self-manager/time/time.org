@@ -23629,13 +23629,13 @@
        - [ ] Train cat
        - [ ] Play with cat
        - [X] Clean litterbox
-****** Practice [0%]
+****** Practice [25%]
        - [ ] Kenjutsu slashes and steps
        - [ ] Piano practice
        - [ ] Dirt Rally practice
        - [ ] Age of Empires 4 practice
-       - [ ] Tsumego
-       - [ ] Kanji writing practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
        - [ ] Japanese reading practice
        - [ ] Japanese daily challenge
 ****** Videos [50%]
@@ -23676,11 +23676,11 @@
        - [ ] MUSH: dark secret
        - [ ] Take notes on BG devine spells
        - [ ] Take notes on BG arcane spells
-**** Workout [0p]
+**** Workout [6p]
      - [ ] oldschool gym (6p)
      - [ ] kenjutsu training (6p)
      - [ ] juggling practice (6p)
-     - [ ] party (6p)
+     - [X] party (6p)
      - [ ] juggling routine (3p)
      - [ ] kenjutsu routine (3p)
      - micro weight training (3x2p)
@@ -23699,5 +23699,98 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-     | 100.8 |       8 |      12.2 |  2519 |         8 |       0 |      43 | 5500 |
+     | 100.8 |       8 |      12.2 |  2519 |         8 |       6 |      43 | 5500 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2025-12-31 Wed>
+**** ToDo [51%]
+***** Routine [52%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [33%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [62%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Dirt Rally practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [50%]
+      - [ ] Oldschool gym
+      - [X] Party
+***** Current ToDos [50%]
+****** ToDos for the day [25%]
+       - [X] Clean apartment
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Copilot setup
+       - [ ] Setup box
+       - [ ] Investigate delayed elastic
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Japanese homework (cat text)
+       - [ ] Install workstation
+       - [ ] Make Tyndros map
+       - [ ] Read up on skincare
+       - [ ] Buy humble bundle
+       - [ ] Buy glasses
+       - [ ] GPG key setup for email
+       - [ ] MUSH: push object texts to git
+       - [ ] MUSH: mad cultist story arc
+       - [ ] MUSH: item curses
+       - [ ] MUSH: dark secret
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [6p]
+     - [ ] oldschool gym (6p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [X] party (6p)
+     - [ ] juggling routine (3p)
+     - [ ] kenjutsu routine (3p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [600kCal]
+     - virsli (350kCal)
+     - dessert (250kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.1 |      10 |         0 | 30074 |         4 |       6 |      51 |  600 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
