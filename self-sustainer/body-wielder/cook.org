@@ -22,4 +22,28 @@
     - bit of mayo
     - bit of sugar
     - bit of salt
-    
+** Bolognese
+   - soffritto
+     - onion
+     - celery
+     - carrot
+   - ragu
+     - tomato paste
+     - wine
+     - passata
+     - milk
+     - 1kg pork minced
+   - recipe
+     - onion celery carrot fry on oil
+     - after put half of wine
+     - then put in meat, then salt and pepper
+     - after browned, and meat water gone, add second half of wine
+     - then add tomato paste and passata
+     - cook for 4 hours, add water when needed
+     - at the end, add milk
+** Carbonara
+   - spagetti 100g
+   - guanciale 50-100g
+   - pecorino 30-66g
+   - egg 1
+   - pepper
