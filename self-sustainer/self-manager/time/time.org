@@ -24732,93 +24732,58 @@
      |    11 |
      |-------|
 *** <2026-02-03 Tue>
-**** ToDo [%]
-***** Routine [%]
-****** Morning [0%]
-       - [ ] Rhythm routine
-       - [ ] Warmup
-       - [ ] Breakfast
-       - [ ] Commit org
-       - [ ] Meditation
-       - [ ] Make bed
-       - [ ] Check deneb
-       - [ ] Update arch linux
-****** Evening [16%]
-       - [ ] Wash dishes
-       - [ ] Bathroom
-       - [ ] Reading
-       - [ ] Train cat
-       - [X] Play with cat
-       - [ ] Clean litterbox
-****** Practice [12%]
-       - [ ] Kenjutsu slashes and steps
-       - [ ] Piano practice
-       - [X] Age of Empires 4 practice
-       - [ ] Tsumego
-       - [ ] Kanji writing practice
-       - [ ] Japanese reading practice
-       - [ ] Japanese daily challenge
-****** Videos [100%]
-       - [X] Upload videos
-       - [X] Render videos
-***** Outside activities [50%]
-      - [ ] Japanese class
-      - [X] Orsi visit
-***** Current ToDos [%]
-****** ToDos for the day [0%]
-       - [ ] Call car mechanic
-       - [ ] Measure for dou
-       - [ ] Sign GPG key
-       - [ ] Tidy up desk
-****** Discipline training [25%]
-       - [ ] Get up early
-       - [ ] Cook
-       - [ ] Eat vegetables
-       - [X] No unnecessary spending
-****** Work [75%]
-       - [X] Daily
-       - [ ] Copilot setup
-       - [X] Compile docrepo
-       - [X] Implement hitreader
-***** ToDo backlog
-****** Maintenance
-       - [ ] Wash dishes
-****** Personal projects
-       - [ ] Japanese homework (cat text)
-       - [ ] Install workstation
-       - [ ] Make Tyndros map
-       - [ ] Read up on skincare
-       - [ ] Buy humble bundle
-       - [ ] Buy glasses
-       - [ ] GPG key setup for email
-       - [ ] MUSH: push object texts to git
-       - [ ] MUSH: mad cultist story arc
-       - [ ] MUSH: item curses
-       - [ ] MUSH: dark secret
-       - [ ] Take notes on BG devine spells
-       - [ ] Take notes on BG arcane spells
-**** Workout [0p]
-     - [ ] oldschool gym (6p)
-     - [ ] kenjutsu training (6p)
-     - [ ] juggling practice (6p)
-     - [ ] party (6p)
-     - [ ] juggling routine (3p)
-     - [ ] kenjutsu routine (3p)
-     - micro weight training (3x2p)
-       military push, goblet squat, saw, pushup
-       - [ ] 1x10
-       - [ ] 2x10
-       - [ ] 3x10
-     - micro stretch training (3x1p)
-       foot correction, grip strength, leg stretch, wrist, shoulderblade
-       - [ ] 1
-       - [ ] 2
-       - [ ] 3
-**** Food [80kCal]
-     - coffee (80kCal)
 **** Stat table
-     |------+---------+-----------+-------+-----------+---------+---------+------|
-     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
-     |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 99.6 |       3 |         0 |       |         5 |       0 |         |      |
-     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |-------|
+     | Steps |
+     |-------|
+     |  3505 |
+     |-------|
+*** <2026-02-04 Wed>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    48 |
+     |-------|
+*** <2026-02-05 Thu>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |    42 |
+     |-------|
+*** <2026-02-06 Fri>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  1735 |
+     |-------|
+*** <2026-02-07 Sat>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  4069 |
+     |-------|
+*** <2026-02-08 Sun>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  2001 |
+     |-------|
+*** <2026-02-09 Mon>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |   145 |
+     |-------|
+*** <2026-02-10 Tue>
+**** Stat table
+     |-------|
+     | Steps |
+     |-------|
+     |  2612 |
+     |-------|
