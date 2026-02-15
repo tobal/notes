@@ -24973,7 +24973,6 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 100.3 |       8 |         0 |  4110 |         6 |       0 |      63 | 4500 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-
 *** <2026-02-13 Fri>
 **** ToDo [71%]
 ***** Routine [59%]
@@ -25051,7 +25050,7 @@
        - [ ] 1
        - [ ] 2
        - [ ] 3
-**** Food [kCal]
+**** Food [2565kCal]
      - coffee (80kCal)
      - protein (120kCal)
      - porrige (365kCal)
@@ -25062,3 +25061,88 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 100.0 |       8 |      61.3 |  4683 |         3 |      12 |      71 | 2565 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-02-14 Sat>
+**** ToDo [65%]
+***** Routine [32%]
+****** Morning [62%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [0%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Psychedelic farsang
+***** Current ToDos [63%]
+****** ToDos for the day [25%]
+       - [X] Cook lunch
+       - [X] Clean apartment
+       - [ ] Pay english
+       - [ ] Pay fine
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+       - [ ] Tidy up desk
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Work [50%]
+       - [ ] Daily
+       - [ ] Docrepo production code
+       - [X] Self evaluation
+       - [X] Write admin
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [6p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [X] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3000kCal]
+     - salmon pasta (3000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 96.8 |       4 |      13.2 |  7713 |         9 |       6 |      65 | 3000 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
