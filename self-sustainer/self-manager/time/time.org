@@ -25406,7 +25406,6 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 100.3 |       4 |      25.7 |  3131 |         6 |       0 |      53 | 6000 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
-
 *** <2026-02-18 Wed>
 **** ToDo [38%]
 ***** Routine [38%]
@@ -25470,7 +25469,7 @@
        - [ ] Take notes on BG arcane spells
 **** Workout [4p]
      - [ ] oldschool gym (8p)
-     - [ ] kenjutsu training (4p)
+     - [X] kenjutsu training (4p)
      - [ ] juggling practice (6p)
      - [ ] party (6p)
      - [ ] juggling routine (2p)
@@ -25494,3 +25493,92 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.6 |       5 |         0 |  3675 |         6 |       4 |      38 | 7000 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-02-19 Thu>
+**** ToDo [46%]
+***** Routine [26%]
+****** Morning [25%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [14%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [66%]
+      - [X] Japanese class
+      - [X] English class
+      - [ ] Orsi visit
+***** Current ToDos [47%]
+****** ToDos for the day [50%]
+       - [X] Send gauge pics
+       - [X] Buy ticket
+       - [X] Cook pörkölt
+       - [X] Write Tetra Conflict
+       - [ ] Send glasses receipt
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [50%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Work [40%]
+       - [X] Daily
+       - [X] Review meeting
+       - [ ] Docrepo production code
+       - [ ] Docrepo test
+       - [ ] Review
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [7000kCal]
+     - order in (3500kCal)
+     - gluttony (3500kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 100.7 |       7 |         0 |    59 |         7 |       0 |      46 | 7000 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
