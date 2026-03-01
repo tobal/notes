@@ -26270,3 +26270,88 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.8 |       6 |      61.3 |  2887 |         8 |       4 |      56 | 2155 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-02-28 Sat>
+**** ToDo [61%]
+***** Routine [41%]
+****** Morning [50%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [ ] Clean litterbox
+****** Practice [14%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Demonstration fire juggling
+      - [X] Party
+***** Current ToDos [42%]
+****** ToDos for the day [33%]
+       - [X] Wash ghi
+       - [X] Repair dou
+       - [ ] Send glasses receipt
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [0%]
+       - [ ] Daily
+       - [ ] Docrepo production code
+       - [ ] Docrepo test
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [12p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [X] juggling practice (6p)
+     - [X] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2935kCal]
+     - virsli (535kCal)
+     - fried chicken + cabbage (1800kCal)
+     - chocolate (600kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.5 |      15 |         0 |  4797 |         8 |      12 |      61 | 2935 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
