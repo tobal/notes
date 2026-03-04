@@ -26528,3 +26528,92 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.6 |       6 |         0 |  2093 |         9 |       0 |      27 | 3900 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-03-03 Tue>
+**** ToDo [49%]
+***** Routine [26%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [33%]
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [X] Clean litterbox
+****** Practice [14%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] Office day
+***** Current ToDos [22%]
+****** ToDos for the day [0%]
+       - [ ] Pay psychologist
+       - [ ] Send email to kairos
+       - [ ] Send glasses receipt
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [50%]
+       - [X] Get up early
+       - [ ] Cook
+       - [ ] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [16%]
+       - [ ] Daily
+       - [ ] Docrepo production code
+       - [ ] Docrepo test
+       - [ ] Send sick leave email
+       - [ ] Allhands meeting
+       - [X] Support meeting
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2600kCal]
+     - office lunch (2600kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.5 |       5 |      26.1 |  2969 |         6 |       0 |      49 | 2600 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
