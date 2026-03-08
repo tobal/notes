@@ -26895,5 +26895,101 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 98.8 |       5 |         0 |  1783 |         8 |       4 |      34 | 3200 |
+     | 98.8 |       5 |        63 |  1783 |         8 |       4 |      34 | 3200 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-03-07 Sat>
+**** ToDo [50%]
+***** Routine [36%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [66%]
+       - [ ] Train cat
+       - [X] Play with cat
+       - [X] Clean litterbox
+****** Practice [0%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Current ToDos [63%]
+****** ToDos for the day [25%]
+       - [X] Watch F1
+       - [X] Soak bottles
+       - [ ] Order medicine
+       - [X] Fix heroes map bugs
+       - [ ] Refund ticket
+       - [ ] Pay psychologist
+       - [ ] Write Tomi
+       - [ ] Send email to kairos
+       - [ ] Send glasses receipt
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Work [50%]
+       - [X] Daily
+       - [X] Docrepo production code
+       - [ ] Docrepo test
+       - [ ] Print, sign and send paper
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2010kCal]
+     - coffee (80kCal)
+     - virsli + bread (380kCal)
+     - disznótoros (620kCal)
+     - túrókrém (80kCal)
+     - túrórudi (120kCal)
+     - fried chicken + cucumber (550kCal)
+     - creme yoghurt (180kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.8 |       7 |         0 |     0 |         6 |       0 |      50 | 2010 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
