@@ -27569,3 +27569,99 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.2 |       6 |      61.6 |  3965 |         6 |       4 |      55 | 1700 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-03-14 Sat>
+**** ToDo [55%]
+***** Routine [10%]
+****** Morning [0%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [ ] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [0%]
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [ ] Clean litterbox
+****** Practice [0%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Hairdresser
+***** Current ToDos [54%]
+****** ToDos for the day [33%]
+       - [X] Groceries
+       - [X] Record Starcraft gameplay
+       - [ ] Send email to kairos
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+***** ToDo backlog
+****** Work [33%]
+       - [X] Daily sync
+       - [X] Daily
+       - [ ] Bob
+       - [X] Review
+       - [ ] Review test
+       - [ ] Docrepo production code
+       - [ ] Docrepo integration test
+       - [ ] Print and sign paper
+       - [ ] Administer sick leave
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4540kCal]
+     - coffee (80kCal)
+     - porrige (360kCal)
+     - hurka + savanyú (900kCal)
+     - sandwich + ice cream (3000kCal)
+     - zabrudi (120kCal)
+     - rice bar (80kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.7 |       6 |      12.6 |  1248 |         4 |       0 |      55 | 4540 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
