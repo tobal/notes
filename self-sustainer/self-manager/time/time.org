@@ -27857,5 +27857,98 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 97.8 |       5 |         0 |  6689 |         5 |       8 |      71 | 3960 |
+     | 97.8 | 9 |         0 |  6689 |         5 |       8 |      71 | 3960 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-03-17 Tue>
+**** ToDo [63%]
+***** Routine [22%]
+****** Morning [12%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Update arch linux
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [33%]
+       - [ ] Train cat
+       - [X] Play with cat
+       - [ ] Clean litterbox
+****** Practice [14%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] Office day
+***** Current ToDos [68%]
+****** ToDos for the day [28%]
+       - [X] Speak with GameO
+       - [X] Write Peti
+       - [ ] Fetch letter from post office
+       - [ ] Send email to kairos
+       - [ ] Call car mechanic
+       - [ ] Measure for dou
+       - [ ] Sign GPG key
+****** Discipline training [75%]
+       - [X] Get up early
+       - [ ] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [100%]
+       - [X] Daily
+       - [X] Docrepo integration test
+       - [X] Give paper
+       - [X] Administer sick leave
+       - [X] Try VSCode
+       - [X] Try Claude
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2250kCal]
+     - zabrudi (120kCal)
+     - rice bar (80kCal)
+     - office lunch (1500kCal)
+     - fried chicken + cucumber (550kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.8 |       5 |      25.7 |  2734 |         7 |       0 |      63 | 2250 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
