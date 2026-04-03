@@ -27857,7 +27857,7 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 97.8 | 9 |         0 |  6689 |         5 |       8 |      71 | 3960 |
+     | 97.8 |       9 |         0 |  6689 |         5 |       8 |      71 | 3960 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
 *** <2026-03-17 Tue>
 **** ToDo [63%]
@@ -29290,5 +29290,107 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.7 |       9 |      74.1 |  4276 |         4 |      12 |      75 | 2430 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-04-02 Thu>
+**** ToDo [72%]
+***** Routine [66%]
+****** Morning [50%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+       - [X] Take pills
+****** Evening [16%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+       - [X] Take pills
+****** Cat [66%]
+       - [ ] Train cat
+       - [X] Play with cat
+       - [X] Clean litterbox
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] English class
+***** Current ToDos [50%]
+****** ToDos for the day [9%]
+       - [X] Buy stuff for cutting practice
+       - [ ] Order medicine
+       - [ ] Write Kairos
+       - [ ] Pay english
+       - [ ] Pay gym
+       - [ ] Pay fine
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Buy manas ticket
+       - [ ] Call car mechanic
+       - [ ] Sign GPG key
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [42%]
+       - [X] Maintenance daily
+       - [X] Daily
+       - [ ] Payroll ticket
+       - [X] Review fix
+       - [ ] Review aggreg
+       - [ ] Investigate bugfix
+       - [ ] Implement bugfix
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3110kCal]
+     - porrige (360kCal)
+     - waffel (200kCal)
+     - carbonara (980kCal)
+     - disznótoros (620kCal)
+     - yoghurt (400kCal)
+     - mochi (550kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.7 |       9 |         0 |  3453 |         7 |       0 |      72 | 3110 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     
      
      
