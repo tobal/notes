@@ -29783,3 +29783,99 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 95.8 |      12 |         0 |  2752 |         7 |       2 |      81 | 2240 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-04-07 Tue>
+**** ToDo [61%]
+***** Routine [42%]
+****** Morning [37%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [X] Check deneb
+       - [X] Take pills
+****** Evening [50%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [X] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+       - [X] Take pills
+****** Cat [0%]
+       - [ ] Train cat
+       - [ ] Play with cat
+       - [ ] Clean litterbox
+****** Practice [75%]
+       - [ ] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Anki
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Current ToDos [79%]
+****** ToDos for the day [37%]
+       - [X] Fetch GEB
+       - [X] Record Assetto Corsa gameplay
+       - [X] Order medicine
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Buy manas ticket
+       - [ ] Call car mechanic
+       - [ ] Sign GPG key
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Work [100%]
+       - [X] Maintenance daily
+       - [X] Daily
+       - [X] Review aggreg
+       - [X] Implement bugfix
+       - [X] Write about laptop
+       - [X] Sign paper
+       - [X] Write english teacher
+       - [X] Write farewell
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2090kCal]
+     - carbonara (980kCal)
+     - zabrudi (120kCal)
+     - túrórudi (120kCal)
+     - fried chicken + fermented veggies (550kCal)
+     - musli bar (320kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.8 |      10 |         0 |  2945 |         6 |       0 |      61 | 2090 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
