@@ -30061,3 +30061,98 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 94.6 |       7 |         0 |    58 |         8 |       0 |      56 | 3320 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-04-10 Fri>
+**** ToDo [65%]
+***** Routine [37%]
+****** Morning [25%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+       - [ ] Take pills
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+       - [ ] Take pills
+****** Cat [33%]
+       - [ ] Train cat
+       - [X] Play with cat
+       - [ ] Clean litterbox
+****** Practice [75%]
+       - [X] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Anki
+       - [X] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] Kenjutsu practice /w Dea
+      - [X] Kenjutsu training
+***** Current ToDos [58%]
+****** ToDos for the day [16%]
+       - [X] Apply for psycho
+       - [ ] See NAV docs
+       - [ ] Call psycho
+       - [ ] Order handtorch
+       - [ ] Gather info for CV
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Starcraft2 gameplay
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Buy manas ticket
+       - [X] Call car mechanic
+       - [ ] Sign GPG key
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [10p]
+     - [ ] oldschool gym (8p)
+     - [X] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - [X] kenjutsu practice (4p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [1800kCal]
+     - porrige (360kCal)
+     - sausage + bread (770kCal)
+     - túrórudi (120kCal)
+     - fried chicken + fermented veggies (550kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.7 |       9 |      63.4 |  4712 |         5 |      10 |      65 | 1800 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
