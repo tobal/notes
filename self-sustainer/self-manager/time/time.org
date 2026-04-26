@@ -31449,3 +31449,100 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 95.4 |       9 |        18 |   983 |         7 |       4 |      39 | 4360 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-04-25 Sat>
+**** ToDo [40%]
+***** Routine [64%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [75%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [X] Take pills morning
+       - [X] Take pills evening
+***** Outside activities [0%]
+      - [ ] Juggling in the park
+***** Current ToDos [55%]
+****** ToDos for the day [7%]
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+       - [ ] Update Hackerrank
+       - [ ] Make hun cv
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [X] Record StarCraft 2 gameplay
+       - [ ] Upload receipts
+       - [ ] See NAV docs
+       - [ ] Order handtorch
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Sign GPG key
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [37%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+       - [ ] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** ToDo backlog
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [4p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [X] 1x10
+       - [X] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4330kCal]
+     - porrige (360kCal)
+     - mirelit meat + fermented veggies (650kCal)
+     - order in (2500kCal)
+     - sweets (320kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.8 |       7 |         0 |    24 |         6 |       4 |      40 | 4330 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
