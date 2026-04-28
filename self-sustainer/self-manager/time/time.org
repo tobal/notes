@@ -31651,3 +31651,115 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.8 |      10 |         0 |  2113 |         7 |       6 |      63 | 2860 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-04-27 Mon>
+**** ToDo [71%]
+***** Routine [55%]
+****** Morning [71%]
+       - [ ] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [75%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [X] Take pills morning
+       - [X] Take pills evening
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Manual therapy
+      - [X] Psychotherapy
+      - [X] Orsi visit
+***** Current ToDos [57%]
+****** ToDos for the day [25%]
+       - [ ] Install Win11
+       - [ ] Make hun cv
+       - [ ] Upload receipts
+       - [X] Prepare for psycho
+****** Recurring [60%]
+       - [X] Read cracking the coding interview (49)
+       - [X] Read ZiO book
+       - [X] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Discipline training [50%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Anki
+       - [X] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Update Hackerrank
+       - [ ] Upload receipts
+       - [ ] See NAV docs
+       - [ ] Order handtorch
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Sign GPG key
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [8p]
+     - [X] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3560kCal]
+     - coffee (80kCal)
+     - porrige (360kCal)
+     - protein (120kCal)
+     - onion turkey (500kCal)
+     - order in (2500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.5 |       8 |         0 |  8225 |         5 |       8 |      71 | 3560 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
