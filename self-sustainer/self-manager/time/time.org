@@ -31763,3 +31763,110 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 95.5 |       8 |         0 |  8225 |         5 |       8 |      71 | 3560 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+
+*** <2026-04-28 Tue>
+**** ToDo [%]
+***** Routine [%]
+****** Morning [14%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [0%]
+       - [ ] Fresh water
+       - [ ] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [X] Take pills morning
+       - [ ] Take pills evening
+***** Outside activities [100%]
+      - [X] Japanese class
+***** Current ToDos [57%]
+****** ToDos for the day [20%]
+       - [X] Buy tickets
+       - [ ] Write Lajbi
+       - [ ] Install Win11
+       - [ ] Make hun cv
+       - [ ] Upload receipts
+****** Recurring [0%]
+       - [ ] Read cracking the coding interview (49)
+       - [ ] Read ZiO book
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Discipline training [0%]
+       - [ ] Get up early
+       - [ ] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [12%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+       - [X] Japanese daily challenge
+****** Videos [50%]
+       - [X] Upload videos
+       - [ ] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Update Hackerrank
+       - [ ] Upload receipts
+       - [ ] See NAV docs
+       - [ ] Order handtorch
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Sign GPG key
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Maintenance
+       - [ ] Wash dishes
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [kCal]
+     - order in (3500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 96.8 |       5 |         0 |       |         8 |       0 |         |      |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
