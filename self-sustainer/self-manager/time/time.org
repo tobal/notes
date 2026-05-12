@@ -31983,40 +31983,120 @@
      | 96.9 |       8 |         0 |  4704 |         7 |      12 |      66 | 2410 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
 *** <2026-04-30 Thu>
-**** ToDo [%]
-***** Routine [%]
-****** Morning [28%]
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+
+** May
+*** <2026-05-01 Fri>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-02 Sat>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-03 Sun>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-04 Mon>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-05 Tue>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-06 Wed>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-07 Thu>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-08 Fri>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-09 Sat>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-10 Sun>
+**** Stat table
+     +-----------+-------+
+     | Km driven | Steps |
+     +-----------+-------+
+     |           |       |
+     +-----------+-------+
+*** <2026-05-11 Mon>
+**** ToDo [63%]
+***** Routine [54%]
+****** Morning [71%]
        - [ ] Rhythm routine
-       - [ ] Warmup
+       - [X] Warmup
        - [X] Breakfast
        - [X] Commit org
-       - [ ] Meditation
-       - [ ] Make bed
+       - [X] Meditation
+       - [X] Make bed
        - [ ] Check deneb
-****** Evening [0%]
-       - [ ] Wash dishes
+****** Evening [20%]
+       - [X] Wash dishes
        - [ ] Bathroom
        - [ ] Reading
        - [ ] Stretch
        - [ ] Meditation
-****** Cat [0%]
-       - [ ] Fresh water
-       - [ ] Clean litterbox
+****** Cat [50%]
+       - [X] Fresh water
+       - [X] Clean litterbox
        - [ ] Play with cat
        - [ ] Train cat
-****** Biochemistry [50%]
+****** Biochemistry [75%]
        - [ ] Drink 3L water
        - [X] Kreatin
        - [X] Take pills morning
-       - [ ] Take pills evening
-***** Outside activities [50%]
-      - [X] Japanese class
-      - [ ] Béci visit
-***** Current ToDos [%]
+       - [X] Take pills evening
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Psychotherapy
+      - [X] Online TTRPG
+***** Current ToDos [35%]
 ****** ToDos for the day [50%]
-       - [X] Buy tobacco
-       - [X] Buy highway ticket
-       - [X] Prepare for Vienna
+       - [X] Write Bazsi
+       - [X] Pay japanese
+       - [X] Pay phone
        - [ ] Install Win11
        - [ ] Make hun cv
        - [ ] Upload receipts
@@ -32026,11 +32106,11 @@
        - [ ] Record Assetto Corsa gameplay
        - [ ] Record Horizon gameplay
        - [ ] Record StarCraft 2 gameplay
-****** Discipline training [50%]
+****** Discipline training [75%]
        - [X] Get up early
        - [X] Cook
        - [ ] Eat vegetables
-       - [ ] No unnecessary spending
+       - [X] No unnecessary spending
 ****** Practice [0%]
        - [ ] Kenjutsu slashes and steps
        - [ ] Piano practice
@@ -32065,8 +32145,8 @@
        - [ ] Read up on skincare
        - [ ] Take notes on BG devine spells
        - [ ] Take notes on BG arcane spells
-**** Workout [p]
-     - [ ] oldschool gym (8p)
+**** Workout [8p]
+     - [X] oldschool gym (8p)
      - [ ] kenjutsu training (4p)
      - [ ] juggling practice (6p)
      - [ ] party (6p)
@@ -32082,12 +32162,14 @@
        - [ ] 1
        - [ ] 2
        - [ ] 3
-**** Food [kCal]
+**** Food [1620kCal]
+     - coffee (150kCal)
      - porrige (360kCal)
-     - order in (3000kCal)
+     - protein bar (510kCal)
+     - onion turkey (600kCal)
 **** Stat table
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 95.5 |       4 |           |       |         7 |         |         |      |
+     | 95.0 |      12 |         0 |  4484 |         5 |       8 |      63 | 1620 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
