@@ -32280,3 +32280,134 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 93.5 |       7 |         0 |    24 |         8 |       0 |      49 | 3000 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-05-13 Wed>
+**** ToDo [77%]
+***** Routine [43%]
+****** Morning [71%]
+       - [ ] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [50%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [X] Take pills morning
+       - [ ] Take pills evening
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Kenjutsu training
+***** Current ToDos [87%]
+****** ToDos for the day [83%]
+       - [X] Groceries
+       - [X] Wash dishes
+       - [X] Wash bedding
+       - [X] Pick clothes from rack
+       - [X] Clean stairs
+       - [X] Put up curtain
+       - [X] Dedust window sill
+       - [ ] Declutter living room
+       - [ ] Dedust living room
+       - [X] Update cv with projects
+       - [X] Make hun cv
+       - [X] Send cv
+****** Recurring [50%]
+       - [X] Read IT book
+       - [ ] Record gameplay
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Anki
+       - [X] Japanese daily challenge
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Write character for Aurora
+       - [ ] Install Win11
+       - [ ] Upload receipts
+       - [ ] Update Hackerrank
+       - [ ] See NAV docs
+       - [ ] Order handtorch
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Sign GPG key
+       - [ ] Deneb irc
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Maintenance
+       - [ ] Wash dishes
+****** Apartment cleaning
+       - [ ] Wash dishes
+       - [ ] Wash clothes
+       - [ ] Pick clothes from rack
+       - [ ] Wash bedding
+       - [ ] Change bedding
+       - [ ] Wash curtain
+       - [ ] Put up curtain
+       - [ ] Dedust window sill
+       - [ ] Dedust stairs
+       - [ ] Dedust living room
+       - [ ] Declutter living room
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [12p]
+     - [X] oldschool gym (8p)
+     - [X] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [1510kCal]
+     - coffee (80kCal)
+     - porrige (360kCal)
+     - protein (120kCal)
+     - broccoli casserole (750kCal)
+     - dessert (200kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 94.2 |      10 |         0 |  4952 |         4 |      12 |      77 | 1510 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     
