@@ -111,4 +111,48 @@
      - after age up, research safe passage, then queue 2 villagers, rally them to food
      - research sanctuary, put 8 on wood, rally to food
      - build production, stable, then archery range
-** House of Lancaster
+*** Season 11
+    Guide I used:
+    [[https://www.youtube.com/watch?v=1IlDQcG1DBg][Insane 4 Minute 2 TC Build Order]]
+**** 2TC Boom
+     - 6 to sheep
+     - 1st and 2nd to come out build house and mining camp, then mine gold
+     - 3 rally to wood, then to food
+     - when 200 gold, send gold vills and 5 from food on stone
+     - send 4 from food to wood
+     - at 14 vills, age up
+     - when stragglers dry up, send vills back to food
+     - after ageup, build 2nd TC with stone vills
+
+** Sengoku Daimyo
+*** Season 12
+**** 2 yatai
+     - 5 to wood, 1 to build matsuri
+     - rally to deer, build house
+     - research wheelbarrow lvl1
+     - gather wood for 2 yatai, house, forge, then send the 5 to gold
+     - 8 to food, then 6 on gold, then rally to wood
+     - go feudal with ryokan, with 4 food vils
+     - after ageup start, leave 2 on gold, all others to wood
+     - barracks then stable near ryokan, make yari cavalry, spearman
+     - after 10 on wood, rally 3 to stone, then to food
+     - 6:00 8f 10w 2g 3s
+     - hojo estate, move stone vills to food
+     - research wheelbarrow lvl2, melee attack upgrade
+     - daimyo hero
+     - send 5-5 vills on outside food with tower, from sheep
+     - later make naginata samurai
+     - after a good fight, 8 on gold to go castle, with sake brewery
+     - in castle, relics, mine stone again, takeda estate, more production, etc
+**** 1 yatai
+     - 5 to straggler, 1 build house on berries
+     - chop 1 straggler, then send the 5 to berries
+     - research wheelbarrow when house is built
+     - 1st vill build matsuri on gold, 2nd vil rally to gold
+     - then rally to sheep
+     - build yatai, put on boar
+     - at 2:50, build ryokan with 5 sheep vils, shift click them to wood
+     - send vils from sheep to straggler, and rally to wood (until 12)
+     - build 2nd matsuri on woodline
+     - build stable, rally to food
+     - build more yatais, gather stone for estates, etc.

@@ -3,10 +3,31 @@
    - [[https://www.youtube.com/watch?v=OJs6qS5TQyo][How to macro]]
    - [[https://www.youtube.com/watch?v=7E26kgUnpQE][How to scout]]
 * Learning plan
-  - [ ] In-game training
-  - [ ] In-game 1 Vs AI battles
-  - [ ] In-game 2 Vs AI battles
-  - [ ] In-game 3 Vs AI battles
+  - [X] In-game training
+  - [-] In-game 1 Vs AI battles
+    - [X] Easy
+    - [X] Medium
+    - [X] Hard
+    - [ ] Harder
   - [ ] Dry practice macro
   - [ ] Dry practice scouting
   - [ ] Learn counters
+
+* Build orders
+** Terran 1-1-1
+   [[https://www.youtube.com/watch?v=MFfNnP7yVLA][Learn Starcraft! Easy Beginner Terran Build Order Guide & Training!]]
+   - 14: depot on ramp
+   - 16: barracks
+   - 16: refinery
+   - 18: send scout
+   - 19: orbital command
+   - 19: barracks reactor (-> marines)
+   - 19: 2nd CC
+   - 20: supply depot
+   - 23: factory
+   - bunker
+   - factory reactor (-> 1 cyclone)
+   - starport (-> vikings)
+   - 2nd refinery (at 25-26 SCVs)
+   - 2 barracks
+   - 3rd CC, 2 engineering bays (around 5 min)
