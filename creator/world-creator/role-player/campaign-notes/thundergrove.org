@@ -792,6 +792,44 @@
      - Másnap amikor eljön az idő, egy szivattyúval fel tudják tölteni a hidraulikus szerkezetet, és ki tudják nyitni
        a kaput. Az események figyelése közben észreveszik őket, tömegével jönnek a katonák, egy percig (10 kör) kell
        visszatartaniuk őket, hogy a kaput ki tudják nyitni, amire a katonák megfutamodnak az érkező sereg miatt.
+*** Tyndrosban
+    - miután a kaput kinyitották, a sereg elözönli a várost, könnyen elsöpörve az ellenállást
+      - a lakosok otthon maradnak, nincs civil mészárlás, a városvédők pedig hamar megadják magukat
+      - a városban, a sziklafalba épült erődítmény a Felvigyázók Rendjének központja, Daritus őket sem bántja
+    - miután elfoglalták a várost, és lenyugodtak a kedélyek, másnapra Daritus összehív egy tanácsülést
+      - itt megjelenik Ralf, a városi ellenállás vezetője, és Esabel is, aki beállt közéjük
+      - Esabel egy udvari varázsló, aki a királyi palotából szökött el, hogy a felkelők oldalára álljon
+      - sok infót tud, például hogy a király serege összemérhető a felkelés mostani seregével, de csatamágusok
+	segítik, így egyelőre nem ajánlja, hogy nyílt csatára hívják
+      - a főváros szinte bevehetetlen, az erődítményt erős varázslatok védik, amíg a király ott van, nem veszíthet,
+	és ezt ő is tudja
+      - a tartomány beli népesség nagyrészt hűséges a királyhoz, az itt élők valóban jólétben élnek, így nincs okuk,
+	hogy ne maradjanak hűségesek
+*** A szárnyas elfek felé
+    - a kalandozók elindulnak megkeresni a negyedik fegyvert, a hegyek felé
+    - arrafelé az úton, a hegyek lábánál csatlakozik hozzájuk Merlyel, és elvezeti őket a szárnyas elfekhez
+    - a szárnyas elfek városa egy fennsíkon van, amin egy hatalmas fa áll. Itt csak kevés talaj van, ezért a gyökerei
+      szétterülnek az egész fennsíkon, a város a gyökerek, és a fa ágai közé épült
+    - ahogy megérkeznek, Merlyel mint régi ismerőst köszönti a város vezetőjét, egy öreg szárnyas elfet. Meg is említi,
+      hogy még milyen siheder volt, amikor utoljára látta. A város vezetője Theodin.
+    - amikor a villámfegyverről érdeklődnek, elmondja, hogy egy toronyban van keletre innen, mert a város mágusai
+      vizsgálni akarták, kísérletezni vele. A többi elf nem akarta bolygatni ezt a szent tárgyat, de megengedték a
+      kísérleteket, viszont csak a várostól messzire. Ezért épült a torony a városon kívül.
+    - ha rákérdeznek, megtudhatják az egész sztorit, hogy az öt törzset még az ősidőkben egy nyugatra lévő kontinensről
+      száműzték. De mielőtt elhajóztak, mindegyik törzs ellopott egy magot az Ófáról. Az öt törzs egymással sem állt
+      jó viszonyban, ezért öt különböző helyen telepedtek meg, mindegyik elültette a maga Ófáját, majd nem sokkal később
+      háborúzni kezdtek egymással. Amikor az emberek megérkeztek, külön külön védekeztek, de amikor Nieven törzse
+      összehívta az öt törzset, meggyőzte őket, hogy össze kell fogniuk. Mindenki a maga eszközeivel próbált küzdeni
+      az emberáradat ellen, de folyamatosan teret nyertek. Az óelfek kieszelték, hogy meg kell akadályozni a hajón
+      érkező emberek utánpótlását, ezért létrehozták az öt fegyvert, amikbe belezárták a vihar erejét, és a segítségükkel
+      létrehoztak egy hatalmas mágikus vihart a sziget körül. Ám a szapora embereket ez nem állította meg, a több ezer
+      éven át tartó háború alatt szinte teljesen kiírtották az elfeket, Nieven törzsének írmagja sem maradt, a többi
+      törzs pedig bújkál. Egyedül Merlyel törzse tartja magát, az ő erdejüket nem tudták az emberek bevenni.
+    - az öt törzs: Merlyel törzse (déli erdei elfek), Nieven törzse (északi erdei elfek), Ehrendil törzse (vízi elfek),
+      Naevys törzse (hegyi elfek), Selanar törzse (sötét elfek)
+*** A torony
+    - A torony egy természetellenesen hegyes hegycsúcson van, ami valószínűleg mágiával lett ilyenre alakítva. A tetején
+      a középső csúcson kívül még négy melléktorony épült rá szintén kőből, ezek így együtt egy kézre emlékeztetnek.
 ** Krónika
 *** Karakterek
 **** Turi - Ardgal (dél)
