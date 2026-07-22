@@ -7,7 +7,35 @@
   - inventory
   - create[/drop] <objname>
   - desc <objname> = "description"
+  - charcreate TobiasFinch
+  - ic TobiasFinch
+  - test <skill>
 
 * Examples
   - teleport Berge Birtok
 
+
+* Character
+set self/physique=2
+set self/precision=3
+set self/logic=5
+set self/empathy=4
+
+set self/agility=1
+set self/close_combat=0
+set self/force=0
+
+set self/medicine=3
+set self/ranged_combat=0
+set self/stealth=1
+
+set self/investigation=1
+set self/learning=2
+set self/vigilance=1
+
+set self/inspiration=1
+set self/manipulation=0
+set self/observation=2
+
+set self/physical_condition=0
+set self/mental_condition=0
