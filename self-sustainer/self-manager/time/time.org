@@ -33,4 +33,21 @@
      |------+-----------+-------+-----------|
      | 96.9 |         0 |     0 |         5 |
      |------+-----------+-------+-----------|
-     
+*** <2026-08-05 Wed>
+**** ToDo [80%]
+     - [X] Cat care
+     - [X] AoE4 practice
+     - [X] Piano practice
+     - [X] AC practice
+     - [X] Groceries
+     - [X] Bring in stuff from car
+     - [X] Negotiate job opportunity
+     - [ ] Write Ice
+     - [X] Wash dishes
+     - [ ] Setup new phone
+**** Stat table
+     |------+---------+-----------+-------+-----------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs |
+     |------+---------+-----------+-------+-----------|
+     | 96.2 |       6 |         0 |     0 |         7 |
+     |------+---------+-----------+-------+-----------|
