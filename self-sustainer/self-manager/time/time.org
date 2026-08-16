@@ -221,5 +221,26 @@
      |------+---------+-----------+-------+-----------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs |
      |------+---------+-----------+-------+-----------|
-     | 96.4 |       2 |         0 |  3656 |         0 |
+     | 96.4 |       8 |         0 |  3656 |         0 |
+     |------+---------+-----------+-------+-----------|
+*** <2026-08-16 Sun>
+**** ToDo [69%]
+     - [X] Cat care
+     - [X] AoE4 practice
+     - [ ] Piano practice
+     - [X] AC practice
+     - [X] SC2 campaign
+     - [X] Pay kenjutsu stuff
+     - [X] Cook lunch
+     - [X] Online FFS Academy race
+     - [X] Online TTRPG
+     - [X] Write Matyi
+     - [ ] Write Ice
+     - [ ] Write István
+     - [ ] Setup new phone
+**** Stat table
+     |------+---------+-----------+-------+-----------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs |
+     |------+---------+-----------+-------+-----------|
+     | 97.2 |       6 |         0 |  2220 |         9 |
      |------+---------+-----------+-------+-----------|
