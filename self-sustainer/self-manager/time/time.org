@@ -1103,3 +1103,124 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 97.1 |       3 |         0 |     0 |         5 |       0 |       9 | 4420 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-03 Thu>
+**** ToDo [23%]
+***** Routine [16%]
+****** Morning [14%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [ ] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [ ] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [0%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+***** Current ToDos [30%]
+****** ToDos for the day [16%]
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Lajbi
+       - [ ] Write Pisti
+       - [X] Cook rice
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [25%]
+       - [ ] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [11%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [X] Age of Empires 4 practice
+       - [ ] Sim racing practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+       - [ ] Japanese daily challenge
+****** Videos [50%]
+       - [ ] Upload videos
+       - [X] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Write character for Aurora
+       - [ ] Install Win11
+       - [ ] Upload receipts
+       - [ ] Update Hackerrank
+       - [ ] See NAV docs
+       - [ ] Order handtorch
+       - [ ] Pay car insurance
+       - [ ] Buy ozora ticket
+       - [ ] Sign GPG key
+       - [ ] Deneb irc
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+       - [ ] Record Assetto Corsa gameplay
+       - [ ] Record Horizon gameplay
+       - [ ] Record StarCraft 2 gameplay
+****** Maintenance
+       - [ ] Wash dishes
+****** Apartment cleaning
+       - [ ] Wash dishes
+       - [ ] Wash clothes
+       - [ ] Pick clothes from rack
+       - [ ] Wash bedding
+       - [ ] Change bedding
+       - [ ] Wash curtain
+       - [ ] Put up curtain
+       - [ ] Dedust window sill
+       - [ ] Dedust stairs
+       - [ ] Dedust living room
+       - [ ] Declutter living room
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4260kCal]
+     - porrige (360kCal)
+     - bolognai (800kCal)
+     - virsli (600kCal)
+     - fried chicken (2500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.6 |      12 |         0 |   573 |         6 |       0 |      23 | 4260 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
