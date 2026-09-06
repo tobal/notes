@@ -1341,3 +1341,121 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 97.5 |      12 |         0 |     0 |         7 |       0 |      27 | 2900 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-05 Sat>
+**** ToDo [58%]
+***** Routine [51%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+***** Outside activities [100%]
+      - [X] Hairdresser
+      - [X] IKEA
+      - [X] Orsi visit
+***** Current ToDos [22%]
+****** ToDos for the day [0%]
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Lajbi
+       - [ ] Write Pisti
+       - [ ] Apply for Aldi jobs
+       - [ ] Review jobsearch tabs
+       - [ ] Review Patika pénztár
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [50%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [11%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+       - [ ] Japanese daily challenge
+****** Videos [0%]
+       - [ ] Upload videos
+       - [ ] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Update Hackerrank
+       - [ ] Order handtorch
+       - [ ] Sign GPG key
+       - [ ] Deneb irc
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+****** Maintenance
+       - [ ] Wash dishes
+****** Apartment cleaning
+       - [ ] Wash dishes
+       - [ ] Wash clothes
+       - [ ] Pick clothes from rack
+       - [ ] Wash bedding
+       - [ ] Change bedding
+       - [ ] Wash curtain
+       - [ ] Put up curtain
+       - [ ] Dedust window sill
+       - [ ] Dedust stairs
+       - [ ] Dedust living room
+       - [ ] Declutter living room
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (2p)
+     - [ ] kenjutsu routine (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [6360kCal]
+     - porrige (360kCal)
+     - egg fried rice (1500kCal)
+     - swedish meatballs + dessert (2500kCal)
+     - fried chicken (2000kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.3 |      12 |      16.8 |  4931 |         7 |       0 |      58 | 6360 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
