@@ -82,6 +82,15 @@
      - build blacksmith, then barracks
 **** 2 TC
 **** Fast castle
+*** Season 12
+    Guides I used:
+    [[https://www.youtube.com/watch?v=a_vx9ko5BCw][Rus basic 3 build orders]]
+**** Fast castle
+     TBD
+**** 2 Town Center
+     TBD
+**** Aggression
+     TBD
 ** Japanese
 *** Season 9
 **** Fast castle with Bannerman
@@ -156,3 +165,8 @@
      - build 2nd matsuri on woodline
      - build stable, rally to food
      - build more yatais, gather stone for estates, etc.
+
+* Exercises
+** Macro
+*** Fix your floating
+    [[https://www.youtube.com/watch?v=6MrURTs8V7o&t=482s][Macro exercise to fix your floating]]
