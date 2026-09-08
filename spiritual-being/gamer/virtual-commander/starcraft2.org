@@ -12,7 +12,6 @@
   - [ ] Dry practice macro
   - [ ] Dry practice scouting
   - [ ] Learn counters
-
 * Build orders
 ** Terran 1-1-1
    [[https://www.youtube.com/watch?v=MFfNnP7yVLA][Learn Starcraft! Easy Beginner Terran Build Order Guide & Training!]]
@@ -31,3 +30,29 @@
    - 2nd refinery (at 25-26 SCVs)
    - 2 barracks
    - 3rd CC, 2 engineering bays (around 5 min)
+** Terran 1-1-1 8 worker
+   [[https://www.youtube.com/watch?v=X05lKtVjrcs][Beginner Terran Opening - How to Play SC2 with 8 Worker Start]]
+   - 11: supply depot on ramp
+   - 12: barracks, refinery (cut worker prod)
+   - 16: reaper, orbital command
+   - 17: 2nd CC
+   - 19: supply depot
+*** TvP
+   - 20: barracks reactor (-> marines)
+   - 22: factory, 2nd refinery
+   - 35: next supply depot
+   - starport
+   - widow mines, medivac, for mine-drop
+   - bunker
+   - make tech labs
+   - 2 more barracks
+   - siege tank
+   - engineering bay, 3rd refinery
+   - raven, then starport on reactor (-> medivacs)
+   - stim, combat shields, +1 weapons
+   - then start marauder prod
+   - for all-in: 4th and 5th barracks
+*** TvT
+     TBD
+*** TvZ
+     TBD
