@@ -240,6 +240,8 @@
 **** Dávid
      - [X] Answer on messenger
 *** Family
+**** Birthday
+***** Mom sept 10
 **** Name day
 ***** Mom nov 19
 *** Coaching
