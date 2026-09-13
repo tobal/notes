@@ -2199,3 +2199,126 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.4 |      20 |         0 |  6569 |         5 |       8 |      65 | 2360 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-12 Sat>
+**** ToDo [19%]
+***** Routine [16%]
+****** Morning [28%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [0%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [0%]
+       - [ ] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Outside activities [0%]
+      - [ ] Juggling convention
+***** Current ToDos [40%]
+****** ToDos for the day [27%]
+       - [ ] Write Ice
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Noncsi
+       - [ ] Review jobsearch tabs
+       - [ ] Review Patika pénztár
+       - [X] Watch F2 sprint
+       - [X] Watch F1 qualifying
+       - [X] Watch AoE4 tournament EGC Masters Fall
+       - [ ] Begin IT learning
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [X] No unnecessary spending
+****** Practice [22%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Juggling routine
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Sim racing practice
+       - [ ] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [X] Anki
+****** Videos [50%]
+       - [ ] Upload videos
+       - [X] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Update Hackerrank
+       - [ ] Order handtorch
+       - [ ] Sign GPG key
+       - [ ] Deneb irc
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+****** Maintenance
+       - [ ] Wash dishes
+****** Apartment cleaning
+       - [ ] Wash dishes
+       - [ ] Wash clothes
+       - [ ] Pick clothes from rack
+       - [ ] Wash bedding
+       - [ ] Change bedding
+       - [ ] Wash curtain
+       - [ ] Put up curtain
+       - [ ] Dedust window sill
+       - [ ] Dedust stairs
+       - [ ] Dedust living room
+       - [ ] Declutter living room
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [0p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (4p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2100kCal]
+     - sunflower seeds (600kCal)
+     - hamburger (800kCal)
+     - dessert (300kCal)
+     - nuts (400kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.8 |       7 |         0 | 18867 |         6 |       0 |      19 | 2100 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
