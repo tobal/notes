@@ -3236,3 +3236,139 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.7 |       4 |         0 |  2344 |         6 |       1 |      68 | 1780 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-23 Wed>
+**** ToDo [66%]
+***** Routine [40%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [25%]
+       - [ ] Fresh water
+       - [ ] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [66%]
+       - [X] Shower
+       - [X] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Oldschool gym
+***** Current ToDos [59%]
+****** ToDos for the day [38%]
+       - [ ] Write Ice
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Noncsi
+       - [ ] Write Leitereg
+       - [ ] Review jobsearch tabs
+       - [ ] Review Patika pénztár
+       - [ ] Begin IT learning
+       - [ ] Review NAV docs
+       - [X] Update Siemes carrier profile, and apply to jobs
+       - [X] Clean katana
+       - [X] Write Lajos
+       - [X] Create career AI agent
+       - [X] Vote for AoE4 mappool
+       - [X] Bootstrap self-manager AI agent
+       - [X] Bootstrap career AI agent
+       - [ ] Make appointment for vacine for Zyzyx
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [33%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Juggling routine
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+***** ToDo backlog
+****** ToDos
+       - [ ] Update Hackerrank
+       - [ ] Order handtorch
+       - [ ] Sign GPG key
+       - [ ] Deneb irc
+****** Recurring
+       - [ ] Read cracking the coding interview
+       - [ ] Read ZiO book
+****** Maintenance
+       - [ ] Wash dishes
+****** Apartment cleaning
+       - [ ] Wash dishes
+       - [ ] Wash clothes
+       - [ ] Pick clothes from rack
+       - [ ] Wash bedding
+       - [ ] Change bedding
+       - [ ] Wash curtain
+       - [ ] Put up curtain
+       - [ ] Dedust window sill
+       - [ ] Dedust stairs
+       - [ ] Dedust living room
+       - [ ] Declutter living room
+****** Personal projects
+       - [ ] Install workstation
+       - [ ] Read up on skincare
+       - [ ] Take notes on BG devine spells
+       - [ ] Take notes on BG arcane spells
+**** Workout [8p]
+     - [X] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4930kCal]
+     - coffee (120kCal)
+     - porrige (360kCal)
+     - protein (120kCal)
+     - croissant (600kCal)
+     - rizseshús (560kCal)
+     - protein cottage cheese bar (130kCal)
+     - protein cottage cheese cream (90kCal)
+     - sandwich + cucumber (450kCal)
+     - fried chicken (2500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 96.9 |       7 |         0 |  2596 |         5 |       8 |      66 | 4930 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     
