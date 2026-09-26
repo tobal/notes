@@ -3495,3 +3495,98 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 97.4 |      10 |      15.9 |  5342 |         6 |       0 |      58 | 7480 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-25 Fri>
+**** ToDo [18%]
+***** Routine [21%]
+****** Morning [28%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [0%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [0%]
+       - [ ] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Outside activities [0%]
+      - [ ] Oldschool gym
+***** Current ToDos [34%]
+****** ToDos for the day [9%]
+       - [ ] Write Ice
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Noncsi
+       - [ ] Write Leitereg
+       - [ ] Review jobsearch tabs
+       - [ ] Review Patika pénztár
+       - [ ] Begin IT learning
+       - [ ] Review NAV docs
+       - [X] Learn beat sabre track
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [11%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Juggling routine
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [ ] Anki
+****** Videos [50%]
+       - [ ] Upload videos
+       - [X] Render videos
+**** Workout [2p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2500kCal]
+     - lefovers (500kCal)
+     - rakott káposzta konzerv (500kCal)
+     - gyros (1500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 99.0 |       8 |         0 |   780 |         6 |       2 |      18 | 2500 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
