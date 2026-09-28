@@ -1,0 +1,121 @@
+#+TITLE: Python Core Language Exercises: Numeric Types (int, float, complex, bool)
+
+#+begin_quote
+*Instructor Note*: These exercises target edge cases, runtime behaviors, precision mechanics, and subtyping rules for Python's core numeric types. Each task requires a concise functional implementation suitable for Unit Testing with ~pytest~ or ~unittest~.
+#+end_quote
+
+* 1. Integer Mechanics (int)
+
+** 1.1 Easy: Integer Division & Type Coercion
+- *Goal*: Implement a function ~divide_integer_modes(a: int, b: int) -> tuple[int, float, int]~.
+- *Description*: Compute exact integer floor division, true float division, and modulo in a single tuple.
+- *Key Takeaway*: True division (~/~) *always* returns a ~float~ even when the quotient is an exact integer, whereas floor division (~//~) preserves integer typing when given integers.
+- *Expected Behavior*:
+  - Input: ~(10, 3)~ -> Output: ~(3, 3.3333333333333335, 1)~
+  - Input: ~(10, 2)~ -> Output: ~(5, 5.0, 0)~
+  - Raises ~ZeroDivisionError~ if ~b == 0~.
+
+** 1.2 Medium: Arbitrary Precision & Byte Serialization
+- *Goal*: Implement two conversion functions: ~int_to_signed_bytes(n: int) -> bytes~ and ~signed_bytes_to_int(b: bytes) -> int~.
+- *Description*: Convert an arbitrary precision integer into its minimal big-endian signed two's-complement byte representation, and back.
+- *Key Takeaway*: Python integers have unlimited precision (bounded only by available RAM), but low-level/binary interactions require explicit byte sizing via ~n.to_bytes()~ and ~int.from_bytes()~.
+- *Expected Behavior*:
+  - ~int_to_signed_bytes(0)~ -> ~b'\x00'~
+  - ~int_to_signed_bytes(-128)~ -> ~b'\x80'~
+  - ~int_to_signed_bytes(1000)~ -> ~b'\x03\xe8'~
+  - Round-trip constraint: ~signed_bytes_to_int(int_to_signed_bytes(n)) == n~ for any integer ~n~.
+
+** 1.3 Hard: Fast Modular Exponentiation Without Overflow
+- *Goal*: Implement ~custom_pow_mod(base: int, exp: int, mod: int) -> int~.
+- *Description*: Compute ~(base ** exp) % mod~ using the binary exponentiation algorithm (repeated squaring) in $O(\log(\text{exp}))$ time complexity, without using Python's built-in 3-argument ~pow()~ or computing ~base ** exp~ directly.
+- *Key Takeaway*: Large exponents (~2 ** 1000000~) can consume gigabytes of memory if evaluated before modulo. Taking modulo at every intermediate multiplication keeps space complexity $O(1)$ and avoids memory exhaustion.
+- *Expected Behavior*:
+  - ~custom_pow_mod(2, 10, 1000)~ -> ~24~
+  - ~custom_pow_mod(7, 256, 13)~ -> ~9~
+  - Raises ~ValueError~ if ~exp < 0~ or ~mod <= 0~.
+
+
+* 2. Floating-Point Mechanics (float)
+
+** 2.1 Easy: Safe Float Equality Comparison
+- *Goal*: Implement ~is_float_close(a: float, b: float, rel_tol: float = 1e-9, abs_tol: float = 0.0) -> bool~.
+- *Description*: Determine if two floating-point numbers are effectively equal given relative and absolute tolerances, without using ~math.isclose()~.
+- *Key Takeaway*: Due to IEEE 754 binary representation limitations, simple arithmetic like ~0.1 + 0.2 == 0.3~ evaluates to ~False~ (~0.30000000000000004~). Direct float equality ~==~ should almost never be used in production algorithms.
+- *Expected Behavior*:
+  - ~is_float_close(0.1 + 0.2, 0.3)~ -> ~True~
+  - ~is_float_close(1e-9, 2e-9, abs_tol=1e-8)~ -> ~True~
+  - ~is_float_close(1.0, 1.001, rel_tol=1e-4)~ -> ~False~
+
+** 2.2 Medium: Handling NaN and Infinities
+- *Goal*: Implement ~clean_float_array(values: list[float], fallback: float = 0.0) -> list[float]~.
+- *Description*: Process a list of floats, replacing all ~NaN~, ~+inf~, and ~-inf~ values with ~fallback~, without importing the ~math~ module.
+- *Key Takeaway*: ~NaN~ has the unique property that ~x != x~ is ~True~. Infinities satisfy ~abs(x) == float('inf')~. Operations on ~NaN~ propagate silently, causing subtle calculation bugs.
+- *Expected Behavior*:
+  - ~clean_float_array([1.0, float('nan'), float('inf'), -float('inf'), 3.5], fallback=-1.0)~ -> ~[1.0, -1.0, -1.0, -1.0, 3.5]~
+
+** 2.3 Hard: Exact Rational Decomposition & Negative Zero Detection
+- *Goal*: Implement ~decompose_float(f: float) -> tuple[int, int, bool]~.
+- *Description*: Decompose a float into its exact numerator, denominator (as simplified fraction tuple ~n/d~), and a boolean flag indicating whether the input float was negative zero (~-0.0~).
+- *Key Takeaway*: IEEE 754 floats support dual signed zero (~0.0~ and ~-0.0~). While ~0.0 == -0.0~ is ~True~, their IEEE bit patterns and behavior in operations like ~atan2~ or division (~1.0 / -0.0 -> -inf~) differ.
+- *Expected Behavior*:
+  - ~decompose_float(0.75)~ -> ~(3, 4, False)~
+  - ~decompose_float(-0.0)~ -> ~(0, 1, True)~
+  - ~decompose_float(0.0)~ -> ~(0, 1, False)~
+
+
+* 3. Complex Number Mechanics (complex)
+
+** 3.1 Easy: Conjugate & Polar Magnitude
+- *Goal*: Implement ~analyze_complex(z: complex) -> tuple[float, float, complex]~.
+- *Description*: Given a complex number ~z~, return a tuple containing its real part, imaginary part, and complex conjugate.
+- *Key Takeaway*: Complex numbers in Python are built-in primitives (~3 + 4j~). Conjugates (~z.conjugate()~) flip the imaginary sign, essential for computing magnitude squared ~$z \cdot \bar{z} = a^2 + b^2$~.
+- *Expected Behavior*:
+  - ~analyze_complex(3 + 4j)~ -> ~(3.0, 4.0, (3-4j))~
+  - ~analyze_complex(5.0)~ -> ~(5.0, 0.0, (5+0j))~
+
+** 3.2 Medium: Manual String Parsing of Complex Literals
+- *Goal*: Implement ~parse_complex_str(s: str) -> complex~.
+- *Description*: Parse strings formatted as ~"a+bj"~, ~"a-bj"~, ~"bj"~, ~"a"~, or ~"-bj"~ into native Python ~complex~ objects without using ~eval()~ or the built-in ~complex()~ constructor.
+- *Key Takeaway*: Python uses ~j~ or ~J~ for the imaginary unit (engineering convention), not ~i~. Parsing complex input manually requires handling optional signs for both real and imaginary components.
+- *Expected Behavior*:
+  - ~parse_complex_str("3+4j")~ -> ~3 + 4j~
+  - ~parse_complex_str("-2.5-1.5j")~ -> ~-2.5 - 1.5j~
+  - ~parse_complex_str("-4j")~ -> ~-4j~
+  - ~parse_complex_str("10.5")~ -> ~10.5 + 0j~
+
+** 3.3 Hard: Robust Complex Division Guarding Overflow
+- *Goal*: Implement ~safe_complex_div(z1: complex, z2: complex) -> complex~.
+- *Description*: Implement complex division $\frac{a+bi}{c+di} = \frac{(ac+bd) + (bc-ad)i}{c^2+d^2}$ manually using Smith's scaled division algorithm to prevent intermediate numeric overflow when $|c|$ or $|d|$ is very large.
+- *Key Takeaway*: Naively computing $c^2 + d^2$ can overflow float limits ($> 1.79 \times 10^{308}$) even when the overall quotient is well within representable float bounds.
+- *Expected Behavior*:
+  - ~safe_complex_div(1 + 2j, 3 + 4j)~ -> ~(0.44 + 0.08j)~
+  - ~safe_complex_div(1 + 1j, 1e200 + 1e200j)~ -> ~(1e-200 + 0j)~
+  - Raises ~ZeroDivisionError~ if ~z2 == 0j~.
+
+
+* 4. Boolean Mechanics (bool)
+
+** 4.1 Easy: Boolean Subtyping & Explicit Type Verification
+- *Goal*: Implement ~count_pure_booleans(items: list[typing.Any]) -> tuple[int, int]~.
+- *Description*: Iterate over a list of mixed objects and return ~(true_count, false_count)~ counting *only* pure ~bool~ instances.
+- *Key Takeaway*: ~bool~ is a direct subclass of ~int~ in Python (~isinstance(True, int)~ is ~True~ and ~True + True == 2~). To distinguish pure booleans from integers, ~type(x) is bool~ must be checked instead of ~isinstance(x, int)~.
+- *Expected Behavior*:
+  - ~count_pure_booleans([True, 1, 0, False, "True", True])~ -> ~(2, 1)~
+
+** 4.2 Medium: Truthiness Evaluation & Short-Circuit Default
+- *Goal*: Implement ~resolve_first_truthy(*args: typing.Any, default: typing.Any = None) -> typing.Any~.
+- *Description*: Return the first value from ~*args~ that evaluates to a truthy boolean context, or ~default~ if all are falsy. Do not convert the returned value to ~bool~.
+- *Key Takeaway*: In Python, logical ~or~ returns the actual operand object that satisfied truthiness, not a boolean literal ~True~ or ~False~. Falsy objects include ~None~, ~0~, ~0.0~, ~""~, ~[]~, ~{}~, ~set()~.
+- *Expected Behavior*:
+  - ~resolve_first_truthy("", [], 0, "hello", "world")~ -> ~"hello"~
+  - ~resolve_first_truthy(None, False, 0.0, default="fallback")~ -> ~"fallback"~
+
+** 4.3 Hard: Custom Object Truthiness Control (__bool__ vs __len__)
+- *Goal*: Implement a class ~SmartBuffer~ that encapsulates a dynamic ~list~ of items, with configurable boolean evaluation rules.
+- *Description*:
+  - If instantiated with ~eval_mode="count"~, ~bool(buffer)~ returns ~True~ if and only if ~len(buffer) > 0~.
+  - If instantiated with ~eval_mode="sum"~, ~bool(buffer)~ returns ~True~ if and only if ~sum(elements) != 0~.
+- *Key Takeaway*: When Python evaluates ~bool(obj)~, it first looks for ~__bool__()~. If ~__bool__()~ is not defined, it falls back to ~__len__() != 0~. If neither is defined, instances of user-defined classes are always ~True~.
+- *Expected Behavior*:
+  - ~buf = SmartBuffer([-5, 5], eval_mode="sum")~ -> ~len(buf) == 2~, but ~bool(buf) == False~.
+  - ~buf2 = SmartBuffer([-5, 5], eval_mode="count")~ -> ~bool(buf2) == True~.

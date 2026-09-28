@@ -1,0 +1,602 @@
+#+TITLE: Python Core Language Reference Checklist
+
+#+begin_quote
+  *Scope Note*: This checklist provides an exhaustive reference of all core language syntax,
+  semantics, data model components, execution mechanics, keywords, operators, and dunder methods
+  in *Python 3* (up to Python 3.12+). Built-in standard library modules (such as =sys=, =os=,
+  =collections=, =itertools=, =asyncio=, =math=) are intentionally excluded to focus strictly on core
+  language elements and runtime primitives.
+#+end_quote
+
+* 1. Lexical Structure & Basic Syntax
+
+** 1.1 Comments & Docstrings
+- Inline Comments
+  - Syntax: =# Comment text=
+- Block Comments
+  - Multi-line sequential =#= lines
+- Module Docstrings
+  - Top-of-file =""" Module documentation """= or =''' Module documentation '''=
+- Class Docstrings
+  - Under class header =""" Class documentation """=
+- Function and Method Docstrings
+  - Under function header =""" Function documentation """=
+
+** 1.2 Identifiers & Naming Rules
+- Variable Naming Rules
+  - Case-sensitivity (=var= vs =Var=)
+  - Unicode Identifiers support (PEP 3131)
+  - Single Leading Underscore (=_variable= convention for internal/private)
+  - Single Trailing Underscore (=variable_= convention to avoid keyword collisions)
+  - Double Leading Underscore (=__variable= name mangling inside class context)
+  - Double Leading and Trailing Underscores (=__variable__= reserved system/dunder names)
+
+** 1.3 Reserved Keywords (Exhaustive List)
+- Boolean & Null Keywords
+  - False
+  - None
+  - True
+- Logical Operators
+  - and
+  - or
+  - not
+- Control Flow & Conditionals
+  - if
+  - elif
+  - else
+  - for
+  - while
+  - break
+  - continue
+  - pass
+- Function & Class Definitions
+  - def
+  - class
+  - lambda
+  - return
+  - yield
+- Exception Handling
+  - try
+  - except
+  - finally
+  - raise
+  - assert
+- Imports & Namespaces
+  - import
+  - from
+  - as
+  - global
+  - nonlocal
+- Scope & Context Management
+  - with
+  - del
+  - in
+  - is
+- Asynchronous Programming
+  - async
+  - await
+- Soft Keywords (Contextual Keywords)
+  - match (Subject evaluation in structural pattern matching)
+  - case (Clause block in structural pattern matching)
+  - _ (Wildcard pattern / discard target)
+  - type (Type alias statement keyword in Python 3.12+)
+
+** 1.4 Literals
+- Integer Literals
+  - Decimal Literals (=0=, =123=, =1_000_000=)
+  - Binary Literals (=0b1010=, =0B1010=)
+  - Octal Literals (=0o755=, =0O755=)
+  - Hexadecimal Literals (=0xFF=, =0XFF=)
+  - Underscore Digit Separators (=1_000_000=, =0x_FF_FF=)
+- Floating-Point Literals
+  - Point Float (=3.14=, =.5=, =10.=)
+  - Exponent Float (=1e-5=, =2.5E+10=, =1_000.000_1=)
+- Imaginary / Complex Literals
+  - Imaginary Integers and Floats (=3j=, =4.2J=, =1e-3j=)
+- String Literals
+  - Single-Quoted Strings (='text'=)
+  - Double-Quoted Strings (="text"=)
+  - Triple-Quoted Multiline Strings (='''text'''=, ="""text"""=)
+  - Raw Strings (=r"raw\text"=, =R"raw\text"=)
+  - Byte Strings (=b"bytes"=, =B"bytes"=, =br"rawbytes"=, =rb"rawbytes"=)
+  - Formatted String Literals / F-Strings (=f"val={x}"=, =F"val={x}"=, =fr"text"=, =rf"text"=)
+    - F-string self-documenting debugging syntax (=f"{x=}"=)
+    - F-string format specifiers (=f"{val:.2f}"=, =f"{val:>10}"=)
+    - F-string conversion flags (=!r= for repr, =!s= for str, =!a= for ascii)
+    - Nested F-strings and arbitrary quote re-use (Python 3.12+)
+- Escape Sequences (Exhaustive List)
+  - =\\= (Backslash)
+  - =\'= (Single Quote)
+  - =\"= (Double Quote)
+  - =\a= (ASCII Bell)
+  - =\b= (ASCII Backspace)
+  - =\f= (ASCII Formfeed)
+  - =\n= (ASCII Linefeed)
+  - =\r= (ASCII Carriage Return)
+  - =\t= (ASCII Horizontal Tab)
+  - =\v= (ASCII Vertical Tab)
+  - =\ooo= (Character with octal value ooo)
+  - =\xhh= (Character with hex value hh)
+  - =\N{name}= (Character named name in Unicode database)
+  - =\uxxxx= (Character with 16-bit hex value xxxx)
+  - =\Uxxxxxxxx= (Character with 32-bit hex value xxxxxxxx)
+- Special Constants
+  - True
+  - False
+  - None
+  - Ellipsis (=...=)
+
+** 1.5 Line Structure & Indentation
+- Off-Side Rule (4-space indentation standard)
+- Explicit Line Continuation Backslash (=\=)
+- Implicit Line Continuation Inside Parentheses =()=, Brackets =[]=, and Braces ={ philosophy}=
+- Compound Statements on Single Line Semicolon Separator (=;=)
+
+** 1.6 Statements vs. Expressions
+- Expressions (Evaluates to a concrete value)
+- Statements (Modifies execution state or flow control)
+
+* 2. Core Built-in Data Types
+
+** 2.1 Numeric Types
+- int (Arbitrary precision integer)
+- float (IEEE 754 double precision floating point)
+- complex (Complex number with real and imag floating point parts)
+- bool (Boolean subtype of int: True and False)
+
+** 2.2 Sequence Types
+- str (Immutable sequence of Unicode code points)
+- list (Mutable dynamic array of heterogeneous elements)
+- tuple (Immutable sequence of heterogeneous elements)
+- range (Immutable sequence of numbers generated on demand)
+- bytes (Immutable sequence of single bytes in range 0 <= x < 256)
+- bytearray (Mutable sequence of single bytes in range 0 <= x < 256)
+- memoryview (Buffer protocol interface for shared memory access without copying)
+
+** 2.3 Set Types
+- set (Mutable unordered collection of unique hashable elements)
+- frozenset (Immutable hashable set)
+
+** 2.4 Mapping Types
+- dict (Mutable key-value mapping with guaranteed insertion-order preservation)
+
+** 2.5 Special Runtime Types & Constants
+- NoneType (Singleton object None representing absence of value)
+- EllipsisType (Singleton object Ellipsis / ... used in slicing and type placeholders)
+- NotImplementedType (Singleton object NotImplemented returned by binary methods)
+
+* 3. Operators & Expressions
+
+** 3.1 Arithmetic Operators
+- Addition (=+=)
+- Subtraction (=-=)
+- Multiplication (=*=)
+- Matrix Multiplication (=@=)
+- True Division (=/=)
+- Floor Division (=//=)
+- Modulo (=%=")
+- Exponentiation (=**=)
+- Unary Positive (=+=)
+- Unary Negative (=-=)
+
+** 3.2 Assignment & Compound Operators
+- Simple Assignment (===)
+- Addition Assignment (=+==)
+- Subtraction Assignment (=-==)
+- Multiplication Assignment (=*==)
+- Matrix Multiplication Assignment (=@==)
+- True Division Assignment (=/==)
+- Floor Division Assignment (=//==)
+- Modulo Assignment (=%==)
+- Exponentiation Assignment (=**==)
+- Bitwise AND Assignment (=&=)
+- Bitwise OR Assignment (=|==)
+- Bitwise XOR Assignment (=^==)
+- Bitwise Left Shift Assignment (=<<==)
+- Bitwise Right Shift Assignment (=>>==)
+- Assignment Expression / Walrus Operator (=:==) (Python 3.8+)
+
+** 3.3 Comparison Operators
+- Equal (====)
+- Not Equal (=!==)
+- Less Than (=<=)
+- Less Than or Equal (=<==)
+- Greater Than (=>=)
+- Greater Than or Equal (=>==)
+- Object Identity (=is=)
+- Negated Object Identity (=is not=)
+- Membership (=in=)
+- Negated Membership (=not in=)
+
+** 3.4 Logical Operators
+- Short-Circuit Logical AND (=and=)
+- Short-Circuit Logical OR (=or=)
+- Logical NOT (=not=)
+
+** 3.5 Bitwise Operators
+- Bitwise AND (=&=)
+- Bitwise OR (=|=)
+- Bitwise XOR (=^=)
+- Bitwise Inversion / NOT (=~=)
+- Bitwise Left Shift (=<<=)
+- Bitwise Right Shift (=>>=)
+
+** 3.6 Unpacking Operators
+- Iterable Positional Unpacking (=*args=, =a, *rest, b = sequence=)
+- Mapping Keyword Unpacking (=**kwargs=, ={**dict1, **dict2}=)
+
+** 3.7 Indexing & Slicing Mechanics
+- Single Item Indexing (=sequence[index]=)
+- Basic Slicing (=sequence[start:stop]=)
+- Extended Slicing (=sequence[start:stop:step]=)
+- Explicit Slice Object Creation (=slice(start, stop, step)=)
+
+* 4. Control Flow Mechanics
+
+** 4.1 Conditional Execution
+- if Statement
+- elif Clause
+- else Clause
+- Ternary / Conditional Expression (=x if condition else y=)
+
+** 4.2 Looping Mechanisms
+- while Loop
+- for ... in ... Loop
+- Loop Control: break
+- Loop Control: continue
+- Loop Control: pass
+- Loop else Clause (Executes when loop terminates without encountering break)
+
+** 4.3 Structural Pattern Matching (Python 3.10+)
+- match Statement Subject Evaluation
+- case Clause
+- Literal Patterns (Numbers, Strings, Booleans, None)
+- Capture Patterns (Variable Name Assignment)
+- Wildcard Pattern (=_=)
+- OR Patterns (=pattern1 | pattern2=)
+- AS Patterns / Value Binding (=pattern as target=)
+- Sequence Patterns (=[x, y, *rest]=, =(a, b)=)
+- Mapping Patterns (={"key": val, **rest}=)
+- Class / Constructor Patterns (=Point(x=x, y=y)=)
+- Pattern Guards (=case pattern if guard_condition=)
+
+** 4.4 Exception Handling
+- try Block
+- except Exception as e Block
+- try ... else Block (Executes when no exception is raised)
+- try ... finally Block (Always executes regardless of exceptions)
+- Exception Raising (=raise ExceptionInstance= / =raise=)
+- Explicit Exception Chaining (=raise NewException from original_exc=)
+- Suppressing Exception Context (=raise NewException from None=)
+- Assertions (=assert condition, "Error message"=)
+- Exception Groups (=ExceptionGroup=, =BaseExceptionGroup=) (Python 3.11+)
+- Except* Syntax for Exception Groups (=except* SpecificException as e=) (Python 3.11+)
+
+* 5. Functions & Execution Scopes
+
+** 5.1 Function Definitions
+- Syntax (=def name(params):=)
+- Positional Parameters
+- Default Parameter Values (and mutable default argument traps)
+- Arbitrary Positional Arguments (=*args=)
+- Arbitrary Keyword Arguments (=**kwargs=)
+- Positional-Only Parameter Divider (=/=) (Python 3.8+)
+- Keyword-Only Parameter Divider (=*=)
+- Return Statement (=return value= / =return=)
+
+** 5.2 Anonymous Functions
+- Lambda Syntax (=lambda x, y: expression=)
+
+** 5.3 Execution Scopes & Resolution (LEGB Rule)
+- Local Scope (Inside current function execution frame)
+- Enclosing Scope (Outer functions in nested lexical closures)
+- Global Scope (Module level execution frame)
+- Built-in Scope (Built-in namespace)
+- global Keyword Declaration
+- nonlocal Keyword Declaration
+- First-Class Functions (Passing, storing, and returning functions)
+- Lexical Closures (Functions retaining enclosing environment variables)
+
+** 5.4 Decorators
+- Function Decorator Syntax (=@decorator=)
+- Stacking Multiple Decorators (=@dec1= then =@dec2=)
+- Parameterized Decorators / Decorator Factories (=@decorator_factory(arg)=)
+- Class Decorators (=@decorator= on class definitions)
+
+** 5.5 Type Annotations Syntax
+- Function Parameter Annotations (=def func(x: int):=)
+- Function Return Annotations (=def func() -> str:=)
+- Variable Type Annotations (=variable: float = 3.14=)
+- Type Alias Statement (=type AliasName = TargetType=) (Python 3.12+)
+
+* 6. Comprehensions, Iterators & Generators
+
+** 6.1 Comprehensions
+- List Comprehension (=[expr for item in iterable if condition]=)
+- Set Comprehension (={expr for item in iterable if condition}=)
+- Dict Comprehension (={key_expr: val_expr for item in iterable if condition}=)
+- Nested Comprehensions (=[x for row in matrix for x in row]=)
+
+** 6.2 Generator Expressions
+- Lazy Generator Syntax (=(expr for item in iterable if condition)=)
+
+** 6.3 Iterator Protocol Mechanics
+- Iterable vs. Iterator Definitions
+- __iter__() Method Implementation
+- __next__() Method Implementation
+- Built-in iter() Function (=iter(iterable)= and =iter(callable, sentinel)=)
+- Built-in next() Function (=next(iterator)= and =next(iterator, default)=)
+- StopIteration Exception Signaling
+
+** 6.4 Generators & Sub-generators
+- Yield Statement (=yield value=)
+- Yield From Expression (=yield from sub_iterable= / =yield from sub_generator=)
+- Generator Method: =send(value)=
+- Generator Method: =throw(type, value, traceback)=
+- Generator Method: =close()=
+
+* 7. Object-Oriented Architecture (OOP)
+
+** 7.1 Class Definitions & Instantiation
+- class ClassName Definition Syntax
+- Object Creation Method =__new__(cls, *args, **kwargs)=
+- Instance Initialization Method =__init__(self, *args, **kwargs)=
+- Instance Attributes vs Class Attributes
+- Instance Methods and Self Binding
+
+** 7.2 Inheritance & Polymorphism
+- Single Class Inheritance (=class Child(Parent):=)
+- Multiple Inheritance (=class Child(Parent1, Parent2):=)
+- Method Resolution Order (MRO) & C3 Linearization
+- MRO Inspection Methods (=Class.mro()=, =Class.__mro__=)
+- Cooperative Supercalls via super() (=super().__init__()=)
+
+** 7.3 Encapsulation & Access Modifiers
+- Public Attributes (=attribute_name=)
+- Protected Convention (=_attribute_name=)
+- Private Attributes & Name Mangling (=__attribute_name= -> =_ClassName__attribute_name=)
+
+** 7.4 Method Decorators
+- @classmethod (Implicit =cls= class parameter binding)
+- @staticmethod (No implicit instance or class parameter binding)
+- @property (Getter method wrapper)
+- @property.setter (Setter method wrapper)
+- @property.deleter (Deleter method wrapper)
+
+** 7.5 Special Attributes
+- __dict__ (Instance/class attribute dictionary)
+- __doc__ (Class/function docstring)
+- __module__ (Module name where defined)
+- __class__ (Class reference)
+- __bases__ (Tuple of direct base classes)
+- __mro__ (Tuple of classes in MRO order)
+- __slots__ (Restricting instance attribute creation and suppressing =__dict__=)
+
+* 8. Data Model & Special (Dunder) Methods (Exhaustive List)
+
+** 8.1 Object Lifecycle & Creation
+- __new__(cls, *args, **kwargs)
+- __init__(self, *args, **kwargs)
+- __del__(self)
+
+** 8.2 String & Byte Representations
+- __repr__(self)
+- __str__(self)
+- __bytes__(self)
+- __format__(self, format_spec)
+- __fspath__(self)
+
+** 8.3 Comparison & Equality
+- __lt__(self, other)
+- __le__(self, other)
+- __eq__(self, other)
+- __ne__(self, other)
+- __gt__(self, other)
+- __ge__(self, other)
+
+** 8.4 Hashing & Truth Value
+- __hash__(self)
+- __bool__(self)
+
+** 8.5 Attribute Access Control
+- __getattr__(self, name)
+- __getattribute__(self, name)
+- __setattr__(self, name, value)
+- __delattr__(self, name)
+- __dir__(self)
+
+** 8.6 Descriptor Protocol
+- __get__(self, instance, owner)
+- __set__(self, instance, value)
+- __delete__(self, instance)
+- __set_name__(self, owner, name)
+
+** 8.7 Class Hooks & Metaclass Mechanics
+- __init_subclass__(cls, **kwargs)
+- __class_getitem__(cls, key)
+- __mro_entries__(self, bases)
+- __prepare__(name, bases, **kwds)
+
+** 8.8 Container, Sequence & Mapping Protocols
+- __len__(self)
+- __length_hint__(self)
+- __getitem__(self, key)
+- __setitem__(self, key, value)
+- __delitem__(self, key)
+- __missing__(self, key)
+- __iter__(self)
+- __next__(self)
+- __reversed__(self)
+- __contains__(self, item)
+
+** 8.9 Callable Protocol
+- __call__(self, *args, **kwargs)
+
+** 8.10 Context Management Protocols
+- __enter__(self)
+- __exit__(self, exc_type, exc_val, exc_tb)
+- __aenter__(self)
+- __aexit__(self, exc_type, exc_val, exc_tb)
+
+** 8.11 Binary Arithmetic Operators
+- __add__(self, other)
+- __sub__(self, other)
+- __mul__(self, other)
+- __matmul__(self, other)
+- __truediv__(self, other)
+- __floordiv__(self, other)
+- __mod__(self, other)
+- __divmod__(self, other)
+- __pow__(self, other[, modulo])
+- __lshift__(self, other)
+- __rshift__(self, other)
+- __and__(self, other)
+- __xor__(self, other)
+- __or__(self, other)
+
+** 8.12 Swapped / Reverse Arithmetic Operators
+- __radd__(self, other)
+- __rsub__(self, other)
+- __rmul__(self, other)
+- __rmatmul__(self, other)
+- __rtruediv__(self, other)
+- __rfloordiv__(self, other)
+- __rmod__(self, other)
+- __rdivmod__(self, other)
+- __rpow__(self, other)
+- __rlshift__(self, other)
+- __rrshift__(self, other)
+- __rand__(self, other)
+- __rxor__(self, other)
+- __ror__(self, other)
+
+** 8.13 In-Place Arithmetic Operators
+- __iadd__(self, other)
+- __isub__(self, other)
+- __imul__(self, other)
+- __imatmul__(self, other)
+- __itruediv__(self, other)
+- __ifloordiv__(self, other)
+- __imod__(self, other)
+- __ipow__(self, other)
+- __ilshift__(self, other)
+- __irshift__(self, other)
+- __iand__(self, other)
+- __ixor__(self, other)
+- __ior__(self, other)
+
+** 8.14 Unary Operations & Conversions
+- __neg__(self)
+- __pos__(self)
+- __abs__(self)
+- __invert__(self)
+- __complex__(self)
+- __int__(self)
+- __float__(self)
+- __index__(self)
+- __round__(self[, n])
+- __trunc__(self)
+- __floor__(self)
+- __ceil__(self)
+
+* 9. Context Managers & Resource Management
+
+** 9.1 The with Statement
+- Single Context Manager (=with expr as target:=)
+- Multiple Context Managers (=with A() as a, B() as b:=)
+- Parenthesized Context Managers (=with (A() as a, B() as b):=)
+
+** 9.2 Context Manager Protocol Mechanics
+- Execution of __enter__() and Value Binding
+- Execution of __exit__() on Normal Block Completion
+- Exception Handling in __exit__() and Exception Suppression (Returning Truthy Value)
+
+** 9.3 Asynchronous Context Managers
+- The async with Statement
+- Execution of __aenter__() Coroutine
+- Execution of __aexit__() Coroutine
+
+* 10. Concurrency & Asynchronous Keywords
+
+** 10.1 Coroutine Definitions & Execution
+- Native Coroutine Syntax (=async def func_name():=)
+- Await Expression Syntax (=await coroutine_expression=)
+
+** 10.2 Async Iteration Protocol
+- Async Iteration Syntax (=async for item in async_iterable:=)
+- Async Loop else Clause
+- __aiter__() Method Implementation
+- __anext__() Method Implementation (Returning Awaitable)
+
+** 10.3 Async Context Management
+- async with Statement
+
+** 10.4 Async Comprehensions
+- Async List Comprehension (=[await x for x in async_iterable]=)
+- Async Set Comprehension (={await x for x in async_iterable}=)
+- Async Dict Comprehension (={k: await v for k, v in async_iterable}=)
+- Async Generator Expression (=(await x for x in async_iterable)=)
+
+* 11. Modern Type System Constructs (Language Level)
+
+** 11.1 Generic Standard Collections (Python 3.9+)
+- list[T]
+- dict[K, V]
+- tuple[T, ...]
+- set[T]
+- frozenset[T]
+- type[T]
+
+** 11.2 Union Operator Pipe Syntax (Python 3.10+)
+- Pipe Union Operator (=int | float | str=)
+- Optional Representation (=T | None=)
+
+** 11.3 Type Alias Statement (Python 3.12+)
+- type Keyword Syntax (=type Vector = list[float]=)
+
+** 11.4 Type Parameter Lists (Python 3.12+)
+- Generic Function Type Parameter Syntax (=def func[T](arg: T) -> T:=)
+- Generic Class Type Parameter Syntax (=class Stack[T]:=)
+- Type Parameter Bounds (=def func[T: BaseClass](arg: T):=)
+- Type Parameter Constraints (=def func[T: (int, str)](arg: T):=)
+- Parameter Specification Types (=[**P]=)
+- Variadic Type Variables / TypeVarTuple (=[*Ts]=)
+
+* 12. Execution Model, Modules & Metaprogramming
+
+** 12.1 Modules & Packages
+- Module Import Syntax
+  - import module_name
+  - import module_name as alias
+  - from module_name import item
+  - from module_name import item as alias
+  - from module_name import *
+- Relative Imports
+  - from . import sibling
+  - from ..parent import module
+- Package Initialization (__init__.py)
+- Module Namespace Attributes (Exhaustive List)
+  - __name__
+  - __file__
+  - __doc__
+  - __package__
+  - __spec__
+  - __all__ (Explicit public interface export tuple/list)
+  - __path__
+- Execution Entry Point Check (=if __name__ == '__main__':=)
+
+** 12.2 Dynamic Code Evaluation Primitives
+- eval(expression, globals=None, locals=None)
+- exec(object, globals=None, locals=None)
+- compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1)
+
+** 12.3 Metaclasses & Class Creation Mechanics
+- type as Default Metaclass
+- Dynamic Class Creation with =type(name, bases, dict)=
+- Custom Metaclass Definition (=class Meta(type):=)
+- Assigning Metaclass (=class MyClass(metaclass=Meta):=)
+- Metaclass Protocol Hooks
+  - __prepare__(name, bases, **kwds) (Creates namespace mapping)
+  - __new__(mcs, name, bases, namespace)
+  - __init__(cls, name, bases, namespace)
+- Class Subclass Initialization Hook (=__init_subclass__(cls, **kwargs)=)
