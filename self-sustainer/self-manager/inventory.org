@@ -1,0 +1,17 @@
+* Food
+** Frozen
+   |------------------------+-----------|
+   | Name                   |  Quantity |
+   |------------------------+-----------|
+   | Tuna                   | 5 x 0.5kg |
+   | Whole chicken thigh    |         2 |
+   | Upper chicken thigh    |         7 |
+   | Beef meetballs         |         7 |
+   | Chicken stock          |         1 |
+   | Chicken stuff for soup |         3 |
+   | Salmon                 |   1 whole |
+   | Beef for steak         |         1 |
+   | Vegetable mix          |         2 |
+   | Brokkoli               |         1 |
+   | Breaded chicken        | 2 + 6 + 6 |
+   |------------------------+-----------|

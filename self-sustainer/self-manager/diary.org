@@ -1,0 +1,18 @@
+
+
+* 2021
+
+** 2021-11 November
+
+*** 2021-11-28 Sunday
+
+**** <2021-11-28 Sun>
+     This is a diary entry
+**** daily entry
+     <2021-11-28 Sun>
+**** asdf
+     <2021-11-28 Sun>
+**** qwe
+     <2021-11-28 Sun>
+**** first day entry
+     <2021-11-28 Sun>

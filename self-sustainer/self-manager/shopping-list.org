@@ -1,0 +1,62 @@
+
+* <2023-05-02>
+** Household
+  |-------------------+------|
+  | Mosószer          | 1800 |
+  | WC öblítő         | 1600 |
+  | Papírzsebkendő x2 | 1100 |
+  | Tusfürdő x2       | 3400 |
+  | Dezodor x2        | 3000 |
+  | Szemeteszsák x2   | 1200 |
+  | Domestos          |  800 |
+** Food
+  |-----------------------+------|
+  | Tojás x20             | 1900 |
+  | Koviubi 0.5kg         | 1000 |
+  |-----------------------+------|
+  | Saláta                |  800 |
+  | Csécsi szalonna 0.5kg | 1000 |
+  | Szörp 3x5x2l          | 3300 |
+  | Tortilla 3x6          | 2100 |
+  | Majonéz               |  500 |
+  | Édesség x26           | 4500 |
+  |-----------------------+------|
+  | Passata x1            |  700 |
+* <2023-05-21>
+** Food
+  |----------+----------+--------------------------+-------|
+  | Item     | Quantity | Used for                 | Price |
+  |----------+----------+--------------------------+-------|
+  | sweets   |       29 |                          |  5721 |
+  | beef     |        6 | hamburger                |  3598 |
+  | bacon    |          | carbonara scrambled-eggs |  1195 |
+  | cucumber |          | sandwich                 |   229 |
+  | fruits   |        6 |                          |   803 |
+  | mustard  |          |                          |   519 |
+  | syrup    |   4x5x2l |                          |  4396 |
+  | virsli   |        2 | virsli                   |   999 |
+  | bread    |          | sandwich virsli parizer  |   499 |
+  | tuna can |        5 | tuna-pasta               |  1899 |
+  | corn     |        5 | tuna-pasta               |   399 |
+  | olive    |       10 | tuna-pasta               |   499 |
+  | cream    |        5 | tuna-pasta               |  1145 |
+  | lime     |        5 | tuna-pasta               |   149 |
+  | spagetti |        4 | tuna-pasta carbonara     |   499 |
+  |----------+----------+--------------------------+-------|
+* <2023-06-02 Fri>
+** Food
+  |-------------+----------+--------------------------+-------|
+  | Item        | Quantity | Used for                 | Price |
+  |-------------+----------+--------------------------+-------|
+  | sweets      | 38       |                          |  6766 |
+  | beef        | 6        | hamburger                |  3398 |
+  | bacon       | 0.32kg   | carbonara scrambled-eggs |   933 |
+  | fruits      | 6        |                          |   803 |
+  | syrup       | 2x5x2l   |                          |  2198 |
+  | bread       | 1kg      | sandwich virsli parizer  |   499 |
+  | spagetti    | 3x6      | tuna-pasta carbonara     |  1497 |
+  | tortilla    | 2x6      | chicken-thigh-sandwich   |  1398 |
+  | hard cheese | 0.5kg    | carbonara                |  3691 |
+  | hummus      | 200g     | sandwich                 |   699 |
+  | buttercreme | 250g     | sandwich                 |   699 |
+  |-------------+----------+--------------------------+-------|
