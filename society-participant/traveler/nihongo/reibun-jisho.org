@@ -7,29 +7,29 @@
 * 日常ルーチンの例文（にちじょう れいぶん）
 ** 水
 *** コーヒー
-    | Ha reggel álmosan kelek, kávét készítek.                               |
+    | Ha reggel álmosan kelek, kávét készítek.                             |
     | あさ、ねむくて 目が さまたとき、コーヒーを入れる。                           |
-    | Teszek vizet a vízforralóba, és bekapcsolom.                           |
-    | やかんに 水を いれて、スイッチを おす。                                     |
-    | Közben egy csészébe kávéport, tejport és cukorpótlót rakok.            |
+    | Teszek vizet a vízforralóba, és bekapcsolom.                         |
+    | やかんに 水を いれて、スイッチを おす。                                    |
+    | Közben egy csészébe kávéport, tejport és cukorpótlót rakok.          |
     | そして、カップに インスタントコーヒー、 ミルクパウダーと かんみりょうを 入れる。 |
-    | Felöntöm forró vízzel, és egy kiskanállal megkavarom.                  |
-    | カップに おゆを 入れてから、よく まぜて 飲む。                               |
-    | Megvárom amíg kihűl, mert nem szeretem forrón.                         |
+    | Felöntöm forró vízzel, és egy kiskanállal megkavarom.                |
+    | カップに おゆを 入れてから、よく まぜて 飲む。                              |
+    | Megvárom amíg kihűl, mert nem szeretem forrón.                       |
     | ホットコーヒーが そんなに 好きじゃないので、ちょっと ひえてから 飲む。          |
 *** シロップ
     | Itthon általában szörpöt iszom.                                 |
-    | うちにいるとき、シロップを 飲みます。                                |
+    | うちにいるとき、シロップを 飲みます。                                 |
     | Magában a vízet nem annyira szeretem.                           |
-    | ただの水は あまり 好きじゃない。                                    |
+    | ただの水は あまり 好きじゃない。                                     |
     | Édesítős szörpöt használok.                                     |
-    | かんみりょうを入れて 飲みます。                                     |
+    | かんみりょうを入れて 飲みます。                                      |
     | Nem egészséges, de nagyon kevés kalória.                        |
-    | 体に そんなに よくないけど、カロリーが ひくいです。                   |
+    | 体に そんなに よくないけど、カロリーが ひくいです。                     |
     | Egy nagy üvegbe egy kis szörpöt öntök, aztán teletöltöm vízzel. |
-    | 大きいポットに 少しシロップを 入れて、いっぱいの水を そそぎます。       |
+    | 大きいポットに 少しシロップを 入れて、いっぱいの水を そそぎます。         |
     | Aztán berakom a hűtőbe, hogy hideg legyen.                      |
-    | それから、冷蔵庫に 入れて ひやしておきます。                          |
+    | それから、冷蔵庫に 入れて ひやしておきます。                           |
     | Csak hidegen szeretem meginni.                                  |
     | ひやしたままだけ 飲めます。                                         |
 * 辞書（じしょ）
@@ -125,3 +125,26 @@
    - Manapság az asztalba épített gomb segítségével hívhatunk pincért, vagy egy tableten rendelhetünk, minden más esetben a hangos kiabálás a megszokott.
    - 最初ははずかしいかもしれませんが、勇気を出して大きな声で言ってみましょう。（さいしょ、ゆうき）
    - Először kínosnak érződhet, de szedjük össze a bátorságot, és kiabáljunk.
+* 例文（れいぶん）
+** １０漢字
+  | 内の猫はちょっと太くなった。                                              |
+  | A macskám kicsit meghízott                                            |
+  | ドアは引って開ける。                                                     |
+  | Az ajtó húzva nyílik.                                                 |
+  | 家族のみんなDebrecenに生んでいる。                                        |
+  | A családom minden tagja Debrecenben lakik.                            |
+  | 自分でもできる。                                                        |
+  | Egyedül is meg tudom csinálni.                                        |
+  | 動物と話せるDr.Doolittleは医学はかせです。                                 |
+  | Az állatokkal beszélni képes Dr.Doolittle az orvostudományok doktora. |
+  | くちばしがかたい鳥はくるみのからもひらけます。                               |
+  | A kemény csőrű madarak a dió héját is fel tudják törni.               |
+  | とんかつは好きですが、おすしを好み（このみ）ます。                            |
+  | Bár szeretem a rántott húst, ha tehetem, a sushit választom.          |
+  | 小さいナイフでやさいが切りにくいです。                                      |
+  | Rövid késsel nehéz zöldséget aprítani.                                |
+  | 今年の夏に野原に行ったら、たくさんのキリギリスを見ました。                      |
+  | Idén nyáron amikor a mezőn jártam, sok szöcskét láttam.               |
+  | 好きなバンドのコンサートはちょっと短かったですが、もっと聞きたかったな。          |
+  | A kedvenc bandám koncertje kicsit rövid volt, hallgattam volna még.   |
+
