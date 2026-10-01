@@ -3468,6 +3468,13 @@
        - [ ] Read up on skincare
        - [ ] Take notes on BG devine spells
        - [ ] Take notes on BG arcane spells
+****** Social
+       - [ ] Write Ice
+       - [ ] Write Bézi
+       - [ ] Write Ádám
+       - [ ] Write Rea+Gabi
+       - [ ] Write Noncsi
+       - [ ] Write Leitereg
 **** Workout [0p]
      - [ ] oldschool gym (8p)
      - [ ] kenjutsu training (6p)
@@ -3755,9 +3762,9 @@
 ****** Videos [50%]
        - [ ] Upload videos
        - [X] Render videos
-**** Workout [0p]
+**** Workout [6p]
      - [ ] oldschool gym (8p)
-     - [ ] kenjutsu training (6p)
+     - [X] kenjutsu training (6p)
      - [ ] juggling practice (6p)
      - [ ] party (6p)
      - [ ] juggling routine (1p)
@@ -3780,7 +3787,7 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     | 97.6 |       4 |     444.5 |  4514 |         4 |       0 |      57 | 2600 |
+     | 97.6 |       4 |     444.5 |  4514 |         4 |       6 |      57 | 2600 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
 *** <2026-09-28 Mon>
 **** ToDo [60%]
@@ -3983,3 +3990,105 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.8 |       8 |         0 |  2345 |         7 |       6 |    4550 |   73 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-09-30 Wed>
+**** ToDo [76%]
+***** Routine [42%]
+****** Morning [100%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [X] Check deneb
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [0%]
+       - [ ] Fresh water
+       - [ ] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [66%]
+       - [X] Shower
+       - [X] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Oldschool gym
+      - [X] Interview
+***** Current ToDos [86%]
+****** ToDos for the day [55%]
+       - [ ] Review Patika pénztár
+       - [ ] Review NAV docs
+       - [X] Num values Int medium exercise
+       - [X] Num values Int hard exercise
+       - [ ] Pay for Mom's present
+       - [ ] Japanese homework
+       - [X] Groceries
+       - [X] Cook fried chicken
+       - [X] Cook rice
+****** Recurring [100%]
+       - [X] Read IT book
+       - [X] Record gameplay
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [100%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Juggling routine
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [X] Beat Sabre
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [X] Japanese reading practice
+       - [X] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+**** Workout [12p]
+     - [X] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [X] juggling routine (1p)
+     - [X] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [4130kCal]
+     - coffee (120kCal)
+     - porrige (360kCal)
+     - protein (120kCal)
+     - bolognese (600kCal)
+     - protein cottage cream (90kCal)
+     - chicken wings + fermented cucumber (720kCal)
+     - protein túrórudi (120kCal)
+     - rice + grapefruit (500kCal)
+     - fried chicken (1500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.1 |       9 |         0 |  2800 |         4 |      12 |      76 | 4130 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     
