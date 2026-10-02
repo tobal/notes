@@ -4091,4 +4091,93 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 98.1 |       9 |         0 |  2800 |         4 |      12 |      76 | 4130 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
-     
+** October
+*** <2026-10-01 Thu>
+**** ToDo [39%]
+***** Routine [20%]
+****** Morning [28%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [ ] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [0%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [0%]
+       - [ ] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Current ToDos [58%]
+****** ToDos for the day [0%]
+       - [ ] Review Patika pénztár
+       - [ ] Review NAV docs
+       - [ ] Num values float exercises
+       - [ ] Pay for Mom's present
+       - [ ] Japanese homework
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [50%]
+       - [ ] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [90%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Juggling routine
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [X] Beat Sabre
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Japanese reading practice
+       - [X] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+**** Workout [4p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [X] juggling routine (1p)
+     - [X] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3220kCal]
+     - egg fried rice (800kCal)
+     - virsli (500kCal)
+     - hamburger order (1800kCal)
+     - túrórudi (120kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.7 |       9 |         0 |   520 |         9 |       4 |      39 | 3220 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
