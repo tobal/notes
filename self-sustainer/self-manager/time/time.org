@@ -4273,3 +4273,66 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 95.0 |       8 |         0 |  3094 |         7 |       2 |      64 | 2900 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-10-03 Sat>
+**** ToDo [68%]
+***** Routine [35%]
+****** Morning [57%]
+       - [X] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [ ] Play with cat
+       - [ ] Train cat
+****** Biochemistry [0%]
+       - [ ] Drink 3L water
+       - [ ] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [66%]
+       - [X] Shower
+       - [X] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Kombat Szombat
+**** Workout [10p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - [ ] VR beat sabre cardio (2p)
+     - [X] Kombat Szombat (10p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3720kCal]
+     - coffee (120kCal)
+     - virsli (700kCal)
+     - pad thai (1400kCal)
+     - csevap (1500kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.2 |       2 |         0 |  7850 |         6 |      10 |      68 | 3720 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
