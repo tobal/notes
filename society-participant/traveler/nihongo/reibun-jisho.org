@@ -189,29 +189,83 @@
    | Hurry! We'll be late!                                          |
    | 急いでね！まにあわないよ！                                         |
    | Amikor végzel, talizzunk!                                      |
+   | When you're done, let's meet!                                  |
+   | おわってから、会いましょう！                                       |
    | Lebetegedtem.                                                  |
+   | I became ill.                                                  |
+   | 病気に なりた。                                                  |
    | Kabátot vett fel.                                              |
+   | He put up a coat.                                              |
+   | コートが着ました。                                                |
    | Tóbias vidám ember.                                            |
+   | Tóbiás is a good spirited man.                                 |
+   |                                                                |
    | Okos.                                                          |
+   | Smart.                                                         |
+   | 頭がいい。                                                      |
    | Ez itt milyen hely?                                            |
+   | What kind of place is this?                                    |
+   | ここは どう 所ですか。                                            |
    | Gyalog jöttem.                                                 |
-   | A tigirs erős állat.                                           |
+   | I came on foot.                                                |
+   | 歩くで 来る。                                                    |
+   | A tigris erős állat.                                           |
+   | The tiger is a strong animal.                                  |
+   | とらは 強い 動物です。                                            |
    | A tanterem kicsi.                                              |
+   | The classroom is small.                                        |
+   | 教室は せまいです。                                               |
    | A kapuban áll egy ember.                                       |
+   | Someone is standing at the gate.                               |
+   | だれもは 門に 立ちます。                                          |
    | Megkérdeztem, de nem kaptam választ.                           |
+   | I asked, but I didn't get an answer.                           |
+   | 質問をした、でも へんじしない。                                     |
    | Válaszolt a kövi kérdésre!                                     |
+   | He answered the next question!                                 |
+   | つぎのしつもんを へんじした。                                      |
    | Mind eladtuk. (gondolj az elfogyott a vécépapíros mondatra is) |
+   | We sold all of it.                                             |
+   | ぜんぶ 売りた。                                                  |
    | A tigris húsevő állat.                                         |
+   | The tiger is a carnivore.                                      |
+   | とらは 肉食動物です。                                             |
    | Tudod, hogy mikor lesz a koncert?                              |
+   | Do you know when the concert will be?                          |
+   |                                                                |
    | Rövid a haja.                                                  |
+   | His hair is short.                                             |
+   | かみのけが 短いです。                                             |
    | A nyúl gyenge állat.                                           |
+   | The rabbit is a weak animal.                                   |
+   | うさぎは よわい 動物です。                                         |
    | Micimackó kövér. (body shaming)                                |
+   | Winnie the Pooh is fat.                                        |
+   | こぐまのプーさんは 太いです。                                      |
    | Ez az olló jól vág.                                            |
+   | This scissors can cut well.                                    |
+   | このはさみは よく切れる。                                          |
    | Orvosként alig alszom.                                         |
+   | As a doktor, I hardly sleep.                                   |
+   | 医者にとって、少し ねます。                                        |
    | Inkább (mushiro) legyen alma.                                  |
+   | Let's pick the apple instead.                                  |
+   |                                                                |
    | Ez egy igazán jó termék (áru).                                 |
+   | This is a very good good.                                      |
+   | これは いい 品物です。                                            |
    | Nehéz ez a kő. Nem bírom felemelni.                            |
+   | This rock is heavy. I can't lift it.                           |
+   | この石は重いです。さし上げできない。                                 |
    | Nem tudom egyedül (saját magam) megcsinálni.                   |
+   | I can't do it alone.                                           |
+   | 自分に できません。                                               |
    | A madarak repülnek.                                            |
+   | Birds are flying.                                              |
+   | 鳥は とびます。                                                  |
    | A mező tele van pipaccsal.                                     |
+   | The field is filled with poppies.                              |
+   | 野原は ひなげしが いっぱい。                                       |
    | A nép 25%-át kiírtotta.                                        |
+   | He killed 25% of the population.                               |
+   | 彼は 民の２５％が ころしまった。                                    |
