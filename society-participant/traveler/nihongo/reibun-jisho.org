@@ -150,31 +150,44 @@
 * しゅくだい
 ** <2026-10-02>
    | Busszal mentem.                                                |
+   | I went by bus.                                                 |
    | バスに乗って行きました。                                           |
    | Félek a sötét pincében.                                        |
+   | I'm afraid in the dark cellar.                                 |
    | 暗いちかしつに こわいです。                                        |
    | A cég menzája finom.                                           |
+   | The cantine in the office is good.                             |
    | 会社の食堂はおいしいです。                                         |
    | Klassz meccs volt.                                             |
+   | The match was good.                                            |
    | 試合がたのしかった。                                              |
    | Sikerült a vizsgám.                                            |
-   | 試験がかりょうでした。                                            |
+   | My exam was successful.                                        |
+   | 試験がごうかくできました。                                         |
    | Félelmemben moccanni sem bírtam.                               |
-   | こわいによって、動けません。                                       |
+   | I was so afraid I couldn't move.                               |
+   | 動けないほど こわいです。                                          |
    | Egy gyárban dolgozom.                                          |
-   | こうじょうに働きます。                                            |
+   | I work at a factory.                                           |
+   | こうじょうで働きます。                                            |
    | Az ajtó húzva nyílik.                                          |
+   | The door opens by pulling.                                     |
    | ドアが引いて開けます。                                            |
    | A családom minden tagja eljött a szülinapomra.                 |
-   | 私の誕生日に家族のみんなは来ました。                                 |
+   | Every member of my family came for my birthday.                |
+   | 家族のみんな、誕生日に 来て くれました。                             |
    | Ismersz híres embereket?                                       |
-   | ゆうめい人は知ますか。                                            |
+   | Do you know famous people?                                     |
+   | ゆうめいな人、知ていますか。                                       |
    | A beosztásom (schedule) naponta változik.                      |
-   | 曜日によって にっていは ちがう。                                    |
+   | My schedule is different every day.                            |
+   | スケジュールは 曜日によって ちがいます。                             |
    | A virágos zárva volt.                                          |
-   | 花屋が閉りました。                                                |
+   | The flower shop was closed.                                    |
+   | 花屋がしまっていました。                                           |
    | Siess! Elkésünk!                                               |
-   | 急げ！時間におくれる！                                            |
+   | Hurry! We'll be late!                                          |
+   | 急いでね！まにあわないよ！                                         |
    | Amikor végzel, talizzunk!                                      |
    | Lebetegedtem.                                                  |
    | Kabátot vett fel.                                              |
