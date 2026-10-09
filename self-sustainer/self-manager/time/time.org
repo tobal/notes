@@ -4798,3 +4798,104 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.85 |       8 |      14.6 |  1255 |         7 |       2 |      62 | 2820 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-10-09 Fri>
+**** ToDo [74%]
+***** Routine [41%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [20%]
+       - [X] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [0%]
+       - [ ] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Farmer's market
+***** Current ToDos [80%]
+****** ToDos for the day [87%]
+       - [X] Review NAV docs
+       - [X] Num values bool exercises
+       - [ ] Fix japanese homework
+       - [X] Cook chicken wings
+       - [X] Watch F1 Sprint Qualyfication
+       - [X] Apply for interview
+       - [X] Tidy corner
+       - [X] Tidy cupboard
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [ ] Eat vegetables
+       - [X] No unnecessary spending
+****** Practice [88%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Juggling routine
+       - [X] Piano practice
+       - [X] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [X] Beat Sabre
+       - [X] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+****** ToDo backlog
+       - [ ] Go to Patika pénztár
+       - [ ] Do HackerRank test
+       - [ ] Buy tobacco
+       - [ ] Buy iceberg lettuce, greek yoghurt
+       - [ ] Pay kenjutsu
+       - [ ] Pay fine
+**** Workout [6p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [X] juggling routine (1p)
+     - [X] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [X] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2920kCal]
+     - coffee (120kCal)
+     - porrige (360kCal)
+     - eggs + bacon + bagette (1000kCal)
+     - carbonara (1200kCal)
+     - dessert (240kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 95.8 |       9 |         0 |  2675 |         7 |       6 |      74 | 2920 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
