@@ -5093,3 +5093,99 @@
      |------+---------+-----------+-------+-----------+---------+---------+------|
      | 96.9 |       7 |         0 | 23429 |         3 |       0 |      35 | 1560 |
      |------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-10-12 Mon>
+**** ToDo [34%]
+***** Routine [30%]
+****** Morning [42%]
+       - [ ] Rhythm routine
+       - [ ] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [ ] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [50%]
+       - [ ] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [33%]
+       - [X] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Outside activities [33%]
+      - [ ] Oldschool gym
+      - [X] Interview
+      - [ ] Kenjutsu training
+***** Current ToDos [40%]
+****** ToDos for the day [14%]
+       - [ ] Python exercises
+       - [ ] Fix japanese homework
+       - [ ] Tidy shrine
+       - [ ] Tidy nightstand
+       - [ ] Pay kenjutsu
+       - [ ] Pay fine
+       - [X] Clean up discord servers
+****** Recurring [0%]
+       - [ ] Read IT book
+       - [ ] Record gameplay
+****** Discipline training [75%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [ ] No unnecessary spending
+****** Practice [11%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Juggling routine
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Sim racing practice
+       - [X] Beat Sabre
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+****** ToDo backlog
+       - [ ] Go to Patika pénztár
+**** Workout [2p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [3280kCal]
+     - coffee (120kCal)
+     - porrige (360kCal)
+     - chicken wings + salad (800kCal)
+     - fried chicken + fermented cucumber (2000kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.05 |      10 |         0 |     0 |         5 |       2 |      34 | 3280 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
