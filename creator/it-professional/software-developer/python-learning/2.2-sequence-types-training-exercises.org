@@ -1,0 +1,196 @@
+#+TITLE: Python Core Language Exercises: Sequence Types (str, list, tuple, range, bytes, bytearray, memoryview)
+
+#+begin_quote
+*Instructor Note*: These exercises target structural mechanics, memory efficiency, slicing arithmetic, mutability vs immutability constraints, and buffer protocol behavior for Python's core sequence types. Each task requires a concise functional implementation suitable for Unit Testing with ~pytest~ or ~unittest~.
+#+end_quote
+
+* 1. String Mechanics (str)
+
+** 1.1 Easy: Unicode Normalization & Casefolding
+- *Goal*: Implement ~normalize_and_casefold(s: str) -> str~.
+- *Description*: Normalize a Unicode string using canonical decomposition/composition (~NFC~) and perform caseless matching transformation (~casefold()~).
+- *Key Takeaway*: Python strings are sequences of Unicode code points. Direct string equality ~==~ fails for canonical equivalents (e.g., ~u"\u00e9"~ vs ~u"e\u0301"~) unless normalized with ~unicodedata.normalize~. ~casefold()~ provides aggressive caseless matching across non-ASCII scripts (e.g., German ~"ß"~ -> ~"ss"~).
+- *Expected Behavior*:
+  - ~normalize_and_casefold("Straße")~ -> ~"strasse"~
+  - ~normalize_and_casefold("e\u0301") == normalize_and_casefold("\u00e9")~ -> ~True~
+
+** 1.2 Medium: Run-Length Encoding with Validation
+- *Goal*: Implement ~run_length_encode(s: str) -> str~.
+- *Description*: Compress run lengths of consecutive identical characters into ~"Ccount"~ format (e.g., ~"AAABBC"~ -> ~"A3B2C1"~). Raise ~ValueError~ if the input string contains any numeric digits.
+- *Key Takeaway*: String concatenation in loops can incur $O(N^2)$ copying costs unless collected in list buffers or built via generators. Input validation prevents parsing ambiguity during decoding.
+- *Expected Behavior*:
+  - ~run_length_encode("AAABBC")~ -> ~"A3B2C1"~
+  - ~run_length_encode("a")~ -> ~"a1"~
+  - ~run_length_encode("")~ -> ~""~
+  - Raises ~ValueError~ for ~"A2B"~.
+
+** 1.3 Hard: Zero-Allocation Substring Search (Knuth-Morris-Pratt)
+- *Goal*: Implement ~kmp_search(text: str, pattern: str) -> list[int]~.
+- *Description*: Return all 0-based starting indices of ~pattern~ in ~text~ using the Knuth-Morris-Pratt (KMP) algorithm in $O(N + M)$ time complexity and $O(M)$ auxiliary space.
+- *Key Takeaway*: Naive substring slicing ~text[i:i+len(pattern)]~ creates $O(M)$-sized temporary string allocations at every iteration, leading to $O(N \cdot M)$ time and garbage collection overhead.
+- *Expected Behavior*:
+  - ~kmp_search("ABABDABACDABABCABAB", "ABABCABAB")~ -> ~[10]~
+  - ~kmp_search("AAAAA", "AA")~ -> ~[0, 1, 2, 3]~
+  - ~kmp_search("ABC", "")~ -> ~[]~
+
+
+* 2. List Mechanics (list)
+
+** 2.1 Easy: In-Place Deduplication Preserving Insertion Order
+- *Goal*: Implement ~deduplicate_in_place(lst: list) -> None~.
+- *Description*: Remove duplicate elements from a list *in-place* while preserving the original order of remaining items. Mutates ~lst~ directly and returns ~None~.
+- *Key Takeaway*: Python ~list~ is a dynamic array of pointer references. Deleting elements while iterating forward shifts array memory and skips items. Using a tracking ~set~ and backward index iteration or pointer mutation maintains in-place safety in $O(N)$ time.
+- *Expected Behavior*:
+  - ~a = [3, 1, 2, 3, 1, 4]; deduplicate_in_place(a); a~ -> ~[3, 1, 2, 4]~
+  - ~b = [1, 1, 1]; deduplicate_in_place(b); b~ -> ~[1]~
+
+** 2.2 Medium: Sliding Window Maximum via Monotonic Deque
+- *Goal*: Implement ~sliding_window_max(nums: list[int], k: int) -> list[int]~.
+- *Description*: Compute the maximum value in every contiguous sliding window of size ~k~ in $O(N)$ total time complexity.
+- *Key Takeaway*: Repeatedly calling ~max(nums[i:i+k])~ incurs $O(N \cdot k)$ operations due to slice allocation and window scanning. A monotonic double-ended queue (~collections.deque~) keeps candidate max indices in $O(1)$ amortized per item.
+- *Expected Behavior*:
+  - ~sliding_window_max([1, 3, -1, -3, 5, 3, 6, 7], 3)~ -> ~[3, 3, 5, 5, 6, 7]~
+  - ~sliding_window_max([1], 1)~ -> ~[1]~
+  - Raises ~ValueError~ if ~k <= 0~ or ~k > len(nums)~.
+
+** 2.3 Hard: Memory-Efficient In-Place Array Rotation
+- *Goal*: Implement ~rotate_list_in_place(lst: list, k: int) -> None~.
+- *Description*: Rotate elements of ~lst~ to the right by ~k~ steps in-place with $O(1)$ auxiliary memory complexity (no ~lst[k:] + lst[:k]~ slicing allocations).
+- *Key Takeaway*: List slicing ~lst[k:]~ allocates new array buffers. Rotations can be executed in-place in $O(N)$ time and $O(1)$ space by reversing three sub-segments: the full array, the first ~k % N~ elements, and the remaining ~N - (k % N)~ elements.
+- *Expected Behavior*:
+  - ~a = [1, 2, 3, 4, 5, 6, 7]; rotate_list_in_place(a, 3); a~ -> ~[5, 6, 7, 1, 2, 3, 4]~
+  - ~b = [1, 2]; rotate_list_in_place(b, 5); b~ -> ~[2, 1]~
+
+
+* 3. Tuple Mechanics (tuple)
+
+** 3.1 Easy: Immutability & Hashability Verification
+- *Goal*: Implement ~is_hashable_tuple(t: tuple) -> bool~.
+- *Description*: Recursively verify if a tuple ~t~ is hashable (i.e. contains only hashable/immutable objects like ints, floats, strings, or nested hashable tuples).
+- *Key Takeaway*: Tuples are immutable sequence structures, but they are only hashable (usable as ~dict~ keys or ~set~ elements) if every nested item is also hashable. A tuple containing a mutable list (~([1, 2], 3)~) is immutable at the top level but unhashable.
+- *Expected Behavior*:
+  - ~is_hashable_tuple((1, "a", (2, 3)))~ -> ~True~
+  - ~is_hashable_tuple((1, [2, 3]))~ -> ~False~
+  - ~is_hashable_tuple((1, {2: 3}))~ -> ~False~
+
+** 3.2 Medium: Structural Record Unpacking & Flattening
+- *Goal*: Implement ~flatten_record_tuples(records: list[tuple]) -> list[tuple]~.
+- *Description*: Flatten nested 1-level tuples within structured data records into unified flat tuples.
+- *Key Takeaway*: Structural tuple unpacking leverages tuple iteration and star unpacking (~*~) to construct memory-compact immutable records efficiently.
+- *Expected Behavior*:
+  - ~flatten_record_tuples([(1, (2, 3), 4), ("a", ("b", "c"))])~ -> ~[(1, 2, 3, 4), ("a", "b", "c")]~
+
+** 3.3 Hard: Bytecode Inspection & Constant Folding Verification
+- *Goal*: Implement ~extract_folded_tuple_constants(func) -> list[tuple]~.
+- *Description*: Inspect a function's compiled code object (~func.__code__.co_consts~) to extract all tuple constants pre-computed by CPython's bytecode compiler during constant folding.
+- *Key Takeaway*: CPython's compiler performs constant folding on tuple literals containing immutable constants (e.g. ~(1, 2, 3)~ becomes a single folded tuple in ~co_consts~), whereas list literals ~[1, 2, 3]~ generate runtime ~BUILD_LIST~ instructions.
+- *Expected Behavior*:
+  - Given ~def sample(): return (1, 2) in (10, 20)~, ~extract_folded_tuple_constants(sample)~ returns ~[(1, 2), (10, 20)]~.
+
+
+* 4. Range Mechanics (range)
+
+** 4.1 Easy: Range Properties & $O(1)$ Membership Verification
+- *Goal*: Implement ~range_properties(r: range) -> tuple[int, int, int, bool]~.
+- *Description*: Extract start, stop, step, and verify whether ~0 in r~ in $O(1)$ time complexity without evaluating or converting ~r~ to a list.
+- *Key Takeaway*: ~range~ objects are lazy sequence generators. Membership testing ~x in r~ executes in $O(1)$ arithmetic time (using modular alignment checks), not $O(N)$ loop iteration.
+- *Expected Behavior*:
+  - ~range_properties(range(2, 10, 2))~ -> ~(2, 10, 2, False)~
+  - ~range_properties(range(10, -10, -2))~ -> ~(10, -10, -2, True)~
+
+** 4.2 Medium: Range Intersection Engine
+- *Goal*: Implement ~range_intersection(r1: range, r2: range) -> range~.
+- *Description*: Calculate the exact ~range~ object representing the mathematical intersection of two arithmetic progressions. Return ~range(0)~ if no overlapping elements exist.
+- *Key Takeaway*: Range intersection requires calculating the start offset using modular congruences (Extended GCD / Chinese Remainder Theorem) and step size using ~math.lcm~ in $O(1)$ time.
+- *Expected Behavior*:
+  - ~range_intersection(range(0, 10, 2), range(0, 10, 3))~ -> ~range(0, 10, 6)~
+  - ~range_intersection(range(1, 10, 2), range(0, 10, 2))~ -> ~range(0)~
+
+** 4.3 Hard: Arbitrary-Precision Range Indexing & Extended Slicing Arithmetic
+- *Goal*: Implement ~slice_huge_range(r: range, start_idx: int, stop_idx: int, step_idx: int) -> tuple[int, range]~.
+- *Description*: Perform extended slicing ~r[start_idx:stop_idx:step_idx]~ on arbitrary large range objects (e.g. ~range(0, 10**18, 5)~), returning a tuple containing ~len(sliced_range)~ and the resulting ~range~ object in $O(1)$ memory and time.
+- *Key Takeaway*: Python 3 ~range~ objects support $O(1)$ slice calculation and full 64-bit/arbitrary precision integer indexing without memory allocation.
+- *Expected Behavior*:
+  - ~slice_huge_range(range(0, 10**18, 5), 100, 1000, 2)~ -> ~(450, range(500, 5000, 10))~
+
+
+* 5. Bytes Mechanics (bytes)
+
+** 5.1 Easy: Hexadecimal Encoding & Round-Trip Parsing
+- *Goal*: Implement ~bytes_to_hex_and_back(data: bytes) -> tuple[str, bytes]~.
+- *Description*: Encode raw bytes into a lowercase hexadecimal string, and parse the hex string back to verify round-trip byte identity.
+- *Key Takeaway*: ~bytes~ are immutable sequences of 8-bit integers ($0 \le x < 256$). Hex encoding (~data.hex()~) and decoding (~bytes.fromhex()~) are standard operations for binary network payloads and cryptography.
+- *Expected Behavior*:
+  - ~bytes_to_hex_and_back(b"Hello")~ -> ~("48656c6c6f", b"Hello")~
+  - ~bytes_to_hex_and_back(b"\x00\xff")~ -> ~("00ff", b"\x00\xff")~
+
+** 5.2 Medium: Binary Protocol Frame Parser
+- *Goal*: Implement ~parse_binary_frame(frame: bytes) -> tuple[int, int, bytes, int]~.
+- *Description*: Decode a binary packet structured as: ~[1-byte Header 0xAA][2-byte Big-Endian Length][N-byte Payload][2-byte Big-Endian CRC16]~. Return ~(header, length, payload, crc)~. Raise ~ValueError~ if header is invalid or frame length mismatches declared payload length.
+- *Key Takeaway*: Binary protocol decoding utilizes byte slice indexing ~frame[start:end]~ and ~int.from_bytes(..., byteorder='big')~ for field deserialization.
+- *Expected Behavior*:
+  - ~parse_binary_frame(b"\xaa\x00\x04DATA\x12\x34")~ -> ~(170, 4, b"DATA", 0x1234)~
+  - Raises ~ValueError~ on invalid header byte or truncated payload.
+
+** 5.3 Hard: Fast XOR Stream Cipher
+- *Goal*: Implement ~xor_stream_cipher(data: bytes, key: bytes) -> bytes~.
+- *Description*: Apply a repeating-key XOR stream cipher to a ~bytes~ sequence in $O(N)$ time.
+- *Key Takeaway*: Because ~bytes~ instances are immutable, byte-by-byte string creation creates $O(N)$ temporary objects. Using ~bytearray~ buffers or generator comprehensions ensures minimal intermediate allocation.
+- *Expected Behavior*:
+  - ~cipher = xor_stream_cipher(b"Secret Payload", b"KEY")~
+  - ~xor_stream_cipher(cipher, b"KEY")~ -> ~b"Secret Payload"~
+  - Raises ~ValueError~ if ~key~ is empty.
+
+
+* 6. Bytearray Mechanics (bytearray)
+
+** 6.1 Easy: In-Place ASCII Case Conversion
+- *Goal*: Implement ~to_uppercase_in_place(ba: bytearray) -> None~.
+- *Description*: Mutate a ~bytearray~ in-place, converting all lowercase ASCII bytes (~97~ to ~122~) to uppercase (~65~ to ~90~) without allocating a new buffer or returning a copy.
+- *Key Takeaway*: ~bytearray~ is a mutable sequence of bytes. Item modification ~ba[i] = val~ mutates the underlying contiguous C memory array directly.
+- *Expected Behavior*:
+  - ~ba = bytearray(b"Hello World!"); to_uppercase_in_place(ba); ba~ -> ~bytearray(b"HELLO WORLD!")~
+
+** 6.2 Medium: Fixed-Capacity Circular Byte Buffer
+- *Goal*: Implement a class ~ByteArrayRingBuffer(capacity: int)~.
+- *Description*: Construct a fixed-capacity circular buffer with methods ~.write(data: bytes) -> int~ and ~.read(count: int) -> bytes~. Maintain read/write pointer offsets inside a fixed ~bytearray(capacity)~ without calling ~pop(0)~.
+- *Key Takeaway*: ~pop(0)~ on an array shifts elements in $O(N)$ time. Head and tail pointer offsets over a pre-allocated ~bytearray~ execute enqueuing/dequeuing in $O(1)$ amortized time.
+- *Expected Behavior*:
+  - ~rb = ByteArrayRingBuffer(5); rb.write(b"ABC"); rb.read(2)~ -> ~b"AB"~
+  - ~rb.write(b"DEF")~ -> ~3~
+  - ~rb.read(4)~ -> ~b"CDEF"~
+
+** 6.3 Hard: In-Place Substring Replacement in Bytearray
+- *Goal*: Implement ~replace_binary_in_place(ba: bytearray, target: bytes, replacement: bytes) -> int~.
+- *Description*: Search for ~target~ sequences inside ~ba~ and replace them with ~replacement~ bytes *in-place*. Return total count of replacements made.
+- *Key Takeaway*: ~bytearray~ slice assignment (~ba[i:j] = replacement~) automatically resizes underlying memory when target and replacement lengths differ, minimizing allocation churn compared to string replacement.
+- *Expected Behavior*:
+  - ~ba = bytearray(b"FOO_BAR_FOO"); replace_binary_in_place(ba, b"FOO", b"QUX")~ -> ~2~, ~ba~ becomes ~bytearray(b"QUX_BAR_QUX")~
+  - ~ba2 = bytearray(b"A_A_A"); replace_binary_in_place(ba2, b"A", b"BB")~ -> ~3~, ~ba2~ becomes ~bytearray(b"BB_BB_BB")~
+
+
+* 7. Memoryview Mechanics (memoryview)
+
+** 7.1 Easy: Zero-Copy Slice Inspection
+- *Goal*: Implement ~inspect_buffer_slice(data: bytes, start: int, end: int) -> tuple[int, bytes, str]~.
+- *Description*: Wrap ~data~ in a ~memoryview~, slice it from ~start~ to ~end~, and return a tuple containing slice length, exported byte contents (~.tobytes()~), and the C format code (~.format~).
+- *Key Takeaway*: Slicing a ~memoryview~ creates a zero-copy buffer window over existing memory in $O(1)$ time without duplicating data payload bytes.
+- *Expected Behavior*:
+  - ~inspect_buffer_slice(b"0123456789", 2, 6)~ -> ~(4, b"2345", "B")~
+
+** 7.2 Medium: Zero-Copy Typed Array Reinterpretation
+- *Goal*: Implement ~parse_native_array(raw_bytes: bytes, typecode: str) -> list[int | float]~.
+- *Description*: Wrap ~raw_bytes~ in a ~memoryview~, cast it to ~typecode~ (e.g. ~'i'~ for 32-bit signed int, ~'f'~ for 32-bit float), and export elements as a list without using the ~struct~ module.
+- *Key Takeaway*: ~mv.cast(format_char)~ reinterprets raw memory buffers into C-typed arrays without intermediate byte copying or string parsing.
+- *Expected Behavior*:
+  - ~import struct; raw = struct.pack("4i", 10, 20, 30, 40)~
+  - ~parse_native_array(raw, 'i')~ -> ~[10, 20, 30, 40]~
+
+** 7.3 Hard: Zero-Copy In-Place Buffer Transformation
+- *Goal*: Implement ~inplace_transform_buffer(ba: bytearray, start: int, length: int, xor_key: int) -> None~.
+- *Description*: Construct a writable ~memoryview~ over ~ba[start:start+length]~ and apply an in-place XOR mask with ~xor_key~ directly through the ~memoryview~ window.
+- *Key Takeaway*: Writable ~memoryview~ objects allow safe, in-place mutations on underlying mutable buffers (~bytearray~, ~array.array~) across module or C extension boundaries without buffer duplication.
+- *Expected Behavior*:
+  - ~ba = bytearray(b"ABCDEFGH")~
+  - ~inplace_transform_buffer(ba, 2, 4, 0xFF)~
+  - Modifies bytes at index 2..5 in ~ba~ in-place using XOR mask. ~len(ba)~ remains ~8~.
