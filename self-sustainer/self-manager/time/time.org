@@ -6384,7 +6384,7 @@
       - [X] Kenjutsu training
       - [X] Online race
 ***** Current ToDos [47%]
-****** ToDos for the day [22%]
+****** ToDos for the day [33%]
        - [ ] Python exercises
        - [ ] Fix japanese homework
        - [ ] Pay kenjutsu
@@ -6392,22 +6392,22 @@
        - [ ] Japanese homework
        - [X] Record Diablo 4
        - [ ] Work on Birth of a Warlock
-       - [ ] Watch F1 race
+       - [X] Watch F1 race
        - [X] Cook rizseshús
 ****** Recurring [50%]
        - [ ] Read IT book
        - [X] Record gameplay
-****** Discipline training [25%]
+****** Discipline training [50%]
        - [ ] Get up early
        - [X] Cook
        - [ ] Eat vegetables
-       - [ ] No unnecessary spending
-****** Practice [88%]
+       - [X] No unnecessary spending
+****** Practice [100%]
        - [X] Kenjutsu slashes and steps
        - [X] Juggling routine
        - [X] Piano practice
        - [X] Age of Empires 4 practice
-       - [ ] Sim racing practice
+       - [X] Sim racing practice
        - [X] Beat Sabre
        - [X] Tsumego
        - [X] Kanji writing practice
@@ -6449,3 +6449,202 @@
      |-------+---------+-----------+-------+-----------+---------+---------+------|
      | 99.85 |       8 |         0 |  2160 |         7 |      12 |      64 | 1800 |
      |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-10-26 Mon>
+**** ToDo [69%]
+***** Routine [37%]
+****** Morning [71%]
+       - [ ] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [25%]
+       - [ ] Fresh water
+       - [ ] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [66%]
+       - [X] Shower
+       - [X] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Oldschool gym
+***** Current ToDos [72%]
+****** ToDos for the day [37%]
+       - [ ] Python exercises
+       - [ ] Fix japanese homework
+       - [ ] Pay kenjutsu
+       - [ ] Pay japanese
+       - [ ] Japanese homework
+       - [X] Record Diablo 4
+       - [X] Write Ice
+       - [X] Bootstrapping servitors
+****** Recurring [100%]
+       - [X] Read IT book
+       - [X] Record gameplay
+****** Discipline training [100%]
+       - [X] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Practice [22%]
+       - [ ] Kenjutsu slashes and steps
+       - [ ] Juggling routine
+       - [ ] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [ ] Sim racing practice
+       - [X] Beat Sabre
+       - [ ] Tsumego
+       - [X] Kanji writing practice
+       - [ ] Anki
+****** Videos [100%]
+       - [X] Upload videos
+       - [X] Render videos
+****** ToDo backlog
+       - [ ] Tidy shrine
+       - [ ] Tidy nightstand
+       - [ ] Go to Patika pénztár
+**** Workout [10p]
+     - [X] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [ ] juggling routine (1p)
+     - [ ] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [2740kCal]
+     - coffee (120kCal)
+     - porrige (360kCal)
+     - protein (120kCal)
+     - sausage (1200kCal)
+     - egg fried rice (800kCal)
+     - protein yoghurt (140kCal)
+**** Stat table
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     |    Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+     | 98.15 |       8 |         0 |  6852 |         5 |      10 |      69 | 2740 |
+     |-------+---------+-----------+-------+-----------+---------+---------+------|
+*** <2026-10-27 Tue>
+**** ToDo [59%]
+***** Routine [37%]
+****** Morning [85%]
+       - [X] Rhythm routine
+       - [X] Warmup
+       - [X] Breakfast
+       - [X] Commit org
+       - [X] Meditation
+       - [X] Make bed
+       - [ ] Check deneb
+****** Evening [0%]
+       - [ ] Wash dishes
+       - [ ] Bathroom
+       - [ ] Reading
+       - [ ] Stretch
+       - [ ] Meditation
+****** Cat [75%]
+       - [X] Fresh water
+       - [X] Clean litterbox
+       - [X] Play with cat
+       - [ ] Train cat
+****** Biochemistry [25%]
+       - [ ] Drink 3L water
+       - [X] Kreatin
+       - [ ] Take pills morning
+       - [ ] Take pills evening
+****** Higiene [0%]
+       - [ ] Shower
+       - [ ] Wash teeth
+       - [ ] Floss
+***** Outside activities [100%]
+      - [X] Japanese class
+      - [X] Interview
+***** Current ToDos [41%]
+****** ToDos for the day [25%]
+       - [ ] Python exercises
+       - [ ] Fix japanese homework
+       - [ ] Pay kenjutsu
+       - [ ] Pay japanese
+       - [X] Japanese homework
+       - [X] Record Diablo 4
+       - [ ] Write Bazsa
+       - [ ] Write Rea+Gabi
+****** Recurring [50%]
+       - [ ] Read IT book
+       - [X] Record gameplay
+****** Discipline training [75%]
+       - [ ] Get up early
+       - [X] Cook
+       - [X] Eat vegetables
+       - [X] No unnecessary spending
+****** Practice [55%]
+       - [X] Kenjutsu slashes and steps
+       - [X] Juggling routine
+       - [X] Piano practice
+       - [ ] Age of Empires 4 practice
+       - [X] Sim racing practice
+       - [X] Beat Sabre
+       - [ ] Tsumego
+       - [ ] Kanji writing practice
+       - [ ] Anki
+****** Videos [0%]
+       - [ ] Upload videos
+       - [ ] Render videos
+****** ToDo backlog
+       - [ ] Tidy shrine
+       - [ ] Tidy nightstand
+       - [ ] Go to Patika pénztár
+**** Workout [4p]
+     - [ ] oldschool gym (8p)
+     - [ ] kenjutsu training (6p)
+     - [ ] juggling practice (6p)
+     - [ ] party (6p)
+     - [X] juggling routine (1p)
+     - [X] kenjutsu routine (1p)
+     - [X] VR beat sabre cardio (2p)
+     - micro weight training (3x2p)
+       military push, goblet squat, saw, halo, 360, 2-10, pushup
+       - [ ] 1x10
+       - [ ] 2x10
+       - [ ] 3x10
+     - micro stretch training (3x1p)
+       foot correction, grip strength, leg stretch, wrist, shoulderblade
+       - [ ] 1
+       - [ ] 2
+       - [ ] 3
+**** Food [1717kCal]
+     - coffee (120kCal)
+     - porrige (366kCal)
+     - rizseshús (612kCal)
+     - grilled chicken thigh + lettuce salad (410kCal)
+     - túrórudi (90kCal)
+     - krémtúró (120kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout | Goals % | kCal |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
+     | 97.7 |       8 |         0 |     0 |         7 |       4 |      59 | 1717 |
+     |------+---------+-----------+-------+-----------+---------+---------+------|
