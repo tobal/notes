@@ -190,49 +190,49 @@
    | 急いでね！まにあわないよ！                                         |
    | Amikor végzel, talizzunk!                                      |
    | When you're done, let's meet!                                  |
-   | おわってから、会いましょう！                                       |
+   | おわったら、会いましょう！                                         |
    | Lebetegedtem.                                                  |
    | I became ill.                                                  |
-   | 病気に なりた。                                                  |
+   | 病気に なった。                                                  |
    | Kabátot vett fel.                                              |
    | He put up a coat.                                              |
-   | コートが着ました。                                                |
+   | コートを着ました。                                                |
    | Tóbias vidám ember.                                            |
    | Tóbiás is a good spirited man.                                 |
-   |                                                                |
+   | Tóbiásは 明い人です。                                            |
    | Okos.                                                          |
    | Smart.                                                         |
    | 頭がいい。                                                      |
    | Ez itt milyen hely?                                            |
    | What kind of place is this?                                    |
-   | ここは どう 所ですか。                                            |
+   | ここ、どんな 所だろう？                                           |
    | Gyalog jöttem.                                                 |
    | I came on foot.                                                |
-   | 歩くで 来る。                                                    |
+   | 歩いて 来ました。                                                |
    | A tigris erős állat.                                           |
    | The tiger is a strong animal.                                  |
-   | とらは 強い 動物です。                                            |
+   | トラは 体が 強い 動物だ。                                         |
    | A tanterem kicsi.                                              |
    | The classroom is small.                                        |
    | 教室は せまいです。                                               |
    | A kapuban áll egy ember.                                       |
    | Someone is standing at the gate.                               |
-   | だれもは 門に 立ちます。                                          |
+   | 門に 人が います。                                               |
    | Megkérdeztem, de nem kaptam választ.                           |
    | I asked, but I didn't get an answer.                           |
-   | 質問をした、でも へんじしない。                                     |
+   | 聞いたけど、へんじ もらわなかった。                                 |
    | Válaszolt a kövi kérdésre!                                     |
    | He answered the next question!                                 |
-   | つぎのしつもんを へんじした。                                      |
+   | つぎのしつもんに こたえる。                                        |
    | Mind eladtuk. (gondolj az elfogyott a vécépapíros mondatra is) |
    | We sold all of it.                                             |
-   | ぜんぶ 売りた。                                                  |
+   | ぜんぶ 売れきれた。                                               |
    | A tigris húsevő állat.                                         |
    | The tiger is a carnivore.                                      |
    | とらは 肉食動物です。                                             |
    | Tudod, hogy mikor lesz a koncert?                              |
    | Do you know when the concert will be?                          |
-   |                                                                |
+   | コンサートは いつか しっている？                                    |
    | Rövid a haja.                                                  |
    | His hair is short.                                             |
    | かみのけが 短いです。                                             |
@@ -241,16 +241,16 @@
    | うさぎは よわい 動物です。                                         |
    | Micimackó kövér. (body shaming)                                |
    | Winnie the Pooh is fat.                                        |
-   | こぐまのプーさんは 太いです。                                      |
+   | プーちゃんは 太いです。                                           |
    | Ez az olló jól vág.                                            |
    | This scissors can cut well.                                    |
    | このはさみは よく切れる。                                          |
    | Orvosként alig alszom.                                         |
    | As a doktor, I hardly sleep.                                   |
-   | 医者にとって、少し ねます。                                        |
+   | 医者として、あまり ねむれません。                                   |
    | Inkább (mushiro) legyen alma.                                  |
-   | Let's pick the apple instead.                                  |
-   |                                                                |
+   | Let's buy the apple rather.                                    |
+   | むしろ、りんごを 買いましょう。                                     |
    | Ez egy igazán jó termék (áru).                                 |
    | This is a very good good.                                      |
    | これは いい 品物です。                                            |
@@ -259,13 +259,13 @@
    | この石は重いです。さし上げできない。                                 |
    | Nem tudom egyedül (saját magam) megcsinálni.                   |
    | I can't do it alone.                                           |
-   | 自分に できません。                                               |
+   | 一人に できません。                                               |
    | A madarak repülnek.                                            |
    | Birds are flying.                                              |
-   | 鳥は とびます。                                                  |
+   | 鳥は 空を 飛びます。                                              |
    | A mező tele van pipaccsal.                                     |
    | The field is filled with poppies.                              |
-   | 野原は ひなげしが いっぱい。                                       |
+   | 野原は ひなげしで いっぱい。                                       |
    | A nép 25%-át kiírtotta.                                        |
    | He killed 25% of the population.                               |
-   | 彼は 民の２５％が ころしまった。                                    |
+   | 彼は 民の２５％が ころしまれた。                                    |
