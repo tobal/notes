@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-23",
+  "meals": [
+    {
+      "meal_name": "Morning Coffee",
+      "calories_kcal": 120.0,
+      "protein_g": 3.0,
+      "carbs_g": 12.0,
+      "fat_g": 6.0
+    },
+    {
+      "meal_name": "Porridge & Protein Shake",
+      "calories_kcal": 516.1,
+      "protein_g": 33.3,
+      "carbs_g": 58.3,
+      "fat_g": 16.4
+    },
+    {
+      "meal_name": "Sausage & Hurka Plate with Toast",
+      "calories_kcal": 1057.5,
+      "protein_g": 45.9,
+      "carbs_g": 50.1,
+      "fat_g": 76.2
+    },
+    {
+      "meal_name": "Szaftos Rákott Krumpli",
+      "calories_kcal": 862.6,
+      "protein_g": 29.8,
+      "carbs_g": 52.6,
+      "fat_g": 59.0
+    },
+    {
+      "meal_name": "Sugar-Free Túró Rudi",
+      "calories_kcal": 120.0,
+      "protein_g": 10.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.5
+    }
+  ],
+  "total": {
+    "calories_kcal": 2676.2,
+    "protein_g": 122.0,
+    "carbs_g": 181.0,
+    "fat_g": 162.1
+  }
+}

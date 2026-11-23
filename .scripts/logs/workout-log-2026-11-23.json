@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-23",
+  "athlete": {
+    "weight_kg": 99.1,
+    "fat_free_mass_kg": 74.7,
+    "bmr_kcal": 1983
+  },
+  "workouts": [
+    {
+      "type": "oldschool gym",
+      "duration_minutes": 60,
+      "estimated_calorie_burn": {
+        "gross_kcal": 660,
+        "net_kcal": 580,
+        "epoc_afterburn_kcal": 55
+      }
+    }
+  ],
+  "daily_step_count": 3152,
+  "step_count_calorie_burn": {
+    "walking_kcal": 155
+  },
+  "total_daily_active_calories": {
+    "gross_total_kcal": 815
+  }
+}

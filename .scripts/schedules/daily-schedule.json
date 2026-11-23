@@ -1,0 +1,73 @@
+{
+  "Routine": {
+    "Morning": [
+      "Rhythm routine",
+      "Warmup",
+      "Breakfast",
+      "Commit time.org",
+      "Meditation",
+      "Make bed",
+      "Check deneb"
+    ],
+    "Evening": [
+      "Wash dishes",
+      "Bathroom",
+      "Reading",
+      "Stretch",
+      "Meditation"
+    ],
+    "Cat": [
+      "Fresh water",
+      "Clean litterbox",
+      "Play with cat",
+      "Train cat"
+    ],
+    "Biochemistry": [
+      "Drink 3L water",
+      "Kreatin",
+      "Take pills morning",
+      "Take pills evening"
+    ],
+    "Higiene": [
+      "Shower",
+      "Wash teeth",
+      "Floss"
+    ]
+  },
+  "Current ToDos": {
+    "ToDos for the day": [],
+    "Recurring": [
+      "Read IT book",
+      "Record gameplay"
+    ],
+    "Discipline": [
+      "Get up early",
+      "Cook",
+      "Eat vegetables",
+      "No unnecessary spending"
+    ],
+    "Practice": [
+      "Kenjutsu routine",
+      "Juggling routine",
+      "Piano practice",
+      "Age of Empires 4 practice",
+      "Sim racing practice",
+      "Tsumego practice",
+      "Kanji writing practice",
+      "Anki practice"
+    ],
+    "Videos": [
+      "Upload video",
+      "Render video"
+    ]
+  },
+  "Stat_Table_Default": {
+    "Kg": 0.0,
+    "Tobacco": 0,
+    "Km driven": 0,
+    "Steps": 0,
+    "Sleep hrs": 0,
+    "Goals %": 0,
+    "Calorie balance": 0
+  }
+}
