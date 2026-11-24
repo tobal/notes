@@ -1,4 +1,4 @@
-#+TODO: TODO(t) | DONE(d) | FAILED(f)
+#+TODO: TODO | DONEFORTODAY DONE FAILED
 
 # Change TODO state: Shift-Left/Right
 # [[https://orgmode.org/manual/TODO-Basics.html][TODO Basics]]
@@ -18,3 +18,115 @@
 # Calculator: (calc-eval "1+2")
 
 * 2026
+** November
+*** <2026-11-23 Mon>
+**** ToDo
+***** Routine
+****** Morning
+******* FAILED Rhythm routine
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Warmup
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Breakfast
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Commit time.org
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Make bed
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Check deneb
+        SCHEDULED: <2026-11-23 Mon>
+****** Evening
+******* FAILED Wash dishes
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Bathroom
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Reading
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Stretch
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-23 Mon>
+****** Cat
+******* FAILED Fresh water
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Clean litterbox
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Play with cat
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Train cat
+        SCHEDULED: <2026-11-23 Mon>
+****** Biochemistry
+******* FAILED Drink 3L water
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Kreatin
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Take pills morning
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Take pills evening
+        SCHEDULED: <2026-11-23 Mon>
+****** Higiene
+******* DONE Shower
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Wash teeth
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Floss
+        SCHEDULED: <2026-11-23 Mon>
+***** Outside activities
+****** DONE Oldschool gym
+       SCHEDULED: <2026-11-23 Mon>
+***** Current ToDos
+****** ToDos for the day
+******* DONE Make first version of time manager
+        SCHEDULED: <2026-11-23 Mon>
+****** Recurring
+******* DONE Read IT book
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Record gameplay
+        SCHEDULED: <2026-11-23 Mon>
+****** Discipline
+******* DONE Get up early
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Cook
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Eat vegetables
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE No unnecessary spending
+        SCHEDULED: <2026-11-23 Mon>
+****** Practice
+******* FAILED Kenjutsu routine
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Juggling routine
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Piano practice
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Age of Empires 4 practice
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Sim racing practice
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Tsumego practice
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Kanji writing practice
+        SCHEDULED: <2026-11-23 Mon>
+******* FAILED Anki practice
+        SCHEDULED: <2026-11-23 Mon>
+****** Videos
+******* FAILED Upload video
+        SCHEDULED: <2026-11-23 Mon>
+******* DONE Render video
+        SCHEDULED: <2026-11-23 Mon>
+**** Workout [815kCal]
+     - oldschool gym (60 min, 660 kCal)
+**** Food [2676kCal]
+     - Morning Coffee (120kCal)
+     - Porridge & Protein Shake (516kCal)
+     - Sausage & Hurka Plate with Toast (1058kCal)
+     - Szaftos Rákott Krumpli (863kCal)
+     - Sugar-Free Túró Rudi (120kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     | 99.1 |      10 |       0.0 |  3152 |       4.0 |          60 |      32 |         -122 |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
