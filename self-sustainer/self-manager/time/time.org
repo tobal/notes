@@ -130,3 +130,234 @@
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
      | 99.1 |      10 |       0.0 |  3152 |       4.0 |          60 |      32 |         -122 |
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+*** <2026-11-24 Tue>
+**** ToDo
+***** Routine
+****** Morning
+******* FAILED Rhythm routine
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Warmup
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Breakfast
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Commit time.org
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Make bed
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Check deneb
+        SCHEDULED: <2026-11-24 Tue>
+****** Evening
+******* FAILED Wash dishes
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Bathroom
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Reading
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Stretch
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-24 Tue>
+****** Cat
+******* DONE Fresh water
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Clean litterbox
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Play with cat
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Train cat
+        SCHEDULED: <2026-11-24 Tue>
+****** Biochemistry
+******* FAILED Drink 3L water
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Kreatin
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Take pills morning
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Take pills evening
+        SCHEDULED: <2026-11-24 Tue>
+****** Higiene
+******* FAILED Shower
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Wash teeth
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Floss
+        SCHEDULED: <2026-11-24 Tue>
+***** Outside activities
+****** DONE Japanese class
+       SCHEDULED: <2026-11-24 Tue>
+***** Current ToDos
+****** ToDos for the day
+****** Recurring
+******* FAILED Read IT book
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Record gameplay
+        SCHEDULED: <2026-11-24 Tue>
+****** Discipline
+******* FAILED Get up early
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Cook
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Eat vegetables
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED No unnecessary spending
+        SCHEDULED: <2026-11-24 Tue>
+****** Practice
+******* FAILED Kenjutsu routine
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Juggling routine
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Piano practice
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Age of Empires 4 practice
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Sim racing practice
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Tsumego practice
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Kanji writing practice
+        SCHEDULED: <2026-11-24 Tue>
+******* FAILED Anki practice
+        SCHEDULED: <2026-11-24 Tue>
+****** Videos
+******* DONE Upload video
+        SCHEDULED: <2026-11-24 Tue>
+******* DONE Render video
+        SCHEDULED: <2026-11-24 Tue>
+**** Workout [74kCal]
+**** Food [2330kCal]
+     - Chinese Onion Chicken with Rice (Big Portion) (940kCal)
+     - Gyros Plate with Fries (Big Portion) (1390kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     | 99.4 |       8 |       0.0 |  1497 |       4.0 |           0 |      22 |          273 |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+
+*** <2026-11-25 Wed>
+**** ToDo [75%]
+***** Routine [50%]
+****** Morning [86%]
+******* DONE Rhythm routine
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Warmup
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Breakfast
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Commit time.org
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Meditation
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Make bed
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Check deneb
+        SCHEDULED: <2026-11-25 Wed>
+****** Evening [20%]
+******* DONE Wash dishes
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Bathroom
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Reading
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Stretch
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-25 Wed>
+****** Cat [50%]
+******* DONE Fresh water
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Clean litterbox
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Play with cat
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Train cat
+        SCHEDULED: <2026-11-25 Wed>
+****** Biochemistry [25%]
+******* FAILED Drink 3L water
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Kreatin
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Take pills morning
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Take pills evening
+        SCHEDULED: <2026-11-25 Wed>
+****** Higiene [67%]
+******* DONE Shower
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Wash teeth
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Floss
+        SCHEDULED: <2026-11-25 Wed>
+***** Outside activities [100%]
+****** DONE Oldschool gym
+       SCHEDULED: <2026-11-25 Wed>
+****** DONE Kenjutsu training
+       SCHEDULED: <2026-11-25 Wed>
+***** Current ToDos [75%]
+****** ToDos for the day [100%]
+******* DONE Landlord
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Netbank
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Groceries
+        SCHEDULED: <2026-11-25 Wed>
+******* DONEFORTODAY Administer groceries
+        SCHEDULED: <2026-11-25 Wed>
+******* DONEFORTODAY Clean up
+        SCHEDULED: <2026-11-25 Wed>
+******* DONEFORTODAY Work on time manager
+        SCHEDULED: <2026-11-25 Wed>
+****** Recurring [100%]
+******* DONE Read IT book
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Record gameplay
+        SCHEDULED: <2026-11-25 Wed>
+****** Discipline [75%]
+******* DONE Get up early
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Cook
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Eat vegetables
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE No unnecessary spending
+        SCHEDULED: <2026-11-25 Wed>
+****** Practice [0%]
+******* FAILED Kenjutsu routine
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Juggling routine
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Piano practice
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Age of Empires 4 practice
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Sim racing practice
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Tsumego practice
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Kanji writing practice
+        SCHEDULED: <2026-11-25 Wed>
+******* FAILED Anki practice
+        SCHEDULED: <2026-11-25 Wed>
+****** Videos [100%]
+******* DONE Upload video
+        SCHEDULED: <2026-11-25 Wed>
+******* DONE Render video
+        SCHEDULED: <2026-11-25 Wed>
+**** Food [2508kCal]
+     - Morning Coffee (120kCal)
+     - Porridge (366kCal)
+     - Protein Shake (150kCal)
+     - Bacon, Eggs & Garlic Baguette (674kCal)
+     - Traditional Carbonara (1059kCal)
+     - Protein Túró Rudi (140kCal)
+**** Workout [1865kCal]
+     - oldschool gym (60 min, 680 kCal)
+     - kenjutsu training (90 min, 820 kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     | 99.5 |      10 |       0.0 |  7393 |       4.5 |         150 |      75 |        -1340 |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
