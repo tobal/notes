@@ -235,7 +235,6 @@
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
      | 99.4 |       8 |       0.0 |  1497 |       4.0 |           0 |      22 |          273 |
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
-
 *** <2026-11-25 Wed>
 **** ToDo [75%]
 ***** Routine [50%]
@@ -360,4 +359,126 @@
      |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
      | 99.5 |      10 |       0.0 |  7393 |       4.5 |         150 |      75 |        -1340 |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+*** <2026-11-26 Thu>
+**** ToDo [74%]
+***** Routine [55%]
+****** Morning [86%]
+******* DONE Rhythm routine
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Warmup
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Breakfast
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Commit time.org
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Meditation
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Make bed
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Check deneb
+        SCHEDULED: <2026-11-26 Thu>
+****** Evening [20%]
+******* DONE Wash dishes
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Bathroom
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Reading
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Stretch
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-26 Thu>
+****** Cat [75%]
+******* DONE Fresh water
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Clean litterbox
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Play with cat
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Train cat
+        SCHEDULED: <2026-11-26 Thu>
+****** Biochemistry [25%]
+******* FAILED Drink 3L water
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Kreatin
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Take pills morning
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Take pills evening
+        SCHEDULED: <2026-11-26 Thu>
+****** Higiene [67%]
+******* DONE Shower
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Wash teeth
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Floss
+        SCHEDULED: <2026-11-26 Thu>
+***** Outside activities [100%]
+****** DONE Orsi visit
+       SCHEDULED: <2026-11-26 Thu>
+***** Current ToDos [67%]
+****** ToDos for the day [100%]
+******* DONEFORTODAY Administer groceries
+        SCHEDULED: <2026-11-26 Thu>
+******* DONEFORTODAY Clean up
+        SCHEDULED: <2026-11-26 Thu>
+******* DONEFORTODAY Work on time manager
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Groceries
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Cook rice
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Wash textiles
+        SCHEDULED: <2026-11-26 Thu>
+****** Recurring [50%]
+******* FAILED Read IT book
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Record gameplay
+        SCHEDULED: <2026-11-26 Thu>
+****** Discipline [75%]
+******* DONE Get up early
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Cook
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Eat vegetables
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE No unnecessary spending
+        SCHEDULED: <2026-11-26 Thu>
+****** Practice [12%]
+******* FAILED Kenjutsu routine
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Juggling routine
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Piano practice
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Age of Empires 4 practice
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Sim racing practice
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Tsumego practice
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Kanji writing practice
+        SCHEDULED: <2026-11-26 Thu>
+******* FAILED Anki practice
+        SCHEDULED: <2026-11-26 Thu>
+****** Videos [100%]
+******* DONE Upload video
+        SCHEDULED: <2026-11-26 Thu>
+******* DONE Render video
+        SCHEDULED: <2026-11-26 Thu>
+**** Food [2820kCal]
+     - Morning Coffee (120kCal)
+     - Porridge (366kCal)
+     - 3 Virsli, 3 Toast Bread & Mustard (584kCal)
+     - Sugar-Free Túró Rudi (120kCal)
+     - Deep Dish Pizza (0.5 kg) (1350kCal)
+     - Sugar-Free Redcurrant Cheesecake (1 slice) (280kCal)
+**** Workout [330kCal]
+     - VR beat sabre cardio (15 min, 165 kCal)
+**** Stat table
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     | 98.3 |      10 |       0.0 |  3350 |       6.0 |          15 |      74 |          507 |
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
