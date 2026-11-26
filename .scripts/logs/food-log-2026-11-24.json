@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-24",
+  "meals": [
+    {
+      "meal_name": "Chinese Onion Chicken with Rice (Big Portion)",
+      "calories_kcal": 940.0,
+      "protein_g": 53.0,
+      "carbs_g": 99.0,
+      "fat_g": 26.0
+    },
+    {
+      "meal_name": "Gyros Plate with Fries (Big Portion)",
+      "calories_kcal": 1390.0,
+      "protein_g": 55.0,
+      "carbs_g": 89.0,
+      "fat_g": 88.0
+    }
+  ],
+  "total": {
+    "calories_kcal": 2330.0,
+    "protein_g": 108.0,
+    "carbs_g": 188.0,
+    "fat_g": 114.0
+  }
+}

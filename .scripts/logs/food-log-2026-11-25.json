@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-25",
+  "meals": [
+    {
+      "meal_name": "Morning Coffee",
+      "calories_kcal": 120.0
+    },
+    {
+      "meal_name": "Porridge",
+      "calories_kcal": 366.1
+    },
+    {
+      "meal_name": "Protein Shake",
+      "calories_kcal": 150.0
+    },
+    {
+      "meal_name": "Bacon, Eggs & Garlic Baguette",
+      "calories_kcal": 673.5
+    },
+    {
+      "meal_name": "Traditional Carbonara",
+      "calories_kcal": 1058.7
+    },
+    {
+      "meal_name": "Protein Túró Rudi",
+      "calories_kcal": 140.0
+    }
+  ],
+  "total": {
+    "calories_kcal": 2508.3
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-25",
+  "athlete": {
+    "weight_kg": 99.5,
+    "fat_free_mass_kg": 74.7,
+    "bmr_kcal": 1983
+  },
+  "workouts": [
+    {
+      "type": "oldschool gym",
+      "duration_minutes": 60,
+      "estimated_calorie_burn": {
+        "gross_kcal": 680,
+        "net_kcal": 600,
+        "epoc_afterburn_kcal": 55
+      }
+    },
+    {
+      "type": "kenjutsu training",
+      "duration_minutes": 90,
+      "estimated_calorie_burn": {
+        "gross_kcal": 820,
+        "net_kcal": 740,
+        "epoc_afterburn_kcal": 40
+      }
+    }
+  ],
+  "daily_step_count": 7393,
+  "step_count_calorie_burn": {
+    "walking_kcal": 365
+  },
+  "total_daily_active_calories": {
+    "gross_total_kcal": 1865
+  }
+}
