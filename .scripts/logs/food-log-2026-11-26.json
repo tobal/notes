@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-26",
+  "meals": [
+    {
+      "meal_name": "Morning Coffee",
+      "calories_kcal": 120.0
+    },
+    {
+      "meal_name": "Porridge",
+      "calories_kcal": 366.1
+    },
+    {
+      "meal_name": "3 Virsli, 3 Toast Bread & Mustard",
+      "calories_kcal": 584.0
+    },
+    {
+      "meal_name": "Sugar-Free T\u00far\u00f3 Rudi",
+      "calories_kcal": 120.0
+    },
+    {
+      "meal_name": "Deep Dish Pizza (0.5 kg)",
+      "calories_kcal": 1350.0
+    },
+    {
+      "meal_name": "Sugar-Free Redcurrant Cheesecake (1 slice)",
+      "calories_kcal": 280.0
+    }
+  ],
+  "total": {
+    "calories_kcal": 2820.1
+  }
+}

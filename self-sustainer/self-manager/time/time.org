@@ -482,3 +482,116 @@
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
      | 98.3 |      10 |       0.0 |  3350 |       6.0 |          15 |      74 |          507 |
      |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+*** <2026-11-27 Fri>
+**** ToDo [48%]
+***** Routine [38%]
+****** Morning [71%]
+******* DONE Rhythm routine
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Warmup
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Breakfast
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Commit time.org
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Make bed
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Check deneb
+        SCHEDULED: <2026-11-27 Fri>
+****** Evening [20%]
+******* DONE Wash dishes
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Bathroom
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Reading
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Stretch
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Meditation
+        SCHEDULED: <2026-11-27 Fri>
+****** Cat [75%]
+******* DONE Fresh water
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Clean litterbox
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Play with cat
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Train cat
+        SCHEDULED: <2026-11-27 Fri>
+****** Biochemistry [25%]
+******* FAILED Drink 3L water
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Kreatin
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Take pills morning
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Take pills evening
+        SCHEDULED: <2026-11-27 Fri>
+****** Higiene [0%]
+******* FAILED Shower
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Wash teeth
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Floss
+        SCHEDULED: <2026-11-27 Fri>
+***** Current ToDos [57%]
+****** ToDos for the day [50%]
+******* DONE Administer groceries
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Clean up
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Work on time manager
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Interview
+        SCHEDULED: <2026-11-27 Fri>
+****** Recurring [50%]
+******* FAILED Read IT book
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Record gameplay
+        SCHEDULED: <2026-11-27 Fri>
+****** Discipline [75%]
+******* FAILED Get up early
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Cook
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Eat vegetables
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE No unnecessary spending
+        SCHEDULED: <2026-11-27 Fri>
+****** Practice [12%]
+******* FAILED Kenjutsu routine
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Juggling routine
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Piano practice
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Age of Empires 4 practice
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Sim racing practice
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Tsumego practice
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Kanji writing practice
+        SCHEDULED: <2026-11-27 Fri>
+******* FAILED Anki practice
+        SCHEDULED: <2026-11-27 Fri>
+****** Videos [100%]
+******* DONE Upload video
+        SCHEDULED: <2026-11-27 Fri>
+******* DONE Render video
+        SCHEDULED: <2026-11-27 Fri>
+**** Food [1687kCal]
+     - Morning Coffee (120kCal)
+     - Porridge (366kCal)
+     - Sertéstarja Rizseshús (598kCal)
+     - Sugar-Free Túró Rudi (120kCal)
+     - Egg Fried Rice (483kCal)
+**** Workout [3kCal]
+**** Stat table
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     |   Kg | Tobacco | Km driven | Steps | Sleep hrs | Workout min | Goals % | kCal balance |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|
+     | 98.6 |       6 |       0.0 |    51 |       8.0 |           0 |      48 |         -299 |
+     |------+---------+-----------+-------+-----------+-------------+---------+--------------|

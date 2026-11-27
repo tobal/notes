@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-27",
+  "meals": [
+    {
+      "meal_name": "Morning Coffee",
+      "calories_kcal": 120.0
+    },
+    {
+      "meal_name": "Porridge",
+      "calories_kcal": 366.1
+    },
+    {
+      "meal_name": "Sertéstarja Rizseshús",
+      "calories_kcal": 597.7
+    },
+    {
+      "meal_name": "Sugar-Free Túró Rudi",
+      "calories_kcal": 120.0
+    },
+    {
+      "meal_name": "Egg Fried Rice",
+      "calories_kcal": 483.4
+    }
+  ],
+  "total": {
+    "calories_kcal": 1687.2
+  }
+}

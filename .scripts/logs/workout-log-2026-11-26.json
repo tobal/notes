@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-26",
+  "athlete": {
+    "weight_kg": 98.3,
+    "fat_free_mass_kg": 74.7,
+    "bmr_kcal": 1983
+  },
+  "workouts": [
+    {
+      "type": "VR beat sabre cardio",
+      "duration_minutes": 15,
+      "estimated_calorie_burn": {
+        "gross_kcal": 165,
+        "net_kcal": 145,
+        "epoc_afterburn_kcal": 15
+      }
+    }
+  ],
+  "daily_step_count": 3350,
+  "step_count_calorie_burn": {
+    "walking_kcal": 165
+  },
+  "total_daily_active_calories": {
+    "gross_total_kcal": 330
+  }
+}

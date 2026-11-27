@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-27",
+  "athlete": {
+    "weight_kg": 98.6,
+    "fat_free_mass_kg": 74.7,
+    "bmr_kcal": 1983
+  },
+  "workouts": [],
+  "daily_step_count": 51,
+  "step_count_calorie_burn": {
+    "walking_kcal": 3
+  },
+  "total_daily_active_calories": {
+    "gross_total_kcal": 3
+  }
+}
